@@ -17,9 +17,9 @@ function InputMessage({setMsgs}:Props) {
   async function sendMessage() {
     setMsgs(msgs => [...msgs, {who: "me", msg: inputText}])
     setMsgs(msgs => [...msgs, {who: "bot", msg: "..."}])
-    const response: string = await textPush(inputText)
+    const response = await textPush(inputText)
     console.log(response)
-    // setMsgs(msgs => [...msgs, {who: "bot", msg: response}])
+    setMsgs(msgs => [...msgs, {who: "bot", msg: response.msg}])
   }
 
   return (
