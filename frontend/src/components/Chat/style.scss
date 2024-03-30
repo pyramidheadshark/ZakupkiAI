@@ -1,15 +1,13 @@
 #Chat{
-    // margin: 20px;
-    // margin: 15vw;
     position: relative;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: start;
 
     width: 950px;
     height: calc(100%);
-    display: flex;
-    flex-direction: column;
-    // justify-content: space-between;
-    align-items: start;
-    // border:  1px solid rgb(18, 0, 122);
+
     border-radius: 16px;
 }
 
@@ -17,6 +15,7 @@
     #Chat{
         height: calc(100%);
         width: 100%;
+
         align-items: end;
     }
 }

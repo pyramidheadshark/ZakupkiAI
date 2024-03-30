@@ -1,28 +1,29 @@
-#LinksOn{
-    // padding-top: 22px;
-    padding: 0 20%;
-    padding-top: 22px;
-    
+#LinksOn{    
     margin: 30px;
     padding: 50px;
+
     width: 600px;
     height: calc(100% - 50px);
+
     display: flex;
     flex-direction: column;
-    
-    // justify-content: space-between;
     text-align: center;
     align-items: center;
+
     background-color: #011E54;
     border-radius: 16px;
+
     color: white;
     font-size: 1em;
+
+    overflow: hidden;
 
     .FAQ{
         font-size: 2em;
     }
 
     .Links{
+        overflow: hidden;
         width: 100%;
         font-size: 1em;
         padding-top: 10px;
@@ -38,7 +39,6 @@
             justify-content: space-between;
             text-align: center;
             align-items: center;
-            // font-size: 1em;
 
             padding: 20px 0;
 
@@ -53,9 +53,7 @@
                 padding: 10px;
             }
         }
-
-        *{
-            
+        *{        
             width: 100%;
         }
     }
@@ -63,7 +61,6 @@
 
 @media screen and (max-width: 995px) {
     #LinksOn{
-        //убрать элемент
         display: none;
     }
 }
