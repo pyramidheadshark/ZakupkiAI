@@ -1,0 +1,236 @@
+{
+  "settings": {
+    "languages": [
+      "ru"
+    ],
+    "tag": "nlp",
+    "threshold": 0.5,
+    "autoLoad": true,
+    "autoSave": true,
+    "modelFileName": "model.nlp",
+    "executeActionsBeforeAnswers": false,
+    "calculateSentiment": true
+  },
+  "nluManager": {
+    "settings": {
+      "tag": "nlu-manager"
+    },
+    "locales": [
+      "ru"
+    ],
+    "languageNames": {},
+    "domainManagers": {
+      "ru": {
+        "settings": {
+          "locale": "ru",
+          "trainByDomain": false,
+          "tag": "domain-manager-ru",
+          "nluByDomain": {
+            "default": {
+              "className": "NeuralNlu",
+              "settings": {}
+            }
+          },
+          "useStemDict": true
+        },
+        "stemDict": {
+          "привет": {
+            "intent": "Здрасьте",
+            "domain": "default"
+          },
+          "прив": {
+            "intent": "Здрасьте",
+            "domain": "default"
+          },
+          "хелл": {
+            "intent": "Здрасьте",
+            "domain": "default"
+          },
+          "утречк": {
+            "intent": "Здрасьте",
+            "domain": "default"
+          },
+          "хаюха": {
+            "intent": "Здрасьте",
+            "domain": "default"
+          }
+        },
+        "intentDict": {
+          "Здрасьте": "default"
+        },
+        "sentences": [
+          {
+            "domain": "default",
+            "utterance": "Привет",
+            "intent": "Здрасьте"
+          },
+          {
+            "domain": "default",
+            "utterance": "Прив",
+            "intent": "Здрасьте"
+          },
+          {
+            "domain": "default",
+            "utterance": "Хелло",
+            "intent": "Здрасьте"
+          },
+          {
+            "domain": "default",
+            "utterance": "Утречко",
+            "intent": "Здрасьте"
+          },
+          {
+            "domain": "default",
+            "utterance": "Хаюхай",
+            "intent": "Здрасьте"
+          }
+        ],
+        "domains": {
+          "master_domain": {
+            "settings": {
+              "locale": "ru",
+              "tag": "nlu-ru",
+              "keepStopwords": true,
+              "nonefeatureValue": 1,
+              "nonedeltaMultiplier": 1.2,
+              "spellCheck": false,
+              "spellCheckDistance": 1,
+              "filterZeros": true,
+              "log": true
+            },
+            "features": {
+              "привет": 1,
+              "прив": 1,
+              "хелл": 1,
+              "утречк": 1,
+              "хаюха": 1
+            },
+            "intents": {
+              "Здрасьте": 1
+            },
+            "intentFeatures": {
+              "Здрасьте": {
+                "привет": 1,
+                "прив": 1,
+                "хелл": 1,
+                "утречк": 1,
+                "хаюха": 1
+              }
+            },
+            "featuresToIntent": {
+              "привет": [
+                "Здрасьте"
+              ],
+              "прив": [
+                "Здрасьте"
+              ],
+              "хелл": [
+                "Здрасьте"
+              ],
+              "утречк": [
+                "Здрасьте"
+              ],
+              "хаюха": [
+                "Здрасьте"
+              ]
+            },
+            "neuralNetwork": {
+              "settings": {
+                "locale": "ru",
+                "tag": "nlu-ru",
+                "keepStopwords": true,
+                "nonefeatureValue": 1,
+                "nonedeltaMultiplier": 1.2,
+                "spellCheck": false,
+                "spellCheckDistance": 1,
+                "filterZeros": true,
+                "log": true
+              },
+              "features": [
+                "привет",
+                "прив",
+                "хелл",
+                "утречк",
+                "хаюха"
+              ],
+              "intents": [
+                "Здрасьте"
+              ],
+              "perceptrons": [
+                [
+                  3.9679794311523438,
+                  4.180063724517822,
+                  4.126943111419678,
+                  4.073091506958008,
+                  4.018599510192871,
+                  10.194025361884432
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "intentDomains": {},
+    "extraSentences": [
+      [
+        "ru",
+        "Привет"
+      ],
+      [
+        "ru",
+        "Прив"
+      ],
+      [
+        "ru",
+        "Хелло"
+      ],
+      [
+        "ru",
+        "Утречко"
+      ],
+      [
+        "ru",
+        "Хаюхай"
+      ]
+    ]
+  },
+  "ner": {
+    "settings": {
+      "tag": "ner",
+      "entityPreffix": "%",
+      "entitySuffix": "%"
+    },
+    "rules": {}
+  },
+  "nlgManager": {
+    "settings": {
+      "tag": "nlg-manager"
+    },
+    "responses": {
+      "ru": {
+        "Привет": [
+          {
+            "answer": "Хай"
+          },
+          {
+            "answer": "хелки"
+          },
+          {
+            "answer": "ПРивет"
+          },
+          {
+            "answer": "ЙО чуваак"
+          }
+        ]
+      }
+    }
+  },
+  "actionManager": {
+    "settings": {
+      "tag": "action-manager"
+    },
+    "actions": {}
+  },
+  "slotManager": {}
+}
