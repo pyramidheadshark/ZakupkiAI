@@ -92,7 +92,7 @@ def get_lots(amount):
                 else:
                     link_product = block.find('div', class_='registry-entry__header-mid__number').find('a').get('href') or ''
                     link_company = block.find('div', class_='registry-entry__body-href').find('a').get('href') or ''
-                    # dates = block.find_all('div', class_="data-block__value")
+                    # dates = block.find_all('div', class_="data_md-block__value")
                     # date_added = dates[0].text.strip()
                     # try:
                     #      deadline = dates[2].text.strip()

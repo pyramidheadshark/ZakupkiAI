@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 beautifulsoup4==4.12.3
-bs4==0.0.2
-lxml==5.1.1
-requests==2.31.0
-soupsieve==2.5
-urllib3==2.2.1
-kivy==2.3.0
-buildozer==1.5.0
-Cython==3.0.9
-=======
+langchain==0.1.13
+langchain-community==0.0.29
+Requests==2.31.0
+scikit-learn==1.4.1.post1
 toml==0.10.2
 transformers==4.39.2
->>>>>>> 78e61280293d3293675b31364252c6e4b1aa2084
