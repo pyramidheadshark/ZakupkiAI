@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './style.scss'
 import MyMessage from './MyMessage'
 import BotMessage from './BotMessage'

@@ -1,4 +1,3 @@
-import { useRef, useState } from 'react'
 import './style.scss'
 import logo from "../../../../../public/icon_rua.svg"
 interface Props{
