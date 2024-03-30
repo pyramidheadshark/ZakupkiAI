@@ -1,9 +1,17 @@
 import re
+import toml
+import time
 import concurrent.futures
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoModelForCausalLM
 
 
-def generate_overall_summary(input_text):
+def read_toml_base(file_path):
+    with open(file_path, 'r') as file:
+        data = toml.load(file)
+    return data
+
+
+def generate_overall_summary(input_text): # input_text - Запрос пользователя
     WHITESPACE_HANDLER = lambda k: re.sub('\s+', ' ', re.sub('\n+', ' ', k.strip()))
 
     model_name = "csebuetnlp/mT5_multilingual_XLSum"
@@ -34,7 +42,7 @@ def generate_overall_summary(input_text):
     return summary
 
 
-def generate_part_summary(input_text, prompt, max_new_tokens=120, temperature=0.5, top_p=0.95, repetition_penalty=1.2,
+def generate_part_summary(input_text, prompt, max_new_tokens=300, temperature=0.5, top_p=0.95, repetition_penalty=1.2, # input_text - Запрос пользователя, prompt - Промпт для саммари (фильтры и контекст)
                           do_sample=True, top_k=50, num_beams=1):
     WHITESPACE_HANDLER = lambda k: re.sub('\s+', ' ', re.sub('\n+', ' ', k.strip()))
 
@@ -86,4 +94,7 @@ print(summary_part, summary_overall, sep="\n\n\n")
 # Usage in parallel
 input_text = "Your input text here"
 prompt = "Your prompt here"
+start_time = time.time()
 parallel_executions(input_text, prompt)
+elapsed_time = time.time() - start_time
+print(f'\nElapsed time: {elapsed_time} seconds')
