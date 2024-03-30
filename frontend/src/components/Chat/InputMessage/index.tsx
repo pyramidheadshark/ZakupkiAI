@@ -17,16 +17,18 @@ function InputMessage({setMsgs}:Props) {
   async function sendMessage() {
     setMsgs(msgs => [...msgs, {who: "me", msg: inputText}])
     setMsgs(msgs => [...msgs, {who: "bot", msg: "..."}])
-    const response = await textPush(inputText)
+
+    const federalLaw: HTMLSelectElement = document.querySelector('#federalLaw')!
+    const response = await textPush(inputText, federalLaw.value)
     console.log(response)
-    setMsgs(msgs => [...msgs, {who: "bot", msg: response.msg}])
+    setMsgs(msgs => [...msgs, {who: "bot", msg: response.msg as string}])
   }
 
   return (
     <div id="InputMessage" className="InputMessage">
       <input type="text" value={inputText} onChange={e => setInputText(e.target.value)}   placeholder='Введите ваш запрос' />
       <div>
-        <select className='exo2' name="" id="">
+        <select id='federalLaw' className='exo2'>
           <option>44-ФЗ</option>
           <option>223-ФЗ</option>
         </select>
