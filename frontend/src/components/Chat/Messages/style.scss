@@ -2,8 +2,11 @@
     width: 100%;
     height: 100%;
     margin: 20px 0;
+
+    display: flex;
+    flex-direction: column;
+    
     overflow-y: scroll;
-    width: auto;
 
     scrollbar-width: thin;   
     scrollbar-color: white #0041CB;   
