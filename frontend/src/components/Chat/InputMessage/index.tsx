@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './style.scss'
 
 function InputMessage() {
@@ -10,6 +9,7 @@ function InputMessage() {
       <div>
         <select className='exo2' name="" id="">
           <option>44-ФЗ</option>
+          <option>223-ФЗ</option>
         </select>
         <button>
           <img src="../../../public/ic_search_white.svg" alt="" />

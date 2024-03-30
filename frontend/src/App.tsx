@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.scss'
 import Chat from './components/Chat'
 import LinksOn from './components/LinksOn'

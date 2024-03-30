@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './style.scss'
 import Link from './Link'
 import More from './More'
@@ -6,11 +5,23 @@ import More from './More'
 function LinksOn() {
   const links = [
     {
-      name: "Ссылка на фз",
+      name: "Как работает КТРУ",
       href: "https://fz.ru/"
     },
     {
-      name: "Другая ссылка",
+      name: "Как чат-бот  связан с закупками",
+      href: "https://fz.ru/"
+    },
+    {
+      name: "Как работает КТРУ",
+      href: "https://fz.ru/"
+    },
+    {
+      name: "Что такое федеральные закупки",
+      href: "https://fz.ru/"
+    },
+    {
+      name: "Как чат-бот связан с закупками",
       href: "https://fz.ru/"
     }
   ]
