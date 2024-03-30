@@ -9,7 +9,7 @@ amount = 2
 api = None
 list_of_company = ['БОЛЬНИЦА', 'ФИЗИЧЕСК', 'СПОРТ', 'СТРОИТЕЛЬ', 'ТРАНСПОРТ', 'ВОДОКАНАЛ', 'ЖИЛИЩ', 'ЗДРАВООХРАНЕНИЯ' ]
 list_of_products = ['инвалид', 'питани', 'ремонт', 'лекарств', 'топлив', 'анцеляр', 'бензин', 'мебел', 'Лекарств' ,'сельско']
-root_url='https://zakupki.gov.ru'
+root_url='https://44fzrf.ru/'
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36'}
 
 
