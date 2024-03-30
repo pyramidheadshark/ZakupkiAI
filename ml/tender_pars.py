@@ -116,7 +116,7 @@ def get_link_company(link_company):
 
 def view(amount):
     lots = get_lots(amount)
-    with open('zapros2.txt', 'w', encoding='utf-8') as fp:
+    with open('all_data/data_prev/zapros2.txt', 'w', encoding='utf-8') as fp:
         json.dump(lots, fp, ensure_ascii=False, indent=4)
 
 
