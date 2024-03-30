@@ -1,0 +1,26 @@
+#App{
+    // width: 100vw;
+    height: calc(100vh - 100px);
+    display: flex;
+    // grid-template-columns: 3fr 2fr;
+    // justify-content: space-between;
+    align-items: start;
+    padding: 0 10%;
+    background-color: #0360D3;
+
+
+
+}
+
+@media screen and (max-width: 995px) {
+    #App{
+        grid-template-columns: 3fr 0fr;
+        padding: 0 5%;
+    }
+}
+
+@media screen and (max-width: 642px) {
+    #App{
+        height: calc(100vh - 50px);
+    }
+}
