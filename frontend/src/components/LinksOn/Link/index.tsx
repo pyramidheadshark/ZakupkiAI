@@ -1,6 +1,7 @@
 import { useDispatch } from 'react-redux'
 import './style.scss'
-import { setMsgs } from '../../../store/redusers/chatSlice'
+import { fetchPush, setMsgs } from '../../../store/redusers/chatSlice'
+import { AppDispatch } from '../../../store'
 
 interface Props {
   children: string
@@ -8,13 +9,10 @@ interface Props {
 
 function Link({children}: Props) {
 
-  const dispatch = useDispatch()
+  const dispatch = useDispatch<AppDispatch>()
   
   async function sendMessage() {
-    const date = new Date(Date.now())
-    const time = date.getHours() + ":" + date.getMinutes()
-
-    dispatch(setMsgs({Msg:{who: "me", msg: children, time, status: "sent"}, federalLaw: "44-ФЗ"}))
+    dispatch(fetchPush({text: children, federalLaw: "44-ФЗ"}));
   }
 
   return (
