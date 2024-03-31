@@ -1,44 +1,24 @@
 .MyMessage{
-    
-    width: 100%;
+    justify-content: flex-end;
 
     display: flex;
     flex-direction: row;
     align-items:end;
-    border-radius: 16px;
-    justify-content: flex-end;
 
-    span{
-        background-color: white;
-        color: #0041CB;
-        margin-top: 20px;
-        margin-right: 20px;
-        border-radius: 8px 8px 0 8px;
-        padding: 40px;
-        font-weight: 400;
-    }
+    width: 100%;
+    border-radius: 16px;
 
     img{
         height: 70px;
         width: 70px;
     }
 }
+
 $mobileWidth: 587px;
 @media screen and (max-width: $mobileWidth) {
     .MyMessage{
         justify-content: flex-start;
-        margin-left: 0;
-        span{
-            // color: #000000;
-            // font-size: 16px;
-            margin: 0%;
-            margin-top: 20px;
-            margin-left: 20px;
-            border-radius: 8px 8px  8px 0;
-            padding: 20px;
-            font-weight: 400;
-            padding: 20px;
-        }
+
         img{
             height: 50px;
             width: 50px;

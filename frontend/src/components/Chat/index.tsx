@@ -4,12 +4,7 @@ import InputMessage from './InputMessage'
 import Messages from './Messages'
 
 function Chat() {
-  interface Msg{
-    who: "me" | "bot"
-    msg: string
-  }
 
-  const [msgs, setMsgs] = useState<Msg[]>([])
   const [windowWidth, setWindowWidth] = useState(window.innerWidth)
 
   useEffect(() => {
@@ -25,16 +20,15 @@ function Chat() {
       {windowWidth < 587 
         ?
           <>        
-            <Messages msgs={msgs}/>
-            <InputMessage setMsgs={setMsgs}/>
+            <Messages/>
+            <InputMessage/>
           </>
         :
           <>
-            <InputMessage setMsgs={setMsgs}/>
-            <Messages msgs={msgs}/>
+            <InputMessage/>
+            <Messages/>
           </>
       }
-
     </div>
   )
 }

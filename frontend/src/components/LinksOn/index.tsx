@@ -28,7 +28,7 @@ function LinksOn() {
   return (
     <div id="LinksOn">
         <div className='exo2 FAQ'>Часто задаваемые вопросы</div>
-        <div className="Links">
+        <div className="Links exo">
             <div>
               <div>44-ФЗ</div>
               <div>223-ФЗ</div>

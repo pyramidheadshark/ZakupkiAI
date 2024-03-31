@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react'
 import './style.scss'
+import MsgInfo from '../MsgInfo'
+import { Msg } from '../../../../Interfaces/Msg'
 
 interface Props{
-  children: JSX.Element|JSX.Element[]|string
+  msg: Msg
 }
 console.log(window.innerWidth)
-function MyMessage({children}: Props) {
+function MyMessage({msg}: Props) {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth)
 
   useEffect(() => {
@@ -22,15 +24,11 @@ function MyMessage({children}: Props) {
       ?
       <>
         <img src="../../../../../public/ic_person1.png" alt="" />
-        <span>
-          {children}
-        </span>
+        <MsgInfo msg={msg} />
       </>
       :
       <>
-        <span>
-          {children}
-        </span>
+        <MsgInfo msg={msg}/>
         <img src="../../../../../public/ic_person1.png" alt="" />
       </>
       }
