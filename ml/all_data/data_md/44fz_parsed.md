@@ -7,224 +7,224 @@
 **О КОНТРАКТНОЙ СИСТЕМЕ В СФЕРЕ ЗАКУПОК ТОВАРОВ, РАБОТ, УСЛУГ ДЛЯ
 ОБЕСПЕЧЕНИЯ ГОСУДАРСТВЕННЫХ И МУНИЦИПАЛЬНЫХ НУЖД**
 
-(в ред. Федеральных законов [[от 02.07.2013 N
-188-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=215095#l0),
-[[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l0),
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l0),
-[[от 21.07.2014 N
-224-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286256#l132),
-[[от 24.11.2014 N
-356-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306268#l0),
-[[от 01.12.2014 N
-416-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=242727#l0),
-[[от 29.12.2014 N
-458-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440535#l222),
-[[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l0),
-[[от 31.12.2014 N
-519-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439572#l0),
-[[от 08.03.2015 N
-23-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=423804#l0),
-[[от 08.03.2015 N
-48-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=266763#l0),
-[[от 06.04.2015 N
-82-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404620#l0),
-[[от 29.06.2015 N
-188-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=254748#l0),
-[[от 29.06.2015 N
-210-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411657#l0),
-[[от 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l0),
-[[от 13.07.2015 N
-220-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450807#l2),
-[[от 13.07.2015 N
-226-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=255548#l0),
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l0),
-[[от 13.07.2015 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305858#l0),
-[[от 29.12.2015 N
-390-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l0),
-[[от 30.12.2015 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265193#l0),
-[[от 09.03.2016 N
-66-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=449540#l0),
-[[от 05.04.2016 N
-96-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306265#l0),
-[[от 05.04.2016 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404616#l0),
-[[от 02.06.2016 N
-167-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=274114#l0),
-[[от 23.06.2016 N
-203-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=275510#l0),
-[[от 23.06.2016 N
-221-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306267#l0),
-[[от 03.07.2016 N
-266-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276237#l0),
-[[от 03.07.2016 N
-314-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276177#l0),
-[[от 03.07.2016 N
-320-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403989#l0),
-[[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l0),
-[[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l0),
-[[от 28.12.2016 N
-474-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286446#l0),
-[[от 28.12.2016 N
-489-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286481#l0),
-[[от 28.12.2016 N
-500-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286459#l0),
-[[от 22.02.2017 N
-17-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=289334#l4),
-[[от 28.03.2017 N
-36-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=291038#l0),
-[[от 28.03.2017 N
-45-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=291047#l0),
-[[от 01.05.2017 N
-83-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=292603#l0),
-[[от 07.06.2017 N
-106-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=294923#l0),
-[[от 07.06.2017 N
-108-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=294914#l0),
-[[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l0),
-[[от 26.07.2017 N
-211-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297776#l0),
-[[от 29.07.2017 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297924#l0),
-[[от 29.07.2017 N
-267-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411827#l0),
-[[от 29.12.2017 N
-475-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305818#l0),
-[[от 31.12.2017 N
-503-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440054#l0),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l0),
-[[от 31.12.2017 N
-506-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305913#l0),
-[[от 23.04.2018 N
-108-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=311704#l0),
-[[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l0),
-[[от 29.07.2018 N
-267-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440539#l3),
-[[от 29.07.2018 N
-272-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=317891#l0),
-[[от 03.08.2018 N
-311-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=318167#l0),
-[[от 30.10.2018 N
-393-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=323402#l0),
-[[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l0),
-[[от 27.12.2018 N
-512-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=327111#l0),
-[[от 27.12.2018 N
-518-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=327092#l0),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l0),
-[[от 01.05.2019 N
-69-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=334672#l0),
-[[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l0),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l0),
-[[от 27.06.2019 N
-151-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=416487#l11),
-[[от 27.06.2019 N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404334#l0),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l2),
-[[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l0),
-[[от 27.02.2020 N
-27-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440533#l3),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l2),
-[[от 04.04.2020 N
-107-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=358631#l0),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l0),
-[[от 08.06.2020 N
-180-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=363730#l0),
-[[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l2),
-[[от 08.12.2020 N
-429-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454982#l0),
-[[от 22.12.2020 N
-435-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=379039#l0),
-[[от 22.12.2020 N
-436-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395977#l0),
-[[от 30.12.2020 N
-494-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380282#l0),
-[[от 30.12.2020 N
-501-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380019#l9),
-[[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l2),
-[[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l0),
-[[от 30.04.2021 N
-117-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439571#l0),
-[[от 11.06.2021 N
-170-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454973#l0),
-[[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l4),
-[[от 02.07.2021 N
-344-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395340#l0),
-[[от 02.07.2021 N
-351-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395349#l0),
-[[от 02.07.2021 N 360-ФЗ (ред. от
-04.08.2023)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453667#l0),
-[[от 30.12.2021 N
-476-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411230#l2),
-[[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l0),
-[[от 26.03.2022 N
-64-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=417950#l2),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l0),
-[[от 16.04.2022 N
-109-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l0),
-[[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l0),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l0),
-[[от 14.07.2022 N
-272-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=427552#l0),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l0),
-[[от 05.12.2022 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437525#l0),
-[[от 05.12.2022 N
-500-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437449#l0),
-[[от 19.12.2022 N
-519-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=438450#l2),
-[[от 28.12.2022 N
-563-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439051#l0),
-[[от 28.12.2022 N
-569-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457124#l9),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l0),
-[[от 29.05.2023 N
-184-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=449437#l3),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l0),
-[[от 04.08.2023 N
-443-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453379#l0),
-[[от 04.08.2023 N
-444-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453395#l0),
-[[от 02.11.2023 N
-510-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458848#l0),
-[[от 14.11.2023 N
-531-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=459480#l2),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l3),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l4),
-[[от 14.02.2024 N
-17-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=465428#l3))
+(в ред. Федеральных законов от 02.07.2013 N
+188-ФЗ,
+от 28.12.2013 N
+396-ФЗ,
+от 04.06.2014 N
+140-ФЗ,
+от 21.07.2014 N
+224-ФЗ,
+от 24.11.2014 N
+356-ФЗ,
+от 01.12.2014 N
+416-ФЗ,
+от 29.12.2014 N
+458-ФЗ,
+от 31.12.2014 N
+498-ФЗ,
+от 31.12.2014 N
+519-ФЗ,
+от 08.03.2015 N
+23-ФЗ,
+от 08.03.2015 N
+48-ФЗ,
+от 06.04.2015 N
+82-ФЗ,
+от 29.06.2015 N
+188-ФЗ,
+от 29.06.2015 N
+210-ФЗ,
+от 13.07.2015 N
+216-ФЗ,
+от 13.07.2015 N
+220-ФЗ,
+от 13.07.2015 N
+226-ФЗ,
+от 13.07.2015 N
+227-ФЗ,
+от 13.07.2015 N
+249-ФЗ,
+от 29.12.2015 N
+390-ФЗ,
+от 30.12.2015 N
+469-ФЗ,
+от 09.03.2016 N
+66-ФЗ,
+от 05.04.2016 N
+96-ФЗ,
+от 05.04.2016 N
+104-ФЗ,
+от 02.06.2016 N
+167-ФЗ,
+от 23.06.2016 N
+203-ФЗ,
+от 23.06.2016 N
+221-ФЗ,
+от 03.07.2016 N
+266-ФЗ,
+от 03.07.2016 N
+314-ФЗ,
+от 03.07.2016 N
+320-ФЗ,
+от 03.07.2016 N
+321-ФЗ,
+от 03.07.2016 N
+365-ФЗ,
+от 28.12.2016 N
+474-ФЗ,
+от 28.12.2016 N
+489-ФЗ,
+от 28.12.2016 N
+500-ФЗ,
+от 22.02.2017 N
+17-ФЗ,
+от 28.03.2017 N
+36-ФЗ,
+от 28.03.2017 N
+45-ФЗ,
+от 01.05.2017 N
+83-ФЗ,
+от 07.06.2017 N
+106-ФЗ,
+от 07.06.2017 N
+108-ФЗ,
+от 26.07.2017 N
+198-ФЗ,
+от 26.07.2017 N
+211-ФЗ,
+от 29.07.2017 N
+231-ФЗ,
+от 29.07.2017 N
+267-ФЗ,
+от 29.12.2017 N
+475-ФЗ,
+от 31.12.2017 N
+503-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 31.12.2017 N
+506-ФЗ,
+от 23.04.2018 N
+108-ФЗ,
+от 29.06.2018 N
+174-ФЗ,
+от 29.07.2018 N
+267-ФЗ,
+от 29.07.2018 N
+272-ФЗ,
+от 03.08.2018 N
+311-ФЗ,
+от 30.10.2018 N
+393-ФЗ,
+от 27.12.2018 N
+502-ФЗ,
+от 27.12.2018 N
+512-ФЗ,
+от 27.12.2018 N
+518-ФЗ,
+от 01.04.2019 N
+50-ФЗ,
+от 01.05.2019 N
+69-ФЗ,
+от 01.05.2019 N
+70-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 27.06.2019 N
+151-ФЗ,
+от 27.06.2019 N
+152-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 27.12.2019 N
+469-ФЗ,
+от 27.02.2020 N
+27-ФЗ,
+от 01.04.2020 N
+98-ФЗ,
+от 04.04.2020 N
+107-ФЗ,
+от 24.04.2020 N
+124-ФЗ,
+от 08.06.2020 N
+180-ФЗ,
+от 31.07.2020 N
+249-ФЗ,
+от 08.12.2020 N
+429-ФЗ,
+от 22.12.2020 N
+435-ФЗ,
+от 22.12.2020 N
+436-ФЗ,
+от 30.12.2020 N
+494-ФЗ,
+от 30.12.2020 N
+501-ФЗ,
+от 30.12.2020 N
+539-ФЗ,
+от 24.02.2021 N
+20-ФЗ,
+от 30.04.2021 N
+117-ФЗ,
+от 11.06.2021 N
+170-ФЗ,
+от 01.07.2021 N
+277-ФЗ,
+от 02.07.2021 N
+344-ФЗ,
+от 02.07.2021 N
+351-ФЗ,
+от 02.07.2021 N 360-ФЗ (ред. от
+04.08.2023),
+от 30.12.2021 N
+476-ФЗ,
+от 08.03.2022 N
+46-ФЗ,
+от 26.03.2022 N
+64-ФЗ,
+от 16.04.2022 N
+104-ФЗ,
+от 16.04.2022 N
+109-ФЗ,
+от 11.06.2022 N
+160-ФЗ,
+от 28.06.2022 N
+231-ФЗ,
+от 14.07.2022 N
+272-ФЗ,
+от 04.11.2022 N
+420-ФЗ,
+от 05.12.2022 N
+498-ФЗ,
+от 05.12.2022 N
+500-ФЗ,
+от 19.12.2022 N
+519-ФЗ,
+от 28.12.2022 N
+563-ФЗ,
+от 28.12.2022 N
+569-ФЗ,
+от 28.04.2023 N
+154-ФЗ,
+от 29.05.2023 N
+184-ФЗ,
+от 13.06.2023 N
+228-ФЗ,
+от 04.08.2023 N
+443-ФЗ,
+от 04.08.2023 N
+444-ФЗ,
+от 02.11.2023 N
+510-ФЗ,
+от 14.11.2023 N
+531-ФЗ,
+от 25.12.2023 N
+624-ФЗ,
+от 25.12.2023 N
+625-ФЗ,
+от 14.02.2024 N
+17-ФЗ)
 
 *Принят*
 
@@ -254,8 +254,8 @@
 2\) определения поставщиков (подрядчиков, исполнителей);
 
 3\) заключения предусмотренных настоящим Федеральным законом контрактов;
-(в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+(в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 4\) особенностей исполнения контрактов;
 
@@ -278,12 +278,12 @@
 
 2\) закупкой товаров, работ, услуг для обеспечения безопасности лиц,
 подлежащих государственной защите, в соответствии с Федеральным законом
-[[от 20 августа 2004 года N
-119-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=283101#l0)
+от 20 августа 2004 года N
+119-ФЗ
 \"О государственной защите потерпевших, свидетелей и иных участников
-уголовного судопроизводства\" и Федеральным законом [[от 20 апреля 1995
+уголовного судопроизводства\" и Федеральным законом от 20 апреля 1995
 года N
-45-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=401185#l0)
+45-ФЗ
 \"О государственной защите судей, должностных лиц правоохранительных и
 контролирующих органов\";
 
@@ -292,107 +292,107 @@
 Российской Федерации и государственных фондов драгоценных металлов и
 драгоценных камней соответствующих субъектов Российской Федерации, на
 территориях которых были добыты драгоценные металлы и драгоценные камни;
-(в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058),
-[[от 23.06.2016 N
-203-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=275510#l0))
+(в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 23.06.2016 N
+203-ФЗ)
 
 4\) назначением адвоката органом дознания, органом предварительного
 следствия, судом для участия в качестве защитника в уголовном
 судопроизводстве в соответствии с Уголовно-процессуальным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458962#l0)
+кодексом
 Российской Федерации либо судом для участия в качестве представителя в
 гражданском судопроизводстве в соответствии с Гражданским процессуальным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=451452#l0)
+кодексом
 Российской Федерации или в административном судопроизводстве в
 соответствии с
-[[Кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453200#l5)
+Кодексом
 административного судопроизводства Российской Федерации; (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058),
-[[от 08.03.2015 N
-23-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=423804#l34))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 08.03.2015 N
+23-ФЗ)
 
 5\) привлечением адвоката к оказанию гражданам юридической помощи
-бесплатно в соответствии с Федеральным законом [[от 21 ноября 2011 года
+бесплатно в соответствии с Федеральным законом от 21 ноября 2011 года
 N
-324-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450585#l0)
+324-ФЗ
 \"О бесплатной юридической помощи в Российской Федерации\"; (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 6\) закупкой товаров, работ, услуг участковыми избирательными
 комиссиями, территориальными избирательными комиссиями, в том числе при
 возложении на них полномочий иной избирательной комиссии, окружными
 избирательными комиссиями во исполнение полномочий, предусмотренных
 законодательством Российской Федерации о выборах и референдумах; (в ред.
-Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170),
-[[от 14.11.2023 N
-531-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=459480#l23))
+Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 14.11.2023 N
+531-ФЗ)
 
 7\) привлечением избирательными комиссиями, комиссиями референдума
 граждан к выполнению работ и оказанию услуг, связанных с обеспечением
 полномочий избирательных комиссий, комиссий референдума в период
 подготовки и проведения выборов, референдума, по гражданско-правовым
 договорам, заключаемым с физическими лицами, в соответствии с
-Федеральным законом [[от 12 июня 2002 года N
-67-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454526#l0)
+Федеральным законом от 12 июня 2002 года N
+67-ФЗ
 \"Об основных гарантиях избирательных прав и права на участие в
 референдуме граждан Российской Федерации\"; (в ред. Федерального закона
-[[от 09.03.2016 N
-66-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=449540#l451))
+от 09.03.2016 N
+66-ФЗ)
 
-8\) пункт утратил силу. (в ред. Федерального закона [[от 03.07.2016 N
-266-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276237#l0))
+8\) пункт утратил силу. (в ред. Федерального закона от 03.07.2016 N
+266-ФЗ)
 
 9\) закупкой товаров, работ, услуг Центральной избирательной комиссией
 Российской Федерации, избирательными комиссиями субъектов Российской
 Федерации, в том числе при возложении на них полномочий окружной
 избирательной комиссии, при подготовке и проведении выборов в органы
-государственной власти; (в ред. Федеральных законов [[от 28.12.2016 N
-474-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286446#l14),
-[[от 29.05.2023 N
-184-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=449437#l135))
+государственной власти; (в ред. Федеральных законов от 28.12.2016 N
+474-ФЗ,
+от 29.05.2023 N
+184-ФЗ)
 
 9.1) закупкой товаров, работ, услуг избирательными комиссиями субъектов
 Российской Федерации, территориальными избирательными комиссиями,
 осуществляемой за счет средств, выделенных из бюджетов субъектов
 Российской Федерации, бюджета федеральной территории на оказание
 содействия в подготовке и проведении выборов в федеральные органы
-государственной власти; (в ред. Федерального закона [[от 14.11.2023 N
-531-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=459480#l23))
+государственной власти; (в ред. Федерального закона от 14.11.2023 N
+531-ФЗ)
 
 10\) взиманием оператором электронной площадки, оператором
-специализированной электронной площадки платы в соответствии с [[частью
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l312)
+специализированной электронной площадки платы в соответствии с частью
+4
 статьи 24.1 настоящего Федерального закона; (в ред. Федерального закона
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+от 31.12.2017 N
+504-ФЗ)
 
 11\) заключением соглашения об установлении сервитута в случаях и
 порядке, которые предусмотрены земельным законодательством; (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 12\) оплатой судебных издержек (издержек) в случаях и в порядке,
 предусмотренных Арбитражным процессуальным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=444760#l0)
+кодексом
 Российской Федерации, Гражданским процессуальным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=451452#l0)
+кодексом
 Российской Федерации,
-[[Кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453200#l5)
+Кодексом
 административного судопроизводства Российской Федерации,
 Уголовно-процессуальным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458962#l0)
-Российской Федерации. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1596))
+кодексом
+Российской Федерации. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\. Особенности регулирования отношений, указанных в части 1 настоящей
 статьи, в случаях, предусмотренных настоящим Федеральным законом, могут
 быть установлены отдельными федеральными законами. (в ред. Федерального
-закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058))
+закона от 28.12.2013 N
+396-ФЗ)
 
 **Статья 2. Законодательство Российской Федерации и иные нормативные
 правовые акты о контрактной системе в сфере закупок товаров, работ,
@@ -402,14 +402,14 @@ N
 закупок товаров, работ, услуг для обеспечения государственных и
 муниципальных нужд (далее - законодательство Российской Федерации о
 контрактной системе в сфере закупок) основывается на положениях
-[[Конституции]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=357694#l0)
+Конституции
 Российской Федерации, Гражданского
-[[кодекса]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодекса
 Российской Федерации, Бюджетного
-[[кодекса]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодекса
 Российской Федерации и состоит из настоящего Федерального закона и
-других федеральных законов, регулирующих отношения, указанные в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+других федеральных законов, регулирующих отношения, указанные в части
+1
 статьи 1 настоящего Федерального закона. Нормы права, содержащиеся в
 других федеральных законах и регулирующие указанные отношения, должны
 соответствовать настоящему Федеральному закону.
@@ -420,24 +420,24 @@ N
 власти, Государственная корпорация по атомной энергии \"Росатом\",
 Государственная корпорация по космической деятельности \"Роскосмос\"
 вправе принимать нормативные правовые акты, регулирующие отношения,
-указанные в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+указанные в части
+1
 статьи 1 настоящего Федерального закона (далее - нормативные правовые
 акты о контрактной системе в сфере закупок). (в ред. Федерального закона
-[[от 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231))
+от 13.07.2015 N
+216-ФЗ)
 
 3\. Органы государственной власти субъектов Российской Федерации, органы
 публичной власти федеральной территории, органы местного самоуправления
 в соответствии со своей компетенцией в случаях, предусмотренных
 законодательством Российской Федерации о контрактной системе в сфере
 закупок, принимают правовые акты, регулирующие отношения, указанные в
-[[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+части
+1
 статьи 1 настоящего Федерального закона. Данные правовые акты должны
 соответствовать нормативным правовым актам, указанным в частях 1 и 2
-настоящей статьи. (в ред. Федерального закона [[от 02.07.2021 N
-351-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395349#l189))
+настоящей статьи. (в ред. Федерального закона от 02.07.2021 N
+351-ФЗ)
 
 4\. Если международным договором Российской Федерации установлены иные
 правила, чем те, которые предусмотрены настоящим Федеральным законом,
@@ -446,16 +446,16 @@ N
 4.1. Решения межгосударственных органов, принятые на основании положений
 международных договоров Российской Федерации в их истолковании,
 противоречащем
-[[Конституции]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=357694#l0)
+Конституции
 Российской Федерации, не подлежат исполнению в Российской Федерации.
 Такое противоречие может быть установлено в порядке, определенном
-федеральным конституционным законом. (в ред. Федерального закона [[от
+федеральным конституционным законом. (в ред. Федерального закона от
 08.12.2020 N
-429-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454982#l117))
+429-ФЗ)
 
 ***Действие части 5 статьи 2 было приостановлено с 04.11.2022 до
-01.01.2024 ([[статья
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l20)
+01.01.2024 (статья
+4
 Федерального закона от 04.11.2022 N 420-ФЗ).***
 
 5\. Федеральные законы, вносящие изменения в положения настоящего
@@ -468,10 +468,10 @@ N
 их принятия, за исключением случаев их принятия после 1 октября текущего
 календарного года, при которых такие федеральные законы вступают в силу
 не ранее 1 января года, следующего за очередным календарным годом. (в
-ред. Федеральных законов [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l34),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1596))
+ред. Федеральных законов от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 6\. Положения настоящего Федерального закона, касающиеся субъектов
 Российской Федерации, органов исполнительной власти субъектов Российской
@@ -481,15 +481,15 @@ N
 закупок, применяются к федеральным территориям, органам публичной власти
 федеральных территорий, уполномоченным на осуществление
 нормативно-правового регулирования и контроля в сфере закупок,
-соответственно. (в ред. Федерального закона [[от 02.07.2021 N
-351-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395349#l189))
+соответственно. (в ред. Федерального закона от 02.07.2021 N
+351-ФЗ)
 
 **Статья 3. Основные понятия, используемые в настоящем Федеральном
 законе**
 
 1\. Для целей настоящего Федерального закона используются следующие
-основные понятия: (в ред. Федерального закона [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71))
+основные понятия: (в ред. Федерального закона от 27.12.2018 N
+502-ФЗ)
 
 1\) контрактная система в сфере закупок товаров, работ, услуг для
 обеспечения государственных и муниципальных нужд (далее - контрактная
@@ -512,11 +512,11 @@ N
 настоящим Федеральным законом), в соответствии с законодательством
 Российской Федерации и иными нормативными правовыми актами о контрактной
 системе в сфере закупок действий, направленных на обеспечение
-государственных и муниципальных нужд; (в ред. Федеральных законов [[от
+государственных и муниципальных нужд; (в ред. Федеральных законов от
 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1596))
+216-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) определение поставщика (подрядчика, исполнителя) - совокупность
 действий, которые осуществляются заказчиками в порядке, установленном
@@ -545,8 +545,8 @@ N
 организационно-правовой формы, формы собственности, места нахождения и
 места происхождения капитала, за исключением юридического лица, местом
 регистрации которого является государство или территория, включенные в
-утверждаемый в соответствии с [[пунктом
-15]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l13662)
+утверждаемый в соответствии с пунктом
+15
 статьи 241 Бюджетного кодекса Российской Федерации перечень государств и
 территорий, используемых для промежуточного (офшорного) владения
 активами в Российской Федерации (далее - офшорная компания), либо
@@ -557,18 +557,18 @@ N
 индивидуального предпринимателя, за исключением физического лица,
 являющегося иностранным агентом в соответствии с Федеральным законом от
 14 июля 2022 года N 255-ФЗ \"О контроле за деятельностью лиц,
-находящихся под иностранным влиянием\"; (в ред. Федеральных законов [[от
+находящихся под иностранным влиянием\"; (в ред. Федеральных законов от
 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97),
-[[от 05.12.2022 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437525#l272))
+227-ФЗ,
+от 16.04.2022 N
+104-ФЗ,
+от 05.12.2022 N
+498-ФЗ)
 
 4.1) поставщик (подрядчик, исполнитель) - участник закупки, с которым в
 соответствии с настоящим Федеральным законом заключен контракт; (в ред.
-Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l3))
+Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 5\) государственный заказчик - государственный орган (в том числе орган
 государственной власти), Государственная корпорация по атомной энергии
@@ -580,12 +580,12 @@ N
 принимать бюджетные обязательства в соответствии с бюджетным
 законодательством Российской Федерации от имени Российской Федерации или
 субъекта Российской Федерации и осуществляющие закупки; (в ред.
-Федеральных законов [[от 02.07.2013 N
-188-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=215095#l231),
-[[от 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231),
-[[от 22.12.2020 N
-435-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=379039#l47))
+Федеральных законов от 02.07.2013 N
+188-ФЗ,
+от 13.07.2015 N
+216-ФЗ,
+от 22.12.2020 N
+435-ФЗ)
 
 6\) муниципальный заказчик - муниципальный орган или муниципальное
 казенное учреждение, действующие от имени муниципального образования,
@@ -595,13 +595,13 @@ N
 
 7\) заказчик - государственный или муниципальный заказчик либо в
 соответствии с частями
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l143)
+1
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6644)
+2.1
 статьи 15 настоящего Федерального закона бюджетное учреждение,
 государственное, муниципальное унитарные предприятия, осуществляющие
-закупки; (в ред. Федерального закона [[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l5))
+закупки; (в ред. Федерального закона от 03.07.2016 N
+321-ФЗ)
 
 7.1) заказчик, осуществляющий деятельность на территории иностранного
 государства, - заказчик из числа дипломатических представительств,
@@ -609,10 +609,10 @@ N
 Российской Федерации, представительств Российской Федерации при
 международных (межгосударственных, межправительственных) организациях, а
 также заказчик, осуществляющий деятельность на территории иностранного
-государства; (в ред. Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1597),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+государства; (в ред. Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 8\) государственный контракт, муниципальный контракт -
 гражданско-правовой договор, предметом которого являются поставка
@@ -622,8 +622,8 @@ N
 контракт), муниципального образования (муниципальный контракт)
 государственным или муниципальным заказчиком для обеспечения
 соответственно государственных нужд, муниципальных нужд; (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 8.1) контракт - государственный или муниципальный контракт либо
 гражданско-правовой договор, предметом которого являются поставка
@@ -631,18 +631,18 @@ N
 недвижимого имущества или аренда имущества) и который заключен бюджетным
 учреждением, государственным или муниципальным унитарным предприятием
 либо иным юридическим лицом в соответствии с частями
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642),
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l147),
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l152),
-[[4.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6646),
-[[4.3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8053)
+1,
+2.1,
+4,
+4.1,
+4.3
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7416)
+5
 статьи 15 настоящего Федерального закона; (в ред. Федеральных законов
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l15))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 01.07.2021 N
+277-ФЗ)
 
 8.2) контракт жизненного цикла - контракт, предусматривающий поставку
 товара или выполнение работы (в том числе при необходимости
@@ -651,10 +651,10 @@ N
 необходимости эксплуатацию в течение срока службы, ремонт и (или)
 утилизацию поставленного товара или созданного в результате выполнения
 работы объекта капитального строительства или товара; (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1597))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 8.3) контракт на поставку товаров, необходимых для нормального
 жизнеобеспечения граждан, - контракт, предусматривающий поставку
@@ -663,35 +663,35 @@ N
 неотложной форме, лекарственных средств, медицинских изделий,
 технических средств реабилитации, топлива, отсутствие которых приведет к
 нарушению нормального жизнеобеспечения граждан; (в ред. Федеральных
-законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1597),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+законов от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 8.4) отдельный этап исполнения контракта - часть обязательства
 поставщика (подрядчика, исполнителя), в отношении которого контрактом
 установлена обязанность заказчика обеспечить приемку (с оформлением в
 соответствии с настоящим Федеральным законом документа о приемке) и
 оплату поставленного товара, выполненной работы, оказанной услуги; (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2230))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 8.5) контракт со встречными инвестиционными обязательствами - контракт
 на поставку товара, оказание услуги, заключенный в соответствии со
-[[статьей
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
+статьей
+111.4
 настоящего Федерального закона и предусматривающий встречные
 инвестиционные обязательства поставщика (исполнителя) по созданию,
 модернизации, освоению производства такого товара и (или) по созданию,
 реконструкции имущества (недвижимого имущества или недвижимого имущества
 и движимого имущества, технологически связанных между собой),
 предназначенного для оказания такой услуги; (в ред. Федерального закона
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l3))
+от 28.06.2022 N
+231-ФЗ)
 
 9\) единая информационная система в сфере закупок (далее - единая
-информационная система) - совокупность информации, указанной в [[части
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l70)
+информационная система) - совокупность информации, указанной в части
+3
 статьи 4 настоящего Федерального закона и содержащейся в базах данных,
 информационных технологий и технических средств, обеспечивающих
 формирование, обработку, хранение такой информации, а также ее
@@ -701,13 +701,13 @@ N
 
 10\) уполномоченный орган, уполномоченное учреждение - государственный
 орган, муниципальный орган, казенное учреждение, на которые возложены
-полномочия, предусмотренные [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+полномочия, предусмотренные статьей
+26
 настоящего Федерального закона;
 
 11\) специализированная организация - юридическое лицо, привлекаемое
-заказчиком в соответствии со [[статьей
-40]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l551)
+заказчиком в соответствии со статьей
+40
 настоящего Федерального закона;
 
 12\) федеральный орган исполнительной власти по регулированию
@@ -727,9 +727,9 @@ N
 работ, услуг для обеспечения федеральных нужд, которые не относятся к
 государственному оборонному заказу и сведения о которых составляют
 государственную тайну (далее - контрольный орган в сфере
-государственного оборонного заказа); (в ред. Федерального закона [[от
+государственного оборонного заказа); (в ред. Федерального закона от
 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l126))
+228-ФЗ)
 
 14\) орган исполнительной власти субъекта Российской Федерации по
 регулированию контрактной системы в сфере закупок - орган исполнительной
@@ -758,8 +758,8 @@ N
 заказчиком закупок в соответствии с настоящим Федеральным законом, в том
 числе для оплаты контрактов, заключенных до начала указанного
 финансового года и подлежащих оплате в указанном финансовом году. (в
-ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 17\) электронная площадка - сайт в информационно-телекоммуникационной
 сети \"Интернет\", соответствующий установленным в соответствии с
@@ -769,12 +769,12 @@ N
 исключением закрытых способов определения поставщиков (подрядчиков,
 исполнителей) в электронной форме), а также закупки, осуществляемые в
 соответствии с частью 12 статьи 93 настоящего Федерального закона; (в
-ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l102))
+ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 25.12.2023 N
+624-ФЗ)
 
 18\) оператор электронной площадки - непубличное хозяйственное общество,
 в уставном капитале которого иностранным гражданам, лицам без
@@ -783,43 +783,43 @@ N
 электронной площадкой, в том числе необходимыми для ее функционирования
 программно-аппаратными средствами, обеспечивает ее функционирование, а
 также соответствует установленным в соответствии с пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l293)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l301)
+2
 части 2 статьи 24.1 настоящего Федерального закона требованиям и
 включено в утвержденный Правительством Российской Федерации перечень
-операторов электронных площадок; (в ред. Федерального закона [[от
+операторов электронных площадок; (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 19\) специализированная электронная площадка - соответствующая
 установленным в соответствии с пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l293)
+1
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l305)
+3
 части 2 статьи 24.1 настоящего Федерального закона требованиям
 информационная система, доступ к которой осуществляется с использованием
 защищенных каналов связи и на которой проводятся закрытые конкурентные
 способы определения поставщиков (подрядчиков, исполнителей) в
-электронной форме; (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+электронной форме; (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 20\) оператор специализированной электронной площадки - российское
 юридическое лицо, которое владеет специализированной электронной
 площадкой, в том числе необходимыми для ее функционирования
 программно-аппаратными средствами, обеспечивает ее функционирование, а
 также соответствует установленным в соответствии с пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l293)
+1
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l305)
+3
 части 2 статьи 24.1 настоящего Федерального закона требованиям и
 включено в утвержденный Правительством Российской Федерации перечень
 операторов специализированных электронных площадок. (в ред. Федерального
-закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+закона от 31.12.2017 N
+504-ФЗ)
 
-2\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2230))
+2\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 4. Информационное обеспечение контрактной системы в сфере
 закупок**
@@ -831,8 +831,8 @@ N
 
 1\) формирование, обработку, хранение и предоставление данных (в том
 числе автоматизированные) участникам контрактной системы в сфере закупок
-в рамках отношений, указанных в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+в рамках отношений, указанных в части
+1
 статьи 1 настоящего Федерального закона;
 
 2\) контроль за соответствием информации об идентификационных кодах
@@ -842,18 +842,18 @@ N
 определения поставщиков (подрядчиков, исполнителей), условиях проектов
 контрактов (направляемых в соответствии с настоящим Федеральным законом
 с использованием единой информационной системы участникам закупок, с
-которыми заключаются контракты); (в ред. Федерального закона [[от
+которыми заключаются контракты); (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 3\) использование усиленной квалифицированной электронной подписи
 (далее - усиленная электронная подпись) для подписания электронных
 документов, предусмотренных настоящим Федеральным законом; (в ред.
-Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона от 31.12.2017 N
+504-ФЗ)
 
-4\) пункт утратил силу. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+4\) пункт утратил силу. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 2\. Порядок функционирования единой информационной системы,
 предоставления информации и документов из единой информационной системы,
@@ -864,19 +864,19 @@ N
 информационной системы с иными информационными системами, в том числе в
 сфере управления государственными и муниципальными финансами,
 устанавливаются Правительством Российской Федерации. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2230))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\. Единая информационная система содержит:
 
-1\) пункт утратил силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l4))
+1\) пункт утратил силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 2\) планы-графики;
 
 3\) информацию о реализации планов-графиков; (в ред. Федерального закона
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+от 01.05.2019 N
+71-ФЗ)
 
 4\) информацию об условиях, о запретах и об ограничениях допуска
 товаров, происходящих из иностранного государства или группы иностранных
@@ -891,19 +891,19 @@ N
 
 6\) реестр контрактов, заключенных заказчиками;
 
-6.1) единый реестр участников закупок; (в ред. Федерального закона [[от
+6.1) единый реестр участников закупок; (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 7\) реестр недобросовестных поставщиков (подрядчиков, исполнителей);
 
 8\) библиотеку типовых условий контрактов; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1599))
+от 02.07.2021 N
+360-ФЗ)
 
-9\) реестр независимых гарантий; (в ред. Федерального закона [[от
+9\) реестр независимых гарантий; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1599))
+360-ФЗ)
 
 10\) реестр жалоб, плановых и внеплановых проверок, их результатов и
 выданных предписаний;
@@ -913,8 +913,8 @@ N
 услуги, оказываемой с использованием имущества (недвижимого имущества
 или недвижимого имущества и движимого имущества, технологически
 связанных между собой), которое создается, реконструируется; (в ред.
-Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l4))
+Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 11\) перечень международных финансовых организаций, созданных в
 соответствии с международными договорами, участником которых является
@@ -927,46 +927,46 @@ N
 13\) отчеты заказчиков, предусмотренные настоящим Федеральным законом;
 
 14\) каталог товаров, работ, услуг для обеспечения государственных и
-муниципальных нужд; (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+муниципальных нужд; (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 15\) нормативные правовые акты, регулирующие отношения, указанные в
-[[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+части
+1
 статьи 1 настоящего Федерального закона;
 
 16\) информацию о складывающихся на товарных рынках ценах товаров,
 работ, услуг, закупаемых для обеспечения государственных и муниципальных
-нужд, а также о размещаемых заказчиками в соответствии с [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l246)
+нужд, а также о размещаемых заказчиками в соответствии с частью
+5
 статьи 22 настоящего Федерального закона запросах цен товаров, работ,
 услуг;
 
 17\) иные информацию и документы, формирование и размещение которых в
 единой информационной системе предусмотрено настоящим Федеральным
-законом, Федеральным законом [[от 18 июля 2011 года N
-223-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455403#l0)
+законом, Федеральным законом от 18 июля 2011 года N
+223-ФЗ
 \"О закупках товаров, работ, услуг отдельными видами юридических лиц\" и
 принятыми в соответствии с ними иными нормативными правовыми актами. (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1599))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\. Информация, указанная в части 3 настоящей статьи, размещается на
 официальном сайте, если иное не предусмотрено в соответствии с настоящим
 Федеральным законом. Информация, размещенная на официальном сайте,
 является общедоступной и предоставляется безвозмездно. Сведения,
 составляющие государственную тайну, не подлежат размещению в единой
-информационной системе. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1599))
+информационной системе. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. Согласие субъекта персональных данных на обработку персональных
 данных, содержащихся в информации и документах, предусмотренных
 настоящим Федеральным законом, не требуется при обработке персональных
 данных в целях, предусмотренных настоящим Федеральным законом. (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1600))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 6\. Правительством Российской Федерации определяются один или несколько
 федеральных органов исполнительной власти, осуществляющих функции по
@@ -975,8 +975,8 @@ N
 системы, по установлению порядка регистрации участников контрактной
 системы в сфере закупок (за исключением участников закупок) в единой
 информационной системе и порядка пользования единой информационной
-системой. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+системой. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 7\. Субъекты Российской Федерации и муниципальные образования вправе
 создавать региональные и муниципальные информационные системы в сфере
@@ -993,8 +993,8 @@ N
 
 10\. Интеграция информационных систем, указанных в части 7 настоящей
 статьи, электронных площадок с единой информационной системой
-достигается посредством: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1600))
+достигается посредством: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) обмена электронными документами и информацией при взаимодействии
 указанных систем, электронных площадок с единой информационной системой,
@@ -1005,26 +1005,26 @@ N
 настоящей статьи. Исчисление сроков, предусмотренных настоящим
 Федеральным законом для размещения в единой информационной системе
 электронных документов и информации, начинается с момента их размещения
-в единой информационной системе; (в ред. Федерального закона [[от
+в единой информационной системе; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1600))
+360-ФЗ)
 
 2\) пользования указанными информационными системами, электронными
 площадками базами данных единой информационной системы; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1600))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\) установления единых технологических и лингвистических требований к
 информации, обработка которой осуществляется в указанных системах, на
-электронных площадках; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1600))
+электронных площадках; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\) размещения информации о закупках на официальном сайте.
 
 11\. Создание информационных систем в сфере закупок, не интегрированных
 с единой информационной системой, не допускается. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2233))
+закона от 02.07.2021 N
+360-ФЗ)
 
 12\. В случае, если информация, предусмотренная пунктами 1 - 15 части 3
 настоящей статьи и размещенная в единой информационной системе, не
@@ -1036,27 +1036,27 @@ N
 контрактной системы в сфере закупок в единой информационной системе, на
 электронной площадке, специализированной электронной площадке создается
 государственная информационная система, которая должна обеспечивать в
-том числе: (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l99))
+том числе: (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 1\) мониторинг доступности (работоспособности) единой информационной
 системы, электронной площадки, специализированной электронной площадки и
 хранение информации о такой доступности (работоспособности); (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l99))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 2\) фиксацию, включая видеофиксацию, в режиме реального времени
 действий, бездействия участников контрактной системы в сфере закупок в
 единой информационной системе, на электронной площадке,
 специализированной электронной площадке; (в ред. Федеральных законов
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l99))
+от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 3\) хранение информации о действиях, бездействии участников контрактной
 системы в сфере закупок в единой информационной системе, на электронной
@@ -1064,76 +1064,76 @@ N
 информации об электронных документах, формируемых участниками
 контрактной системы в сфере закупок и подписанных усиленной электронной
 подписью, если иное не предусмотрено настоящим Федеральным законом. (в
-ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l99))
+ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 14\. Правительством Российской Федерации в целях эксплуатации указанной
 в части 13 настоящей статьи государственной информационной системы: (в
-ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 1\) определяется федеральный орган исполнительной власти, уполномоченный
 на обеспечение ее эксплуатации и развития; (в ред. Федеральных законов
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2233))
+от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) устанавливается порядок мониторинга доступности (работоспособности)
 единой информационной системы, электронной площадки, специализированной
-электронной площадки; (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l26))
+электронной площадки; (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 3\) устанавливается порядок фиксации, включая видеофиксацию, в режиме
 реального времени действий, бездействия участников контрактной системы в
 сфере закупок в единой информационной системе, на электронной площадке,
 специализированной электронной площадке; (в ред. Федеральных законов
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l26))
+от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 4\) устанавливаются требования к ее эксплуатации, порядку формирования,
 хранения и использования содержащейся в ней информации, включая: (в ред.
-Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 а) требования к технологическим и лингвистическим средствам,
 обеспечивающим сбор, обработку, хранение и использование информации,
-содержащейся в указанной системе; (в ред. Федерального закона [[от
+содержащейся в указанной системе; (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 б) требования к информационно-технологическому взаимодействию указанной
 системы с иными информационными системами, в том числе с единой
 информационной системой, электронной площадкой, специализированной
-электронной площадкой; (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l26))
+электронной площадкой; (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 в) требования к порядку и срокам хранения, а также порядку
 предоставления содержащейся в указанной системе информации; (в ред.
-Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 г) права и обязанности лиц, являющихся получателями содержащейся в
-указанной системе информации; (в ред. Федерального закона [[от
+указанной системе информации; (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 д) порядок взаимодействия программно-аппаратных средств участников
 контрактной системы в сфере закупок с указанной системой; (в ред.
-Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 е) требования к обеспечению конфиденциальности информации, содержащейся
-в указанной системе. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+в указанной системе. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 15\. Информация и документы, предусмотренные настоящим Федеральным
 законом, формируемые и составляемые заказчиком (за исключением
@@ -1146,23 +1146,23 @@ N
 суммы цен указанных единиц, максимального значения цены контракта, при
 обосновании (за исключением включаемых в контракт в качестве обоснования
 цены контракта, заключаемого с единственным поставщиком (подрядчиком,
-исполнителем), в соответствии с [[частью
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9422)
+исполнителем), в соответствии с частью
+4
 статьи 93 настоящего Федерального закона) таких начальной (максимальной)
 цены, цены контракта, заключаемого с единственным поставщиком
 (подрядчиком, исполнителем), начальных цен единиц товара, работы,
 услуги, хранятся заказчиком не менее шести лет с момента начала закупки.
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 5. Организация документооборота в контрактной системе в сфере
-закупок (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))**
+закупок (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)**
 
-1\. В рамках отношений, указанных в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l11)
+1\. В рамках отношений, указанных в части
+1
 статьи 1 настоящего Федерального закона, допускается обмен электронными
 документами, предусмотренными законодательством Российской Федерации и
 иными нормативными правовыми актами о контрактной системе в сфере
@@ -1174,15 +1174,15 @@ N
 случаях, предусмотренных законодательством Российской Федерации и иными
 нормативными правовыми актами о контрактной системе в сфере закупок,
 обмен электронными документами осуществляется с использованием единой
-информационной системы. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+информационной системы. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Квалифицированные сертификаты ключей проверки электронных подписей,
 предназначенные для использования участниками контрактной системы в
 сфере закупок в целях настоящего Федерального закона, создаются и
 выдаются удостоверяющими центрами, получившими аккредитацию на
-соответствие требованиям Федерального закона [[от 6 апреля 2011 года N
-63-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455153#l0)
+соответствие требованиям Федерального закона от 6 апреля 2011 года N
+63-ФЗ
 \"Об электронной подписи\". Участники закупок, являющиеся иностранными
 лицами, вправе использовать для подписания информации и электронных
 документов, предусмотренных настоящим Федеральным законом, электронные
@@ -1192,8 +1192,8 @@ N
 ключа проверки электронной подписи, подписавшего предусмотренные
 настоящим Федеральным законом информацию и документы, подлежащие
 размещению в единой информационной системе, размещаются в единой
-информационной системе. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+информационной системе. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\. При формировании и размещении информации и документов в единой
 информационной системе, на электронной площадке, специализированной
@@ -1202,18 +1202,18 @@ N
 Требования к указанным формам, порядок формирования и размещения
 информации и документов в единой информационной системе, на электронной
 площадке, специализированной электронной площадке устанавливаются
-Правительством Российской Федерации. (в ред. Федеральных законов [[от
+Правительством Российской Федерации. (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. В случае наличия противоречий между данными, содержащимися в единой
 информационной системе, и данными, содержащимися в информации и
 документах, направляемых участниками контрактной системы, приоритет
 имеет информация, содержащаяся в единой информационной системе. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. Не позднее одного часа с момента размещения в соответствии с
 настоящим Федеральным законом информации и документов на официальном
@@ -1221,8 +1221,8 @@ N
 доступны для ознакомления на официальном сайте, на электронной площадке,
 если иное не предусмотрено настоящим Федеральным законом. Взимание платы
 за предоставление доступа к таким информации и документам не
-допускается. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+допускается. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 6\. Не позднее одного часа с момента размещения в соответствии с
 настоящим Федеральным законом в единой информационной системе изменений,
@@ -1233,8 +1233,8 @@ N
 площадки уведомление об указанных изменениях, разъяснениях, извещении
 всем участникам закупки, подавшим заявки на участие в такой закупке,
 лицу, направившему запрос о даче разъяснений положений извещения об
-осуществлении закупки. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2238))
+осуществлении закупки. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 7\. Оператор электронной площадки, оператор специализированной
 электронной площадки обязаны обеспечить конфиденциальность информации об
@@ -1243,20 +1243,20 @@ N
 информацию и документы, и их содержания до направления в соответствии с
 настоящим Федеральным законом таких информации и документов заказчику,
 если иное не предусмотрено настоящим Федеральным законом. (в ред.
-Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l31))
+Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 8\. Информация и документы, сформированные и размещенные в соответствии
 с настоящим Федеральным законом в единой информационной системе хранятся
 одним или несколькими федеральными органами исполнительной власти,
-определенными в соответствии с [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l90)
+определенными в соответствии с частью
+6
 статьи 4 настоящего Федерального закона, не менее шести лет после
 завершения закупки в соответствии с настоящим Федеральным законом. (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l1605))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 6. Принципы контрактной системы в сфере закупок**
 
@@ -1299,8 +1299,8 @@ N
 электронных площадок любых действий, которые противоречат требованиям
 настоящего Федерального закона, в том числе приводят к ограничению
 конкуренции, в частности к необоснованному ограничению числа участников
-закупок. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+закупок. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 **Статья 9. Принцип профессионализма заказчика**
 
@@ -1345,14 +1345,14 @@ N
 соблюдение требований, установленных законодательством Российской
 Федерации о контрактной системе в сфере закупок и нормативными правовыми
 актами, указанными в частях
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l34)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l35)
+3
 статьи 2 настоящего Федерального закона.
 
-**Статья 13. Утратила силу. (в ред. Федерального закона [[от 27.06.2019
+**Статья 13. Утратила силу. (в ред. Федерального закона от 27.06.2019
 N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404334#l1))**
+152-ФЗ)**
 
 **Статья 14. Применение национального режима при осуществлении закупок**
 
@@ -1392,14 +1392,14 @@ N
 указанных запрета или ограничений, а также требования к его содержанию.
 Определение страны происхождения указанных товаров осуществляется в
 соответствии с законодательством Российской Федерации. (в ред.
-Федеральных законов [[от 29.06.2015 N
-188-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=254748#l12),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3),
-[[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l4))
+Федеральных законов от 29.06.2015 N
+188-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+70-ФЗ,
+от 31.07.2020 N
+249-ФЗ)
 
 4\. Федеральный орган исполнительной власти по регулированию контрактной
 системы в сфере закупок по поручению Правительства Российской Федерации
@@ -1409,8 +1409,8 @@ N
 иностранными лицами, за исключением товаров, работ, услуг, в отношении
 которых Правительством Российской Федерации установлен запрет в
 соответствии с частью 3 настоящей статьи. (в ред. Федерального закона
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2))
+от 13.07.2015 N
+227-ФЗ)
 
 5\. Нормативные правовые акты, устанавливающие в соответствии с частями
 3 и 4 настоящей статьи запрет на допуск товаров, происходящих из
@@ -1429,34 +1429,34 @@ N
 соответственно выполняемых, оказываемых иностранными лицами, для целей
 осуществления закупок могут быть определены случаи, при которых заказчик
 при исполнении контракта не вправе допускать замену товара или страны
-(стран) происхождения товара в соответствии с [[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1754)
+(стран) происхождения товара в соответствии с частью
+7
 статьи 95 настоящего Федерального закона. (в ред. Федерального закона
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2))
+от 13.07.2015 N
+227-ФЗ)
 
 7\. Положения настоящей статьи не применяются в случае: (в ред.
-Федерального закона [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l4))
+Федерального закона от 31.07.2020 N
+249-ФЗ)
 
 1\) осуществления закупок товаров, работ, услуг органами внешней
 разведки Российской Федерации в целях обеспечения безопасности
-государства; (в ред. Федеральных законов [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l4),
-[[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l16))
+государства; (в ред. Федеральных законов от 31.07.2020 N
+249-ФЗ,
+от 01.07.2021 N
+277-ФЗ)
 
 2\) осуществления закупок товаров, работ, услуг органами федеральной
 службы безопасности в целях обеспечения безопасности государства; (в
-ред. Федеральных законов [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l4),
-[[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l16))
+ред. Федеральных законов от 31.07.2020 N
+249-ФЗ,
+от 01.07.2021 N
+277-ФЗ)
 
 3\) осуществления закупок товаров, работ, услуг органами государственной
 охраны в целях реализации мер по осуществлению государственной охраны.
-(в ред. Федерального закона [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l4))
+(в ред. Федерального закона от 31.07.2020 N
+249-ФЗ)
 
 **Статья 15. Особенности закупок, осуществляемых бюджетным, автономным
 учреждениями, государственным, муниципальным унитарными предприятиями и
@@ -1469,8 +1469,8 @@ N
 статьи.
 
 2\. При наличии правового акта, принятого бюджетным учреждением в
-соответствии с [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455403#l333)
+соответствии с частью
+3
 статьи 2 Федерального закона от 18 июля 2011 года N 223-ФЗ \"О закупках
 товаров, работ, услуг отдельными видами юридических лиц\" и размещенного
 до начала года в единой информационной системе, данное учреждение вправе
@@ -1487,10 +1487,10 @@ N
 (грантов), предоставляемых на конкурсной основе из соответствующих
 бюджетов бюджетной системы Российской Федерации, если условиями,
 определенными грантодателями, не установлено иное; (в ред. Федеральных
-законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058),
-[[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3))
+законов от 28.12.2013 N
+396-ФЗ,
+от 01.05.2019 N
+70-ФЗ)
 
 2\) в качестве исполнителя по контракту в случае привлечения на
 основании договора в ходе исполнения данного контракта иных лиц для
@@ -1502,13 +1502,13 @@ N
 рамках предусмотренных его учредительным документом основных видов
 деятельности (за исключением средств, полученных на оказание и оплату
 медицинской помощи по обязательному медицинскому страхованию). (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 2.1. Государственные, муниципальные унитарные предприятия осуществляют
 закупки в соответствии с требованиями настоящего Федерального закона, за
-исключением: (в ред. Федерального закона [[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5))
+исключением: (в ред. Федерального закона от 29.06.2018 N
+174-ФЗ)
 
 1\) закупок федеральных государственных унитарных предприятий, имеющих
 существенное значение для обеспечения прав и законных интересов граждан
@@ -1521,18 +1521,18 @@ N
 государственной собственности Российской Федерации и (или) на
 приобретение на территории Российской Федерации объектов недвижимого
 имущества в государственную собственность Российской Федерации; (в ред.
-Федерального закона [[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5))
+Федерального закона от 29.06.2018 N
+174-ФЗ)
 
 2\) закупок, осуществляемых в соответствии с правовым актом,
-предусмотренным [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455403#l333)
+предусмотренным частью
+3
 статьи 2 Федерального закона от 18 июля 2011 года N 223-ФЗ \"О закупках
 товаров, работ, услуг отдельными видами юридических лиц\", принятым
 государственным, муниципальным унитарными предприятиями и размещенным до
 начала года в единой информационной системе: (в ред. Федерального закона
-[[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5))
+от 29.06.2018 N
+174-ФЗ)
 
 а) за счет средств, полученных в качестве дара, в том числе
 пожертвования, по завещанию, грантов, передаваемых безвозмездно и
@@ -1543,45 +1543,45 @@ N
 Российской Федерации, субсидий (грантов), предоставляемых на конкурсной
 основе из соответствующих бюджетов бюджетной системы Российской
 Федерации, если условиями, определенными грантодателями, не установлено
-иное; (в ред. Федеральных законов [[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5),
-[[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3))
+иное; (в ред. Федеральных законов от 29.06.2018 N
+174-ФЗ,
+от 01.05.2019 N
+70-ФЗ)
 
 б) в качестве исполнителя по контракту в случае привлечения на основании
 договора в ходе исполнения данного контракта иных лиц для поставки
 товара, выполнения работы или оказания услуги, необходимых для
 исполнения предусмотренных контрактом обязательств данного предприятия,
 за исключением случаев исполнения предприятием контракта, заключенного в
-соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1654)
+соответствии с пунктом
+2
 части 1 статьи 93 настоящего Федерального закона; (в ред. Федерального
-закона [[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5))
+закона от 29.06.2018 N
+174-ФЗ)
 
 в) без привлечения средств соответствующих бюджетов бюджетной системы
-Российской Федерации. (в ред. Федерального закона [[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5))
+Российской Федерации. (в ред. Федерального закона от 29.06.2018 N
+174-ФЗ)
 
 3\. Принятое бюджетным учреждением или государственным, муниципальным
 унитарными предприятиями решение об осуществлении указанных
 соответственно в пунктах 1 - 3 части 2 и подпунктах \"а\" - \"в\" пункта
 2 части 2.1 настоящей статьи закупок в порядке, установленном настоящим
-Федеральным законом, или в соответствии с Федеральным законом [[от 18
+Федеральным законом, или в соответствии с Федеральным законом от 18
 июля 2011 года N
-223-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455403#l0)
+223-ФЗ
 \"О закупках товаров, работ, услуг отдельными видами юридических лиц\"
 не может быть изменено в текущем году, если иное не установлено
-настоящим Федеральным законом. (в ред. Федеральных законов [[от
+настоящим Федеральным законом. (в ред. Федеральных законов от
 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l8),
-[[от 07.06.2017 N
-108-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=294914#l6),
-[[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5))
+321-ФЗ,
+от 07.06.2017 N
+108-ФЗ,
+от 29.06.2018 N
+174-ФЗ)
 
 4\. При предоставлении в соответствии с Бюджетным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодексом
 Российской Федерации и иными нормативными правовыми актами,
 регулирующими бюджетные правоотношения, средств из бюджетов бюджетной
 системы Российской Федерации автономным учреждениям на осуществление
@@ -1590,50 +1590,50 @@ N
 ими закупок за счет указанных средств распространяются положения
 настоящего Федерального закона, регулирующие отношения, указанные в
 пунктах
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13) -
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l15)
+1 -
+3
 части 1 статьи 1 настоящего Федерального закона. При этом в отношении
 таких юридических лиц при осуществлении этих закупок применяются
 положения настоящего Федерального закона, регулирующие мониторинг
 закупок, аудит в сфере закупок и контроль в сфере закупок. (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1058),
-[[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l8))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 31.12.2014 N
+498-ФЗ,
+от 03.07.2016 N
+321-ФЗ)
 
 4.1. При предоставлении в соответствии с бюджетным законодательством
 Российской Федерации юридическим лицам субсидий, предусмотренных
 пунктами
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l17622)
+8
 и
-[[8.1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l14298)
+8.1
 статьи 78 и подпунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l14096)
+3
 и
-[[3.1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l15816)
+3.1
 пункта 1 статьи 78.3 Бюджетного кодекса Российской Федерации, на
 юридические лица, определенные указанными статьями, при осуществлении
 ими закупок, предусмотренных указанными статьями, распространяются
 положения настоящего Федерального закона, регулирующие отношения,
 указанные в пунктах
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l14)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l15)
+3
 части 1 статьи 1 настоящего Федерального закона. При этом в отношении
 таких юридических лиц при осуществлении ими этих закупок применяются
 положения настоящего Федерального закона, регулирующие мониторинг
 закупок, аудит в сфере закупок, а также контроль в сфере закупок,
-предусмотренный [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1822)
+предусмотренный частью
+3
 статьи 99 настоящего Федерального закона. (в ред. Федеральных законов
-[[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5),
-[[от 02.07.2021 N
-344-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395340#l182),
-[[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l36))
+от 29.06.2018 N
+174-ФЗ,
+от 02.07.2021 N
+344-ФЗ,
+от 11.06.2022 N
+160-ФЗ)
 
 4.2. Публично-правовая компания \"Единый заказчик в сфере
 строительства\" осуществляет закупки в целях выполнения инженерных
@@ -1642,28 +1642,28 @@ N
 строительства в соответствии с программой деятельности указанной
 публично-правовой компании на текущий год и плановый период за счет
 средств федерального бюджета в соответствии с требованиями настоящего
-Федерального закона. (в ред. Федерального закона [[от 22.12.2020 N
-435-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=379039#l47))
+Федерального закона. (в ред. Федерального закона от 22.12.2020 N
+435-ФЗ)
 
 4.3. При предоставлении в соответствии с бюджетным законодательством
 Российской Федерации Фонду по сохранению и развитию Соловецкого
-архипелага субсидий, предусмотренных [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l10108)
+архипелага субсидий, предусмотренных пунктом
+2
 статьи 78.1 Бюджетного кодекса Российской Федерации, на этот Фонд при
 осуществлении им закупок за счет указанных субсидий распространяются
 положения настоящего Федерального закона, регулирующие отношения,
 указанные в пунктах
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l12)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l15)
+3
 части 1 статьи 1 настоящего Федерального закона. (в ред. Федерального
-закона [[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l19))
+закона от 01.07.2021 N
+277-ФЗ)
 
 5\. При предоставлении в соответствии с бюджетным законодательством
 Российской Федерации юридическому лицу средств, указанных в абзаце
-втором [[пункта
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l11735)
+втором пункта
+1
 статьи 80 Бюджетного кодекса Российской Федерации, на юридическое лицо,
 которому предоставлены указанные средства, при осуществлении им закупок
 за счет указанных средств распространяются положения настоящего
@@ -1675,17 +1675,17 @@ N
 такого юридического лица при осуществлении им этих закупок применяются
 положения настоящего Федерального закона, регулирующие мониторинг
 закупок, аудит в сфере закупок, контроль в сфере закупок органами
-контроля, указанными в [[пункте
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1818)
+контроля, указанными в пункте
+1
 части 1 статьи 99 настоящего Федерального закона, при определении
-поставщика (подрядчика, исполнителя). (в ред. Федеральных законов [[от
+поставщика (подрядчика, исполнителя). (в ред. Федеральных законов от
 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l5),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l1))
+174-ФЗ,
+от 01.04.2019 N
+50-ФЗ)
 
 6\. В случае, если в соответствии с Бюджетным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодексом
 Российской Федерации государственные органы, органы управления
 государственными внебюджетными фондами, органы местного самоуправления,
 Государственная корпорация по атомной энергии \"Росатом\" или
@@ -1703,37 +1703,37 @@ N
 корпораций закупки товаров, работ, услуг в соответствии с положениями
 настоящего Федерального закона, которые регулируют деятельность
 государственного и муниципального заказчиков. (в ред. Федеральных
-законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231),
-[[от 29.06.2018 N
-174-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=315835#l13))
+законов от 31.12.2014 N
+498-ФЗ,
+от 13.07.2015 N
+216-ФЗ,
+от 29.06.2018 N
+174-ФЗ)
 
 7\. В случае, если законодательством Российской Федерации с целью
 заключения гражданско-правового договора (контракта) в рамках отношений,
-не указанных в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l12)
+не указанных в части
+1
 статьи 1 настоящего Федерального закона, предусмотрена обязанность
 проведения конкурсов и аукционов или использования иных способов
 определения поставщика (подрядчика, исполнителя) в соответствии с
 настоящим Федеральным законом, то при их проведении положения статей
-[[14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136),
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7525),
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372) -
-[[30]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6702),
-[[34]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l470),
-[[35]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7486)
+14,
+23,
+28 -
+30,
+34,
+35
 настоящего Федерального закона не применяются, если иное не
 предусмотрено законодательством Российской Федерации. (в ред.
-Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 **Глава 2. ПЛАНИРОВАНИЕ**
 
-**Статья 16. Планирование закупок (в ред. Федерального закона [[от
+**Статья 16. Планирование закупок (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))**
+71-ФЗ)**
 
 1\. Планирование закупок осуществляется посредством формирования,
 утверждения и ведения планов-графиков. Закупки, не предусмотренные
@@ -1742,8 +1742,8 @@ N
 2\. В планы-графики включаются:
 
 1\) идентификационные коды закупок, определенные в соответствии со
-[[статьей
-23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7525)
+статьей
+23
 настоящего Федерального закона;
 
 2\) наименование объекта и (или) наименования объектов закупок;
@@ -1753,11 +1753,11 @@ N
 4\) сроки (периодичность) осуществления планируемых закупок;
 
 5\) информация об общественном обсуждении закупок в соответствии со
-[[статьей
-20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l204)
-настоящего Федерального закона; (в ред. Федерального закона [[от
+статьей
+20
+настоящего Федерального закона; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1611))
+360-ФЗ)
 
 6\) иная информация, определенная порядком, предусмотренным пунктом 2
 части 3 настоящей статьи.
@@ -1770,27 +1770,27 @@ N
 изменений в такие планы-графики;
 
 3\) порядок размещения планов-графиков в единой информационной системе,
-на официальном сайте. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1612))
+на официальном сайте. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\. Правительство Российской Федерации вправе установить особенности
 включения в план-график информации о централизованных закупках,
 совместных конкурсах и аукционах, закупках, при осуществлении которых
 применяются закрытые способы определения поставщиков (подрядчиков,
 исполнителей), а также об отдельных закупках, предусмотренных
-[[подпунктом
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8621)
-пункта 2 части 10 статьи 24, [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7053)
+подпунктом
+\"г\"
+пункта 2 части 10 статьи 24, частью
+1
 статьи 93, статьями
-[[111]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7187)
+111
 и
-[[111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
-настоящего Федерального закона. (в ред. Федеральных законов [[от
+111.4
+настоящего Федерального закона. (в ред. Федеральных законов от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1612),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l5))
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 5\. Планы-графики формируются на срок, соответствующий сроку действия
 федерального закона о федеральном бюджете на очередной финансовый год и
@@ -1828,8 +1828,8 @@ N
 8\. Планы-графики подлежат изменению при необходимости:
 
 1\) приведения их в соответствие в связи с изменением установленных в
-соответствии со [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192)
+соответствии со статьей
+19
 настоящего Федерального закона требований к закупаемым заказчиками
 товарам, работам, услугам (в том числе предельной цены товаров, работ,
 услуг) и (или) нормативных затрат на обеспечение функций государственных
@@ -1846,11 +1846,11 @@ N
 субсидий;
 
 3\) реализации решения, принятого заказчиком по итогам общественного
-обсуждения закупки в соответствии со [[статьей
-20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l204)
-настоящего Федерального закона; (в ред. Федерального закона [[от
+обсуждения закупки в соответствии со статьей
+20
+настоящего Федерального закона; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1612))
+360-ФЗ)
 
 4\) использования в соответствии с законодательством Российской
 Федерации экономии, полученной при осуществлении закупки;
@@ -1864,61 +1864,61 @@ N
 соответствующей закупки или направления приглашения принять участие в
 определении поставщика (подрядчика, исполнителя) закрытым способом либо
 в случае заключения контракта с единственным поставщиком (подрядчиком,
-исполнителем) в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7053)
+исполнителем) в соответствии с частью
+1
 статьи 93 настоящего Федерального закона - не позднее чем за один день
 до дня заключения контракта.
 
-10\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1612))
+10\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 11\. Особенности планирования закупок в рамках государственного
-оборонного заказа устанавливаются Федеральным законом [[от 29 декабря
+оборонного заказа устанавливаются Федеральным законом от 29 декабря
 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+275-ФЗ
 \"О государственном оборонном заказе\".
 
-**Статья 17. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 17. - Утратила силу. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))**
+71-ФЗ)**
 
 **Статья 18. Обоснование закупок**
 
 1\. В целях настоящего Федерального закона обоснованной признается
 закупка, осуществляемая в соответствии с положениями статей
-[[19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192)
+19
 и
-[[22]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l236)
-настоящего Федерального закона. (в ред. Федерального закона [[от
+22
+настоящего Федерального закона. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
-2-3. Части утратили силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+2-3. Части утратили силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 4\. Оценка обоснованности осуществления закупок проводится в ходе аудита
 в сфере закупок и контроля в сфере закупок в соответствии с настоящим
-Федеральным законом. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федеральным законом. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 5\. По результатам аудита в сфере закупок и контроля в сфере закупок
 конкретная закупка может быть признана необоснованной. (в ред.
-Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 6\. В случае признания планируемой закупки необоснованной органы
-контроля, указанные в [[пункте
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1820)
+контроля, указанные в пункте
+3
 части 1 статьи 99 настоящего Федерального закона, выдают предписания об
 устранении выявленных нарушений законодательства Российской Федерации и
 иных нормативных правовых актов о контрактной системе в сфере закупок и
 привлекают к административной ответственности лиц, виновных в нарушениях
 требований настоящего Федерального закона, в порядке, установленном
-[[Кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458169#l0)
+Кодексом
 Российской Федерации об административных правонарушениях.
 
-7\. Часть утратила силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+7\. Часть утратила силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 **Статья 19. Нормирование в сфере закупок**
 
@@ -1931,10 +1931,10 @@ N
 учреждения, за исключением казенных учреждений, которым в установленном
 порядке формируется государственное (муниципальное) задание на оказание
 государственных (муниципальных) услуг, выполнение работ). (в ред.
-Федеральных законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l10))
+Федеральных законов от 31.12.2014 N
+498-ФЗ,
+от 03.07.2016 N
+321-ФЗ)
 
 2\. Для целей настоящей статьи под требованиями к закупаемым заказчиком
 товарам, работам, услугам понимаются требования к количеству,
@@ -1943,8 +1943,8 @@ N
 государственные и муниципальные нужды, но не приводящие к закупкам
 товаров, работ, услуг, которые имеют избыточные потребительские свойства
 или являются предметами роскоши в соответствии с законодательством
-Российской Федерации. (в ред. Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+Российской Федерации. (в ред. Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 3\. Правительство Российской Федерации устанавливает общие правила
 нормирования в сфере закупок для обеспечения государственных и
@@ -1960,8 +1960,8 @@ N
 государственных органов, органов управления государственными
 внебюджетными фондами, муниципальных органов (включая соответственно
 территориальные органы и подведомственные казенные учреждения). (в ред.
-Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 4\. Правительство Российской Федерации, высшие исполнительные органы
 государственной власти субъектов Российской Федерации, местные
@@ -1985,10 +1985,10 @@ N
 государственных органов, органов управления государственными
 внебюджетными фондами, муниципальных органов (включая соответственно
 территориальные органы и подведомственные казенные учреждения). (в ред.
-Федеральных законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l29))
+Федеральных законов от 31.12.2014 N
+498-ФЗ,
+от 03.07.2016 N
+321-ФЗ)
 
 4.1. Установленные Правительством Российской Федерации общие правила
 нормирования, предусмотренные частью 3 настоящей статьи, и правила
@@ -1996,16 +1996,16 @@ N
 распространяются на Государственную корпорацию по атомной энергии
 \"Росатом\", Государственную корпорацию по космической деятельности
 \"Роскосмос\", на определенные в соответствии с Бюджетным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодексом
 Российской Федерации наиболее значимые учреждения науки, образования,
-культуры и здравоохранения. (в ред. Федерального закона [[от 31.12.2017
+культуры и здравоохранения. (в ред. Федерального закона от 31.12.2017
 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 5\. Государственные органы, органы управления государственными
 внебюджетными фондами, муниципальные органы, определенные в соответствии
 с Бюджетным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодексом
 Российской Федерации наиболее значимые учреждения науки, образования,
 культуры и здравоохранения на основании правил нормирования,
 установленных в соответствии с частью 4 настоящей статьи, утверждают
@@ -2015,8 +2015,8 @@ N
 предприятиями отдельным видам товаров, работ, услуг (в том числе
 предельные цены товаров, работ, услуг) и (или) нормативные затраты на
 обеспечение функций указанных органов и подведомственных им казенных
-учреждений. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+учреждений. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 6\. Правила нормирования, требования к отдельным видам товаров, работ,
 услуг (в том числе предельные цены товаров, работ, услуг) и (или)
@@ -2024,8 +2024,8 @@ N
 органов управления государственными внебюджетными фондами, муниципальных
 органов (включая соответственно территориальные органы и
 подведомственные казенные учреждения) подлежат размещению в единой
-информационной системе. (в ред. Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+информационной системе. (в ред. Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 7\. Государственная корпорация по атомной энергии \"Росатом\",
 Государственная корпорация по космической деятельности \"Роскосмос\"
@@ -2033,13 +2033,13 @@ N
 частью 4 настоящей статьи, требования к закупаемым ими и
 подведомственными им организациями отдельным видам товаров, работ, услуг
 (в том числе предельные цены товаров, работ, услуг) и (или) нормативные
-затраты на обеспечение их функций. (в ред. Федерального закона [[от
+затраты на обеспечение их функций. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 **Статья 20. Общественное обсуждение закупок (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1613))**
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. Общественное обсуждение закупок проводится заказчиком в целях
 публичного обсуждения соответствия планируемой закупки требованиям
@@ -2071,13 +2071,13 @@ N
 5\. Общественное обсуждение закупки начинается с момента размещения в
 единой информационной системе плана-графика, содержащего информацию о
 закупке, подлежащей общественному обсуждению, и заканчивается в
-последний день срока, предусмотренного в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l512)
+последний день срока, предусмотренного в соответствии с частью
+1
 статьи 36 настоящего Федерального закона для отмены закупки. В случае
 отмены закупки в соответствии с настоящим Федеральным законом
 общественное обсуждение такой закупки заканчивается с момента размещения
-в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l512)
+в соответствии с частью
+2
 статьи 36 настоящего Федерального закона в единой информационной системе
 извещения об отмене закупки. При этом, если настоящим Федеральным
 законом не предусмотрено формирование плана-графика, общественное
@@ -2092,15 +2092,15 @@ N
 предложений на официальном сайте после регистрации в единой
 информационной системе, осуществляемой для целей участия в общественном
 обсуждении закупок в соответствии с порядком функционирования такой
-информационной системы, установленным в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l68)
+информационной системы, установленным в соответствии с частью
+2
 статьи 4 настоящего Федерального закона. Такие замечания и (или)
 предложения размещаются на официальном сайте после прохождения
 предварительной проверки на предмет исключения замечаний и (или)
 предложений, содержащих нецензурную брань, осуществляемой одним или
 несколькими федеральными органами исполнительной власти, определенными в
-соответствии с [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l89)
+соответствии с частью
+6
 статьи 4 настоящего Федерального закона, не позднее одного дня,
 следующего за днем их поступления.
 
@@ -2115,15 +2115,15 @@ N
 Федеральным законом внести изменения в план-график, извещение об
 осуществлении закупки, проект контракта или отменить закупку.
 
-**Статья 21. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 21. - Утратила силу. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))**
+71-ФЗ)**
 
 **Статья 22. Начальная (максимальная) цена контракта, цена контракта,
 заключаемого с единственным поставщиком (подрядчиком, исполнителем),
 начальная сумма цен единиц товара, работы, услуги (в ред. Федерального
-закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))**
+закона от 01.05.2019 N
+71-ФЗ)**
 
 1\. Начальная (максимальная) цена контракта и в предусмотренных
 настоящим Федеральным законом случаях цена контракта, заключаемого с
@@ -2169,8 +2169,8 @@ N
 информации заказчиком), а также информация, полученная в результате
 размещения запросов цен товаров, работ, услуг в единой информационной
 системе (в случае получения такой информации заказчиком). (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 6\. Метод сопоставимых рыночных цен (анализа рынка) является
 приоритетным для определения и обоснования начальной (максимальной) цены
@@ -2181,8 +2181,8 @@ N
 7\. Нормативный метод заключается в расчете начальной (максимальной)
 цены контракта, цены контракта, заключаемого с единственным поставщиком
 (подрядчиком, исполнителем), на основе требований к закупаемым товарам,
-работам, услугам, установленных в соответствии со [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192)
+работам, услугам, установленных в соответствии со статьей
+19
 настоящего Федерального закона в случае, если такие требования
 предусматривают установление предельных цен товаров, работ, услуг.
 
@@ -2193,8 +2193,8 @@ N
 актами. В этом случае начальная (максимальная) цена контракта, цена
 контракта, заключаемого с единственным поставщиком (подрядчиком,
 исполнителем), определяются по регулируемым ценам (тарифам) на товары,
-работы, услуги. (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1062))
+работы, услуги. (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 9\. Проектно-сметный метод заключается в определении начальной
 (максимальной) цены контракта, цены контракта, заключаемого с
@@ -2208,10 +2208,10 @@ N
 исполнительной власти, осуществляющим функции по выработке
 государственной политики и нормативно-правовому регулированию в сфере
 строительства, или органом исполнительной власти субъекта Российской
-Федерации; (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1062),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федерации; (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 2\) проведение работ по сохранению объектов культурного наследия
 (памятников истории и культуры) народов Российской Федерации, за
@@ -2228,8 +2228,8 @@ N
 обосновании начальной (максимальной) цены контракта, цены контракта,
 заключаемого с единственным поставщиком (подрядчиком, исполнителем), на
 текущий ремонт зданий, строений, сооружений, помещений. (в ред.
-Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 9.2. Определение начальной (максимальной) цены контракта, цены
 контракта, заключаемого с единственным поставщиком (подрядчиком,
@@ -2239,11 +2239,11 @@ N
 проектно-сметного метода осуществляется в порядке, установленном
 настоящим Федеральным законом, исходя из сметной стоимости
 строительства, реконструкции, капитального ремонта объектов капитального
-строительства, определенной в соответствии со [[статьей
-8.3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l3255)
+строительства, определенной в соответствии со статьей
+8.3
 Градостроительного кодекса Российской Федерации. (в ред. Федерального
-закона [[от 27.06.2019 N
-151-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=416487#l474))
+закона от 27.06.2019 N
+151-ФЗ)
 
 10\. Затратный метод применяется в случае невозможности применения иных
 методов, предусмотренных пунктами 1 - 4 части 1 настоящей статьи, или в
@@ -2262,8 +2262,8 @@ N
 общедоступных источников информации, в том числе информации
 информационно-ценовых агентств, общедоступных результатов изучения
 рынка, а также результатов изучения рынка, проведенного по инициативе
-заказчика. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1619))
+заказчика. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 12\. В случае невозможности применения для определения начальной
 (максимальной) цены контракта, цены контракта, заключаемого с
@@ -2305,8 +2305,8 @@ N
 коммерческих и (или) финансовых условий поставок товаров, выполнения
 работ, оказания услуг может осуществляться в соответствии с
 методическими рекомендациями, предусмотренными частью 20 настоящей
-статьи. (в ред. Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+статьи. (в ред. Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 18\. К общедоступной информации о ценах товаров, работ, услуг для
 обеспечения государственных и муниципальных нужд, которая может быть
@@ -2325,8 +2325,8 @@ N
 законодательством публичными офертами;
 
 3\) информация о котировках на российских биржах; (в ред. Федерального
-закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+закона от 16.04.2022 N
+104-ФЗ)
 
 4\) информация о котировках на электронных площадках;
 
@@ -2355,8 +2355,8 @@ N
 исполнителем), с использованием иностранной валюты не допускается, за
 исключением случая обоснования и определения таких цен заказчиком,
 осуществляющим деятельность на территории иностранного государства. (в
-ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 19\. Правительство Российской Федерации вправе установить для отдельных
 видов, групп товаров, работ, услуг для обеспечения государственных и
@@ -2370,8 +2370,8 @@ N
 единственным поставщиком (подрядчиком, исполнителем), начальной цены
 единицы товара, работы, услуги устанавливаются федеральным органом
 исполнительной власти по регулированию контрактной системы в сфере
-закупок. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+закупок. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 20.1. Высшим исполнительным органом государственной власти субъекта
 Российской Федерации в дополнение к методическим рекомендациям,
@@ -2385,22 +2385,22 @@ N
 контракта, цены контракта, заключаемого с единственным поставщиком
 (подрядчиком, исполнителем), начальной цены единицы товара, работы,
 услуги в соответствии с частью 12 настоящей статьи. (в ред. Федеральных
-законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1062),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+законов от 28.12.2013 N
+396-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 21\. Особенности определения начальной (максимальной) цены контракта,
 цены контракта, заключаемого с единственным поставщиком (подрядчиком,
 исполнителем), начальной цены единицы товара, работы, услуги при
 осуществлении включаемых в состав государственного оборонного заказа
 закупок товаров, работ, услуг для обеспечения федеральных нужд
-устанавливаются в соответствии с Федеральным законом [[от 29 декабря
+устанавливаются в соответствии с Федеральным законом от 29 декабря
 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
-\"О государственном оборонном заказе\". (в ред. Федерального закона [[от
+275-ФЗ
+\"О государственном оборонном заказе\". (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 21.1. Особенности определения цены контракта, заключаемого с
 единственным поставщиком, подрядчиком, исполнителем, при приобретении
@@ -2414,23 +2414,23 @@ N
 стандартного жилья, для комплексного развития территории, в рамках
 которого предусматриваются в том числе строительство в минимально
 требуемом объеме стандартного жилья и иное жилищное строительство, в
-соответствии с Федеральным законом [[от 24 июля 2008 года N
-161-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=451620#l0)
+соответствии с Федеральным законом от 24 июля 2008 года N
+161-ФЗ
 \"О содействии развитию жилищного строительства, созданию объектов
 туристской инфраструктуры и иному развитию территорий\", устанавливаются
-указанным Федеральным законом. (в ред. Федеральных законов [[от
+указанным Федеральным законом. (в ред. Федеральных законов от
 24.11.2014 N
-356-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306268#l654),
-[[от 08.03.2015 N
-48-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=266763#l506),
-[[от 23.06.2016 N
-221-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306267#l528),
-[[от 31.12.2017 N
-506-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305913#l138),
-[[от 30.12.2020 N
-494-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380282#l213),
-[[от 14.02.2024 N
-17-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=465428#l95))
+356-ФЗ,
+от 08.03.2015 N
+48-ФЗ,
+от 23.06.2016 N
+221-ФЗ,
+от 31.12.2017 N
+506-ФЗ,
+от 30.12.2020 N
+494-ФЗ,
+от 14.02.2024 N
+17-ФЗ)
 
 21.2. Особенности определения начальной (максимальной) цены контракта,
 цены контракта, заключаемого с единственным подрядчиком, на выполнение
@@ -2439,8 +2439,8 @@ N
 транспортом, устанавливаются федеральным законом, регулирующим отношения
 по организации регулярных перевозок пассажиров и багажа автомобильным
 транспортом и городским наземным электрическим транспортом. (в ред.
-Федерального закона [[от 13.07.2015 N
-220-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450807#l210))
+Федерального закона от 13.07.2015 N
+220-ФЗ)
 
 22\. Правительство Российской Федерации вправе определить сферы
 деятельности, в которых при осуществлении закупок устанавливается
@@ -2451,10 +2451,10 @@ N
 атомной энергии \"Росатом\", Государственную корпорацию по космической
 деятельности \"Роскосмос\", уполномоченные устанавливать такой порядок с
 учетом положений настоящего Федерального закона. (в ред. Федеральных
-законов [[от 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+законов от 13.07.2015 N
+216-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 23\. В информации и документах, подлежащих в соответствии с настоящим
 Федеральным законом размещению в единой информационной системе,
@@ -2464,14 +2464,14 @@ N
 работы, услуги, максимальное значение цены контракта (в случае, если
 количество поставляемых товаров, объем подлежащих выполнению работ,
 оказанию услуг невозможно определить) указываются с использованием
-единой информационной системы. (в ред. Федерального закона [[от
+единой информационной системы. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 24\. В случае, если количество поставляемых товаров, объем подлежащих
 выполнению работ, оказанию услуг невозможно определить, заказчик с
-учетом установленных в соответствии со [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192)
+учетом установленных в соответствии со статьей
+19
 настоящего Федерального закона требований к закупаемым заказчиком
 товару, работе, услуге (в том числе предельной цены товара, работы,
 услуги) и (или) нормативных затрат на обеспечение функций
@@ -2484,9 +2484,9 @@ N
 начальной (максимальной) цены контракта, в том числе для расчета размера
 обеспечения заявки или обеспечения исполнения контракта, применяются к
 максимальному значению цены контракта, если настоящим Федеральным
-законом не установлено иное. (в ред. Федерального закона [[от 01.05.2019
+законом не установлено иное. (в ред. Федерального закона от 01.05.2019
 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 25\. Для целей выполнения заказчиком минимальной доли закупок
 Правительство Российской Федерации устанавливает особенности определения
@@ -2497,8 +2497,8 @@ N
 технических и качественных характеристик, эксплуатационных характеристик
 российских товаров, в том числе содержащихся в каталоге товаров, работ,
 услуг для обеспечения государственных и муниципальных нужд. (в ред.
-Федерального закона [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l5))
+Федерального закона от 31.07.2020 N
+249-ФЗ)
 
 **Статья 23. Идентификационный код закупки, каталог товаров, работ,
 услуг для обеспечения государственных и муниципальных нужд**
@@ -2511,23 +2511,23 @@ N
 документах, подлежащих в соответствии с настоящим Федеральным законом
 размещению в единой информационной системе, идентификационный код
 закупки указывается с использованием единой информационной системы. (в
-ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 2\. Идентификационный код закупки обеспечивает взаимосвязь документов,
-указанных в части 1 настоящей статьи. (в ред. Федерального закона [[от
+указанных в части 1 настоящей статьи. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 3\. Порядок формирования идентификационного кода закупки, в том числе
 его состав и структура в зависимости от целей применения,
 устанавливается федеральным органом исполнительной власти по
 регулированию контрактной системы в сфере закупок. (в ред. Федерального
-закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+закона от 01.05.2019 N
+71-ФЗ)
 
-4\. Часть утратила силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+4\. Часть утратила силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 5\. Формирование и ведение в единой информационной системе каталога
 товаров, работ, услуг для обеспечения государственных и муниципальных
@@ -2544,8 +2544,8 @@ N
 **§ 1. Общие положения**
 
 **Статья 24. Способы определения поставщиков (подрядчиков, исполнителей)
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1619))**
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. Заказчики при осуществлении закупок применяют конкурентные способы
 определения поставщиков (подрядчиков, исполнителей) (далее -
@@ -2578,8 +2578,8 @@ N
 осуществляемая в соответствии с частью 12 статьи 93 настоящего
 Федерального закона, считаются также электронными процедурами, а
 закрытый электронный конкурс, закрытый электронный аукцион - закрытыми
-электронными процедурами. (в ред. Федерального закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l34))
+электронными процедурами. (в ред. Федерального закона от 25.12.2023 N
+624-ФЗ)
 
 4\. Победителем конкурса признается участник закупки, который предложил
 лучшие условия исполнения контракта и заявка на участие в закупке
@@ -2593,12 +2593,12 @@ N
 настоящим Федеральным законом предусмотрена документация о закупке), и
 который предложил по результатам проведения процедуры подачи предложений
 о цене контракта или о сумме цен единиц товара, работы, услуги (в
-случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) наиболее низкую цену
 контракта, наименьшую сумму цен таких единиц либо в случае,
-предусмотренном [[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9043)
+предусмотренном пунктом
+9
 части 3 статьи 49 настоящего Федерального закона, - наиболее высокий
 размер платы, подлежащей внесению участником закупки за заключение
 контракта.
@@ -2624,8 +2624,8 @@ N
 участие в закупке которого соответствует требованиям, установленным в
 извещении об осуществлении закупки, и который предложил наиболее низкую
 цену контракта, наименьшую сумму цен единиц товаров, работ, услуг (в
-случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона).
 
 10\. Заказчик вправе проводить в соответствии с настоящим Федеральным
@@ -2633,8 +2633,8 @@ N
 
 ***До 31.12.2026 года не действуют установленные пунктом 1 части 10
 статьи 24 ограничения размера годового объема закупок, осуществляемых
-путем проведения электронного запроса котировок ([[часть
-75]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l10129)
+путем проведения электронного запроса котировок (часть
+75
 статьи 112).***
 
 1\) в случае, если при осуществлении закупки начальная (максимальная)
@@ -2646,11 +2646,11 @@ N
 составил менее пятисот миллионов рублей. Правительство Российской
 Федерации вправе принять решение об увеличении начальной (максимальной)
 цены контракта и годового объема закупок в целях закупки отдельных
-наименований медицинских изделий; (в ред. Федеральных законов [[от
+наименований медицинских изделий; (в ред. Федеральных законов от
 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+46-ФЗ,
+от 28.04.2023 N
+154-ФЗ)
 
 2\) независимо от начальной (максимальной) цены контракта и годового
 объема закупок, предусмотренных пунктом 1 настоящей части, в случае
@@ -2658,17 +2658,17 @@ N
 
 а) закупки, по результатам которой заключается контракт на поставку
 товаров, необходимых для нормального жизнеобеспечения граждан; (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 б) закупки товаров, работ или услуг, являющихся предметом контракта,
 расторжение которого осуществлено заказчиком на основании части
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1754)
+9
 или
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9482)
+15
 статьи 95 настоящего Федерального закона. При этом такая закупка
-осуществляется с учетом положений [[части
-18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9523)
+осуществляется с учетом положений части
+18
 статьи 95 настоящего Федерального закона;
 
 в) закупок заказчиком, осуществляющим деятельность на территории
@@ -2736,11 +2736,11 @@ N
 размещены заказчиком в единой информационной системе, контракты с
 единственным поставщиком (подрядчиком, исполнителем), которые заключены
 до включения такого заказчика в перечень, предусмотренный пунктом 5
-части 11 статьи 24 (в редакции Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97)),
+части 11 статьи 24 (в редакции Федерального закона от 16.04.2022 N
+104-ФЗ),
 завершаются по правилам, действовавшим на дату размещения такого
-извещения, заключения такого контракта ([[пункт
-10]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l137)
+извещения, заключения такого контракта (пункт
+10
 статьи 6 Федерального закона от 16.04.2022 N 104-ФЗ).***
 
 5\) закупок товаров, работ, услуг заказчиками, являющимися федеральными
@@ -2759,8 +2759,8 @@ N
 (межгосударственными) учреждениями иностранных государств,
 государственных объединений и (или) союзов введены меры ограничительного
 характера. Перечень указанных заказчиков утверждается Правительством
-Российской Федерации; (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Российской Федерации; (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 6\) закупок на создание, модернизацию, поставку, ремонт, сервисное
 обслуживание, утилизацию вооружения, военной и специальной техники;
@@ -2780,9 +2780,9 @@ N
 13\. В случаях, указанных в пунктах 3 - 7 части 11, части 12 настоящей
 статьи, проводятся закрытые электронные процедуры в соответствии со
 статьями
-[[75]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9261)
+75
 и
-[[76]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9387)
+76
 настоящего Федерального закона. Правительство Российской Федерации
 вправе установить:
 
@@ -2798,33 +2798,33 @@ N
 14\. При проведении закрытого конкурса, закрытого аукциона могут
 выделяться лоты, в отношении которых в приглашении, в документации о
 закупке отдельно указываются объект закупки, начальная (максимальная)
-цена контракта и ее обоснование в соответствии со [[статьей
-22]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8605)
+цена контракта и ее обоснование в соответствии со статьей
+22
 настоящего Федерального закона, размер обеспечения заявки на участие в
 закупке (если требование об обеспечении заявки на участие в закупке
-установлено заказчиком в соответствии со [[статьей
-44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8862)
+установлено заказчиком в соответствии со статьей
+44
 настоящего Федерального закона), сроки и иные условия поставки товара,
 выполнения работы или оказания услуги, размер обеспечения исполнения
 контракта (если требование об обеспечении исполнения контракта
-установлено заказчиком в соответствии со [[статьей
-96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1781)
+установлено заказчиком в соответствии со статьей
+96
 настоящего Федерального закона), размер обеспечения гарантийных
 обязательств (если требование об обеспечении гарантийных обязательств
-установлено заказчиком в соответствии со [[статьей
-96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1781)
+установлено заказчиком в соответствии со статьей
+96
 настоящего Федерального закона). В этих случаях участник закупки подает
 одну заявку в отношении определенного лота. Заказчик вправе в
-соответствии со [[статьей
-36]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6749)
+соответствии со статьей
+36
 настоящего Федерального закона отменить закупку в отношении
 определенного лота. Закупка признается несостоявшейся в предусмотренных
 настоящим Федеральным законом случаях в части определенного лота. В
 отношении каждого лота заключается отдельный контракт.
 
 **Статья 24.1. Особенности проведения электронных процедур, закрытых
-электронных процедур (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))**
+электронных процедур (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)**
 
 1\. Проведение электронных процедур, закрытых электронных процедур, в
 том числе направление участниками закупок запросов о даче разъяснений
@@ -2841,8 +2841,8 @@ N
 оператор специализированной электронной площадки не вправе отказаться от
 проведения электронной процедуры, закрытой электронной процедуры на
 такой электронной площадке, специализированной электронной площадке
-соответственно. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1640))
+соответственно. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Правительством Российской Федерации устанавливаются:
 
@@ -2891,14 +2891,14 @@ N
 на осуществление контроля в сфере закупок, и оператором электронной
 площадки, оператором специализированной электронной площадки (далее в
 настоящей статье - соглашение), а также требования к обеспечению
-исполнения обязательств по соглашению; (в ред. Федерального закона [[от
+исполнения обязательств по соглашению; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1640))
+360-ФЗ)
 
 2\) дополнительные требования к оператору электронной площадки и
 функционированию электронной площадки в рамках отношений, указанных в
-[[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+части
+1
 статьи 1 настоящего Федерального закона. Такие дополнительные требования
 предусматривают в том числе:
 
@@ -2915,8 +2915,8 @@ N
 
 3\) дополнительные требования к оператору специализированной электронной
 площадки и функционированию специализированной электронной площадки в
-рамках отношений, указанных в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l13)
+рамках отношений, указанных в части
+1
 статьи 1 настоящего Федерального закона. Такие дополнительные требования
 предусматривают в том числе:
 
@@ -2981,9 +2981,9 @@ N
 взимать такую плату, в том числе порядок ее взимания, а также определены
 предельные размеры такой платы.
 
-5.-12. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+5.-12. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1640))
+360-ФЗ)
 
 13\. Оператор электронной площадки, оператор специализированной
 электронной площадки обязаны обеспечить непрерывность проведения
@@ -3002,17 +3002,17 @@ N
 определения поставщика (подрядчика, исполнителя), и участие в них
 допускаются без регистрации в единой информационной системе в сфере
 закупок в соответствии со статьей 24.2 данного документа (в редакции
-Федерального закона от 02.07.2021 N 360-ФЗ) ([[пункт
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2725)
+Федерального закона от 02.07.2021 N 360-ФЗ) (пункт
+1
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 **Статья 24.2. Регистрация участников закупок в единой информационной
 системе и их аккредитация на электронных площадках, специализированных
 электронных площадках. Единый реестр участников закупок (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1640))**
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. Регистрация участников закупок в единой информационной системе
 осуществляется в электронной форме на основании информации и документов
@@ -3026,8 +3026,8 @@ N
 Правительством Российской Федерации в соответствии с частью 1 настоящей
 статьи, не допускается. Не допускается взимание с участников закупки
 платы за регистрацию в единой информационной системе. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1640))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\. Не допускается регистрация офшорных компаний в единой информационной
 системе в качестве участников закупок.
@@ -3038,49 +3038,49 @@ N
 Данная аккредитация осуществляется путем информационного взаимодействия
 электронной площадки с единой информационной системой и иными
 государственными информационными системами в соответствии с
-требованиями, установленными в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6680)
+требованиями, установленными в соответствии с частью
+2
 статьи 24.1 настоящего Федерального закона. При аккредитации оператор
 электронной площадки не вправе требовать от участника закупки какие-либо
 документы и (или) информацию.
 
 4.1. Оператор электронной площадки осуществляет ведение реестра
 участников закупок, аккредитованных на электронной площадке, в котором
-должны содержаться: (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+должны содержаться: (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 1\) наименование, фирменное наименование (при наличии), если участником
-закупки является юридическое лицо; (в ред. Федерального закона [[от
+закупки является юридическое лицо; (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 2\) фамилия, имя, отчество (при наличии), если участником закупки
 является физическое лицо, в том числе зарегистрированное в качестве
-индивидуального предпринимателя; (в ред. Федерального закона [[от
+индивидуального предпринимателя; (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 3\) идентификационный номер налогоплательщика участника закупки; (в ред.
-Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 4\) дата осуществления аккредитации в соответствии с настоящей статьей;
-(в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2265))
+(в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 5\) иные информация и документы в случаях, предусмотренных настоящим
-Федеральным законом. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федеральным законом. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 4.2. Реестр участников закупок, аккредитованных на электронной площадке,
 размещается на электронной площадке ее оператором в соответствии с
-требованиями, установленными в соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l301)
+требованиями, установленными в соответствии с пунктом
+2
 части 2 статьи 24.1 настоящего Федерального закона. (в ред. Федерального
-закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+закона от 01.05.2019 N
+71-ФЗ)
 
 4.3. В целях обеспечения доступа к участию в проводимых на
 специализированной электронной площадке закрытых электронных процедурах
@@ -3091,11 +3091,11 @@ N
 аккредитацию такого участника на специализированной электронной площадке
 не позднее рабочего дня, следующего после дня получения такого
 заявления, если иное не установлено Правительством Российской Федерации
-в соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8627)
+в соответствии с пунктом
+2
 части 13 статьи 24 настоящего Федерального закона. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2265))
+закона от 02.07.2021 N
+360-ФЗ)
 
 4.4. Оператор специализированной электронной площадки осуществляет
 ведение реестра участников закупок, аккредитованных на
@@ -3103,11 +3103,11 @@ N
 и документы, предусмотренные частью 4.1 настоящей статьи, путем
 информационного взаимодействия специализированной электронной площадки с
 единой информационной системой в соответствии с требованиями,
-установленными в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8632)
+установленными в соответствии с частью
+2
 статьи 24.1 настоящего Федерального закона. (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2265))
+от 02.07.2021 N
+360-ФЗ)
 
 4.5. Реестр участников закупок, аккредитованных на специализированной
 электронной площадке, не должен быть доступен для ознакомления на
@@ -3115,9 +3115,9 @@ N
 предусмотренные частью 4.1 настоящей статьи и включенные в такой реестр,
 не должны быть доступны для ознакомления на специализированной
 электронной площадке до их направления заказчику в соответствии с
-настоящим Федеральным законом. (в ред. Федерального закона [[от
+настоящим Федеральным законом. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1643))
+360-ФЗ)
 
 5\. Участие участника закупки в электронных процедурах, закрытых
 электронных процедурах, подписание участником закупки, поставщиком
@@ -3127,11 +3127,11 @@ N
 допускаются после регистрации в единой информационной системе и
 аккредитации соответственно на электронной площадке, специализированной
 электронной площадке в соответствии с настоящей статьей. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1643))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-6.-9. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2269))
+6.-9. Части утратили силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 10\. Ведение единого реестра участников закупок осуществляется
 федеральным органом исполнительной власти, уполномоченным Правительством
@@ -3139,8 +3139,8 @@ N
 информацию и документы, перечень которых утвержден Правительством
 Российской Федерации в соответствии с частью 11 настоящей статьи, и
 присвоения номеров таким реестровым записям. (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2269))
+от 02.07.2021 N
+360-ФЗ)
 
 11\. Порядок ведения единого реестра участников закупок, в том числе
 внесения в него изменений, перечень информации и документов, включаемых
@@ -3151,87 +3151,87 @@ N
 площадке закупках отдельных видов товаров, работ, услуг, в отношении
 участников которых установлены дополнительные требования в соответствии
 с частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l412)
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l417)
+2.1
 статьи 31 настоящего Федерального закона, участник закупки,
 аккредитованный на электронной площадке, направляет оператору этой
 электронной площадки в отношении каждого такого вида информацию и
 документы, предусмотренные перечнем, установленным Правительством
-Российской Федерации в соответствии с [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l418)
+Российской Федерации в соответствии с частью
+3
 статьи 31 настоящего Федерального закона. (в ред. Федеральных законов
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2269))
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 12.1. В целях обеспечения доступа к участию в закрытых электронных
 процедурах участник закупки, аккредитованный на специализированной
 электронной площадке, направляет оператору этой специализированной
 электронной площадки электронные документы, подтверждающие соответствие
-участника закупки требованиям, предусмотренным [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l433)
+участника закупки требованиям, предусмотренным пунктом
+1
 части 1 статьи 31 настоящего Федерального закона (при наличии таких
 электронных документов). Помимо указанных электронных документов
 участник закупки вправе направить оператору специализированной
 электронной площадки информацию и документы, предусмотренные перечнем,
 установленным Правительством Российской Федерации в соответствии с
-[[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8718)
+частью
+3
 статьи 31 настоящего Федерального закона, в целях обеспечения доступа к
 участию в проводимых на этой специализированной электронной площадке
 закупках, в отношении участников которых установлены дополнительные
 требования в соответствии с частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8087)
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8707)
+2.1
 статьи 31 настоящего Федерального закона. (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2269))
+от 02.07.2021 N
+360-ФЗ)
 
 13\. В течение пяти рабочих дней со дня, следующего за днем получения в
 соответствии с частями 12 и 12.1 настоящей статьи информации и
 документов, оператор электронной площадки, оператор специализированной
 электронной площадки по каждому виду товаров, работ, услуг, в отношении
 которых участником закупки предоставлены такие информация и документы,
-принимает решение: (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1647))
+принимает решение: (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1\) о размещении таких информации и документов в реестре участников
 закупок, аккредитованных на электронной площадке, реестре участников
 закупок, аккредитованных на специализированной электронной площадке; (в
-ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1647))
+ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) об отказе в размещении таких информации и документов в реестре
 участников закупок, аккредитованных на электронной площадке, реестре
 участников закупок, аккредитованных на специализированной электронной
-площадке, в случае: (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1647))
+площадке, в случае: (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 а) несоответствия перечня представленных информации и документов
 перечню, который установлен Правительством Российской Федерации в
-соответствии с [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l418)
+соответствии с частью
+3
 статьи 31 настоящего Федерального закона; (в ред. Федеральных законов
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1647))
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 б) нарушения порядка, установленного Правительством Российской Федерации
 в соответствии с частью 15 настоящей статьи, при направлении таких
-информации и документов. (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1649))
+информации и документов. (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 14\. Оператор электронной площадки, оператор специализированной
 электронной площадки направляет участнику закупки уведомление о
@@ -3241,20 +3241,20 @@ N
 площадке, в течение одного часа с момента принятия решения,
 предусмотренного частью 13 настоящей статьи. В случае, если принято
 решение об отказе в размещении, такое уведомление должно содержать
-обоснование принятого решения. (в ред. Федеральных законов [[от
+обоснование принятого решения. (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1649))
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 15\. Порядок взаимодействия участника закупки и оператора электронной
 площадки, оператора специализированной электронной площадки, в том числе
 при направлении информации и документов и их рассмотрении в соответствии
 с частями 12, 12.1 и 13 настоящей статьи, устанавливается Правительством
-Российской Федерации. (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1649))
+Российской Федерации. (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 16\. Участник закупки в случае внесения изменений в информацию и (или)
 документы, размещенные в соответствии с пунктом 1 части 13 настоящей
@@ -3269,8 +3269,8 @@ N
 аккредитованных на специализированной электронной площадке, направляют
 уведомления о размещении или об отказе в размещении информации и
 документов в таких реестрах в соответствии с частями 13 и 14 настоящей
-статьи. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1650))
+статьи. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 17\. Ответственность за недостоверность информации и (или) документов,
 направленных оператору электронной площадки, оператору
@@ -3278,13 +3278,13 @@ N
 статьей, за несоответствие указанных информации и (или) документов
 требованиям, установленным законодательством Российской Федерации, за
 действия, совершенные на основании указанных информации и (или)
-документов, несет участник закупки. (в ред. Федерального закона [[от
+документов, несет участник закупки. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1650))
+360-ФЗ)
 
 **Статья 25. Совместные конкурсы и аукционы (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2275))**
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. При осуществлении закупки одних и тех же товаров, работ, услуг
 допускается проведение совместного конкурса или аукциона на основании
@@ -3307,8 +3307,8 @@ N
 2\) извещение об осуществлении закупки, приглашение должны содержать
 начальную (максимальную) цену каждого контракта, заключаемого по
 результатам проведения совместного конкурса или аукциона, и сумму таких
-начальных (максимальных) цен, а в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l277)
+начальных (максимальных) цен, а в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона, - начальную цену единицы
 товара, работы, услуги, а также начальную сумму цен указанных единиц и
 максимальное значение цены каждого контракта, заключаемого по
@@ -3320,8 +3320,8 @@ N
 совместного конкурса или аукциона, предусматривающее снижение
 определенной в соответствии с пунктом 2 настоящей части суммы начальных
 (максимальных) цен всех таких контрактов. В случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона, участник закупки подает
 предложение о сумме цен единиц товара, работы, услуги;
 
@@ -3335,16 +3335,16 @@ N
 уменьшения начальной (максимальной) цены соответствующего контракта
 пропорционально предложенному участником закупки снижению суммы
 начальных (максимальных) цен всех контрактов. В случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона, в проект каждого контракта
 включается максимальное значение цены соответствующего контракта, а
 также цена единицы товара, работы, услуги, которая определяется путем
 уменьшения начальной цены такой единицы пропорционально снижению
 начальной суммы цен указанных единиц, предложенному участником закупки,
-с которым заключается контракт; (в ред. Федерального закона [[от
+с которым заключается контракт; (в ред. Федерального закона от
 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+104-ФЗ)
 
 5\) обращение о согласовании заключения контракта с единственным
 поставщиком (подрядчиком, исполнителем) в соответствии с настоящим
@@ -3352,7 +3352,7 @@ N
 каждой стороной соглашения.
 
 2\. Соглашение заключается в соответствии с Гражданским
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодексом
 Российской Федерации и настоящим Федеральным законом до начала
 осуществления закупки и должно содержать:
 
@@ -3364,8 +3364,8 @@ N
 отношении каждого заказчика;
 
 3\) начальные (максимальные) цены (начальные цены единиц товара, работы,
-услуги в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) каждого контракта,
 заключаемого по результатам проведения совместного конкурса или
 аукциона;
@@ -3394,8 +3394,8 @@ N
 
 3\) направляет в соответствии с настоящим Федеральным законом обращение
 о согласовании проведения закрытого конкурса, закрытого аукциона,
-предусмотренное [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9207)
+предусмотренное частью
+2
 статьи 72 настоящего Федерального закона;
 
 4\) направляет приглашение принять участие в совместном закрытом
@@ -3448,11 +3448,11 @@ N
 государственных унитарных предприятий могут быть возложены на
 федеральный орган исполнительной власти или федеральное казенное
 учреждение либо несколько федеральных органов исполнительной власти или
-федеральных казенных учреждений. (в ред. Федеральных законов [[от
+федеральных казенных учреждений. (в ред. Федеральных законов от
 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l11),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1662))
+321-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 3\. Высшим исполнительным органом государственной власти субъекта
 Российской Федерации, местной администрацией полномочия на определение
@@ -3472,11 +3472,11 @@ N
 возложены соответственно на орган исполнительной власти субъекта
 Российской Федерации, казенное учреждение субъекта Российской Федерации,
 муниципальный орган, муниципальное казенное учреждение или несколько
-указанных органов, учреждений. (в ред. Федеральных законов [[от
+указанных органов, учреждений. (в ред. Федеральных законов от
 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l30),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1662))
+321-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. Уполномоченные органы, уполномоченные учреждения, на которые
 возложены полномочия на определение поставщиков (подрядчиков,
@@ -3517,8 +3517,8 @@ N
 контрактов, их исполнение, в том числе с возможностью приемки
 поставленных товаров, выполненных работ (их результатов), оказанных
 услуг, для соответствующих государственных и соответствующих
-муниципальных заказчиков; (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1062))
+муниципальных заказчиков; (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 4\) осуществление каждым заказчиком своих полномочий самостоятельно.
 
@@ -3535,8 +3535,8 @@ N
 предприятий и (или) уполномоченных органов, уполномоченных учреждений,
 полномочия которых определены решениями органов государственной власти
 субъекта Российской Федерации, органов местного самоуправления. (в ред.
-Федерального закона [[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l13))
+Федерального закона от 03.07.2016 N
+321-ФЗ)
 
 7\. Если условием предоставления из бюджета субъекта Российской
 Федерации межбюджетных трансфертов, имеющих целевое назначение, является
@@ -3552,8 +3552,8 @@ N
 бюджетных учреждений, государственных, муниципальных унитарных
 предприятий и (или) уполномоченных органов, уполномоченных учреждений,
 полномочия которых определены решениями органов местного самоуправления.
-(в ред. Федерального закона [[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l13))
+(в ред. Федерального закона от 03.07.2016 N
+321-ФЗ)
 
 8\. Уполномоченный орган, уполномоченное учреждение субъекта Российской
 Федерации, уполномоченное муниципальное учреждение муниципального
@@ -3567,8 +3567,8 @@ N
 Федерации, бюджетных учреждений, государственных унитарных предприятий
 субъекта Российской Федерации, муниципальных заказчиков, муниципальных
 бюджетных учреждений, муниципальных унитарных предприятий. (в ред.
-Федерального закона [[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l14))
+Федерального закона от 03.07.2016 N
+321-ФЗ)
 
 9\. Уполномоченные органы, уполномоченные учреждения, полномочия которых
 определены решениями органов местного самоуправления муниципального
@@ -3580,11 +3580,11 @@ N
 которых определены указанными в частях 3 и 5 настоящей статьи решениями
 органов местного самоуправления поселений, на основании соглашений между
 муниципальным районом, муниципальным округом, городским округом и
-входящими в их состав поселениями. (в ред. Федеральных законов [[от
+входящими в их состав поселениями. (в ред. Федеральных законов от
 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l14),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l126))
+321-ФЗ,
+от 13.06.2023 N
+228-ФЗ)
 
 10\. Порядок взаимодействия заказчиков с уполномоченными органами,
 уполномоченными учреждениями определяется решениями о создании таких
@@ -3605,8 +3605,8 @@ N
 быть ограничено только в случаях, предусмотренных настоящим Федеральным
 законом. Отклонение заявки на участие в закупке по основаниям, не
 предусмотренным настоящим Федеральным законом, не допускается. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1663))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. В случае, если заказчиком принято решение об ограничении участия в
 определении поставщика (подрядчика, исполнителя), информация о таком
@@ -3620,8 +3620,8 @@ N
 гражданским законодательством.
 
 4\. Преимущества в соответствии со статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372) -
-[[30]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6702)
+28 -
+30
 настоящего Федерального закона предоставляются при осуществлении
 закупок:
 
@@ -3637,18 +3637,18 @@ N
 специализированной электронной площадке, за участие в определении
 поставщиков (подрядчиков, исполнителей) не допускается, за исключением
 случаев, предусмотренных настоящим Федеральным законом. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1663))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 28. Участие учреждений и предприятий уголовно-исполнительной
-системы в закупках (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1664))**
+системы в закупках (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. В случае заключения по результатам применения конкурентных способов
 контракта с участником закупки, являющимся учреждением или предприятием
 уголовно-исполнительной системы, цена контракта, цена каждой единицы
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) увеличивается на пятнадцать
 процентов соответственно от цены контракта, предложенной таким
 участником закупки, от цены единицы товара, работы, услуги, определенной
@@ -3667,14 +3667,14 @@ N
 настоящей статьи.
 
 **Статья 29. Участие организаций инвалидов в закупках (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1666))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. В случае заключения по результатам применения конкурентных способов
 контракта с участником закупки, являющимся организацией инвалидов, цена
 контракта, цена каждой единицы товара, работы, услуги (в случае,
-предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) увеличивается на пятнадцать
 процентов соответственно от цены контракта, предложенной таким
 участником закупки, от цены единицы товара, работы, услуги, определенной
@@ -3710,70 +3710,70 @@ N
 предпринимательства, социально ориентированных некоммерческих
 организаций в объеме не менее чем двадцать пять процентов совокупного
 годового объема закупок, рассчитанного с учетом части 1.1 настоящей
-статьи, при: (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170),
-[[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l19),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1669))
+статьи, при: (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 01.07.2021 N
+277-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1\) проведении открытых конкурентных способов определения поставщиков
 (подрядчиков, исполнителей), в которых участниками закупок являются
 только субъекты малого предпринимательства, социально ориентированные
 некоммерческие организации. При этом начальная (максимальная) цена
 контракта не должна превышать двадцать миллионов рублей; (в ред.
-Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1669))
+Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) осуществлении закупок с учетом положений части 5 настоящей статьи.
-(в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1669))
+(в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1.1. При определении объема закупок, предусмотренного частью 1 настоящей
 статьи, в расчет совокупного годового объема закупок не включаются
-закупки: (в ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+закупки: (в ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 1\) для обеспечения обороны страны и безопасности государства; (в ред.
-Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+Федерального закона от 04.06.2014 N
+140-ФЗ)
 
-2\) услуг по предоставлению кредитов; (в ред. Федерального закона [[от
+2\) услуг по предоставлению кредитов; (в ред. Федерального закона от
 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+140-ФЗ)
 
 3\) у единственного поставщика (подрядчика, исполнителя), осуществляемые
-в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1652)
+в соответствии с частью
+1
 статьи 93 настоящего Федерального закона, законодательством Российской
 Федерации и иными нормативными правовыми актами о контрактной системе в
 сфере закупок, за исключением закупок, которые осуществлены в
-соответствии с [[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7841)
+соответствии с пунктом
+25
 части 1 статьи 93 настоящего Федерального закона по результатам
 несостоявшегося определения поставщиков (подрядчиков, исполнителей),
 проведенного в соответствии с требованиями пункта 1 части 1 настоящей
-статьи; (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+статьи; (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 25.12.2023 N
+625-ФЗ)
 
 4\) работ в области использования атомной энергии; (в ред. Федерального
-закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+закона от 04.06.2014 N
+140-ФЗ)
 
 5\) при осуществлении которых применяются закрытые способы определения
 поставщиков (подрядчиков, исполнителей). (в ред. Федерального закона
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+от 04.06.2014 N
+140-ФЗ)
 
 1.2. Заказчики вправе осуществлять закупки, указанные в пунктах 1, 4 и 5
 части 1.1 настоящей статьи, у субъектов малого предпринимательства,
@@ -3783,16 +3783,16 @@ N
 предпринимательства, социально ориентированных некоммерческих
 организаций в соответствии с частью 1 настоящей статьи, и включается в
 отчет, указанный в части 4 настоящей статьи. (в ред. Федерального закона
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+от 04.06.2014 N
+140-ФЗ)
 
 2\. Действие настоящей статьи распространяется на социально
 ориентированные некоммерческие организации (за исключением социально
 ориентированных некоммерческих организаций, учредителями которых
 являются Российская Федерация, субъекты Российской Федерации или
 муниципальные образования), осуществляющие в соответствии с
-учредительными документами виды деятельности, предусмотренные [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453340#l1050)
+учредительными документами виды деятельности, предусмотренные пунктом
+1
 статьи 31.1 Федерального закона от 12 января 1996 года N 7-ФЗ \"О
 некоммерческих организациях\".
 
@@ -3801,10 +3801,10 @@ N
 осуществлении закупок устанавливается преимущество участникам закупок,
 которыми могут быть только субъекты малого предпринимательства,
 социально ориентированные некоммерческие организации. (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1670))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. В случае признания не состоявшимся определения поставщиков
 (подрядчиков, исполнителей) в связи с тем, что по окончании срока подачи
@@ -3815,16 +3815,16 @@ N
 общих основаниях, не учитываются в объеме закупок, осуществленных
 заказчиками у субъектов малого предпринимательства, социально
 ориентированных некоммерческих организаций в соответствии с частью 1
-настоящей статьи. Закупки, которые осуществлены на основании [[пункта
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
+настоящей статьи. Закупки, которые осуществлены на основании пункта
+25
 части 1 статьи 93 настоящего Федерального закона по результатам
 несостоявшегося определения поставщиков (подрядчиков, исполнителей),
 проведенного в соответствии с требованиями пункта 1 части 1 настоящей
 статьи, учитываются в объеме закупок, которые заказчики осуществили у
 субъектов малого предпринимательства, социально ориентированных
 некоммерческих организаций. По итогам года заказчик (за исключением
-заказчика, включенного в перечень, предусмотренный [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8650)
+заказчика, включенного в перечень, предусмотренный пунктом
+5
 части 11 статьи 24 настоящего Федерального закона) обязан составить
 отчет об объеме закупок у субъектов малого предпринимательства,
 социально ориентированных некоммерческих организаций, предусмотренных
@@ -3832,20 +3832,20 @@ N
 годом, разместить такой отчет в единой информационной системе. В такой
 отчет заказчик включает информацию о заключенных контрактах с субъектами
 малого предпринимательства, социально ориентированными некоммерческими
-организациями. (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1670),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+организациями. (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 4.1. Порядок подготовки отчета, указанного в части 4 настоящей статьи,
 его размещения в единой информационной системе, форма указанного отчета
 определяются Правительством Российской Федерации. (в ред. Федерального
-закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+закона от 04.06.2014 N
+140-ФЗ)
 
 5\. Заказчик при определении поставщика (подрядчика, исполнителя) вправе
 установить в извещении об осуществлении закупки требование к поставщику
@@ -3854,8 +3854,8 @@ N
 организацией, о привлечении к исполнению контракта субподрядчиков,
 соисполнителей из числа субъектов малого предпринимательства, социально
 ориентированных некоммерческих организаций. (в ред. Федерального закона
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+от 04.06.2014 N
+140-ФЗ)
 
 6\. Условие о привлечении к исполнению контрактов субподрядчиков,
 соисполнителей из числа субъектов малого предпринимательства, социально
@@ -3871,27 +3871,27 @@ N
 условия о привлечении к исполнению контрактов субподрядчиков,
 соисполнителей из числа субъектов малого предпринимательства, социально
 ориентированных некоммерческих организаций. (в ред. Федерального закона
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l170))
+от 04.06.2014 N
+140-ФЗ)
 
 7\. Типовые условия контрактов, предусматривающих привлечение к
 исполнению контрактов субподрядчиков, соисполнителей из числа субъектов
 малого предпринимательства, социально ориентированных некоммерческих
 организаций могут устанавливаться Правительством Российской Федерации.
 
-8\. Часть утратила силу. (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+8\. Часть утратила силу. (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 **Статья 30.1. Особенности осуществления закупок для целей достижения
-заказчиком минимальной доли закупок (в ред. Федерального закона [[от
+заказчиком минимальной доли закупок (в ред. Федерального закона от
 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l28))**
+249-ФЗ)**
 
 1\. При условии установления Правительством Российской Федерации
 минимальной доли закупок заказчик обязан осуществить закупки исходя из
 минимальной доли закупок и перечня товаров, определенных Правительством
-Российской Федерации в соответствии с [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642)
+Российской Федерации в соответствии с частью
+3
 статьи 14 настоящего Федерального закона.
 
 2\. По итогам года заказчик до 1 апреля года, следующего за отчетным
@@ -3962,26 +3962,26 @@ N
 1\. При применении конкурентных способов, при осуществлении закупки у
 единственного поставщика (подрядчика, исполнителя) в случаях,
 предусмотренных пунктами
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9413),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7939),
-[[18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7064),
-[[30]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9412),
-[[42]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1696),
-[[49]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7095),
-[[54]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1709)
+4,
+5,
+18,
+30,
+42,
+49,
+54
 и
-[[59]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9420)
+59
 части 1 статьи 93 настоящего Федерального закона, заказчик устанавливает
 следующие единые требования к участникам закупки: (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1671))
+закона от 02.07.2021 N
+360-ФЗ)
 
 1\) соответствие требованиям, установленным в соответствии с
 законодательством Российской Федерации к лицам, осуществляющим поставку
 товара, выполнение работы, оказание услуги, являющихся объектом закупки;
 
-2\) пункт утратил силу. (в ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182))
+2\) пункт утратил силу. (в ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 3\) непроведение ликвидации участника закупки - юридического лица и
 отсутствие решения арбитражного суда о признании участника закупки -
@@ -3990,10 +3990,10 @@ N
 
 4\) неприостановление деятельности участника закупки в порядке,
 установленном
-[[Кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458169#l0)
+Кодексом
 Российской Федерации об административных правонарушениях; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1671))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\) отсутствие у участника закупки недоимки по налогам, сборам,
 задолженности по иным обязательным платежам в бюджеты бюджетной системы
@@ -4014,8 +4014,8 @@ N
 рассмотрения заявки на участие в определении поставщика (подрядчика,
 исполнителя) не принято;
 
-6\) пункт утратил силу. (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1062))
+6\) пункт утратил силу. (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 7\) отсутствие у участника закупки - физического лица либо у
 руководителя, членов коллегиального исполнительного органа, лица,
@@ -4023,28 +4023,28 @@ N
 бухгалтера юридического лица - участника закупки судимости за
 преступления в сфере экономики и (или) преступления, предусмотренные
 статьями
-[[289]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456705#l14090),
-[[290]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456705#l13572),
-[[291]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456705#l13576),
-[[291.1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456705#l13584)
+289,
+290,
+291,
+291.1
 Уголовного кодекса Российской Федерации (за исключением лиц, у которых
 такая судимость погашена или снята), а также неприменение в отношении
 указанных физических лиц наказания в виде лишения права занимать
 определенные должности или заниматься определенной деятельностью,
 которые связаны с поставкой товара, выполнением работы, оказанием
 услуги, являющихся объектом осуществляемой закупки, и административного
-наказания в виде дисквалификации; (в ред. Федерального закона [[от
+наказания в виде дисквалификации; (в ред. Федерального закона от
 28.12.2016 N
-489-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286481#l1))
+489-ФЗ)
 
 7.1) участник закупки - юридическое лицо, которое в течение двух лет до
 момента подачи заявки на участие в закупке не было привлечено к
 административной ответственности за совершение административного
-правонарушения, предусмотренного [[статьей
-19.28]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458169#l7409)
+правонарушения, предусмотренного статьей
+19.28
 Кодекса Российской Федерации об административных правонарушениях; (в
-ред. Федерального закона [[от 28.12.2016 N
-489-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286481#l1))
+ред. Федерального закона от 28.12.2016 N
+489-ФЗ)
 
 8\) обладание участником закупки исключительными правами на результаты
 интеллектуальной деятельности, если в связи с исполнением контракта
@@ -4060,19 +4060,19 @@ N
 внучка), полнородный или неполнородный (имеющий общих с должностным
 лицом заказчика отца или мать) брат (сестра), лицо, усыновленное
 должностным лицом заказчика, либо усыновитель этого должностного лица
-заказчика является: (в ред. Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l36))
+заказчика является: (в ред. Федерального закона от 11.06.2022 N
+160-ФЗ)
 
 а) физическим лицом (в том числе зарегистрированным в качестве
 индивидуального предпринимателя), являющимся участником закупки; (в ред.
-Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l36))
+Федерального закона от 11.06.2022 N
+160-ФЗ)
 
 б) руководителем, единоличным исполнительным органом, членом
 коллегиального исполнительного органа, учредителем, членом
 коллегиального органа унитарной организации, являющейся участником
-закупки; (в ред. Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l36))
+закупки; (в ред. Федерального закона от 11.06.2022 N
+160-ФЗ)
 
 в) единоличным исполнительным органом, членом коллегиального
 исполнительного органа, членом коллегиального органа управления,
@@ -4084,8 +4084,8 @@ N
 напрямую или косвенно (через юридическое лицо или через несколько
 юридических лиц) долей, превышающей десять процентов в уставном
 (складочном) капитале хозяйственного товарищества или общества; (в ред.
-Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l36))
+Федерального закона от 11.06.2022 N
+160-ФЗ)
 
 10\) участник закупки не является офшорной компанией, не имеет в составе
 участников (членов) корпоративного юридического лица или в составе
@@ -4095,40 +4095,40 @@ N
 десятью процентами голосующих акций хозяйственного общества либо долей,
 превышающей десять процентов в уставном (складочном) капитале
 хозяйственного товарищества или общества; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1671))
+от 02.07.2021 N
+360-ФЗ)
 
 10.1) участник закупки не является иностранным агентом; (в ред.
-Федерального закона [[от 05.12.2022 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437525#l355))
+Федерального закона от 05.12.2022 N
+498-ФЗ)
 
 11\) отсутствие у участника закупки ограничений для участия в закупках,
 установленных законодательством Российской Федерации. (в ред.
-Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 1.1. Заказчик вправе установить требование об отсутствии в
 предусмотренном настоящим Федеральным законом реестре недобросовестных
 поставщиков (подрядчиков, исполнителей) информации об участнике закупки,
 в том числе о лицах, информация о которых содержится в заявке на участие
-в закупке в соответствии с [[подпунктом
-\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8911)
+в закупке в соответствии с подпунктом
+\"в\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, если
 Правительством Российской Федерации не установлено иное. (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1062),
-[[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l4),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 30.12.2020 N
+539-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 2\. Правительство Российской Федерации вправе устанавливать к участникам
 закупок отдельных видов товаров, работ, услуг, участникам отдельных
 видов закупок дополнительные требования, в том числе к наличию: (в ред.
-Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1672),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l5))
+Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 1\) финансовых ресурсов для исполнения контракта;
 
@@ -4149,47 +4149,47 @@ N
 2 настоящей статьи) устанавливает дополнительное требование об
 исполнении участником закупки (с учетом правопреемства) в течение трех
 лет до даты подачи заявки на участие в закупке контракта или договора,
-заключенного в соответствии с Федеральным законом [[от 18 июля 2011 года
+заключенного в соответствии с Федеральным законом от 18 июля 2011 года
 N
-223-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455403#l0)
+223-ФЗ
 \"О закупках товаров, работ, услуг отдельными видами юридических лиц\"
 при условии исполнения таким участником закупки требований об уплате
 неустоек (штрафов, пеней), предъявленных при исполнении таких контракта,
 договора. Стоимость исполненных обязательств по таким контракту,
 договору должна составлять не менее двадцати процентов начальной
-(максимальной) цены контракта. (в ред. Федеральных законов [[от
+(максимальной) цены контракта. (в ред. Федеральных законов от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1672),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l5))
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 3\. Перечень информации и документов, которые подтверждают соответствие
 участников закупок дополнительным требованиям, указанным в частях 2 и
 2.1 настоящей статьи, устанавливается Правительством Российской
-Федерации. (в ред. Федеральных законов [[от 29.06.2015 N
-210-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411657#l1474),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1674))
+Федерации. (в ред. Федеральных законов от 29.06.2015 N
+210-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. В случае установления Правительством Российской Федерации в
 соответствии с частью 2 настоящей статьи дополнительных требований к
 участникам закупок заказчики при определении поставщиков (подрядчиков,
 исполнителей) обязаны устанавливать такие дополнительные требования. (в
-ред. Федеральных законов [[от 29.06.2015 N
-210-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411657#l1474),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1674))
+ред. Федеральных законов от 29.06.2015 N
+210-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 5\. Информация об установленных требованиях в соответствии с частями 1,
 1.1, 2 и 2.1 настоящей статьи указывается заказчиком в извещении об
 осуществлении закупки и документации о закупке (в случае, если настоящим
 Федеральным законом предусмотрена документация о закупке). (в ред.
-Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182),
-[[от 29.06.2015 N
-210-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411657#l1474),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1674))
+Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 29.06.2015 N
+210-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 6\. Заказчики не вправе устанавливать требования к участникам закупок в
 нарушение требований настоящего Федерального закона.
@@ -4212,22 +4212,22 @@ N
 обязанность подтверждать соответствие указанным требованиям, за
 исключением случаев, если указанные требования установлены
 Правительством Российской Федерации в соответствии с частями 2 и 2.1
-настоящей статьи. (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l34),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1675),
-[[от 05.12.2022 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437525#l273))
+настоящей статьи. (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.04.2020 N
+98-ФЗ,
+от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 05.12.2022 N
+498-ФЗ)
 
-8.1. Часть утратила силу. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+8.1. Часть утратила силу. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
-8.2. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1675))
+8.2. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 9\. Отстранение участника закупки от участия в определении поставщика
 (подрядчика, исполнителя) или отказ от заключения контракта с
@@ -4237,10 +4237,10 @@ N
 соответствует требованиям, указанным в части 1, частях 1.1, 2 и 2.1 (при
 наличии таких требований) настоящей статьи, или предоставил
 недостоверную информацию в отношении своего соответствия указанным
-требованиям. (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182),
-[[от 29.06.2015 N
-210-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411657#l1474))
+требованиям. (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 29.06.2015 N
+210-ФЗ)
 
 ***Действие положений части 10 статьи 31 распространяется на закупки
 лекарственных препаратов, включенных в перечень жизненно необходимых и
@@ -4249,8 +4249,8 @@ N
 информационно-телекоммуникационной сети \"Интернет\" для размещения
 информации о размещении заказов на поставки товаров, выполнение работ,
 оказание услуг либо приглашения принять участие в которых направлены
-после 01.01.2016 ([[часть
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l11)
+после 01.01.2016 (часть
+2
 статьи 3 Федерального закона от 29.12.2015 N 390-ФЗ).***
 
 10\. При осуществлении закупок лекарственных препаратов, которые
@@ -4279,18 +4279,18 @@ N
 препараты, включенные в перечень жизненно необходимых и важнейших
 лекарственных препаратов, и от снижения предлагаемой цены при заключении
 контракта участник закупки отказывается. (в ред. Федерального закона
-[[от 29.12.2015 N
-390-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l15))
+от 29.12.2015 N
+390-ФЗ)
 
 10.1. Положения части 10 настоящей статьи не применяются при определении
 поставщика лекарственных препаратов, с которым заключается контракт со
-встречными инвестиционными обязательствами в соответствии со [[статьей
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
-настоящего Федерального закона. (в ред. Федеральных законов [[от
+встречными инвестиционными обязательствами в соответствии со статьей
+111.4
+настоящего Федерального закона. (в ред. Федеральных законов от
 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l5))
+365-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 11\. В случае отказа заказчика от заключения контракта с победителем
 определения поставщика (подрядчика, исполнителя) по основаниям,
@@ -4316,12 +4316,12 @@ N
 победителем определения поставщика (подрядчика, исполнителя) по
 основаниям, предусмотренным пунктом 2 части 10 настоящей статьи,
 победитель признается уклонившимся от заключения контракта. (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1675))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 12\. Решение об отстранении участника закупки от участия в определении
 поставщика (подрядчика, исполнителя) или отказ от заключения контракта с
@@ -4330,16 +4330,16 @@ N
 настоящим Федеральным законом порядке.
 
 **Статья 32. Оценка заявок участников закупки и критерии этой оценки (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1677))**
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. Для оценки заявок участников закупки заказчик использует следующие
-критерии: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1677))
+критерии: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) цена контракта, сумма цен единиц товара, работы, услуги; (в ред.
-Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 2\) расходы на эксплуатацию и ремонт товаров, использование результатов
 работ;
@@ -4353,11 +4353,11 @@ N
 предметом контракта, и деловой репутации, специалистов и иных работников
 определенного уровня квалификации.
 
-2\. Часть утратила силу. (в ред. Федерального закона [[от 03.08.2018 N
-311-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=318167#l0))
+2\. Часть утратила силу. (в ред. Федерального закона от 03.08.2018 N
+311-ФЗ)
 
-3\. В случаях, предусмотренных [[частью
-16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l490)
+3\. В случаях, предусмотренных частью
+16
 статьи 34 настоящего Федерального закона, а также в иных установленных
 Правительством Российской Федерации случаях для оценки заявок участников
 закупки заказчик вместо критериев, указанных в пунктах 1 и 2 части 1
@@ -4365,13 +4365,13 @@ N
 жизненного цикла товара или созданного в результате выполнения работы
 объекта. Расчет стоимости жизненного цикла товара или созданного в
 результате выполнения работы объекта производится с учетом методических
-рекомендаций, предусмотренных [[частью
-20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l271)
+рекомендаций, предусмотренных частью
+20
 статьи 22 настоящего Федерального закона. (в ред. Федеральных законов
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1677))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 4\. В извещении об осуществлении закупки, документации о закупке (в
 случае, если настоящим Федеральным законом предусмотрена документация о
@@ -4384,19 +4384,19 @@ N
 осуществлении закупки, документации о закупке (в случае, если настоящим
 Федеральным законом предусмотрена документация о закупке) критерии и их
 величины значимости не могут применяться для целей оценки заявок. (в
-ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1677))
+ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 5\. Сумма величин значимости всех используемых критериев составляет сто
 процентов. Величина значимости критерия, указанного в пункте 2 части 1
 настоящей статьи, не должна превышать величину значимости критерия,
 указанного в пункте 1 части 1 настоящей статьи. (в ред. Федеральных
-законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1678))
+законов от 04.06.2014 N
+140-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 6\. Сумма величин значимости критериев, указанных в пунктах 1 и 2 части
 1 настоящей статьи, при определении поставщиков (подрядчиков,
@@ -4405,22 +4405,22 @@ N
 показа национального фильма, на выполнение научно-исследовательских,
 опытно-конструкторских или технологических работ должна составлять не
 менее чем двадцать процентов суммы величин значимости всех критериев (за
-исключением случая, предусмотренного [[частью
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l522)
+исключением случая, предусмотренного частью
+8
 статьи 37 настоящего Федерального закона). В случае, если при заключении
 таких контрактов критерий, указанный в пункте 2 части 1 настоящей
 статьи, не используется, величина значимости критерия, указанного в
 пункте 1 части 1 настоящей статьи, должна составлять не менее чем
 двадцать процентов суммы величин значимости всех критериев (за
-исключением случая, предусмотренного [[частью
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l521)
+исключением случая, предусмотренного частью
+8
 статьи 37 настоящего Федерального закона). Величина значимости критерия,
 указанного в пункте 1 части 1 настоящей статьи, при определении
 исполнителей в целях заключения контракта на создание произведения
 литературы или искусства может быть снижена до нуля процентов суммы
-величин значимости всех критериев. (в ред. Федерального закона [[от
+величин значимости всех критериев. (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+396-ФЗ)
 
 7\. Положения настоящего Федерального закона, касающиеся произведений
 литературы и искусства, применяются в отношении:
@@ -4460,10 +4460,10 @@ N
 закупки в случае, если в соответствии с законодательством Российской
 Федерации установлены регулируемые цены (тарифы) на товары, работы,
 услуги, вправе не использовать критерии, указанные в пунктах 1 и 2 части
-1 настоящей статьи. (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1678))
+1 настоящей статьи. (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 9\. Не допускается использование заказчиком не предусмотренных настоящей
 статьей критериев или их величин значимости, установленных частью 6
@@ -4471,15 +4471,15 @@ N
 невыполнения заказчиком требования настоящей части определение
 поставщика (подрядчика, исполнителя) может быть признано
 недействительным по иску участника или участников закупки. (в ред.
-Федерального закона [[от 03.08.2018 N
-311-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=318167#l0))
+Федерального закона от 03.08.2018 N
+311-ФЗ)
 
 **Статья 33. Правила описания объекта закупки**
 
 1\. Заказчик в случаях, предусмотренных настоящим Федеральным законом,
 при описании объекта закупки должен руководствоваться следующими
-правилами: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1678))
+правилами: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) в описании объекта закупки указываются функциональные, технические и
 качественные характеристики, эксплуатационные характеристики объекта
@@ -4491,24 +4491,24 @@ N
 такие требования или указания влекут за собой ограничение количества
 участников закупки. Допускается использование в описании объекта закупки
 указания на товарный знак в следующих случаях: (в ред. Федерального
-закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+закона от 28.04.2023 N
+154-ФЗ)
 
 а) сопровождение такого указания словами \"или эквивалент\"; (в ред.
-Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 б) несовместимость товаров, на которых размещаются другие товарные
 знаки, и необходимость обеспечения взаимодействия таких товаров с
-товарами, используемыми заказчиком; (в ред. Федерального закона [[от
+товарами, используемыми заказчиком; (в ред. Федерального закона от
 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+154-ФЗ)
 
 в) осуществление закупки запасных частей и расходных материалов к
 машинам и оборудованию, используемым заказчиком, в соответствии с
 технической документацией на указанные машины и оборудование; (в ред.
-Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 г) осуществление закупки медицинских изделий, специализированных
 продуктов лечебного питания, необходимых для назначения пациенту по
@@ -4517,8 +4517,8 @@ N
 медицинской документации пациента и журнале врачебной комиссии. Перечень
 указанных медицинских изделий, специализированных продуктов лечебного
 питания и порядок его формирования утверждаются Правительством
-Российской Федерации; (в ред. Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l2))
+Российской Федерации; (в ред. Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 2\) использование при составлении описания объекта закупки показателей,
 требований, условных обозначений и терминологии, касающихся технических
@@ -4537,39 +4537,39 @@ N
 стандартизации показатели, требования, условные обозначения и
 терминология, в таком описании должно содержаться обоснование
 необходимости использования других показателей, требований, условных
-обозначений и терминологии; (в ред. Федеральных законов [[от 05.04.2016
+обозначений и терминологии; (в ред. Федеральных законов от 05.04.2016
 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404616#l63),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2298))
+104-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 3\) описание объекта закупки может включать в себя спецификации, планы,
 чертежи, эскизы, фотографии, результаты работы, тестирования,
 требования, в том числе в отношении проведения испытаний, методов
 испытаний, упаковки в соответствии с требованиями Гражданского
-[[кодекса]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l8495)
+кодекса
 Российской Федерации, маркировки, этикеток, подтверждения соответствия,
 процессов и методов производства в соответствии с требованиями
 технических регламентов, документов, разрабатываемых и применяемых в
 национальной системе стандартизации, технических условий, а также в
 отношении условных обозначений и терминологии; (в ред. Федерального
-закона [[от 05.04.2016 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404616#l63))
+закона от 05.04.2016 N
+104-ФЗ)
 
 4\) описание объекта закупки должно содержать изображение поставляемого
 товара, позволяющее его идентифицировать и подготовить заявку, если в
 таком описании содержится требование о соответствии поставляемого товара
 изображению товара, на поставку которого заключается контракт; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2298))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\) описание объекта закупки должно содержать информацию о месте, датах
 начала и окончания, порядке и графике осмотра участниками закупки
 образца или макета товара, на поставку которого заключается контракт,
 если в таком описании содержится требование о соответствии поставляемого
 товара образцу или макету товара, на поставку которого заключается
-контракт; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2298))
+контракт; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 6\) описание объекта закупки должно содержать указание на международные
 непатентованные наименования лекарственных средств или при отсутствии
@@ -4578,8 +4578,8 @@ N
 осуществлении закупки лекарственных средств, входящих в перечень
 лекарственных средств, закупка которых осуществляется в соответствии с
 их торговыми наименованиями, а также при осуществлении закупки
-лекарственных препаратов в соответствии с [[подпунктом
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8621)
+лекарственных препаратов в соответствии с подпунктом
+\"г\"
 пункта 2 части 10 статьи 24 настоящего Федерального закона вправе
 указывать торговые наименования этих лекарственных средств. Указанный
 перечень и порядок его формирования утверждаются Правительством
@@ -4595,17 +4595,17 @@ N
 наименованиями) и торговыми наименованиями. Положения настоящего пункта
 не применяются при определении поставщика лекарственных препаратов, с
 которым заключается контракт со встречными инвестиционными
-обязательствами в соответствии со [[статьей
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2111)
-настоящего Федерального закона; (в ред. Федеральных законов [[от
+обязательствами в соответствии со статьей
+111.4
+настоящего Федерального закона; (в ред. Федеральных законов от
 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2298),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l63))
+365-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 7\) поставляемый товар должен быть новым товаром (товаром, который не
 был в употреблении, в ремонте, в том числе который не был восстановлен,
@@ -4622,36 +4622,36 @@ N
 исключением случая, если подготовка таких проектных документаций, сметы
 в соответствии с указанным законодательством не требуется, а также
 случаев осуществления закупки в соответствии с частями
-[[16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l490)
+16
 и
-[[16.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+16.1
 статьи 34 настоящего Федерального закона, при которых предметом
 контракта является в том числе проектирование объекта капитального
 строительства. Включение проектной документации в описание объекта
 закупки в соответствии с настоящим пунктом является надлежащим
 исполнением требований пунктов 1 - 3 настоящей части, части 2 настоящей
-статьи. (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2299))
+статьи. (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1.1. При описании объекта закупки, осуществляемой в целях выполнения
 минимальной доли закупок, указываются характеристики российского товара,
 в том числе содержащиеся в каталоге товаров, работ, услуг для
 обеспечения государственных и муниципальных нужд. (в ред. Федерального
-закона [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l12))
+закона от 31.07.2020 N
+249-ФЗ)
 
 2\. Описание объекта закупки в соответствии с требованиями, указанными в
 части 1 настоящей статьи, должно содержать показатели, позволяющие
 определить соответствие закупаемых товара, работы, услуги установленным
 заказчиком требованиям. При этом указываются максимальные и (или)
 минимальные значения таких показателей и (или) значения показателей,
-которые не могут изменяться. (в ред. Федеральных законов [[от 28.12.2013
+которые не могут изменяться. (в ред. Федеральных законов от 28.12.2013
 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2300))
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 3\. Не допускается включение в описание объекта закупки (в том числе в
 форме требований к качеству, техническим характеристикам товара, работы
@@ -4665,9 +4665,9 @@ N
 является предметом контракта, для выполнения работы или оказания услуги,
 являющихся предметом контракта, за исключением случаев, если возможность
 установления таких требований к участнику закупки предусмотрена
-настоящим Федеральным законом. (в ред. Федерального закона [[от
+настоящим Федеральным законом. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2300))
+360-ФЗ)
 
 4\. Требования к гарантии качества товара, работы, услуги, а также
 требования к гарантийному сроку и (или) объему предоставления гарантий
@@ -4684,19 +4684,19 @@ N
 новых машин и оборудования заказчик устанавливает требования к
 предоставлению гарантии производителя и (или) поставщика данного товара
 и к сроку действия такой гарантии. Предоставление такой гарантии
-осуществляется вместе с данным товаром. (в ред. Федеральных законов [[от
+осуществляется вместе с данным товаром. (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2300))
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 5\. Особенности описания отдельных видов объектов закупок могут
 устанавливаться Правительством Российской Федерации.
 
 6\. Особенности описания объектов закупок по государственному оборонному
-заказу могут устанавливаться Федеральным законом [[от 29 декабря 2012
+заказу могут устанавливаться Федеральным законом от 29 декабря 2012
 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+275-ФЗ
 \"О государственном оборонном заказе\".
 
 **Статья 34. Контракт**
@@ -4706,20 +4706,20 @@ N
 участника закупки, с которым заключается контракт, за исключением
 случаев, в которых в соответствии с настоящим Федеральным законом
 извещение об осуществлении закупки или приглашение, документация о
-закупке, заявка не предусмотрены. В случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7523)
+закупке, заявка не предусмотрены. В случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона, контракт должен содержать
 порядок определения количества поставляемого товара, объема выполняемой
 работы, оказываемой услуги на основании заявок заказчика. (в ред.
-Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2300))
+Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\. При заключении контракта указывается, что цена контракта является
 твердой и определяется на весь срок исполнения контракта, а в случае,
-предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7523)
+предусмотренном частью
+24
 статьи 22 настоящего Федерального закона, указываются цены единиц
 товара, работы, услуги и максимальное значение цены контракта, а также в
 случаях, установленных Правительством Российской Федерации, указываются
@@ -4733,19 +4733,19 @@ N
 отдельные этапы его исполнения, цена каждого этапа устанавливается в
 размере, сниженном пропорционально снижению начальной (максимальной)
 цены контракта участником закупки, с которым заключается контракт. (в
-ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2300),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 3\. Особенности определения цены государственного контракта на поставку
 товара, выполнение работы, оказание услуги по государственному
 оборонному заказу с учетом требований, предусмотренных частью 2
-настоящей статьи, могут устанавливаться Федеральным законом [[от 29
+настоящей статьи, могут устанавливаться Федеральным законом от 29
 декабря 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+275-ФЗ
 \"О государственном оборонном заказе\".
 
 4\. В контракт включается обязательное условие об ответственности
@@ -4766,12 +4766,12 @@ N
 предусмотренных контрактом, за исключением просрочки исполнения
 обязательств, предусмотренных контрактом. Размер штрафа устанавливается
 контрактом в порядке, установленном Правительством Российской Федерации.
-(в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+(в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 6\. В случае просрочки исполнения поставщиком (подрядчиком,
 исполнителем) обязательств (в том числе гарантийного обязательства),
@@ -4779,11 +4779,11 @@ N
 ненадлежащего исполнения поставщиком (подрядчиком, исполнителем)
 обязательств, предусмотренных контрактом, заказчик направляет поставщику
 (подрядчику, исполнителю) требование об уплате неустоек (штрафов,
-пеней). (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+пеней). (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-6.1. Часть утратила силу. (в ред. Федерального закона [[от 29.12.2015 N
-390-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l15))
+6.1. Часть утратила силу. (в ред. Федерального закона от 29.12.2015 N
+390-ФЗ)
 
 7\. Пеня начисляется за каждый день просрочки исполнения поставщиком
 (подрядчиком, исполнителем) обязательства, предусмотренного контрактом,
@@ -4796,12 +4796,12 @@ N
 отдельным этапом исполнения контракта) и фактически исполненных
 поставщиком (подрядчиком, исполнителем), за исключением случаев, если
 законодательством Российской Федерации установлен иной порядок
-начисления пени. (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121))
+начисления пени. (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 01.04.2020 N
+98-ФЗ)
 
 8\. Штрафы начисляются за неисполнение или ненадлежащее исполнение
 поставщиком (подрядчиком, исполнителем) обязательств, предусмотренных
@@ -4811,10 +4811,10 @@ N
 устанавливается контрактом в порядке, установленном Правительством
 Российской Федерации, за исключением случаев, если законодательством
 Российской Федерации установлен иной порядок начисления штрафов. (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 9\. Сторона освобождается от уплаты неустойки (штрафа, пени), если
 докажет, что неисполнение или ненадлежащее исполнение обязательства,
@@ -4825,8 +4825,8 @@ N
 порядок списания начисленных поставщику (подрядчику, исполнителю), но не
 списанных заказчиком сумм неустоек (штрафов, пеней) в связи с
 неисполнением или ненадлежащим исполнением обязательств, предусмотренных
-контрактом. (в ред. Федерального закона [[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93))
+контрактом. (в ред. Федерального закона от 08.03.2022 N
+46-ФЗ)
 
 10\. При проведении конкурсов допускается заключение контрактов на
 поставки технических средств реабилитации инвалидов, создание нескольких
@@ -4851,30 +4851,30 @@ N
 начальная (максимальная) цена всех контрактов на выполнение таких работ
 является одинаковой и начальная (максимальная) цена лота равняется сумме
 начальных (максимальных) цен всех таких контрактов. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1682))
+закона от 02.07.2021 N
+360-ФЗ)
 
 ***Условия типовых контрактов и типовые условия контрактов, утвержденные
 до 01.01.2022, применяются в части, не противоречащей данному документу
 (в редакции Федерального закона от 02.07.2021 N 360-ФЗ), до утверждения
 Правительством РФ в соответствии с частью 11 статьи 34 данного документа
 (в редакции Федерального закона от 02.07.2021 N 360-ФЗ) типовых условий
-контрактов ([[пункт
-12]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2218)
+контрактов (пункт
+12
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 11\. Правительство Российской Федерации вправе установить типовые
 условия контрактов, подлежащие применению заказчиками при осуществлении
-закупок. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1682))
+закупок. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 12\. Если контракт заключается на срок более чем три года и цена
 контракта составляет более чем сто миллионов рублей, контракт должен
 включать в себя график исполнения контракта.
 
 13\. В контракт включаются обязательные условия: (в ред. Федерального
-закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+закона от 31.12.2017 N
+504-ФЗ)
 
 ***Положения пункта 1 части 13 статьи 34 (в редакции Федерального закона
 от 24.04.2020 N 124-ФЗ) по соглашению сторон контракта могут
@@ -4884,13 +4884,13 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l30)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+4
 статьи 5 Федерального закона от 24.04.2020 N 124-ФЗ).¶***
 
 1\) о порядке и сроках оплаты товара, работы или услуги, в том числе с
-учетом положений [[части
-13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6764)
+учетом положений части
+13
 статьи 37 настоящего Федерального закона, о порядке и сроках
 осуществления заказчиком приемки поставленного товара, выполненной
 работы (ее результатов) или оказанной услуги в части соответствия их
@@ -4898,11 +4898,11 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 о порядке и сроках оформления результатов такой приемки, а также о
 порядке и сроке предоставления поставщиком (подрядчиком, исполнителем)
 обеспечения гарантийных обязательств в случае установления в
-соответствии со [[статьей
-96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1781)
+соответствии со статьей
+96
 настоящего Федерального закона требования обеспечения гарантийных
-обязательств. В случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+обязательств. В случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона, контракт должен содержать
 условие о том, что оплата поставленного товара, выполненной работы,
 оказанной услуги осуществляется по цене единицы товара, работы, услуги
@@ -4912,14 +4912,14 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поэтапное исполнение и выплата аванса, в контракт включается условие о
 размере аванса в отношении каждого этапа исполнения контракта в виде
 процента от размера цены соответствующего этапа; (в ред. Федеральных
-законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1684))
+законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) об уменьшении суммы, подлежащей уплате заказчиком юридическому лицу
 или физическому лицу, в том числе зарегистрированному в качестве
@@ -4928,18 +4928,18 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 связанных с оплатой контракта, если в соответствии с законодательством
 Российской Федерации о налогах и сборах такие налоги, сборы и иные
 обязательные платежи подлежат уплате в бюджеты бюджетной системы
-Российской Федерации заказчиком. (в ред. Федерального закона [[от
+Российской Федерации заказчиком. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
-***Положения части 13.1 статьи 34 (в редакции Федерального закона [[от
+***Положения части 13.1 статьи 34 (в редакции Федерального закона от
 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97)),
+104-ФЗ),
 касающиеся срока оплаты поставленного товара, выполненной работы (ее
 результатов), оказанной услуги, составляющего не более семи рабочих дней
 с даты подписания заказчиком документа о приемке, предусмотренного
-[[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7337)
+частью
+7
 статьи 94, применяются в отношении заказчиков, не являющихся
 федеральными органами исполнительной власти, автономными и бюджетными
 учреждениями, созданными Российской Федерацией, с 01.07.2022 при
@@ -4948,8 +4948,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 информационной системе либо приглашения принять участие в закупках
 направлены с 01.07.2022, или при заключении такими заказчиками с
 01.07.2022 контрактов с единственными поставщиками (подрядчиками,
-исполнителями) ([[пункт
-11]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l72)
+исполнителями) (пункт
+11
 статьи 6 Федерального закона от 16.04.2022 N 104-ФЗ).***
 
 13.1. Срок оплаты заказчиком поставленного товара, выполненной работы
@@ -4960,142 +4960,142 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 приглашения принять участие в закупке направлены с 1 января по 30 апреля
 2022 года включительно, должен составлять не более пятнадцати рабочих
 дней, а с 1 мая 2022 года не более семи рабочих дней с даты подписания
-заказчиком документа о приемке, предусмотренного [[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7337)
+заказчиком документа о приемке, предусмотренного частью
+7
 статьи 94 настоящего Федерального закона, за исключением случаев, если:
-(в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+(в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 1\) иной срок оплаты установлен законодательством Российской Федерации;
-(в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+(в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 2\) оформление документа о приемке осуществляется без использования
 единой информационной системы, при этом срок оплаты должен составлять не
 более десяти рабочих дней с даты подписания документа о приемке,
-предусмотренного [[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7337)
+предусмотренного частью
+7
 статьи 94 настоящего Федерального закона, а в случае, если контракт
 содержит сведения, составляющие государственную тайну, не более двадцати
-рабочих дней; (в ред. Федеральных законов [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l6))
+рабочих дней; (в ред. Федеральных законов от 16.04.2022 N
+104-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 3\) в соответствии с законодательством Российской Федерации расчеты по
 контракту или расчеты по контракту в части выплаты аванса подлежат
 казначейскому сопровождению, при этом срок оплаты должен составлять не
 более десяти рабочих дней с даты подписания документа о приемке,
-предусмотренного [[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7337)
+предусмотренного частью
+7
 статьи 94 настоящего Федерального закона; (в ред. Федерального закона
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+от 16.04.2022 N
+104-ФЗ)
 
 4\) Правительством Российской Федерации в целях обеспечения
 обороноспособности и безопасности государства установлен иной срок
-оплаты. (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+оплаты. (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 14\. В контракт могут быть включены условия: (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1686))
+от 02.07.2021 N
+360-ФЗ)
 
 1\) о возможности одностороннего отказа от исполнения контракта в
 соответствии с положениями частей
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1746) -
-[[11]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1757),
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9478) -
-[[19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7119),
-[[21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9534) -
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9540)
+8 -
+11,
+13 -
+19,
+21 -
+23
 и
-[[25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1779)
+25
 статьи 95 настоящего Федерального закона; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1686))
+от 02.07.2021 N
+360-ФЗ)
 
 2\) об удержании суммы неисполненных поставщиком (подрядчиком,
 исполнителем) требований об уплате неустоек (штрафов, пеней),
 предъявленных заказчиком в соответствии с настоящим Федеральным законом,
 из суммы, подлежащей оплате поставщику (подрядчику, исполнителю). (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1686))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 15\. При заключении контракта в случаях, предусмотренных пунктом 1,
 пунктами 4 и 5 (за исключением контрактов, заключенных в соответствии с
-[[частью
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7962)
+частью
+12
 статьи 93 настоящего Федерального закона), пунктами
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1661),
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1668),
-[[20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1673),
-[[21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1674),
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1676),
-[[26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1682),
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1684),
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1685),
-[[40]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1696),
-[[41]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1697),
-[[44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1700),
-[[45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1701),
-[[46]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702),
-[[51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1707) -
-[[53]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1709),
-[[56]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7912),
-[[63]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l10101)
+8,
+15,
+20,
+21,
+23,
+26,
+28,
+29,
+40,
+41,
+44,
+45,
+46,
+51 -
+53,
+56,
+63
 части 1 статьи 93 настоящего Федерального закона, требования частей 4 -
 9, 11 - 13 настоящей статьи заказчиком могут не применяться к указанному
 контракту. В этих случаях контракт может быть заключен в любой форме,
 предусмотренной Гражданским
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодексом
 Российской Федерации для совершения сделок. (в ред. Федеральных законов
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182),
-[[от 01.12.2014 N
-416-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=242727#l1),
-[[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2),
-[[от 30.12.2015 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265193#l1),
-[[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l0),
-[[от 29.12.2017 N
-475-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305818#l8),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 04.08.2023 N
-443-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453379#l14),
-[[от 02.11.2023 N
-510-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458848#l7))
+от 04.06.2014 N
+140-ФЗ,
+от 01.12.2014 N
+416-ФЗ,
+от 31.12.2014 N
+498-ФЗ,
+от 13.07.2015 N
+227-ФЗ,
+от 30.12.2015 N
+469-ФЗ,
+от 26.07.2017 N
+198-ФЗ,
+от 29.12.2017 N
+475-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 04.08.2023 N
+443-ФЗ,
+от 02.11.2023 N
+510-ФЗ)
 
 16\. Заказчик вправе заключить контракт жизненного цикла в случае, если
 предметом такого контракта являются новые машины и оборудование, а также
 в иных случаях, установленных Правительством Российской Федерации. В
 контракте должна содержаться стоимость жизненного цикла товара или
 созданного в результате выполнения работы объекта, включающая: (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1687))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) стоимость товара или работы (в том числе при необходимости стоимость
 работ по подготовке проектной документации, стоимость работ по созданию
-товара); (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1687))
+товара); (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) стоимость последующих обслуживания, при необходимости эксплуатации в
 течение срока службы, ремонта и (или) утилизации поставленного товара
 или созданного в результате выполнения работы объекта капитального
-строительства или товара. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1688))
+строительства или товара. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 16.1. Предметом контракта может быть одновременно выполнение работ по
 проектированию, строительству и вводу в эксплуатацию объектов
 капитального строительства. Порядок и основания заключения таких
 контрактов устанавливаются Правительством Российской Федерации. (в ред.
-Федерального закона [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+Федерального закона от 03.07.2016 N
+365-ФЗ)
 
 16.2. Предметом контракта могут быть одновременно консервация, ремонт,
 реставрация, приспособление объекта культурного наследия (памятника
@@ -5103,34 +5103,34 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 использования, включая научно-исследовательские, изыскательские,
 проектные и производственные работы, научное руководство проведением
 работ по сохранению такого объекта, технический и авторский надзор за
-проведением этих работ. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1688))
+проведением этих работ. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-16.3. В случае включения в соответствии с [[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8730)
+16.3. В случае включения в соответствии с пунктом
+8
 части 1 статьи 33 настоящего Федерального закона в описание объекта
 закупки типовой проектной документации предметом контракта могут быть
 одновременно подготовка проектной документации и (или) выполнение
 инженерных изысканий и выполнение работ по строительству объекта
-капитального строительства. (в ред. Федерального закона [[от 02.07.2021
+капитального строительства. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1688))
+360-ФЗ)
 
 17\. В случае, если Правительством Российской Федерации в соответствии с
-[[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2055)
+частью
+1
 статьи 111 настоящего Федерального закона в отношении конкретной закупки
 определены дополнительные условия его исполнения, в том числе не
 связанные с предметом контракта, такие условия подлежат включению в
-контракт. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1690))
+контракт. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-18\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1690))
+18\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-19.-21. Части утратили силу. (в ред. Федерального закона [[от 28.12.2013
+19.-21. Части утратили силу. (в ред. Федерального закона от 28.12.2013
 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+396-ФЗ)
 
 22\. Контракт может быть признан судом недействительным, в том числе по
 требованию контрольного органа в сфере закупок, если будет установлена
@@ -5141,8 +5141,8 @@ N
 должностными лицами заказчика доходов в виде денег, ценностей, иного
 имущества, в том числе имущественных прав, или услуг имущественного
 характера, а также иной выгоды для себя или третьих лиц. (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 23\. В случае, если начальная (максимальная) цена контракта при
 осуществлении закупки товара, работы, услуги превышает размер,
@@ -5163,8 +5163,8 @@ N
 от цены договора, заключенного поставщиком (подрядчиком, исполнителем) с
 соисполнителем, субподрядчиком в соответствии с настоящей частью. Пеня
 подлежит начислению за каждый день просрочки исполнения такого
-обязательства. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+обязательства. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 25\. В случае непредоставления заказчику указанной в части 23 настоящей
 статьи информации поставщиком (подрядчиком, исполнителем) информация об
@@ -5173,8 +5173,8 @@ N
 за собой недействительность заключенного контракта по данному основанию.
 
 26\. В контракт включается условие о банковском сопровождении контракта
-в случаях, установленных в соответствии со [[статьей
-35]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l505)
+в случаях, установленных в соответствии со статьей
+35
 настоящего Федерального закона.
 
 27\. В контракт включается обязательное условие о сроках возврата
@@ -5184,61 +5184,61 @@ N
 исполнителем), в том числе части этих денежных средств в случае
 уменьшения размера обеспечения исполнения контракта в соответствии с
 частями
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1791),
-[[7.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7491)
+7,
+7.1
 и
-[[7.2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7491)
+7.2
 статьи 96 настоящего Федерального закона. При этом срок возврата
 заказчиком поставщику (подрядчику, исполнителю) таких денежных средств
 не должен превышать тридцать дней с даты исполнения поставщиком
 (подрядчиком, исполнителем) обязательств, предусмотренных контрактом, а
-в случае установления заказчиком ограничения, предусмотренного [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l389)
+в случае установления заказчиком ограничения, предусмотренного частью
+3
 статьи 30 настоящего Федерального закона, такой срок не должен превышать
 пятнадцать дней с даты исполнения поставщиком (подрядчиком,
 исполнителем) обязательств, предусмотренных контрактом. (в ред.
-Федеральных законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федеральных законов от 27.12.2018 N
+502-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 28\. В контракт включается дополнительное условие о продаже лесных
 насаждений для заготовки древесины при заключении контракта на
 выполнение работ по охране, защите, воспроизводству лесов в соответствии
-с положениями [[статьи
-19]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454760#l671)
-Лесного кодекса Российской Федерации. (в ред. Федерального закона [[от
+с положениями статьи
+19
+Лесного кодекса Российской Федерации. (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+396-ФЗ)
 
 29\. Правительство Российской Федерации вправе определить: (в ред.
-Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 1\) порядок определения минимального срока исполнения поставщиком
-(подрядчиком, исполнителем) контракта; (в ред. Федерального закона [[от
+(подрядчиком, исполнителем) контракта; (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 2\) требования к формированию лотов при осуществлении закупок отдельных
-видов товаров, работ, услуг. (в ред. Федерального закона [[от 31.12.2017
+видов товаров, работ, услуг. (в ред. Федерального закона от 31.12.2017
 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 29.1. При осуществлении закупки работ, услуг, указанных в пунктах
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9120) -
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9006)
+3 -
+5
 части 4 статьи 48 настоящего Федерального закона в контракт может быть
 включено условие о выполнении подрядчиком работ, об оказании
 исполнителем услуг самостоятельно без привлечения других лиц к
 исполнению обязательств, предусмотренных контрактом. (в ред. Федеральных
-законов [[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1690))
+законов от 01.05.2019 N
+70-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
-30\. Если заказчиком в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1782)
+30\. Если заказчиком в соответствии с частью
+1
 статьи 96 настоящего Федерального закона установлено требование
 обеспечения исполнения контракта, в контракт включается обязательство
 поставщика (подрядчика, исполнителя) в случае отзыва в соответствии с
@@ -5250,19 +5250,19 @@ N
 о необходимости предоставить соответствующее обеспечение. Размер такого
 обеспечения может быть уменьшен в порядке и случаях, которые
 предусмотрены частями
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7987),
-[[7.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7491),
-[[7.2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7491)
+7,
+7.1,
+7.2
 и
-[[7.3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9554)
+7.3
 статьи 96 настоящего Федерального закона. За каждый день просрочки
 исполнения поставщиком (подрядчиком, исполнителем) обязательства,
 предусмотренного настоящей частью, начисляется пеня в размере,
 определенном в порядке, установленном в соответствии с частью 7
-настоящей статьи. (в ред. Федеральных законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1690))
+настоящей статьи. (в ред. Федеральных законов от 27.12.2018 N
+502-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 **Статья 35. Банковское сопровождение контрактов**
 
@@ -5288,15 +5288,15 @@ N
 осуществления банковского сопровождения контрактов, предметом которых
 являются поставки товаров, выполнение работ, оказание услуг для нужд
 субъекта Российской Федерации и муниципальных нужд. (в ред. Федерального
-закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+закона от 31.12.2017 N
+504-ФЗ)
 
 3\. Осуществление расчетов в ходе исполнения контракта, сопровождаемого
 банком, отражается на счетах, которые открываются в указанном банке.
 
-**Статья 36. Отмена закупки (в ред. Федерального закона [[от 02.07.2021
+**Статья 36. Отмена закупки (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2308))**
+360-ФЗ)**
 
 1\. Заказчик вправе отменить закупку с учетом требований,
 предусмотренных настоящей статьей. По истечении сроков, предусмотренных
@@ -5344,14 +5344,14 @@ N
 документация о закупке), но не менее чем десять процентов от начальной
 (максимальной) цены контракта или от цены заключаемого контракта (если
 контракт заключается по результатам определения поставщика (подрядчика,
-исполнителя) в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l378)
+исполнителя) в соответствии с пунктом
+1
 части 1 статьи 30 настоящего Федерального закона) и не менее размера
 аванса (если контрактом предусмотрена выплата аванса). (в ред.
-Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1693))
+Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\. Если при проведении конкурса или аукциона начальная (максимальная)
 цена контракта составляет пятнадцать миллионов рублей и менее и
@@ -5367,13 +5367,13 @@ N
 обеспечения исполнения контракта в размере обеспечения исполнения
 контракта, указанном в извещении об осуществлении закупки, приглашении,
 документации о закупке (в случае, если настоящим Федеральным законом
-предусмотрена документация о закупке). (в ред. Федеральных законов [[от
+предусмотрена документация о закупке). (в ред. Федеральных законов от
 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2311))
+502-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 3\. К информации, подтверждающей добросовестность участника закупки,
 относится информация, содержащаяся в реестре контрактов, заключенных
@@ -5384,11 +5384,11 @@ N
 составлять не менее чем двадцать процентов начальной (максимальной) цены
 контракта, указанной в извещении об осуществлении закупки, приглашении и
 документации о закупке (в случае, если настоящим Федеральным законом
-предусмотрена документация о закупке). (в ред. Федеральных законов [[от
+предусмотрена документация о закупке). (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2311))
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. В случае проведения закрытого конкурса информация, предусмотренная
 частью 3 настоящей статьи, предоставляется участником закупки в составе
@@ -5406,13 +5406,13 @@ N
 размере, в полтора раза превышающем размер обеспечения исполнения
 контракта, указанный в извещении об осуществлении закупки, приглашении,
 документации о закупке (в случае, если настоящим Федеральным законом
-предусмотрена документация о закупке). (в ред. Федеральных законов [[от
+предусмотрена документация о закупке). (в ред. Федеральных законов от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2311))
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 5\. В случае проведения электронного конкурса, аукциона информация,
 предусмотренная частью 3 настоящей статьи, предоставляется участником
@@ -5422,8 +5422,8 @@ N
 предусмотренной указанной частью, недостоверной контракт с таким
 участником не заключается и он признается в соответствии с настоящим
 Федеральным законом уклонившимся от заключения контракта. (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 6\. Обеспечение, указанное в частях 1 и 2 настоящей статьи,
 предоставляется участником закупки, с которым заключается контракт, до
@@ -5441,8 +5441,8 @@ N
 (в случае, если настоящим Федеральным законом предусмотрена документация
 о закупке) различные величины значимости критериев оценки заявок для
 случаев подачи участником конкурса заявки, содержащей предложение о цене
-контракта, которая: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1697))
+контракта, которая: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) до двадцати пяти процентов ниже начальной (максимальной) цены
 контракта;
@@ -5453,8 +5453,8 @@ N
 8\. В случаях, предусмотренных пунктом 2 части 7 настоящей статьи,
 величина значимости такого критерия, как цена контракта, устанавливается
 равной десяти процентам суммы величин значимости всех критериев оценки
-заявок. (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+заявок. (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 9\. Если конкурс или аукцион проводится для заключения контракта на
 поставку товаров, необходимых для нормального жизнеобеспечения граждан,
@@ -5469,16 +5469,16 @@ N
 подтверждающие наличие товара у участника закупки, иные документы и
 расчеты, подтверждающие возможность участника закупки осуществить
 поставку товара по предлагаемым цене, сумме цен единиц товара. (в ред.
-Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 27.06.2019 N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404334#l1),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1697))
+Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 27.06.2019 N
+152-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 10\. Обоснование, указанное в части 9 настоящей статьи, представляется:
-(в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+(в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 1\) участником закупки, предложившим цену контракта, сумму цен единиц
 товара на двадцать пять и более процентов ниже начальной (максимальной)
@@ -5489,12 +5489,12 @@ N
 заявка такого участника отклоняется. Указанное решение комиссии по
 осуществлению закупок фиксируется в протоколе рассмотрения и оценки
 заявок на участие в конкурсе или рассмотрения единственной заявки на
-участие в конкурсе; (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1697))
+участие в конкурсе; (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) участником закупки, с которым заключается контракт, при направлении
 заказчику подписанного проекта контракта при проведении электронного
@@ -5511,12 +5511,12 @@ N
 закупок оформляется протоколом, который размещается в единой
 информационной системе и доводится до сведения всех участников закупки
 не позднее рабочего дня, следующего за днем подписания указанного
-протокола. (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2314))
+протокола. (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 11\. В случае признания победителя конкурса или аукциона уклонившимся от
 заключения контракта на участника закупки, с которым в соответствии с
@@ -5531,31 +5531,31 @@ N
 лекарственных препаратов, сниженная не более чем на двадцать пять
 процентов относительно их зарегистрированной в соответствии с
 законодательством об обращении лекарственных средств предельной
-отпускной цены. (в ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182))
+отпускной цены. (в ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 13\. Выплата аванса при исполнении контракта, заключенного с участником
 закупки, указанным в части 1 или 2 настоящей статьи, не допускается. (в
-ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 **Статья 38. Должностные лица заказчика, контрактная служба, контрактный
-управляющий (в ред. Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l55))**
+управляющий (в ред. Федерального закона от 11.06.2022 N
+160-ФЗ)**
 
 1\. Заказчики, совокупный годовой объем закупок которых превышает сто
 миллионов рублей, создают контрактные службы (при этом создание
 специального структурного подразделения не является обязательным). (в
-ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182))
+ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 2\. В случае, если совокупный годовой объем закупок заказчика не
 превышает сто миллионов рублей и у заказчика отсутствует контрактная
 служба, заказчик назначает должностное лицо, ответственное за
 осуществление закупки или нескольких закупок, включая исполнение каждого
 контракта (далее - контрактный управляющий). (в ред. Федерального закона
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182))
+от 04.06.2014 N
+140-ФЗ)
 
 3\. Контрактная служба действует в соответствии с положением
 (регламентом), разработанным и утвержденным на основании типового
@@ -5565,8 +5565,8 @@ N
 4\. Контрактная служба, контрактный управляющий осуществляют следующие
 функции и полномочия:
 
-1\) пункт утратил силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l45))
+1\) пункт утратил силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 2\) разрабатывают план-график, осуществляют подготовку изменений для
 внесения в план-график, размещают в единой информационной системе
@@ -5576,8 +5576,8 @@ N
 извещений об осуществлении закупок, документации о закупках (в случае,
 если настоящим Федеральным законом предусмотрена документация о закупке)
 и проектов контрактов, подготовку и направление приглашений; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1699))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\) обеспечивают осуществление закупок, в том числе заключение
 контрактов;
@@ -5585,8 +5585,8 @@ N
 5\) участвуют в рассмотрении дел об обжаловании результатов определения
 поставщиков (подрядчиков, исполнителей) и осуществляют подготовку
 материалов для выполнения претензионно-исковой работы; (в ред.
-Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182))
+Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 6\) организуют в случае необходимости на стадии планирования закупок
 консультации с поставщиками (подрядчиками, исполнителями) и участвуют в
@@ -5598,8 +5598,8 @@ N
 7\) осуществляют иные полномочия, предусмотренные настоящим Федеральным
 законом.
 
-5\. При централизации закупок в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l347)
+5\. При централизации закупок в соответствии с частью
+1
 статьи 26 настоящего Федерального закона контрактная служба, контрактный
 управляющий осуществляют полномочия, предусмотренные настоящим
 Федеральным законом и не переданные соответствующим уполномоченному
@@ -5615,15 +5615,15 @@ N
 7\. Руководитель заказчика, руководитель контрактной службы, работники
 контрактной службы, контрактный управляющий обязаны при осуществлении
 закупок принимать меры по предотвращению и урегулированию конфликта
-интересов в соответствии с Федеральным законом [[от 25 декабря 2008 года
+интересов в соответствии с Федеральным законом от 25 декабря 2008 года
 N
-273-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455552#l0)
+273-ФЗ
 \"О противодействии коррупции\", в том числе с учетом информации,
-предоставленной заказчику в соответствии с [[частью
-23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6747)
+предоставленной заказчику в соответствии с частью
+23
 статьи 34 настоящего Федерального закона. (в ред. Федерального закона
-[[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l40))
+от 11.06.2022 N
+160-ФЗ)
 
 **Статья 39. Комиссия по осуществлению закупок**
 
@@ -5638,18 +5638,18 @@ N
 
 2.1. Особенности создания комиссии при осуществлении закупок на оказание
 услуг специализированного депозитария и доверительного управления
-средствами пенсионных накоплений устанавливаются [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=449251#l254)
+средствами пенсионных накоплений устанавливаются статьей
+19
 Федерального закона от 24 июля 2002 года N 111-ФЗ \"Об инвестировании
 средств для финансирования накопительной части трудовой пенсии в
-Российской Федерации\". (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1699))
+Российской Федерации\". (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 3\. Число членов комиссии должно быть не менее чем три человека. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1699))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\. При проведении конкурсов для заключения контрактов на создание
 произведений литературы или искусства, исполнения (как результата
@@ -5657,24 +5657,24 @@ N
 национальных фильмов в состав комиссий должны включаться лица творческих
 профессий в соответствующей области литературы или искусства. Число
 таких лиц должно составлять не менее чем пятьдесят процентов общего
-числа членов комиссии. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2315))
+числа членов комиссии. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. Заказчик включает в состав комиссии преимущественно лиц, прошедших
 профессиональную переподготовку или повышение квалификации в сфере
 закупок, а также лиц, обладающих специальными знаниями, относящимися к
 объекту закупки.
 
-6\. Членами комиссии не могут быть: (в ред. Федерального закона [[от
+6\. Членами комиссии не могут быть: (в ред. Федерального закона от
 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l41))
+160-ФЗ)
 
 1\) физические лица, которые были привлечены в качестве экспертов к
 проведению экспертной оценки извещения об осуществлении закупки,
 документации о закупке (в случае, если настоящим Федеральным законом
 предусмотрена документация о закупке), заявок на участие в конкурсе; (в
-ред. Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l41))
+ред. Федерального закона от 11.06.2022 N
+160-ФЗ)
 
 2\) физические лица, имеющие личную заинтересованность в результатах
 определения поставщика (подрядчика, исполнителя), в том числе физические
@@ -5684,23 +5684,23 @@ N
 управляющими организаций, подавших заявки на участие в определении
 поставщика (подрядчика, исполнителя). Понятие \"личная
 заинтересованность\" используется в значении, указанном в Федеральном
-законе [[от 25 декабря 2008 года N
-273-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455552#l0)
-\"О противодействии коррупции\"; (в ред. Федерального закона [[от
+законе от 25 декабря 2008 года N
+273-ФЗ
+\"О противодействии коррупции\"; (в ред. Федерального закона от
 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l41))
+160-ФЗ)
 
 3\) физические лица, являющиеся участниками (акционерами) организаций,
 подавших заявки на участие в закупке, членами их органов управления,
-кредиторами участников закупки; (в ред. Федерального закона [[от
+кредиторами участников закупки; (в ред. Федерального закона от
 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l41))
+160-ФЗ)
 
-4\) должностные лица органов контроля, указанных в [[части
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7125)
+4\) должностные лица органов контроля, указанных в части
+1
 статьи 99 настоящего Федерального закона, непосредственно осуществляющие
-контроль в сфере закупок. (в ред. Федерального закона [[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l41))
+контроль в сфере закупок. (в ред. Федерального закона от 11.06.2022 N
+160-ФЗ)
 
 7\. Замена члена комиссии допускается только по решению заказчика,
 принявшего решение о создании комиссии. Член комиссии обязан
@@ -5710,9 +5710,9 @@ N
 указанных в части 6 настоящей статьи, заказчик, принявший решение о
 создании комиссии, обязан незамедлительно заменить их другими
 физическими лицами, соответствующими требованиям, предусмотренным
-положениями части 6 настоящей статьи. (в ред. Федерального закона [[от
+положениями части 6 настоящей статьи. (в ред. Федерального закона от
 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l43))
+160-ФЗ)
 
 8\. Комиссия правомочна осуществлять свои функции, если в заседании
 комиссии участвует не менее чем пятьдесят процентов общего числа ее
@@ -5722,8 +5722,8 @@ N
 Члены комиссии должны быть своевременно уведомлены председателем
 комиссии о месте (при необходимости), дате и времени проведения
 заседания комиссии. Делегирование членами комиссии своих полномочий иным
-лицам не допускается. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2315))
+лицам не допускается. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 9\. Решение комиссии, принятое в нарушение требований настоящего
 Федерального закона, может быть обжаловано любым участником закупки в
@@ -5732,14 +5732,14 @@ N
 
 10\. Члены комиссии обязаны при осуществлении закупок принимать меры по
 предотвращению и урегулированию конфликта интересов в соответствии с
-Федеральным законом [[от 25 декабря 2008 года N
-273-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455552#l0)
+Федеральным законом от 25 декабря 2008 года N
+273-ФЗ
 \"О противодействии коррупции\", в том числе с учетом информации,
-предоставленной заказчику в соответствии с [[частью
-23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6747)
+предоставленной заказчику в соответствии с частью
+23
 статьи 34 настоящего Федерального закона. (в ред. Федерального закона
-[[от 11.06.2022 N
-160-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=424805#l44))
+от 11.06.2022 N
+160-ФЗ)
 
 **Статья 40. Специализированная организация**
 
@@ -5758,12 +5758,12 @@ N
 контракта, утверждение проекта контракта, документации о закупке (в
 случае, если настоящим Федеральным законом предусмотрена документация о
 закупке) и подписание контракта осуществляются заказчиком. (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2316))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\. Выбор специализированной организации осуществляется заказчиком в
 соответствии с настоящим Федеральным законом.
@@ -5787,14 +5787,14 @@ N
 **Статья 41. Эксперты, экспертные организации**
 
 1\. Заказчики привлекают экспертов, экспертные организации в случае,
-предусмотренном [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1715)
+предусмотренном частью
+3
 статьи 94 настоящего Федерального закона. Заказчики вправе привлекать
 экспертов, экспертные организации в целях экспертной оценки извещения об
 осуществлении закупки, документации о закупке (в случае, если настоящим
 Федеральным законом предусмотрена документация о закупке), заявок на
-участие в закупке. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2316))
+участие в закупке. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. К проведению экспертизы в случаях, предусмотренных настоящим
 Федеральным законом, не могут быть допущены:
@@ -5844,8 +5844,8 @@ N
 привлекаемым для проведения экспертизы поставленного товара, выполненной
 работы, оказанной услуги по государственному оборонному заказу, а также
 особенности проведения такой экспертизы могут быть установлены
-Федеральным законом [[от 29 декабря 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+Федеральным законом от 29 декабря 2012 года N
+275-ФЗ
 \"О государственном оборонном заказе\".
 
 6\. Для проведения экспертизы в случаях, предусмотренных настоящим
@@ -5864,8 +5864,8 @@ N
 настоящей статьи эксперт, экспертная организация, уполномоченный
 представитель экспертной организации, должностные лица экспертной
 организации несут ответственность в соответствии с законодательством
-Российской Федерации. (в ред. Федерального закона [[от 27.12.2018 N
-512-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=327111#l1))
+Российской Федерации. (в ред. Федерального закона от 27.12.2018 N
+512-ФЗ)
 
 8\. В случае, если для проведения экспертизы необходимы осуществление
 исследований, испытаний, выполнение работ, оказание услуг и в отношении
@@ -5877,8 +5877,8 @@ N
 требованиям.
 
 **Статья 42. Извещение об осуществлении закупки (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1703))**
+закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. При осуществлении закупки путем проведения открытых конкурентных
 способов заказчик формирует с использованием единой информационной
@@ -5893,19 +5893,19 @@ N
 заказчиком);
 
 2\) идентификационный код закупки, определенный в соответствии со
-[[статьей
-23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8002)
+статьей
+23
 настоящего Федерального закона, указание на соответствующую часть
-[[статьи
-15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8000)
+статьи
+15
 настоящего Федерального закона, в соответствии с которой осуществляется
 закупка (при осуществлении закупки в соответствии с частями
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l152) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6648)
+4 -
+6
 статьи 15 настоящего Федерального закона), а также указание на
-осуществление закупки в соответствии с Федеральным законом [[от 29
+осуществление закупки в соответствии с Федеральным законом от 29
 декабря 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+275-ФЗ
 \"О государственном оборонном заказе\", которое не размещается на
 официальном сайте;
 
@@ -5919,24 +5919,24 @@ N
 5\) наименование объекта закупки, информация (при наличии),
 предусмотренная правилами использования каталога товаров, работ, услуг
 для обеспечения государственных и муниципальных нужд, установленными в
-соответствии с [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l281)
+соответствии с частью
+6
 статьи 23 настоящего Федерального закона, указание (в случае
 осуществления закупки лекарственных средств) на международные
 непатентованные наименования лекарственных средств или при отсутствии
 таких наименований химические, группировочные наименования;
 
 6\) информация о количестве (за исключением случая, предусмотренного
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона), единице измерения и месте
 поставки товара (при осуществлении закупки товара, в том числе
 поставляемого заказчику при выполнении закупаемых работ, оказании
 закупаемых услуг);
 
 7\) информация об объеме (за исключением случая, предусмотренного
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона), о единице измерения (при
 наличии) и месте выполнения работы или оказания услуги;
 
@@ -5947,14 +5947,14 @@ N
 исполнения контракта, если проектом контракта предусмотрены такие
 этапы), источник финансирования, наименование валюты в соответствии с
 общероссийским
-[[классификатором]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456276#l0)
-валют. В случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+классификатором
+валют. В случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона, указываются начальная цена
 единицы товара, работы, услуги, а также начальная сумма цен указанных
 единиц и максимальное значение цены контракта. В случаях, установленных
-Правительством Российской Федерации в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6736)
+Правительством Российской Федерации в соответствии с частью
+2
 статьи 34 настоящего Федерального закона, указываются ориентировочное
 значение цены контракта либо формула цены и максимальное значение цены
 контракта;
@@ -5965,37 +5965,37 @@ N
 этих критериев в соответствии с настоящим Федеральным законом;
 
 12\) требования, предъявляемые к участникам закупки в соответствии с
-[[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8010)
+частью
+1
 статьи 31 настоящего Федерального закона, требования, предъявляемые к
 участникам закупки в соответствии с частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8087)
+2.1
 (при наличии таких требований) статьи 31 настоящего Федерального закона,
 и исчерпывающий перечень документов, подтверждающих соответствие
 участника закупки таким требованиям, а также требование, предъявляемое к
-участникам закупки в соответствии с [[частью
-1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8085)
+участникам закупки в соответствии с частью
+1.1
 статьи 31 настоящего Федерального закона (при наличии такого
-требования); (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+требования); (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 13\) информация о предоставлении преимущества в соответствии со статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8691)
+29
 настоящего Федерального закона;
 
 14\) информация о преимуществах участия в определении поставщика
-(подрядчика, исполнителя) в соответствии с [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l386)
+(подрядчика, исполнителя) в соответствии с частью
+3
 статьи 30 настоящего Федерального закона или требование, установленное в
-соответствии с [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8705)
+соответствии с частью
+5
 статьи 30 настоящего Федерального закона, с указанием в соответствии с
-[[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l392)
+частью
+6
 статьи 30 настоящего Федерального закона объема привлечения к исполнению
 контрактов субподрядчиков, соисполнителей из числа субъектов малого
 предпринимательства, социально ориентированных некоммерческих
@@ -6005,47 +6005,47 @@ N
 товаров, происходящих из иностранного государства или группы иностранных
 государств, работ, услуг, соответственно выполняемых, оказываемых
 иностранными лицами, в случае, если такие условия, запреты и ограничения
-установлены в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+установлены в соответствии со статьей
+14
 настоящего Федерального закона;
 
 16\) размер и порядок внесения денежных средств в качестве обеспечения
 заявки на участие в закупке, условия независимой гарантии (если
-требование обеспечения заявки установлено в соответствии со [[статьей
-44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8939)
+требование обеспечения заявки установлено в соответствии со статьей
+44
 настоящего Федерального закона), реквизиты счета, на котором в
 соответствии с законодательством Российской Федерации учитываются
 операции со средствами, поступающими заказчику, реквизиты счета для
-перечисления денежных средств в случае, предусмотренном [[частью
-13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8953)
+перечисления денежных средств в случае, предусмотренном частью
+13
 статьи 44 настоящего Федерального закона;
 
 17\) размер обеспечения исполнения контракта, гарантийных обязательств,
 порядок предоставления такого обеспечения, требования к такому
 обеспечению (если требование обеспечения исполнения контракта,
-гарантийных обязательств установлено в соответствии со [[статьей
-96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1780)
+гарантийных обязательств установлено в соответствии со статьей
+96
 настоящего Федерального закона);
 
 18\) информация о банковском сопровождении контракта в соответствии со
-[[статьей
-35]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8767)
+статьей
+35
 настоящего Федерального закона, о казначейском сопровождении (если в
 соответствии с законодательством Российской Федерации расчеты по
 контракту или расчеты по контракту в части выплаты аванса подлежат
-казначейскому сопровождению); (в ред. Федерального закона [[от
+казначейскому сопровождению); (в ред. Федерального закона от
 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+104-ФЗ)
 
 19\) информация о возможности заказчика заключить контракты, указанные в
-[[части
-10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l480)
+части
+10
 статьи 34 настоящего Федерального закона, с несколькими участниками
 закупки с указанием количества указанных контрактов;
 
 20\) информация о возможности одностороннего отказа от исполнения
-контракта в соответствии со [[статьей
-95]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9496)
+контракта в соответствии со статьей
+95
 настоящего Федерального закона;
 
 21\) дата и время окончания срока подачи заявок на участие в закупке.
@@ -6053,8 +6053,8 @@ N
 
 22\) дата окончания срока рассмотрения и оценки первых частей заявок на
 участие в закупке (в случае проведения электронного конкурса, за
-исключением случая, предусмотренного [[частью
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9144)
+исключением случая, предусмотренного частью
+19
 статьи 48 настоящего Федерального закона), дата окончания срока
 рассмотрения и оценки вторых частей заявок на участие в закупке (в
 случае проведения электронного конкурса), дата окончания срока
@@ -6064,11 +6064,11 @@ N
 
 23\) дата проведения процедуры подачи предложений о цене контракта либо
 о сумме цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона) в случае проведения
-электронного конкурса (за исключением случая, предусмотренного [[частью
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9035)
+электронного конкурса (за исключением случая, предусмотренного частью
+19
 статьи 48 настоящего Федерального закона), аукционов. При проведении
 электронного конкурса предусмотренная настоящим пунктом дата должна
 приходиться на рабочий день, следующий за датой окончания срока
@@ -6081,15 +6081,15 @@ N
 нарушение требований антимонопольного законодательства Российской
 Федерации о запрете участия в ограничивающих конкуренцию соглашениях,
 осуществления ограничивающих конкуренцию согласованных действий. (в ред.
-Федерального закона [[от 05.12.2022 N
-500-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437449#l15))
+Федерального закона от 05.12.2022 N
+500-ФЗ)
 
 2\. Извещение об осуществлении закупки, если иное не предусмотрено
 настоящим Федеральным законом, должно содержать следующие электронные
 документы:
 
-1\) описание объекта закупки в соответствии со [[статьей
-33]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l455)
+1\) описание объекта закупки в соответствии со статьей
+33
 настоящего Федерального закона;
 
 2\) обоснование начальной (максимальной) цены контракта. Заказчик,
@@ -6100,8 +6100,8 @@ N
 применения официального курса иностранной валюты к рублю Российской
 Федерации, установленного Центральным банком Российской Федерации и
 используемого при оплате поставленного товара, выполненной работы,
-оказанной услуги; (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+оказанной услуги; (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 3\) требования к содержанию, составу заявки на участие в закупке в
 соответствии с настоящим Федеральным законом и инструкция по ее
@@ -6119,16 +6119,16 @@ N
 
 а) на оказание услуг специализированного депозитария и доверительного
 управления средствами пенсионных накоплений, установленных в
-соответствии со [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=449251#l836)
+соответствии со статьей
+19
 Федерального закона от 24 июля 2002 года N 111-ФЗ \"Об инвестировании
 средств для финансирования накопительной пенсии в Российской
 Федерации\";
 
 б) на оказание услуг специализированного депозитария, оказываемых
 уполномоченному федеральному органу, и доверительного управления,
-установленных в соответствии со [[статьей
-24]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=448614#l583)
+установленных в соответствии со статьей
+24
 Федерального закона от 20 августа 2004 года N 117-ФЗ \"О
 накопительно-ипотечной системе жилищного обеспечения военнослужащих\";
 
@@ -6200,8 +6200,8 @@ N
 осуществлении закупки.
 
 **Статья 43. Заявка на участие в закупке (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1725))**
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. Для участия в конкурентном способе заявка на участие в закупке, если
 иное не предусмотрено настоящим Федеральным законом, должна содержать:
@@ -6235,8 +6235,8 @@ N
 учредителей унитарного юридического лица или в соответствии с
 законодательством соответствующего иностранного государства аналог
 идентификационного номера налогоплательщика таких лиц; (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 г) адрес юридического лица, в том числе иностранного юридического лица
 (если участником закупки является юридическое лицо) в пределах места
@@ -6291,15 +6291,15 @@ N
 является учреждением или предприятием уголовно-исполнительной системы);
 
 к) декларация о принадлежности участника закупки к организации
-инвалидов, предусмотренной [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8693)
+инвалидов, предусмотренной частью
+2
 статьи 29 настоящего Федерального закона (если участник закупки является
 такой организацией);
 
 л) декларация о принадлежности участника закупки к социально
 ориентированным некоммерческим организациям в случае установления
-преимущества, предусмотренного [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l388)
+преимущества, предусмотренного частью
+3
 статьи 30 настоящего Федерального закона;
 
 м) решение о согласии на совершение или о последующем одобрении крупной
@@ -6312,23 +6312,23 @@ N
 крупной сделкой;
 
 н) документы, подтверждающие соответствие участника закупки требованиям,
-установленным [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l433)
+установленным пунктом
+1
 части 1 статьи 31 настоящего Федерального закона, документы,
 подтверждающие соответствие участника закупки дополнительным
 требованиям, установленным в соответствии с частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8087)
+2.1
 (при наличии таких требований) статьи 31 настоящего Федерального закона,
 если иное не предусмотрено настоящим Федеральным законом;
 
 о) декларация о соответствии участника закупки требованиям,
 установленным пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l433) -
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8076),
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8078) -
-[[11]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8085)
+3 -
+5,
+7 -
+11
 части 1 статьи 31 настоящего Федерального закона;
 
 п) реквизиты счета участника закупки, на который в соответствии с
@@ -6340,8 +6340,8 @@ N
 заключения контракта;
 
 р) в случае проведения электронного конкурса и установления критерия,
-предусмотренного [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l435)
+предусмотренного пунктом
+4
 части 1 статьи 32 настоящего Федерального закона, заявка на участие в
 закупке может содержать документы, подтверждающие квалификацию участника
 закупки. Отсутствие таких документов не является основанием для
@@ -6352,8 +6352,8 @@ N
 
 а) с учетом положений части 2 настоящей статьи характеристики
 предлагаемого участником закупки товара, соответствующие показателям,
-установленным в описании объекта закупки в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8732)
+установленным в описании объекта закупки в соответствии с частью
+2
 статьи 33 настоящего Федерального закона, товарный знак (при наличии у
 товара товарного знака);
 
@@ -6374,9 +6374,9 @@ N
 
 г) с учетом положений части 2 настоящей статьи предложение по критериям,
 предусмотренным пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l437)
+2
 и (или)
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l439)
+3
 части 1 статьи 32 настоящего Федерального закона (в случае проведения
 конкурсов и установления таких критериев). При этом отсутствие такого
 предложения не является основанием для отклонения заявки на участие в
@@ -6391,15 +6391,15 @@ N
 случая, предусмотренного пунктом 4 настоящей части);
 
 4\) предложение участника закупки о сумме цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона);
 
 5\) информация и документы, предусмотренные нормативными правовыми
 актами, принятыми в соответствии с частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7994)
+4
 статьи 14 настоящего Федерального закона (в случае, если в извещении об
 осуществлении закупки, документации о закупке (если настоящим
 Федеральным законом предусмотрена документация о закупке) установлены
@@ -6426,8 +6426,8 @@ N
 
 2\) информация, предусмотренная подпунктами \"а\" и \"г\" пункта 2 части
 1 настоящей статьи, не включается в заявку на участие в закупке в случае
-включения заказчиком в соответствии с [[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8744)
+включения заказчиком в соответствии с пунктом
+8
 части 1 статьи 33 настоящего Федерального закона в описание объекта
 закупки проектной документации, или типовой проектной документации, или
 сметы на капитальный ремонт объекта капитального строительства.
@@ -6472,9 +6472,9 @@ N
 3\) при проведении электронных процедур документы, подтверждающие
 соответствие участника закупки дополнительным требованиям, установленным
 в соответствии с частью
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+2
 или
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+2.1
 (при наличии таких требований) статьи 31 настоящего Федерального закона,
 и предусмотренные подпунктом \"н\" пункта 1 части 1 настоящей статьи, не
 включаются участником закупки в заявку на участие в закупке. Такие
@@ -6497,8 +6497,8 @@ N
 закупки в случаях:
 
 а) подачи заявки на участие в закупке с нарушением требований,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l118)
+предусмотренных частью
+1
 статьи 5 настоящего Федерального закона;
 
 б) подачи одним участником закупки двух и более заявок на участие в
@@ -6517,15 +6517,15 @@ N
 
 д) указания в соответствии с подпунктом \"б\" пункта 2 части 1 настоящей
 статьи иностранного государства в качестве страны происхождении товара в
-случае установления в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136)
+случае установления в соответствии со статьей
+14
 настоящего Федерального закона в извещении об осуществлении закупки
 запрета допуска товаров, происходящих из иностранного государства или
 группы иностранных государств;
 
 е) получения оператором электронной площадки от банка информации,
-указанной в [[подпункте
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8943)
+указанной в подпункте
+\"г\"
 пункта 3 части 5 статьи 44 настоящего Федерального закона;
 
 ж) отсутствия номера реестровой записи в реестре независимых гарантий,
@@ -6542,33 +6542,33 @@ N
 участнике закупки, в том числе информации о членах коллегиального
 исполнительного органа, лице, исполняющем функции единоличного
 исполнительного органа участника закупки - юридического лица, при
-условии установления требования, предусмотренного [[частью
-1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8085)
+условии установления требования, предусмотренного частью
+1.1
 статьи 31 настоящего Федерального закона;
 
 и) отсутствия в реестре участников закупок, аккредитованных на
 электронной площадке, информации и документов участника закупки,
 предусмотренных перечнем, установленным Правительством Российской
-Федерации в соответствии с [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8708)
+Федерации в соответствии с частью
+3
 статьи 31 настоящего Федерального закона (при осуществлении закупки, в
 отношении участников которой в извещении об осуществлении закупки
 установлены дополнительные требования в соответствии с частью
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8086)
+2
 или
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8087)
+2.1
 статьи 31 настоящего Федерального закона);
 
 к) подачи заявки участником закупки, не являющимся субъектом малого
 предпринимательства, социально ориентированной некоммерческой
 организацией, в случае установления в извещении об осуществлении закупки
-преимущества, предусмотренного [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l388)
+преимущества, предусмотренного частью
+3
 статьи 30 настоящего Федерального закона;
 
 л) подачи заявки участником закупки, являющимся иностранным лицом, в
-случае установления в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+случае установления в соответствии со статьей
+14
 настоящего Федерального закона в извещении об осуществлении закупки
 запрета допуска работ, услуг, соответственно выполняемых, оказываемых
 иностранными лицами;
@@ -6628,8 +6628,8 @@ N
 
 8\. При проведении закрытого конкурса, закрытого аукциона участник
 закупки вправе изменить свою заявку до окончания срока подачи заявок на
-участие в закупке в порядке, установленном в соответствии с [[подпунктом
-\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9204)
+участие в закупке в порядке, установленном в соответствии с подпунктом
+\"д\"
 пункта 1 части 1 статьи 72 настоящего Федерального закона. Изменение
 регистрируется в порядке, установленном настоящим Федеральным законом
 для регистрации заявки на участие в закупке. Датой и временем подачи
@@ -6645,8 +6645,8 @@ N
 2\) с момента размещения в соответствии с настоящим Федеральным законом
 в единой информационной системе протокола подведения итогов определения
 поставщика (подрядчика, исполнителя) до размещения в соответствии с
-[[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9075)
+частью
+2
 статьи 51 настоящего Федерального закона проекта контракта, заключаемого
 с таким участником закупки, за исключением случаев, если такая заявка
 отклонена (при проведении электронных процедур, закрытых электронных
@@ -6684,8 +6684,8 @@ N
 считается отозванной.
 
 **Статья 44. Обеспечение заявки на участие в закупке (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1765))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. При проведении конкурентных способов заказчик обязан установить
 требование обеспечения заявок на участие в закупке. Заказчик вправе не
@@ -6704,8 +6704,8 @@ N
 начальной (максимальной) цены контракта.
 
 3\. Предприятия уголовно-исполнительной системы, организации инвалидов,
-предусмотренные [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8698)
+предусмотренные частью
+2
 статьи 29 настоящего Федерального закона, предоставляют обеспечение
 заявки на участие в закупке (в случае установления заказчиком требования
 обеспечения заявок на участие в закупке) в размере одной второй процента
@@ -6715,8 +6715,8 @@ N
 
 4\. Обеспечение заявки на участие в закупке может предоставляться
 участником закупки в виде денежных средств или независимой гарантии,
-предусмотренной [[статьей
-45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8888)
+предусмотренной статьей
+45
 настоящего Федерального закона. Выбор способа обеспечения осуществляется
 участником закупки самостоятельно. Срок действия независимой гарантии
 должен составлять не менее месяца с даты окончания срока подачи заявок.
@@ -6736,12 +6736,12 @@ N
 Требования к таким банкам, к договору специального счета, к порядку
 использования имеющегося у участника закупки банковского счета в
 качестве специального счета устанавливаются Правительством Российской
-Федерации; (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерации; (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 б) путем предоставления независимой гарантии, соответствующей
-требованиям [[статьи
-45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8889)
+требованиям статьи
+45
 настоящего Федерального закона;
 
 2\) участник закупки для подачи заявки на участие в закупке выбирает с
@@ -6777,8 +6777,8 @@ N
 г) в случае получения от банка информации об отсутствии на специальном
 счете денежных средств в размере, необходимом для обеспечения заявки на
 участие в закупке, оператор электронной площадки осуществляет в
-соответствии с [[подпунктом
-\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8846)
+соответствии с подпунктом
+\"е\"
 пункта 5 части 6 статьи 43 настоящего Федерального закона возврат заявки
 подавшему ее участнику закупки;
 
@@ -6791,8 +6791,8 @@ N
 идентификационного кода закупки, указанного в независимой гарантии,
 идентификационному коду закупки, указанному в извещении об осуществлении
 закупки. Оператор электронной площадки возвращает заявку подавшему ее
-участнику закупки в соответствии с [[подпунктом
-\"ж\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8847)
+участнику закупки в соответствии с подпунктом
+\"ж\"
 пункта 5 части 6 статьи 43 настоящего Федерального закона.
 
 6\. В случае выявления обстоятельств, свидетельствующих о соответствии
@@ -6870,8 +6870,8 @@ N
 участников закупки, признанных в соответствии с настоящим Федеральным
 законом уклонившимися от заключения контракта;
 
-4\) отмена закупки в соответствии со [[статьей
-36]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6749)
+4\) отмена закупки в соответствии со статьей
+36
 настоящего Федерального закона. В этом случае оператор электронной
 площадки направляет информацию о реквизитах специальных счетов всех
 участников закупки, подавших заявки на участие в закупке;
@@ -6886,8 +6886,8 @@ N
 уклонением от заключения контракта;
 
 7\) включение информации об участнике закупки в реестр недобросовестных
-поставщиков (подрядчиков, исполнителей) в соответствии со [[статьей
-104]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9581)
+поставщиков (подрядчиков, исполнителей) в соответствии со статьей
+104
 настоящего Федерального закона в связи с его уклонением от заключения
 контракта.
 
@@ -6923,10 +6923,10 @@ N
 закупок приняты решения о несоответствии указанных заявок требованиям,
 предусмотренным извещением об осуществлении закупки, по основаниям,
 установленным пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019) -
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9020),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9022) -
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9023)
+1 -
+3,
+5 -
+9
 части 12 статьи 48 настоящего Федерального закона, в порядке,
 предусмотренном частью 14 настоящей статьи, осуществляется перечисление
 в соответствующий бюджет бюджетной системы Российской Федерации
@@ -6942,20 +6942,20 @@ N
 
 1\) оператор электронной площадки через пятнадцать рабочих дней со дня,
 следующего за днем размещения на электронной площадке в отношении такой
-заявки протокола, указанного в [[части
-17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9031)
-статьи 48, [[пункте
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9055)
-части 5 статьи 49, [[пункте
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9065)
+заявки протокола, указанного в части
+17
+статьи 48, пункте
+2
+части 5 статьи 49, пункте
+2
 части 3 статьи 50 настоящего Федерального закона, направляет (за
 исключением случая получения оператором электронной площадки решения
 суда, контрольного органа в сфере закупок о признании решения, принятого
 в отношении такой заявки, не соответствующим требованиям настоящего
 Федерального закона) в банк информацию о реквизитах специального счета
 участника закупки, подавшего такую заявку; (в ред. Федерального закона
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+от 16.04.2022 N
+104-ФЗ)
 
 2\) банк не позднее одного часа с момента получения информации,
 предусмотренной пунктом 1 настоящей части, осуществляет перевод
@@ -6975,12 +6975,12 @@ N
 
 1\) оператор электронной площадки через пятнадцать рабочих дней со дня,
 следующего за днем размещения на электронной площадке в отношении такой
-заявки протокола, указанного в [[части
-17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9031)
-статьи 48, [[пункте
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9055)
-части 5 статьи 49, [[пункте
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9066)
+заявки протокола, указанного в части
+17
+статьи 48, пункте
+2
+части 5 статьи 49, пункте
+2
 части 3 статьи 50 настоящего Федерального закона, направляет (за
 исключением случая получения оператором электронной площадки решения
 суда, контрольного органа в сфере закупок о признании решения, принятого
@@ -6988,8 +6988,8 @@ N
 Федерального закона) заказчику, разместившему такой соответствующий
 протокол, информацию о наступлении случая, предусмотренного частью 13
 настоящей статьи, и об участнике закупки, подавшем такую заявку; (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 2\) заказчик не позднее трех рабочих дней со дня, следующего за днем
 получения информации, предусмотренной пунктом 1 настоящей части,
@@ -7027,8 +7027,8 @@ N
 17\. При проведении закрытых электронных процедур применяются положения
 настоящего Федерального закона, касающиеся обеспечения заявок на участие
 в закупках при проведении электронных процедур, если иное не установлено
-Правительством Российской Федерации в соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8652)
+Правительством Российской Федерации в соответствии с пунктом
+2
 части 13 статьи 24 настоящего Федерального закона.
 
 18\. Правительство Российской Федерации вправе установить особенности
@@ -7036,47 +7036,47 @@ N
 участниками закупок, являющимися иностранными лицами.
 
 **Статья 45. Условия независимой гарантии. Реестры независимых гарантий
-(в ред. Федеральных законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2393))**
+(в ред. Федеральных законов от 31.12.2014 N
+498-ФЗ,
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. Заказчики в качестве обеспечения заявок, исполнения контрактов,
 гарантийных обязательств принимают независимые гарантии, выданные: (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2393))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) банками, соответствующими требованиям, установленным Правительством
 Российской Федерации, и включенными в перечень, предусмотренный частью
-1.2 настоящей статьи; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2393))
+1.2 настоящей статьи; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) государственной корпорацией развития \"ВЭБ.РФ\"; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1794))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\) фондами содействия кредитованию (гарантийными фондами, фондами
 поручительств), являющимися участниками национальной гарантийной системы
 поддержки малого и среднего предпринимательства, предусмотренной
-Федеральным законом [[от 24 июля 2007 года N
-209-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=452906#l0)
+Федеральным законом от 24 июля 2007 года N
+209-ФЗ
 \"О развитии малого и среднего предпринимательства в Российской
 Федерации\" (далее - региональные гарантийные организации),
 соответствующими требованиям, установленным Правительством Российской
 Федерации, и включенными в перечень, предусмотренный частью 1.7
-настоящей статьи (при осуществлении закупок в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l378)
+настоящей статьи (при осуществлении закупок в соответствии с пунктом
+1
 части 1 статьи 30 настоящего Федерального закона); (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1794))
+закона от 02.07.2021 N
+360-ФЗ)
 
 4\) Евразийским банком развития (если участник закупки является
 юридическим лицом, зарегистрированным на территории государства - члена
 Евразийского экономического союза, за исключением Российской Федерации,
 или физическим лицом, являющимся гражданином государства - члена
 Евразийского экономического союза, за исключением Российской Федерации).
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1794))
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1.1. При установлении требований к банкам Правительство Российской
 Федерации устанавливает требования к уровню кредитного рейтинга,
@@ -7084,20 +7084,20 @@ N
 агентствами, сведения о которых внесены Центральным банком Российской
 Федерации в реестр кредитных рейтинговых агентств, по национальной
 рейтинговой шкале для Российской Федерации в соответствии с
-методологией, соответствие которой требованиям [[статьи
-12]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=443493#l81)
+методологией, соответствие которой требованиям статьи
+12
 Федерального закона от 13 июля 2015 года N 222-ФЗ \"О деятельности
 кредитных рейтинговых агентств в Российской Федерации, о внесении
 изменения в статью 76.1 Федерального закона \"О Центральном банке
 Российской Федерации (Банке России)\" и признании утратившими силу
 отдельных положений законодательных актов Российской Федерации\"
 подтверждено Центральным банком Российской Федерации. (в ред.
-Федеральных законов [[от 29.07.2017 N
-267-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411827#l262),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1796))
+Федеральных законов от 29.07.2017 N
+267-ФЗ,
+от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1.2. Перечень банков, соответствующих установленным требованиям, ведется
 федеральным органом исполнительной власти по регулированию контрактной
@@ -7113,28 +7113,28 @@ N
 исполнительной власти по регулированию контрактной системы в сфере
 закупок в течение пяти дней со дня выявления указанных обстоятельств для
 внесения соответствующих изменений в перечень. (в ред. Федерального
-закона [[от 29.07.2017 N
-267-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411827#l262))
+закона от 29.07.2017 N
+267-ФЗ)
 
 ***Действие положений части 1.3 статьи 45 (в редакции Федерального
-закона [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l0))
+закона от 27.12.2019 N
+469-ФЗ)
 распространяется также на банки, в отношении которых до 28.12.2019
-Советом директоров ЦБ РФ в соответствии с Федеральным законом [[от 26
+Советом директоров ЦБ РФ в соответствии с Федеральным законом от 26
 октября 2002 года N
-127-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457939#l0)
+127-ФЗ
 \"О несостоятельности (банкротстве)\" были утверждены планы участия
 Банка России в осуществлении мер по предупреждению банкротства и приняты
 решения Совета директоров ЦБ РФ о гарантировании непрерывности
 деятельности соответствующих банков в течение срока реализации указанных
-планов ([[часть
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l84)
+планов (часть
+1
 статьи 14 Федерального закона от 27.12.2019 N 469-ФЗ).***
 
 1.3. В течение срока реализации утвержденного Советом директоров
 Центрального банка Российской Федерации в соответствии с Федеральным
-законом [[от 26 октября 2002 года N
-127-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457939#l0)
+законом от 26 октября 2002 года N
+127-ФЗ
 \"О несостоятельности (банкротстве)\" плана участия Банка России в
 осуществлении мер по предупреждению банкротства банка, включенного в
 перечень банков, предусмотренный частью 1.2 настоящей статьи, на дату
@@ -7144,24 +7144,24 @@ N
 с частью 1.1 настоящей статьи требованиям при условии принятия Советом
 директоров Центрального банка Российской Федерации решения о
 гарантировании непрерывности деятельности такого банка. (в ред.
-Федеральных законов [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l63),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1796))
+Федеральных законов от 27.12.2019 N
+469-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 ***Действие положений части 1.4 статьи 45 (в редакции Федерального
-закона [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l0))
+закона от 27.12.2019 N
+469-ФЗ)
 распространяется также на банки, в отношении которых до 28.12.2019
-Советом директоров ЦБ РФ в соответствии с Федеральным законом [[от 26
+Советом директоров ЦБ РФ в соответствии с Федеральным законом от 26
 октября 2002 года N
-127-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457939#l0)
+127-ФЗ
 \"О несостоятельности (банкротстве)\" были утверждены планы участия
 Банка России в осуществлении мер по предупреждению банкротства и приняты
 решения Совета директоров ЦБ РФ о гарантировании непрерывности
 деятельности соответствующих банков в течение срока реализации указанных
-планов ([[часть
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l84)
+планов (часть
+1
 статьи 14 Федерального закона от 27.12.2019 N 469-ФЗ).***
 
 1.4. В течение срока реализации плана участия Банка России в
@@ -7171,22 +7171,22 @@ N
 указанного плана, такой банк не исключается из указанного перечня при
 условии принятия Советом директоров Центрального банка Российской
 Федерации решения о гарантировании непрерывности деятельности такого
-банка. (в ред. Федерального закона [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l63))
+банка. (в ред. Федерального закона от 27.12.2019 N
+469-ФЗ)
 
 ***Действие положений части 1.5 статьи 45 (в редакции Федерального
-закона [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l0))
+закона от 27.12.2019 N
+469-ФЗ)
 распространяется также на банки, в отношении которых до 28.12.2019
-Советом директоров ЦБ РФ в соответствии с Федеральным законом [[от 26
+Советом директоров ЦБ РФ в соответствии с Федеральным законом от 26
 октября 2002 года N
-127-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457939#l0)
+127-ФЗ
 \"О несостоятельности (банкротстве)\" были утверждены планы участия
 Банка России в осуществлении мер по предупреждению банкротства и приняты
 решения Совета директоров ЦБ РФ о гарантировании непрерывности
 деятельности соответствующих банков в течение срока реализации указанных
-планов ([[часть
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l84)
+планов (часть
+1
 статьи 14 Федерального закона от 27.12.2019 N 469-ФЗ).***
 
 1.5. Сведения о факте и дате утверждения плана участия Банка России в
@@ -7198,23 +7198,23 @@ N
 Центральным банком Российской Федерации в федеральный орган
 исполнительной власти по регулированию контрактной системы в сфере
 закупок не позднее чем в течение пяти рабочих дней, следующих за днем
-принятия указанного решения. (в ред. Федерального закона [[от 27.12.2019
+принятия указанного решения. (в ред. Федерального закона от 27.12.2019
 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l63))
+469-ФЗ)
 
 ***Действие положений части 1.6 статьи 45 (в редакции Федерального
-закона [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l0))
+закона от 27.12.2019 N
+469-ФЗ)
 распространяется также на банки, в отношении которых до 28.12.2019
-Советом директоров ЦБ РФ в соответствии с Федеральным законом [[от 26
+Советом директоров ЦБ РФ в соответствии с Федеральным законом от 26
 октября 2002 года N
-127-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457939#l0)
+127-ФЗ
 \"О несостоятельности (банкротстве)\" были утверждены планы участия
 Банка России в осуществлении мер по предупреждению банкротства и приняты
 решения Совета директоров ЦБ РФ о гарантировании непрерывности
 деятельности соответствующих банков в течение срока реализации указанных
-планов ([[часть
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l84)
+планов (часть
+1
 статьи 14 Федерального закона от 27.12.2019 N 469-ФЗ).***
 
 1.6. В случае, если банк, включенный в перечень банков, предусмотренный
@@ -7229,8 +7229,8 @@ N
 сфере закупок в указанный перечень не позднее чем в течение пяти рабочих
 дней, следующих за днем получения от Центрального банка Российской
 Федерации сведений, указанных в части 1.5 настоящей статьи. (в ред.
-Федерального закона [[от 27.12.2019 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411825#l63))
+Федерального закона от 27.12.2019 N
+469-ФЗ)
 
 1.7. Перечень региональных гарантийных организаций ведется федеральным
 органом исполнительной власти по регулированию контрактной системы в
@@ -7252,42 +7252,42 @@ N
 исполнительной власти по регулированию контрактной системы в сфере
 закупок в течение пяти дней со дня выявления указанных обстоятельств для
 внесения соответствующих изменений в перечень региональных гарантийных
-организаций. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1797))
+организаций. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Независимая гарантия должна быть безотзывной и должна содержать: (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1797))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) сумму независимой гарантии, подлежащую уплате гарантом заказчику в
-установленных [[статьей
-44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8862)
+установленных статьей
+44
 настоящего Федерального закона случаях для предъявления требования об
 уплате денежной суммы по независимой гарантии, предоставленной для
 обеспечения заявки на участие в закупке, или сумму независимой гарантии,
 подлежащую уплате гарантом заказчику в случае ненадлежащего исполнения
-обязательств принципалом в соответствии со [[статьей
-96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1782)
+обязательств принципалом в соответствии со статьей
+96
 настоящего Федерального закона, а также идентификационный код закупки,
 при осуществлении которой предоставляется такая независимая гарантия; (в
-ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1797),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 2\) обязательства принципала, надлежащее исполнение которых
-обеспечивается независимой гарантией; (в ред. Федерального закона [[от
+обеспечивается независимой гарантией; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1799))
+360-ФЗ)
 
 ***Требования пункта 3 части 2 статьи 45 (в редакции Федерального закона
 от 16.04.2022 N 109-ФЗ) применяются к отношениям, связанным с
 осуществлением закупок товаров, работ, услуг, извещения об осуществлении
 которых размещены в единой информационной системе либо приглашения
-принять участие в которых направлены после 01.07.2022 ([[часть
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l24)
+принять участие в которых направлены после 01.07.2022 (часть
+5
 статьи 3 Федерального закона от 16.04.2022 N 109-ФЗ).***
 
 3\) обязанность гаранта в случае просрочки исполнения обязательств по
@@ -7296,45 +7296,45 @@ N
 заказчиком до окончания срока ее действия, за каждый день просрочки
 уплатить заказчику неустойку в размере 0,1 процента денежной суммы,
 подлежащей уплате по такой независимой гарантии; (в ред. Федерального
-закона [[от 16.04.2022 N
-109-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l16))
+закона от 16.04.2022 N
+109-ФЗ)
 
 4\) условие, согласно которому исполнением обязательств гаранта по
 независимой гарантии является фактическое поступление денежных сумм на
 счет, на котором в соответствии с законодательством Российской Федерации
 учитываются операции со средствами, поступающими заказчику; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1799))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\) срок действия независимой гарантии с учетом требований статей
-[[44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6775)
+44
 и
-[[96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1782)
-настоящего Федерального закона; (в ред. Федеральных законов [[от
+96
+настоящего Федерального закона; (в ред. Федеральных законов от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2398))
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 6\) отлагательное условие, предусматривающее заключение договора
 предоставления независимой гарантии по обязательствам принципала,
 возникшим из контракта при его заключении, в случае предоставления
 независимой гарантии в качестве обеспечения исполнения контракта; (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2398))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 7\) установленный Правительством Российской Федерации перечень
 документов, предоставляемых заказчиком гаранту одновременно с
 требованием об осуществлении уплаты денежной суммы по независимой
-гарантии. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2398))
+гарантии. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 ***Требования части 3 статьи 45 (в редакции Федерального закона от
 16.04.2022 N 109-ФЗ) применяются к отношениям, связанным с
 осуществлением закупок товаров, работ, услуг, извещения об осуществлении
 которых размещены в единой информационной системе либо приглашения
-принять участие в которых направлены после 01.07.2022 ([[часть
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l24)
+принять участие в которых направлены после 01.07.2022 (часть
+5
 статьи 3 Федерального закона от 16.04.2022 N 109-ФЗ).***
 
 3\. В независимую гарантию включается условие об обязанности гаранта
@@ -7342,66 +7342,66 @@ N
 не позднее десяти рабочих дней со дня, следующего за днем получения
 гарантом требования заказчика (бенефициара), соответствующего условиям
 такой независимой гарантии, при отсутствии предусмотренных Гражданским
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодексом
 Российской Федерации оснований для отказа в удовлетворении этого
-требования. (в ред. Федерального закона [[от 16.04.2022 N
-109-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l18))
+требования. (в ред. Федерального закона от 16.04.2022 N
+109-ФЗ)
 
 3.1. Уменьшение в соответствии с частями
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1791)
+7
 и
-[[7.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7491)
+7.1
 статьи 96 настоящего Федерального закона размера обеспечения исполнения
 контракта, предоставленного в виде независимой гарантии, осуществляется
 заказчиком путем отказа от части своих прав по этой гарантии. При этом
-датой такого отказа признается дата включения предусмотренной [[частью
-7.2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7491)
+датой такого отказа признается дата включения предусмотренной частью
+7.2
 статьи 96 настоящего Федерального закона информации в соответствующий
-реестр контрактов, предусмотренный [[статьей
-103]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1915)
-настоящего Федерального закона. (в ред. Федеральных законов [[от
+реестр контрактов, предусмотренный статьей
+103
+настоящего Федерального закона. (в ред. Федеральных законов от
 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1801))
+502-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. Запрещается включение в условия независимой гарантии требования о
 представлении заказчиком гаранту судебных актов, подтверждающих
 неисполнение принципалом обязательств, обеспечиваемых независимой
-гарантией. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1801))
+гарантией. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. Заказчик рассматривает поступившую независимую гарантию в срок, не
 превышающий трех рабочих дней со дня ее поступления, если настоящим
 Федеральным законом не установлено иное. (в ред. Федеральных законов
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1801))
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 6\. Основанием для отказа в принятии независимой гарантии заказчиком
-является: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1801))
+является: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) отсутствие информации о независимой гарантии в предусмотренных
 настоящей статьей реестрах независимых гарантий; (в ред. Федеральных
-законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1802))
+законов от 31.12.2014 N
+498-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) несоответствие независимой гарантии требованиям, предусмотренным
-частями 2, 3 и 8.2 настоящей статьи; (в ред. Федерального закона [[от
+частями 2, 3 и 8.2 настоящей статьи; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1802))
+360-ФЗ)
 
 3\) несоответствие независимой гарантии требованиям, содержащимся в
 извещении об осуществлении закупки, приглашении, документации о закупке
 (в случае, если настоящим Федеральным законом предусмотрена документация
 о закупке), проекте контракта, который заключается с единственным
 поставщиком (подрядчиком, исполнителем). (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1802))
+от 02.07.2021 N
+360-ФЗ)
 
 7\. В случае отказа в принятии независимой гарантии заказчик в срок,
 установленный частью 5 настоящей статьи, информирует в письменной форме
@@ -7411,10 +7411,10 @@ N
 законом, при которых заказчик информирует лицо, предоставившее
 независимую гарантию, путем указания таких причин в протоколах
 определения поставщиков (подрядчиков, исполнителей). (в ред. Федеральных
-законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1803))
+законов от 28.12.2013 N
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 8\. Независимая гарантия, используемая для целей настоящего Федерального
 закона, информация о ней и документы, предусмотренные частью 9 настоящей
@@ -7426,34 +7426,34 @@ N
 документов в реестр и присвоения номера реестровой записи. В течение
 одного рабочего дня после включения таких информации и документов в
 реестр независимых гарантий гарант направляет принципалу выписку из
-реестра независимых гарантий. (в ред. Федеральных законов [[от
+реестра независимых гарантий. (в ред. Федеральных законов от
 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2401))
+498-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 8.1. Предусмотренная частью 9 настоящей статьи информация о независимых
 гарантиях не размещается на официальном сайте, а при осуществлении
-закупок в случае, предусмотренном [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8647)
+закупок в случае, предусмотренном пунктом
+1
 части 11 статьи 24 настоящего Федерального закона, включается в закрытый
 реестр независимых гарантий, который не размещается в единой
 информационной системе и на официальном сайте. (в ред. Федеральных
-законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2401))
+законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 ***Требования части 8.2 статьи 45 (в редакции Федерального закона от
 16.04.2022 N 109-ФЗ) применяются к отношениям, связанным с
 осуществлением закупок товаров, работ, услуг, извещения об осуществлении
 которых размещены в единой информационной системе либо приглашения
-принять участие в которых направлены после 01.07.2022 ([[часть
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l24)
+принять участие в которых направлены после 01.07.2022 (часть
+5
 статьи 3 Федерального закона от 16.04.2022 N 109-ФЗ).***
 
 8.2. Дополнительные требования к независимой гарантии, используемой для
@@ -7464,25 +7464,25 @@ N
 выписок из него, типовая форма независимой гарантии, используемой для
 целей настоящего Федерального закона, форма требования об уплате
 денежной суммы по независимой гарантии устанавливаются Правительством
-Российской Федерации. (в ред. Федеральных законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2402),
-[[от 16.04.2022 N
-109-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420116#l19))
+Российской Федерации. (в ред. Федеральных законов от 31.12.2014 N
+498-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+109-ФЗ)
 
 9\. В реестр независимых гарантий и закрытый реестр независимых гарантий
 включаются следующие информация и документы: (в ред. Федеральных законов
-[[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2402))
+от 31.12.2014 N
+498-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1\) наименование, место нахождения гаранта, идентификационный номер
 налогоплательщика или в соответствии с законодательством иностранного
 государства аналог идентификационного номера налогоплательщика; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2402))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) наименование, место нахождения поставщика (подрядчика, исполнителя),
 являющегося принципалом, идентификационный номер налогоплательщика или в
@@ -7492,25 +7492,25 @@ N
 3\) денежная сумма, указанная в независимой гарантии и подлежащая уплате
 гарантом в случае неисполнения участником закупки в установленных
 случаях требований настоящего Федерального закона; (в ред. Федеральных
-законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1805))
+законов от 28.12.2013 N
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
-4\) срок действия независимой гарантии; (в ред. Федерального закона [[от
+4\) срок действия независимой гарантии; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1805))
+360-ФЗ)
 
-5\) пункт утратил силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1805))
+5\) пункт утратил силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 6\) иные информация и документы, перечень которых установлен
-Правительством Российской Федерации. (в ред. Федерального закона [[от
+Правительством Российской Федерации. (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+396-ФЗ)
 
-10\. Часть утратила силу. (в ред. Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+10\. Часть утратила силу. (в ред. Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 11\. Гарант не позднее одного рабочего дня, следующего за датой выдачи
 независимой гарантии, или дня внесения изменений в условия независимой
@@ -7518,27 +7518,27 @@ N
 документы в реестр независимых гарантий либо в указанные сроки
 направляет в соответствии с порядком формирования и ведения закрытого
 реестра независимых гарантий информацию для включения в закрытый реестр
-независимых гарантий. (в ред. Федеральных законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1805))
+независимых гарантий. (в ред. Федеральных законов от 31.12.2014 N
+498-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 12\. В случае предоставления нового обеспечения исполнения контракта в
-соответствии с [[частью
-30]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l505)
-статьи 34, [[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7628)
-части 1 статьи 95, [[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1791)
+соответствии с частью
+30
+статьи 34, пунктом
+9
+части 1 статьи 95, частью
+7
 статьи 96 настоящего Федерального закона возврат независимой гарантии
 заказчиком гаранту, предоставившему указанную независимую гарантию, не
 осуществляется, взыскание по ней не производится. (в ред. Федеральных
-законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1806))
+законов от 27.12.2018 N
+502-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 13\. Исключение банка из перечня, предусмотренного частью 1.2 настоящей
 статьи, региональной гарантийной организации из перечня,
@@ -7546,8 +7546,8 @@ N
 выданных гарантом и принятых заказчиками независимых гарантий и не
 освобождает гаранта от ответственности за неисполнение либо ненадлежащее
 исполнение условий таких независимых гарантий. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1806))
+закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 46. Запрет на проведение переговоров с участником закупки**
 
@@ -7557,16 +7557,16 @@ N
 (подрядчика, исполнителя), в том числе в отношении заявки, поданных
 таким участником, не допускается до выявления победителя указанного
 определения, за исключением случаев, предусмотренных настоящим
-Федеральным законом. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1806))
+Федеральным законом. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. При проведении электронных процедур проведение переговоров заказчика
 с оператором электронной площадки и оператора электронной площадки с
 участником закупки не допускается в случае, если в результате этих
 переговоров создаются преимущественные условия для участия в электронной
 процедуре и (или) условия для разглашения конфиденциальной информации.
-(в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+(в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 **Статья 47. Последствия нарушения положений настоящей главы**
 
@@ -7575,40 +7575,40 @@ N
 может быть признано недействительным по иску заинтересованного лица.
 
 **§ 2. Определение поставщика (подрядчика, исполнителя) путем применения
-открытых конкурентных способов (в ред. Федерального закона [[от
+открытых конкурентных способов (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1807))**
+360-ФЗ)**
 
 **Статья 48. Проведение электронного конкурса (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2405))**
+закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. Электронный конкурс начинается с размещения в единой информационной
 системе извещения об осуществлении закупки.
 
 2\. Заявка на участие в закупке состоит из трех частей. Первая часть
 должна содержать информацию и документы, предусмотренные подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917),
-[[\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917)
+\"а\",
+\"б\"
 и
-[[\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8836)
+\"г\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона. Первая часть
 также может содержать информацию и документы, предусмотренные
-[[подпунктом
-\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8918)
+подпунктом
+\"д\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона. Вторая часть
 должна содержать информацию и документы, предусмотренные подпунктами
-[[\"м\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8831) -
-[[\"р\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8833)
-пункта 1, [[подпунктом
-\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8831)
-пункта 2, [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8842)
+\"м\" -
+\"р\"
+пункта 1, подпунктом
+\"в\"
+пункта 2, пунктом
+5
 части 1 статьи 43 настоящего Федерального закона. Третья часть должна
-содержать информацию, предусмотренную [[пунктом
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
-или [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+содержать информацию, предусмотренную пунктом
+3
+или пунктом
+4
 части 1 статьи 43 настоящего Федерального закона.
 
 3\. Не позднее двух рабочих дней (за исключением случая,
@@ -7627,9 +7627,9 @@ N
 б) осуществляют оценку первых частей заявок на участие в закупке, в
 отношении которых принято решение о признании соответствующими извещению
 об осуществлении закупки, по критериям, предусмотренным пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l434)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l435)
+3
 части 1 статьи 32 настоящего Федерального закона (если такие критерии
 установлены извещением об осуществлении закупки);
 
@@ -7671,21 +7671,21 @@ N
 1\) непредставления (за исключением случаев, предусмотренных настоящим
 Федеральным законом) информации и документов, предусмотренных
 подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8824),
-[[\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8825)
+\"а\",
+\"б\",
+\"г\"
 и
-[[\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8912)
+\"д\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона,
 несоответствия таких информации и документов извещению об осуществлении
 закупки;
 
 2\) если в первой части заявки на участие в закупке содержится
 информация, предусмотренная пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8841)
+1,
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+4
 части 1 статьи 43 настоящего Федерального закона;
 
 3\) выявления недостоверной информации, содержащейся в первой части
@@ -7717,9 +7717,9 @@ N
 
 5\) информацию о признании определения поставщика (подрядчика,
 исполнителя) несостоявшимся в случаях, предусмотренных пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+2
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9100)
+4
 части 1 статьи 52 настоящего Федерального закона.
 
 7\. Не позднее одного часа с момента получения протокола рассмотрения и
@@ -7730,10 +7730,10 @@ N
 1\) предусмотренную пунктами 2 и 3 части 6 настоящей статьи в отношении
 первой части заявки на участие в закупке такого участника закупки;
 
-2\) о наилучшем предложении, предусмотренном [[пунктом
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8918)
-или [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+2\) о наилучшем предложении, предусмотренном пунктом
+3
+или пунктом
+4
 части 1 статьи 43 настоящего Федерального закона, представленном в
 заявках на участие в закупке, признанных соответствующими извещению об
 осуществлении закупки, без указания участника закупки, подавшего такую
@@ -7745,8 +7745,8 @@ N
 государств, а также заявок, содержащих информацию о товарах российского
 происхождения, без указания участников закупки, подавших такие заявки.
 Информация, предусмотренная настоящим пунктом, направляется в случае
-указания заказчиком в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+указания заказчиком в соответствии со статьей
+14
 настоящего Федерального закона в извещении об осуществлении закупки
 информации об ограничениях, условиях допуска товаров, происходящих из
 иностранного государства или группы иностранных государств, работ,
@@ -7754,8 +7754,8 @@ N
 
 4\) о дате проведения процедуры подачи предложений о цене контракта либо
 о сумме цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона), установленной в извещении об
 осуществлении закупки, и времени начала и окончания такой процедуры,
 установленном оператором электронной площадки в соответствии со
@@ -7764,12 +7764,12 @@ N
 8\. Участники закупки, первые части заявок которых признаны
 соответствующими извещению об осуществлении закупки, вправе в течение
 процедуры подачи предложений о цене контракта либо о сумме цен единиц
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) подать с использованием
 электронной площадки одно предложение о цене контракта либо о сумме цен
-единиц товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+единиц товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) (далее также - ценовое
 предложение). При подаче участником закупки ценового предложения не
 допускается подача предложения, равного или превышающего предложение,
@@ -7777,14 +7777,14 @@ N
 допускается подача предложения, равного нулю. Подача участником закупки
 ценового предложения, предусматривающего снижение цены контракта либо
 суммы цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона) ниже нуля, означает подачу
 предложения о размере платы, подлежащей внесению участником закупки за
 заключение контракта и указываемой в качестве цены контракта.
 Продолжительность приема ценовых предложений составляет один час. (в
-ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 9\. В случае, если участником закупки не подано предложение,
 предусмотренное частью 8 настоящей статьи, ценовым предложением
@@ -7793,16 +7793,16 @@ N
 
 10\. Не позднее одного часа с момента завершения процедуры подачи
 предложений о цене контракта либо о сумме цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) оператор электронной площадки:
 
 1\) формирует протокол подачи таких предложений, содержащий:
 
 а) дату, время начала и окончания проведения процедуры подачи
 предложений о цене контракта либо о сумме цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона);
 
 б) ценовые предложения, поданные участниками закупки, с указанием
@@ -7812,9 +7812,9 @@ N
 2\) направляет заказчику вторые части заявок на участие в закупке,
 первые части которых признаны соответствующими извещению об
 осуществлении закупки, а также предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9662)
+3
 части 6 статьи 43 настоящего Федерального закона информацию и документы
 участников закупок, подавших такие заявки.
 
@@ -7835,8 +7835,8 @@ N
 
 б) осуществляют оценку вторых частей заявок на участие в закупке, в
 отношении которых принято решение о признании соответствующими извещению
-об осуществлении закупки, по критерию, предусмотренному [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l439)
+об осуществлении закупки, по критерию, предусмотренному пунктом
+4
 части 1 статьи 32 настоящего Федерального закона (если такой критерий
 установлен извещением об осуществлении закупки);
 
@@ -7855,76 +7855,76 @@ N
 документов, предусмотренных извещением об осуществлении закупки в
 соответствии с настоящим Федеральным законом (за исключением информации
 и документов, предусмотренных пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8924)
+3
 части 6 статьи 43 настоящего Федерального закона), несоответствия таких
 информации и документов требованиям, установленным в извещении об
-осуществлении закупки; (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+осуществлении закупки; (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 2\) непредставления информации и документов, предусмотренных пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8924)
+3
 части 6 статьи 43 настоящего Федерального закона, несоответствия таких
 информации и документов требованиям, установленным в извещении об
 осуществлении закупки;
 
 3\) несоответствия участника закупки требованиям, установленным в
-извещении об осуществлении закупки в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8009)
+извещении об осуществлении закупки в соответствии с частью
+1
 статьи 31 настоящего Федерального закона, требованиям, установленным в
 извещении об осуществлении закупки в соответствии с частями
-[[1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+1.1,
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8707)
+2.1
 (при наличии таких требований) статьи 31 настоящего Федерального закона;
 
 4\) предусмотренных нормативными правовыми актами, принятыми в
-соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+соответствии со статьей
+14
 настоящего Федерального закона (за исключением случаев непредставления
-информации и документов, предусмотренных [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+информации и документов, предусмотренных пунктом
+5
 части 1 статьи 43 настоящего Федерального закона);
 
-5\) непредставления информации и документов, предусмотренных [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+5\) непредставления информации и документов, предусмотренных пунктом
+5
 части 1 статьи 43 настоящего Федерального закона, если такие документы
 предусмотрены нормативными правовыми актами, принятыми в соответствии с
-[[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642)
+частью
+3
 статьи 14 настоящего Федерального закона (в случае установления в
-соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+соответствии со статьей
+14
 настоящего Федерального закона в извещении об осуществлении закупки
 запрета допуска товаров, происходящих из иностранного государства или
 группы иностранных государств);
 
 6\) выявления отнесения участника закупки к организациям,
-предусмотренным [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=422085#l6)
+предусмотренным пунктом
+4
 статьи 2 Федерального закона от 4 июня 2018 года N 127-ФЗ \"О мерах
 воздействия (противодействия) на недружественные действия Соединенных
 Штатов Америки и иных иностранных государств\", в случае осуществления
 закупки работ, услуг, включенных в перечень, определенный Правительством
 Российской Федерации в соответствии с указанным
-[[пунктом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=314284#l6);
+пунктом;
 
-7\) предусмотренных [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8994)
+7\) предусмотренных частью
+6
 статьи 45 настоящего Федерального закона;
 
 8\) выявления недостоверной информации, содержащейся в заявке на участие
 в закупке;
 
 9\) указания информации о предложении участника закупки, предусмотренном
-[[пунктом
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
-или [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+пунктом
+3
+или пунктом
+4
 части 1 статьи 43 настоящего Федерального закона.
 
 13\. Протокол рассмотрения и оценки вторых частей заявок на участие в
@@ -7943,8 +7943,8 @@ N
 
 3\) присвоенные вторым частям заявок на участие в закупке, признанным
 соответствующими извещению об осуществлении закупки, значения по
-критерию, предусмотренному [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7253)
+критерию, предусмотренному пунктом
+4
 части 1 статьи 32 настоящего Федерального закона (в случае установления
 такого критерия в извещении об осуществлении закупки);
 
@@ -7955,9 +7955,9 @@ N
 
 5\) информацию о признании определения поставщика (подрядчика,
 исполнителя) несостоявшимся в случаях, предусмотренных пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+2
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+4
 части 1 статьи 52 настоящего Федерального закона.
 
 14\. Не позднее одного часа с момента получения направленного в
@@ -7980,8 +7980,8 @@ N
 1\) члены комиссии по осуществлению закупок:
 
 а) осуществляют оценку ценовых предложений по критерию, предусмотренному
-[[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8102)
+пунктом
+1
 части 1 статьи 32 настоящего Федерального закона;
 
 б) на основании результатов оценки первых и вторых частей заявок на
@@ -7992,8 +7992,8 @@ N
 осуществлении закупки, порядковый номер в порядке уменьшения степени
 выгодности содержащихся в таких заявках условий исполнения контракта и с
 учетом положений нормативных правовых актов, принятых в соответствии со
-[[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136)
+статьей
+14
 настоящего Федерального закона. Заявке на участие в закупке победителя
 определения поставщика (подрядчика, исполнителя) присваивается первый
 номер. В случае, если в нескольких заявках на участие в закупке
@@ -8017,9 +8017,9 @@ N
 подведения итогов определения поставщика (подрядчика, исполнителя);
 
 2\) в единой информационной системе - информацию, указанную в подпунктах
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8827)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, номера
 реестровых записей в едином реестре участников закупок в отношении
 участников закупок, первые и вторые части заявок которых признаны
@@ -8052,9 +8052,9 @@ N
 
 5\) о заключении контракта по цене, увеличенной в соответствии со
 статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8690)
+29
 настоящего Федерального закона;
 
 6\) о решении каждого члена комиссии по осуществлению закупок в
@@ -8062,8 +8062,8 @@ N
 
 7\) о признании определения поставщика (подрядчика, исполнителя)
 несостоявшимся в случаях, предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9100) -
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9100)
+1 -
+4
 части 1 статьи 52 настоящего Федерального закона.
 
 18\. Участник закупки, принимавший участие в закупке, после размещения в
@@ -8087,12 +8087,12 @@ N
 
 19\. В случае, если в извещении об осуществлении закупки не установлены
 критерии, предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l436)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l436)
+3
 части 1 статьи 32 настоящего Федерального закона, а также в случае
-включения заказчиком в соответствии с [[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8744)
+включения заказчиком в соответствии с пунктом
+8
 части 1 статьи 33 настоящего Федерального закона в описание объекта
 закупки проектной документации, или типовой проектной документации, или
 сметы на капитальный ремонт объекта капитального строительства
@@ -8101,25 +8101,25 @@ N
 
 1\) заявка состоит из второй и третьей частей. Вторая часть должна также
 содержать информацию, предусмотренную подпунктом \"а\" (за исключением
-случая включения заказчиком в соответствии с [[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8730)
+случая включения заказчиком в соответствии с пунктом
+8
 части 1 статьи 33 настоящего Федерального закона в описание объекта
 закупки проектной документации, или типовой проектной документации, или
 сметы на капитальный ремонт объекта капитального строительства) и
-[[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8835)
+подпунктом
+\"б\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона. Положения
 частей 3 - 10 настоящей статьи не применяются; (в ред. Федерального
-закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+закона от 16.04.2022 N
+104-ФЗ)
 
 2\) не позднее одного часа с момента окончания срока подачи заявок на
 участие в закупке оператор электронной площадки направляет заказчику
 вторые части поданных заявок на участие в закупке, а также информацию и
 документы, предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8925)
+3
 части 6 статьи 43 настоящего Федерального закона;
 
 3\) действия, предусмотренные частью 11 настоящей статьи, осуществляются
@@ -8139,44 +8139,44 @@ N
 информационной системе и на электронной площадке.
 
 20\. Если электронный конкурс признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+предусмотренных частью
+1
 статьи 52 настоящего Федерального закона, такой конкурс проводится с
 учетом особенностей, установленных частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098) -
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9111)
+2 -
+4
 и
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9114)
+7
 статьи 52 настоящего Федерального закона.
 
 **Статья 49. Проведение электронного аукциона (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1848))**
+закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. Электронный аукцион начинается с размещения в единой информационной
 системе извещения об осуществлении закупки. Заявка на участие в закупке
 должна содержать информацию и документы, предусмотренные подпунктами
 \"м\" - \"п\" пункта 1, подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917) -
-[[\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8835)
-пункта 2, [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+\"а\" -
+\"в\"
+пункта 2, пунктом
+5
 части 1 статьи 43 настоящего Федерального закона. Заявка также может
-содержать информацию и документы, предусмотренные [[подпунктом
-\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+содержать информацию и документы, предусмотренные подпунктом
+\"д\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона.
 
 2\. Участники закупки, подавшие в соответствии с настоящим Федеральным
 законом заявки на участие в закупке, вправе в течение процедуры подачи
 предложений о цене контракта либо о сумме цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) подать с использованием
 электронной площадки ценовые предложения, предусматривающие снижение (за
 исключением случая, предусмотренного пунктом 9 части 3 настоящей статьи)
 начальной (максимальной) цены контракта либо начальной суммы цен единиц
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона).
 
 3\. Подача ценовых предложений проводится в следующем порядке:
@@ -8185,8 +8185,8 @@ N
 минимального ценового предложения на величину, составляющую от 0,5
 процента до 5 процентов начальной (максимальной) цены контракта либо
 начальной суммы цен единиц товара, работы, услуги (в случае,
-предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) (далее - \"шаг аукциона\");
 
 2\) не допускается подача участником закупки ценового предложения:
@@ -8237,19 +8237,19 @@ N
 8\) в случае, если участником закупки не подано ценовое предложение,
 минимальным ценовым предложением такого участника закупки признается
 начальная (максимальная) цена контракта либо начальная сумма цен единиц
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона);
 
 9\) в случае, если при проведении процедуры подачи ценовых предложений
 подано ценовое предложение, предусматривающее снижение цены контракта
 либо суммы цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона) до половины процента начальной
 (максимальной) цены контракта либо начальной суммы цен единиц товара,
-работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) или ниже, такая процедура
 проводится на право заключения контракта в порядке, предусмотренном
 настоящей частью, с учетом следующих особенностей:
@@ -8267,24 +8267,24 @@ N
 текущего максимального ценового предложения на величину в пределах
 \"шага аукциона\", составляющего до пяти миллионов рублей;
 
-г) подпункт утратил силу. (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+г) подпункт утратил силу. (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 4\. Не позднее одного часа с момента завершения процедуры подачи ценовых
 предложений оператор электронной площадки:
 
 1\) присваивает каждой заявке на участие в закупке порядковый номер в
 порядке возрастания цены контракта, суммы цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), предложенных участником
 закупки, подавшим такую заявку (за исключением случая, предусмотренного
 пунктом 9 части 3 настоящей статьи, при котором порядковые номера
 заявкам участников закупки, подавших ценовые предложения после подачи
 ценового предложения, предусмотренного абзацем первым пункта 9 части 3
 настоящей части, присваиваются в порядке убывания цены контракта, суммы
-цен единиц товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+цен единиц товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона). В случае, если несколькими
 участниками закупки поданы одинаковые ценовые предложения, меньший
 порядковый номер присваивается заявке на участие в закупке, поданной
@@ -8314,9 +8314,9 @@ N
 
 4\) направляет заказчику протокол, предусмотренный пунктом 2 настоящей
 части, заявки на участие в закупке, а также предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+3
 части 6 статьи 43 настоящего Федерального закона информацию и документы
 участников закупки, подавших такие заявки.
 
@@ -8333,8 +8333,8 @@ N
 участие в закупке соответствующей извещению об осуществлении закупки или
 об отклонении заявки на участие в закупке по основаниям, предусмотренным
 пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019) -
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9023)
+1 -
+8
 части 12 статьи 48 настоящего Федерального закона;
 
 б) на основании информации, содержащейся в протоколе подачи ценовых
@@ -8349,8 +8349,8 @@ N
 первым пункта 9 части 3 настоящей статьи, присваиваются в порядке
 убывания размера ценового предложения участника закупки), и с учетом
 положений нормативных правовых актов, принятых в соответствии со
-[[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+статьей
+14
 настоящего Федерального закона. Заявке на участие в закупке победителя
 определения поставщика (подрядчика, исполнителя) присваивается первый
 номер;
@@ -8358,10 +8358,10 @@ N
 2\) заказчик формирует с использованием электронной площадки протокол
 подведения итогов определения поставщика (подрядчика, исполнителя),
 который должен содержать информацию, предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032) -
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9142)
+1,
+2,
+4 -
+7
 части 17 статьи 48 настоящего Федерального закона. После подписания
 членами комиссии по осуществлению закупок такого протокола усиленными
 электронными подписями заказчик подписывает его усиленной электронной
@@ -8377,9 +8377,9 @@ N
 подведения итогов определения поставщика (подрядчика, исполнителя);
 
 2\) в единой информационной системе - информацию, указанную в подпунктах
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8911)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, номера
 реестровых записей в едином реестре участников закупок в отношении
 участников закупок, заявки которых признаны соответствующими извещению
@@ -8403,54 +8403,54 @@ N
 протоколе подведения итогов определения поставщика (подрядчика,
 исполнителя) в отношении заявки такого участника закупки, и направление
 такому участнику соответствующих разъяснений осуществляются в порядке,
-предусмотренном [[частью
-18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9034)
+предусмотренном частью
+18
 статьи 48 настоящего Федерального закона.
 
 9\. Если электронный аукцион признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9189)
+предусмотренных частью
+1
 статьи 52 настоящего Федерального закона, такой аукцион проводится с
 учетом особенностей, установленных частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9100),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9200)
+2,
+5
 и
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9201)
+7
 статьи 52 настоящего Федерального закона.
 
 **Статья 50. Проведение электронного запроса котировок (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1869))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. Электронный запрос котировок начинается с размещения в единой
 информационной системе извещения об осуществлении закупки. Заявка на
 участие в закупке должна содержать информацию и документы,
 предусмотренные подпунктами
-[[\"м\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823) -
-[[\"п\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8830)
+\"м\" -
+\"п\"
 пункта 1, подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8833) -
-[[\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917)
-пункта 2, [[пунктом
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
-или [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837),
-[[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+\"а\" -
+\"в\"
+пункта 2, пунктом
+3
+или пунктом
+4,
+пунктом
+5
 части 1 статьи 43 настоящего Федерального закона. Заявка также может
-содержать информацию и документы, предусмотренные [[подпунктом
-\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+содержать информацию и документы, предусмотренные подпунктом
+\"д\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона.
 
 2\. Не позднее одного часа с момента окончания срока подачи заявок на
 участие в закупке оператор электронной площадки в соответствии с
-[[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8854)
+пунктом
+9
 части 6 статьи 43 настоящего Федерального закона направляет заказчику
 заявки на участие в закупке, а также предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8925)
+3
 части 6 статьи 43 настоящего Федерального закона информацию и документы
 участников закупок, подавших такие заявки.
 
@@ -8467,27 +8467,27 @@ N
 закупке соответствующей извещению об осуществлении закупки или об
 отклонении заявки на участие в закупке по основаниям, предусмотренным
 пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019) -
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9134)
+1 -
+8
 части 12 статьи 48 настоящего Федерального закона;
 
 б) на основании решения, предусмотренного подпунктом \"а\" настоящего
 пункта, присваивают каждой заявке на участие в закупке, признанной
 соответствующей извещению об осуществлении закупки, порядковый номер в
 порядке возрастания цены контракта, суммы цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), предложенных участником
 закупки, подавшим такую заявку, с учетом положений нормативных правовых
-актов, принятых в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+актов, принятых в соответствии со статьей
+14
 настоящего Федерального закона. Заявке на участие в закупке победителя
 определения поставщика (подрядчика, исполнителя) присваивается первый
 номер. В случае, если в нескольких заявках на участие в закупке
 содержатся одинаковые предложения, предусмотренные пунктом
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+3
 или
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+4
 части 1 статьи 43 настоящего Федерального закона, меньший порядковый
 номер присваивается заявке на участие в закупке, которая поступила ранее
 других таких заявок;
@@ -8495,10 +8495,10 @@ N
 2\) заказчик формирует с использованием электронной площадки протокол
 подведения итогов определения поставщика (подрядчика, исполнителя),
 который должен содержать информацию, предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9141),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032) -
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032)
+1,
+2,
+4 -
+7
 части 17 статьи 48 настоящего Федерального закона. После подписания
 членами комиссии по осуществлению закупок такого протокола усиленными
 электронными подписями заказчик подписывает его усиленной электронной
@@ -8514,9 +8514,9 @@ N
 подведения итогов определения поставщика (подрядчика, исполнителя);
 
 2\) в единой информационной системе - информацию, указанную в подпунктах
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8826)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, номера
 реестровых записей в едином реестре участников закупок в отношении
 участников закупки, заявки которых признаны соответствующими извещению
@@ -8529,13 +8529,13 @@ N
 протоколе подведения итогов определения поставщика (подрядчика,
 исполнителя) в отношении заявки такого участника закупки, и направление
 такому участнику соответствующих разъяснений осуществляются в порядке,
-предусмотренном [[частью
-18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9034)
+предусмотренном частью
+18
 статьи 48 настоящего Федерального закона.
 
 6\. Заключение контракта по результатам проведения электронного запроса
-котировок осуществляется в порядке, установленном [[статьей
-51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9072)
+котировок осуществляется в порядке, установленном статьей
+51
 настоящего Федерального закона, с учетом следующих особенностей:
 
 1\) заказчик формирует и размещает в единой информационной системе и на
@@ -8543,18 +8543,18 @@ N
 без своей подписи проект контракта не позднее одного рабочего дня,
 следующего за днем размещения в единой информационной системе протокола
 подведения итогов определения поставщика (подрядчика, исполнителя); (в
-ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 2\) участник закупки, с которым заключается контракт, осуществляет
-действия, предусмотренные [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9073)
+действия, предусмотренные пунктом
+1
 части 3 статьи 51 настоящего Федерального закона, не позднее одного
 рабочего дня, следующего за днем осуществления заказчиком действий в
 соответствии с пунктом 1 настоящей части;
 
-3\) заказчик осуществляет действия, предусмотренные [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9087)
+3\) заказчик осуществляет действия, предусмотренные пунктом
+1
 части 4 статьи 51 настоящего Федерального закона, не позднее одного
 рабочего дня, следующего за днем осуществления участником закупки, с
 которым заключается контракт, действий в соответствии с пунктом 2
@@ -8562,29 +8562,29 @@ N
 днем размещения в единой информационной системе протокола подведения
 итогов определения поставщика (подрядчика, исполнителя);
 
-4\) осуществление действий, предусмотренных [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9678)
-части 2, [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9085)
+4\) осуществление действий, предусмотренных пунктом
+2
+части 2, пунктом
+2
 части 3, пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9089)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9089)
+3
 части 4 статьи 51 настоящего Федерального закона, не допускается.
 
 7\. Если электронный запрос котировок признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+предусмотренных частью
+1
 статьи 52 настоящего Федерального закона, такой запрос котировок
 проводится с учетом особенностей, установленных частями
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9113)
+6
 и
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9114)
+7
 статьи 52 настоящего Федерального закона.
 
 **Статья 51. Заключение контракта по результатам электронной процедуры
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1879))**
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. По результатам электронной процедуры контракт заключается с
 победителем определения поставщика (подрядчика, исполнителя), а в
@@ -8607,12 +8607,12 @@ N
 единой информационной системе в сфере закупок, приглашения принять
 участие в которых направлены с 01.01.2022 до 01.04.2024, положения части
 2 статьи 51, касающиеся неразмещения информации и документов на
-официальном сайте, положения [[части
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1931)
+официальном сайте, положения части
+3
 статьи 103 данного документа (в редакции Федерального закона от
 02.07.2021 N 360-ФЗ), касающиеся направления контракта с использованием
-единой информационной системы в сфере закупок, не применяются ([[пункт
-11]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2217)
+единой информационной системы в сфере закупок, не применяются (пункт
+11
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 2\. Не позднее двух рабочих дней, следующих за днем размещения в единой
@@ -8624,15 +8624,15 @@ N
 вправе осуществлять предусмотренное пунктом 1 части 2 статьи 51 данного
 документа (в редакции Федерального закона от 02.07.2021 N 360-ФЗ)
 формирование проекта контракта без использования единой информационной
-системы в сфере закупок ([[пункт
-8]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2211)
+системы в сфере закупок (пункт
+8
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 1\) заказчик формирует с использованием единой информационной системы и
 размещает в единой информационной системе (без размещения на официальном
 сайте) и на электронной площадке (с использованием единой информационной
-системы) без своей подписи проект контракта, указанный в [[пункте
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8815)
+системы) без своей подписи проект контракта, указанный в пункте
+5
 части 2 статьи 42 настоящего Федерального закона, который должен
 содержать:
 
@@ -8642,36 +8642,36 @@ N
 подпунктом \"в\" (в части, касающейся цены единицы товара, работы,
 услуги) и подпунктом \"д\" пункта 1 части 2 статьи 51 данного документа
 (в редакции Федерального закона от 02.07.2021 N 360-ФЗ), без
-использования единой информационной системы в сфере закупок ([[пункт
-7]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2210)
+использования единой информационной системы в сфере закупок (пункт
+7
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
-а) информацию, предусмотренную [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l392)
+а) информацию, предусмотренную частью
+6
 статьи 30, пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769) -
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8899),
-[[18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8899)
+1,
+2,
+5 -
+8,
+10,
+17,
+18
 и
-[[20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8899)
+20
 части 1 статьи 42 настоящего Федерального закона;
 
 б) цену контракта, соответствующую цене контракта, предложенной в
 соответствии с настоящим Федеральным законом участником закупки, с
 которым заключается контракт, с учетом положений нормативных правовых
-актов, принятых в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+актов, принятых в соответствии со статьей
+14
 настоящего Федерального закона, положений статей
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8690)
+29
 настоящего Федерального закона, цену каждого отдельного этапа исполнения
-контракта, определенную в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6736)
+контракта, определенную в соответствии с частью
+2
 статьи 34 настоящего Федерального закона (если проектом контракта
 предусмотрены отдельные этапы его исполнения). Предусмотренная настоящим
 подпунктом информация включается в проект контракта, за исключением
@@ -8681,14 +8681,14 @@ N
 в) максимальное значение цены контракта и цену единицы товара, работы,
 услуги, соответствующие максимальному значению цены контракта,
 указанному в извещении об осуществлении закупки, с учетом положений
-нормативных правовых актов, принятых в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+нормативных правовых актов, принятых в соответствии со статьей
+14
 настоящего Федерального закона, положений статей
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8690)
-настоящего Федерального закона (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+29
+настоящего Федерального закона (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона). При этом цена единицы товара,
 работы, услуги определяется путем уменьшения начальной цены такой
 единицы, указанной в извещении об осуществлении закупки, пропорционально
@@ -8703,26 +8703,26 @@ N
 Федеральным законом);
 
 д) информацию, предусмотренную подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\",
+\"б\",
+\"г\",
+\"е\"
 и
-[[\"п\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8833)
+\"п\"
 пункта 1, подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917)
+\"а\"
 и
-[[\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917)
+\"б\"
 пункта 2 части 1 статьи 43 настоящего Федерального закона, а также
-информацию, предусмотренную [[подпунктом
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917)
+информацию, предусмотренную подпунктом
+\"г\"
 пункта 2 указанной части, в случае проведения электронного конкурса. При
 этом информация, предусмотренная подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\",
+\"б\",
+\"г\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, указывается с
 использованием единой информационной системы по состоянию на дату и
 время формирования проекта контракта;
@@ -8731,8 +8731,8 @@ N
 
 2\) при формировании и размещении проекта контракта, предусмотренного
 пунктом 1 настоящей части, заказчик вправе (за исключением случая,
-предусмотренного [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+предусмотренного частью
+24
 статьи 22 настоящего Федерального закона) увеличить количество
 поставляемого товара на сумму, не превышающую разницы между ценой
 контракта, предусмотренной подпунктом \"б\" пункта 1 настоящей части, и
@@ -8758,11 +8758,11 @@ N
 предоставление обеспечения исполнения контракта в соответствии с
 настоящим Федеральным законом (за исключением случаев, предусмотренных
 настоящим Федеральным законом). При этом такой участник закупки: (в ред.
-Федерального закона [[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l2))
+Федерального закона от 04.11.2022 N
+420-ФЗ)
 
-а) в случаях, предусмотренных [[статьей
-37]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8777)
+а) в случаях, предусмотренных статьей
+37
 настоящего Федерального закона, одновременно представляет заказчику
 информацию и документы, предусмотренные указанной статьей;
 
@@ -8792,20 +8792,20 @@ N
 3\) формирует, подписывает усиленной электронной подписью лица, имеющего
 право действовать от имени участника закупки, и размещает на электронной
 площадке отказ от заключения контракта в случае, предусмотренном
-[[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9674)
+пунктом
+1
 части 17.2 статьи 95 настоящего Федерального закона.
 
 ***В отношении закупок, извещения об осуществлении которых размещены в
 единой информационной системе в сфере закупок, приглашения принять
 участие в которых направлены с 01.01.2022 до 01.04.2024, положения части
 4 статьи 51, касающиеся неразмещения информации и документов на
-официальном сайте, положения [[части
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1931)
+официальном сайте, положения части
+3
 статьи 103 данного документа (в редакции Федерального закона от
 02.07.2021 N 360-ФЗ), касающиеся направления контракта с использованием
-единой информационной системы в сфере закупок, не применяются ([[пункт
-11]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2217)
+единой информационной системы в сфере закупок, не применяются (пункт
+11
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 4\. Не позднее двух рабочих дней, следующих за днем размещения
@@ -8829,8 +8829,8 @@ N
 учитываются операции со средствами, поступающими заказчику, денежных
 средств в размере платы, подлежащей внесению за заключение контракта,
 предложенной участником закупки, с которым заключается контракт; (в ред.
-Федерального закона [[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l2))
+Федерального закона от 04.11.2022 N
+420-ФЗ)
 
 2\) формирует с использованием единой информационной системы и размещает
 в единой информационной системе (без размещения на официальном сайте) и
@@ -8869,8 +8869,8 @@ N
 считается заключенным в день размещения контракта, подписанного
 усиленной электронной подписью лица, имеющего право действовать от имени
 заказчика, в единой информационной системе. В случаях, предусмотренных
-[[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9579)
+частью
+5
 статьи 103 настоящего Федерального закона, такой подписанный контракт не
 размещается на официальном сайте.
 
@@ -8899,8 +8899,8 @@ N
 закупки;
 
 б) формирует и направляет в соответствии с порядком, предусмотренным
-[[частью
-10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8553)
+частью
+10
 статьи 104 настоящего Федерального закона, в день размещения в единой
 информационной системе протокола, предусмотренного подпунктом \"а\"
 настоящего пункта, обращение о включении информации об участнике закупки
@@ -8921,9 +8921,9 @@ N
 признан уклонившимся от заключения контракта;
 
 2\) отказа заказчика от заключения контракта в соответствии с частями
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8712)
+9
 и
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8142)
+10
 статьи 31 настоящего Федерального закона.
 
 8\. Заказчик вправе обратиться в суд с иском о возмещении убытков,
@@ -8931,9 +8931,9 @@ N
 части, не покрытой суммой обеспечения заявки на участие в закупке.
 
 **Статья 52. Признание открытого конкурентного способа несостоявшимся.
-Последствия такого признания (в ред. Федерального закона [[от 02.07.2021
+Последствия такого признания (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1903))**
+360-ФЗ)**
 
 1\. Открытый конкурентный способ признается несостоявшимся в следующих
 случаях:
@@ -8956,9 +8956,9 @@ N
 от заключения контракта в соответствии с настоящим Федеральным законом;
 
 6\) заказчик в соответствии с частями
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8712)
+9
 и
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8142)
+10
 статьи 31 настоящего Федерального закона отказался от заключения
 контракта с участником закупки, подавшим заявку на участие в закупке,
 которая является единственной, либо с участником закупки, подавшим
@@ -8973,14 +8973,14 @@ N
 
 1\) не позднее одного часа с момента окончания срока подачи заявок на
 участие в закупке оператор электронной площадки в соответствии с
-[[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8931)
+пунктом
+9
 части 6 статьи 43 настоящего Федерального закона направляет заказчику
 заявку (все части заявки) на участие в закупке, а также информацию и
 документы, предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+3
 части 6 статьи 43 настоящего Федерального закона;
 
 2\) не позднее двух рабочих дней со дня, следующего за датой окончания
@@ -8994,12 +8994,12 @@ N
 участие в закупке требованиям, установленным в извещении об
 осуществлении закупки, или об отклонении заявки на участие в закупке по
 основаниям, предусмотренным частями
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9007)
+5
 и
-[[12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9018)
+12
 статьи 48 (в случае проведения электронного конкурса), пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019) -
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019)
+1 -
+8
 части 12 статьи 48 (в случае проведения электронного аукциона)
 настоящего Федерального закона, а также подписывают усиленными
 электронными подписями сформированный заказчиком с использованием
@@ -9013,8 +9013,8 @@ N
 его усиленной электронной подписью лица, имеющего право действовать от
 имени заказчика, и направляет оператору электронной площадки, который не
 позднее одного часа с момента получения такого протокола осуществляет
-действия, предусмотренные [[частью
-16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9030)
+действия, предусмотренные частью
+16
 статьи 48 настоящего Федерального закона;
 
 3\) в случае проведения электронного конкурса оценка по критериям оценки
@@ -9023,14 +9023,14 @@ N
 
 4\) протокол подведения итогов определения поставщика (подрядчика,
 исполнителя) должен содержать информацию, предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032) -
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032)
+1,
+2,
+4 -
+7
 части 17 статьи 48 настоящего Федерального закона;
 
-5\) участник закупки вправе направить запрос, предусмотренный [[частью
-18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9034)
+5\) участник закупки вправе направить запрос, предусмотренный частью
+18
 статьи 48 настоящего Федерального закона, после размещения в единой
 информационной системе протокола подведения итогов определения
 поставщика (подрядчика, исполнителя);
@@ -9039,16 +9039,16 @@ N
 в случае принятия в соответствии с подпунктом \"а\" пункта 2 настоящей
 части решения о соответствии такой заявки требованиям, установленным в
 извещении об осуществлении закупки, заключается в соответствии с
-[[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
+пунктом
+25
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
 3\. Если в случае, предусмотренном пунктом 2 части 1 настоящей статьи,
 электронный конкурс признан несостоявшимся по результатам рассмотрения
 первых частей заявок на участие в закупке (за исключением случая,
-предусмотренного [[частью
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9035)
+предусмотренного частью
+19
 статьи 48 настоящего Федерального закона), такой конкурс проводится в
 порядке, установленном настоящим Федеральным законом, с учетом следующих
 особенностей:
@@ -9059,9 +9059,9 @@ N
 закупке, в отношении которой принято решение о соответствии требованиям,
 установленным в извещении об осуществлении закупки, а также
 предусмотренные пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+3
 части 6 статьи 43 настоящего Федерального закона информацию и документы
 участника закупки, подавшего такую заявку;
 
@@ -9075,8 +9075,8 @@ N
 пунктом 1 настоящей части, и принимают решение о соответствии заявки на
 участие в закупке требованиям, установленным в извещении об
 осуществлении закупки, или об отклонении заявки на участие в закупке по
-основаниям, предусмотренным [[частью
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9131)
+основаниям, предусмотренным частью
+12
 статьи 48 настоящего Федерального закона, а также подписывают усиленными
 электронными подписями сформированный заказчиком с использованием
 электронной площадки протокол подведения итогов определения поставщиков
@@ -9092,22 +9092,22 @@ N
 единой информационной системе и на электронной площадке;
 
 3\) процедуры подачи предложений о цене контракта либо о сумме цен
-единиц товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7523)
+единиц товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), оценка по критериям оценки
 заявок на участие в закупке, установленным в извещении об осуществлении
 закупки, не осуществляются;
 
 4\) протокол подведения итогов определения поставщика (подрядчика,
 исполнителя) должен содержать информацию, предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032),
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032) -
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032)
+1,
+2,
+4 -
+7
 части 17 статьи 48 настоящего Федерального закона;
 
-5\) участник закупки вправе направить запрос, предусмотренный [[частью
-18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9034)
+5\) участник закупки вправе направить запрос, предусмотренный частью
+18
 статьи 48 настоящего Федерального закона, после размещения в единой
 информационной системе протокола подведения итогов определения
 поставщика (подрядчика, исполнителя);
@@ -9116,8 +9116,8 @@ N
 в случае принятия в соответствии с подпунктом \"а\" пункта 2 настоящей
 части решения о соответствии такой заявки требованиям, установленным в
 извещении об осуществлении закупки, заключается в соответствии с
-[[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9416)
+пунктом
+25
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
@@ -9127,17 +9127,17 @@ N
 порядке, установленном настоящим Федеральным законом, с учетом следующих
 особенностей:
 
-1\) оценка, предусмотренная [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9130)
-пункта 1 части 11, [[подпунктом
-\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9028)
+1\) оценка, предусмотренная подпунктом
+\"б\"
+пункта 1 части 11, подпунктом
+\"а\"
 пункта 1 части 15 статьи 48 настоящего Федерального закона, не
 осуществляется;
 
 2\) контракт с участником закупки, подавшим заявку на участие в закупке,
 соответствующую требованиям, установленным в извещении об осуществлении
-закупки, заключается в соответствии с [[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
+закупки, заключается в соответствии с пунктом
+25
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
@@ -9146,8 +9146,8 @@ N
 заявок на участие в закупке, контракт с участником закупки, подавшим
 заявку на участие в закупке, соответствующую требованиям, установленным
 в извещении об осуществлении закупки, заключается в соответствии с
-[[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
+пунктом
+25
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
@@ -9155,8 +9155,8 @@ N
 предусмотренных пунктами 1 и 2 части 1 настоящей статьи, контракт с
 участником закупки, подавшим заявку на участие в закупке,
 соответствующую требованиям, установленным в извещении об осуществлении
-закупки, заключается в соответствии с [[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
+закупки, заключается в соответствии с пунктом
+25
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
@@ -9164,9 +9164,9 @@ N
 заказчик формирует с использованием электронной площадки протокол
 подведения итогов определения поставщика (подрядчика, исполнителя),
 который должен содержать информацию, предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9032)
+1
 (за исключением идентификационных номеров заявок на участие в закупке) и
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9033)
+7
 части 17 статьи 48 настоящего Федерального закона, подписывает такой
 протокол усиленной электронной подписью лица, имеющего право действовать
 от имени заказчика, и направляет оператору электронной площадки, который
@@ -9174,65 +9174,65 @@ N
 его в единой информационной системе и на электронной площадке.
 
 ***Если в случаях, предусмотренных частью 8 статьи 52 данного документа
-(в редакции Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=463301#l0)),
+(в редакции Федерального закона от 02.07.2021 N
+360-ФЗ),
 заказчик осуществляет закупку у единственного поставщика (подрядчика,
 исполнителя) в соответствии с пунктами
-[[24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1653)
+24
 и
-[[25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
-части 1 статьи 93 данного документа (в редакции Федерального закона [[от
+25
+части 1 статьи 93 данного документа (в редакции Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=463301#l0)),
+360-ФЗ),
 до 01.01.2025 контракт с участником закупки заключается без
 использования единой информационной системы в сфере закупок, электронной
-площадки, специализированной электронной площадки ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=463301#l2202)
+площадки, специализированной электронной площадки (пункт
+4
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 8\. В случаях, предусмотренных пунктами 3 - 6 части 1 настоящей статьи,
 заказчик вправе осуществить новую закупку в соответствии с настоящим
 Федеральным законом либо осуществить закупку у единственного поставщика
-(подрядчика, исполнителя) в соответствии с [[пунктом
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9408)
+(подрядчика, исполнителя) в соответствии с пунктом
+25
 части 1 статьи 93 настоящего Федерального закона.
 
-**Статьи 53.- 59 - Утратили силу. (в ред. Федерального закона [[от
+**Статьи 53.- 59 - Утратили силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1921))**
+360-ФЗ)**
 
-**Статья 60. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 60. - Утратила силу. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))**
+504-ФЗ)**
 
-**Статья 61. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 61. - Утратила силу. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))**
+504-ФЗ)**
 
-**Статья 62. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 62. - Утратила силу. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))**
+504-ФЗ)**
 
-**Статьи 63. - 69. - Утратили силу. (в ред. Федерального закона [[от
+**Статьи 63. - 69. - Утратили силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1921))**
+360-ФЗ)**
 
-**Статья 70. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 70. - Утратила силу. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))**
+504-ФЗ)**
 
-**Статья 71. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 71. - Утратила силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1921))**
+360-ФЗ)**
 
 **§ 3. Определение поставщика (подрядчика, исполнителя) путем применения
-закрытых конкурентных способов (в ред. Федерального закона [[от
+закрытых конкурентных способов (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1921))**
+360-ФЗ)**
 
 **Статья 72. Применение закрытых конкурентных способов (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1921))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. При применении закрытых конкурентных способов:
 
@@ -9240,17 +9240,17 @@ N
 которая должна содержать:
 
 а) информацию и документы, предусмотренные пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769) -
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806)
+1 -
+13
 и
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8898) -
-[[24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8811)
+15 -
+24
 части 1 и подпунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8813) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8813)
+1 -
+6
 части 2 статьи 42 настоящего Федерального закона; (в ред. Федерального
-закона [[от 05.12.2022 N
-500-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437449#l15))
+закона от 05.12.2022 N
+500-ФЗ)
 
 б) информацию о месте и порядке подачи заявки на участие в закупке,
 форму такой заявки (в случае проведения закрытого конкурса, закрытого
@@ -9258,8 +9258,8 @@ N
 
 в) информацию о времени проведения процедуры подачи предложений о цене
 контракта либо о сумме цен единиц товара, работы, услуги (в случае,
-предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) в случае проведения закрытого
 аукциона;
 
@@ -9280,12 +9280,12 @@ N
 проект контракта, протоколы, составленные (сформированные) при
 осуществлении закупки, информация и документы, размещаемые в
 соответствии с настоящим Федеральным законом в реестре, предусмотренном
-[[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7137)
+частью
+21
 статьи 99 настоящего Федерального закона, не подлежат размещению на
 официальном сайте, опубликованию в средствах массовой информации; (в
-ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 3\) не допускается предоставлять документацию о закупке, изменения,
 внесенные в документацию о закупке, направлять запросы об ознакомлении с
@@ -9297,8 +9297,8 @@ N
 4\) не допускается осуществлять аудио- и видеозапись, если иное не
 предусмотрено настоящим Федеральным законом;
 
-5\) при заключении контракта в порядке, установленном [[частью
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9234)
+5\) при заключении контракта в порядке, установленном частью
+14
 статьи 73 настоящего Федерального закона, использование единой
 информационной системы, размещение информации и документов в единой
 информационной системе и на специализированной электронной площадке не
@@ -9308,31 +9308,31 @@ N
 федеральным органом исполнительной власти, уполномоченным Правительством
 Российской Федерации. Для получения такого согласования заказчик либо
 уполномоченный орган или уполномоченное учреждение в случае наделения их
-полномочиями в соответствии со [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+полномочиями в соответствии со статьей
+26
 настоящего Федерального закона направляет в такой федеральный орган
 исполнительной власти обращение о согласовании проведения закрытого
 конкурса, закрытого аукциона, которое должно содержать:
 
 1\) обоснование отнесения закрытого конкурса, закрытого аукциона к
 случаям, предусмотренным пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8624)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9693)
+2
 части 11 статьи 24 настоящего Федерального закона;
 
 2\) информацию и документы, предусмотренные пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769) -
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806)
+1,
+3,
+5 -
+9,
+12,
+13,
+15
 и
-[[19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8898)
-части 1, [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8813)
+19
+части 1, пунктом
+1
 части 2 статьи 42 настоящего Федерального закона;
 
 3\) информацию об участниках закупки, которые способны осуществить
@@ -9361,35 +9361,35 @@ N
 конкурса, закрытого аукциона либо об отказе в таком согласовании.
 
 **Статья 73. Проведение закрытого конкурса (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1929))**
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. При проведении закрытого конкурса заказчик одновременно направляет
-приглашения всем участникам закупки, указанным в [[пункте
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9209)
+приглашения всем участникам закупки, указанным в пункте
+3
 части 2 статьи 72 настоящего Федерального закона, не позднее ста
 восьмидесяти дней со дня принятия решения о согласовании проведения
 закрытого конкурса, но не позднее чем за пятнадцать рабочих дней до даты
 окончания срока подачи заявок на участие в закупке. Не позднее одного
 рабочего дня, следующего за днем направления, заказчик направляет копии
 таких приглашений в федеральный орган исполнительной власти, указанный в
-[[части
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9204)
+части
+2
 статьи 72 настоящего Федерального закона.
 
 2\. Приглашение должно содержать следующую информацию:
 
 1\) информация, предусмотренная пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769) -
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769) -
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769),
-[[12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806) -
-[[19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8898)
+1 -
+3,
+5 -
+10,
+12,
+13,
+15 -
+19
 и
-[[21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8898)
+21
 части 1 статьи 42 настоящего Федерального закона;
 
 2\) порядок направления запросов, предусмотренных частью 3 настоящей
@@ -9455,16 +9455,16 @@ N
 содержать:
 
 1\) информацию и документы, предусмотренные подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823) -
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8911),
-[[\"з\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8830) -
-[[\"к\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8914),
-[[\"м\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8831) -
-[[\"р\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8834)
+\"а\",
+\"в\" -
+\"е\",
+\"з\" -
+\"к\",
+\"м\" -
+\"р\"
 пункта 1, пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917) -
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+2 -
+5
 части 1 статьи 43 настоящего Федерального закона;
 
 2\) выписку (или ее копию) из единого государственного реестра
@@ -9476,8 +9476,8 @@ N
 3\) информацию и документы (или их копии), подтверждающие предоставление
 обеспечения заявки на участие в закупке (если в соответствии с настоящим
 Федеральным законом предусмотрено предоставление обеспечения заявки на
-участие в закупке), информацию и документы в соответствии с [[частью
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7553)
+участие в закупке), информацию и документы в соответствии с частью
+4
 статьи 37 настоящего Федерального закона;
 
 4\) документ (или его копию), подтверждающий полномочия лица действовать
@@ -9502,8 +9502,8 @@ N
 рассматривается и в день ее поступления возвращается заказчиком
 участнику закупки. В случае отсутствия в такой заявке информации о
 почтовом адресе участника закупки такая заявка подлежит хранению в
-соответствии с [[частью
-15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l116)
+соответствии с частью
+15
 статьи 4 настоящего Федерального закона.
 
 9\. Комиссия по осуществлению закупок не ранее окончания срока подачи
@@ -9524,8 +9524,8 @@ N
 
 б) осуществляют оценку заявок на участие в закупке, в отношении которых
 принято решение о признании соответствующими документации о закупке, по
-критериям оценки, предусмотренным [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8102)
+критериям оценки, предусмотренным частью
+1
 статьи 32 настоящего Федерального закона (в случае установления таких
 критериев в документации о закупке);
 
@@ -9534,8 +9534,8 @@ N
 которая признана соответствующей документации о закупке, порядковый
 номер в порядке уменьшения степени выгодности содержащихся в таких
 заявках условий исполнения контракта и с учетом положений нормативных
-правовых актов, принятых в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136)
+правовых актов, принятых в соответствии со статьей
+14
 настоящего Федерального закона. Заявке на участие в закупке победителя
 определения поставщика (подрядчика, исполнителя) присваивается первый
 номер. В случае, если в нескольких заявках на участие в закупке
@@ -9549,8 +9549,8 @@ N
 
 а) один экземпляр протокола подведения итогов определения поставщика
 (подрядчика, исполнителя) - в федеральный орган исполнительной власти,
-указанный в [[части
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9207)
+указанный в части
+2
 статьи 72 настоящего Федерального закона;
 
 б) уведомление, содержащее информацию, предусмотренную пунктами 2 - 4
@@ -9584,42 +9584,42 @@ N
 5\) несоответствия участника закупки требованиям, установленным в
 документации о закупке в соответствии с частью 1, требованиям,
 установленным в документации о закупке в соответствии с частями
-[[1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+1.1,
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8087)
+2.1
 (при наличии таких требований) статьи 31 настоящего Федерального закона;
 
 6\) предусмотренных нормативными правовыми актами, принятыми в
-соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+соответствии со статьей
+14
 настоящего Федерального закона (за исключением случаев непредставления
-информации и документов, предусмотренных [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+информации и документов, предусмотренных пунктом
+5
 части 1 статьи 43 настоящего Федерального закона);
 
-7\) непредставления информации и документов, предусмотренных [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+7\) непредставления информации и документов, предусмотренных пунктом
+5
 части 1 статьи 43 настоящего Федерального закона, если такие документы
 предусмотрены нормативными правовыми актами, принятыми в соответствии с
-[[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642)
+частью
+3
 статьи 14 настоящего Федерального закона (в случае установления в
 соответствии со статьей 14 настоящего Федерального закона в документации
 о закупке информации о запрете допуска товаров, происходящих из
 иностранного государства или группы иностранных государств);
 
 8\) выявления отнесения участника закупки к организациям,
-предусмотренным [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=422085#l6)
+предусмотренным пунктом
+4
 статьи 2 Федерального закона от 4 июня 2018 года N 127-ФЗ \"О мерах
 воздействия (противодействия) на недружественные действия Соединенных
 Штатов Америки и иных иностранных государств\", в случае осуществления
 закупки работ, услуг, включенных в перечень, определенный Правительством
 Российской Федерации в соответствии с указанным пунктом;
 
-9\) предусмотренных [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8994)
+9\) предусмотренных частью
+6
 статьи 45 настоящего Федерального закона;
 
 10\) выявления недостоверной информации, содержащейся в заявке на
@@ -9640,8 +9640,8 @@ N
 
 3\) присвоенные заявкам на участие в закупке, которые признаны
 соответствующими документации о закупке, значения по критериям оценки,
-предусмотренным [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8102)
+предусмотренным частью
+1
 статьи 32 настоящего Федерального закона (в случае установления таких
 критериев в документации о закупке);
 
@@ -9650,9 +9650,9 @@ N
 
 5\) информацию о заключении контракта по цене, увеличенной в
 соответствии со статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7537)
+29
 настоящего Федерального закона;
 
 6\) информацию о решении каждого члена комиссии по осуществлению
@@ -9660,8 +9660,8 @@ N
 закупке, в отношении каждой заявки на участие в закупке;
 
 7\) информацию о признании определения поставщика (подрядчика,
-исполнителя) несостоявшимся в случаях, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+исполнителя) несостоявшимся в случаях, предусмотренных частью
+1
 статьи 77 настоящего Федерального закона.
 
 13\. Участник закупки, подавший заявку на участие в закупке, после
@@ -9683,8 +9683,8 @@ N
 настоящей статье - участник закупки, с которым заключается контракт) без
 своей подписи не менее двух экземпляров проекта контракта, в который
 включается информация, предусмотренная подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9680) -
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9678)
+\"а\" -
+\"е\"
 пункта 1 части 2 статьи 51 настоящего Федерального закона;
 
 2\) участник закупки, с которым заключается контракт, в срок,
@@ -9692,8 +9692,8 @@ N
 заказчику одновременно все экземпляры контракта, а также документ,
 подтверждающий предоставление обеспечения исполнения контракта (за
 исключением случаев, предусмотренных настоящим Федеральным законом). При
-этом в случаях, предусмотренных [[статьей
-37]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8770)
+этом в случаях, предусмотренных статьей
+37
 настоящего Федерального закона, такой участник одновременно направляет
 заказчику информацию и документы, предусмотренные указанной статьей;
 
@@ -9722,8 +9722,8 @@ N
 заключения контракта, уведомление о составлении протокола об уклонении
 участника закупки от заключения контракта;
 
-в) направляет в соответствии с порядком, предусмотренным [[частью
-10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8554)
+в) направляет в соответствии с порядком, предусмотренным частью
+10
 статьи 104 настоящего Федерального закона, обращение о включении
 информации об участнике закупки в реестр недобросовестных поставщиков
 (подрядчиков, исполнителей);
@@ -9735,9 +9735,9 @@ N
 закупки, с которым заключается контракт, признан уклонившимся от
 заключения контракта либо если заказчик отказался от заключения
 контракта в соответствии с частями
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8712)
+9
 и
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8142)
+10
 статьи 31 настоящего Федерального закона. В случае признания такого
 участника закупки уклонившимся от заключения контракта заказчик вправе
 заключить в порядке, установленном настоящей частью, контракт с
@@ -9747,22 +9747,22 @@ N
 контракт в порядке, установленном настоящей частью.
 
 15\. Если закрытый конкурс признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+предусмотренных частью
+1
 статьи 77 настоящего Федерального закона, такой конкурс проводится с
 учетом особенностей, установленных частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9400)
+2
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9310)
+4
 статьи 77 настоящего Федерального закона.
 
 **Статья 74. Проведение закрытого аукциона (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2532))**
+от 02.07.2021 N
+360-ФЗ)**
 
 1\. Закрытый аукцион проводится в порядке, установленном частями
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9211) -
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9222)
+1 -
+9
 статьи 73 настоящего Федерального закона для проведения закрытого
 конкурса и настоящей статьей. При этом:
 
@@ -9772,8 +9772,8 @@ N
 на участие в закупке;
 
 2\) срок подачи заявок на участие в закупке в случае, предусмотренном
-[[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9217)
+частью
+5
 статьи 73 настоящего Федерального закона, должен быть продлен таким
 образом, чтобы со дня, следующего за днем направления изменений в
 документацию о закупке, до даты окончания срока подачи заявок на участие
@@ -9782,18 +9782,18 @@ N
 3\) заявка на участие в закупке должна содержать:
 
 а) информацию и документы, предусмотренные подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8911),
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8911),
-[[\"з\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8830) -
-[[\"к\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8914),
-[[\"м\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8831) -
-[[\"п\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8831)
+\"а\",
+\"в\",
+\"д\",
+\"е\",
+\"з\" -
+\"к\",
+\"м\" -
+\"п\"
 пункта 1, пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8917)
+2
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+5
 части 1 статьи 43 настоящего Федерального закона;
 
 б) выписку (или ее копию) из единого государственного реестра
@@ -9826,10 +9826,10 @@ N
 решение о признании заявки на участие в закупке соответствующей
 документации о закупке или об отклонении заявки на участие в закупке в
 случаях, предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9227),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9227),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9227) -
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9227)
+1,
+2,
+5 -
+10
 части 11 статьи 73 настоящего Федерального закона, а также в случае
 непредставления информации и документов, предусмотренных пунктом 3 части
 1 настоящей статьи, несоответствия таких информации и документов
@@ -9840,8 +9840,8 @@ N
 осуществлению закупок подписывает его и направляет:
 
 а) один экземпляр протокола рассмотрения заявок на участие в закупке - в
-федеральный орган исполнительной власти, указанный в [[части
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9314)
+федеральный орган исполнительной власти, указанный в части
+2
 статьи 72 настоящего Федерального закона;
 
 б) уведомление, содержащее информацию, предусмотренную пунктом 2 части 3
@@ -9865,20 +9865,20 @@ N
 закупке, в отношении каждой заявки на участие в закупке;
 
 4\) информацию о признании определения поставщика (подрядчика,
-исполнителя) несостоявшимся в случаях, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+исполнителя) несостоявшимся в случаях, предусмотренных частью
+1
 статьи 77 настоящего Федерального закона.
 
 4\. Участники закупки, заявки которых признаны соответствующими
 документации о закупке, вправе во время проведения процедуры подачи
 предложений о цене контракта либо сумме цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) принять участие в такой
 процедуре путем подачи ценового предложения, предусматривающего снижение
 начальной (максимальной) цены контракта либо начальной суммы цен единиц
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), проводимой в присутствии
 членов комиссии по осуществлению закупок в следующем порядке:
 
@@ -9898,16 +9898,16 @@ N
 объявления начала ее проведения, номера лота (в случае проведения такой
 процедуры по нескольким лотам), наименования объекта закупки, начальной
 (максимальной) цены контракта либо начальной суммы цен единиц товара,
-работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), а также обращается с
 предложением к участникам закупки подавать свои ценовые предложения;
 
 4\) подача ценовых предложений осуществляется путем снижения текущего
 минимального ценового предложения на величину, составляющую 5 процентов
 начальной (максимальной) цены контракта либо начальной суммы цен единиц
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) (далее - \"шаг аукциона\"). В
 случае, если после троекратного объявления последнего ценового
 предложения ни один из участников закупки не заявил о своем намерении
@@ -9925,29 +9925,29 @@ N
 6\) аукционист объявляет номер карточки участника закупки, который
 первым поднял карточку в соответствии с пунктом 5 настоящей части, а
 также новые цену контракта либо сумму цен единиц товара, работы, услуги
-(в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+(в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), сниженные на \"шаг
 аукциона\";
 
 7\) в случае, если при проведении процедуры подачи ценовых предложений
 подано ценовое предложение, предусматривающее снижение цены контракта
 либо суммы цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона) до 0,5 процента начальной
 (максимальной) цены контракта либо начальной суммы цен единиц товара,
-работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) или ниже, такая процедура
-проводится на право заключения контракта с учетом положений [[пункта
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9047)
+проводится на право заключения контракта с учетом положений пункта
+9
 части 3 статьи 49 настоящего Федерального закона;
 
 8\) проведение процедуры подачи ценовых предложений завершается, если
 после троекратного объявления аукционистом цены контракта либо суммы цен
-единиц товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+единиц товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона) ни один из участников закупки
 не поднял карточку. В этом случае аукционист объявляет завершение
 проведения такой процедуры, номер карточки участника закупки, подавшего
@@ -9957,8 +9957,8 @@ N
 участник закупки не явился на процедуру подачи ценовых предложений,
 ценовым предложением такого участника закупки признается начальная
 (максимальная) цена контракта либо начальная сумма цен единиц товара,
-работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона).
 
 5\. Не позднее одного рабочего дня со дня, следующего за датой
@@ -9978,8 +9978,8 @@ N
 ценового предложения, предусмотренного пунктом 7 части 4 настоящей
 статьи, присваиваются в порядке убывания размера ценового предложения
 участника закупки), и с учетом положений нормативных правовых актов,
-принятых в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+принятых в соответствии со статьей
+14
 настоящего Федерального закона. При присвоении порядкового номера
 заявкам на участие в закупке, поданным участниками закупки без ценовых
 предложений, меньший порядковый номер присваивается заявке на участие в
@@ -9993,8 +9993,8 @@ N
 
 а) один экземпляр протокола подведения итогов определения поставщика
 (подрядчика, исполнителя) - в федеральный орган исполнительной власти,
-указанный в [[части
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1203)
+указанный в части
+2
 статьи 72 настоящего Федерального закона;
 
 б) уведомление, содержащее информацию, предусмотренную пунктом 3 части 6
@@ -10019,9 +10019,9 @@ N
 
 4\) информацию о заключении контракта по цене, увеличенной в
 соответствии со статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8691)
+29
 настоящего Федерального закона;
 
 5\) информацию о решении каждого члена комиссии по осуществлению
@@ -10030,34 +10030,34 @@ N
 каждой заявки на участие в закупке;
 
 6\) информацию о признании определения поставщика (подрядчика,
-исполнителя) несостоявшимся в случаях, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+исполнителя) несостоявшимся в случаях, предусмотренных частью
+1
 статьи 77 настоящего Федерального закона.
 
 7\. Участник закупки вправе направить заказчику запрос о даче
 разъяснений результатов рассмотрения заявки этого участника закупки в
-порядке, предусмотренном [[частью
-13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9336)
+порядке, предусмотренном частью
+13
 статьи 73 настоящего Федерального закона.
 
 8\. Заключение контракта по результатам проведения закрытого аукциона
-осуществляется в порядке, установленном [[частью
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9233)
+осуществляется в порядке, установленном частью
+14
 статьи 73 настоящего Федерального закона.
 
 9\. Если закрытый аукцион признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+предусмотренных частью
+1
 статьи 77 настоящего Федерального закона, такой аукцион проводится с
 учетом особенностей, установленных частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9401)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9311)
+4
 статьи 77 настоящего Федерального закона.
 
 **Статья 75. Проведение закрытого электронного конкурса (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l1981))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. При проведении закрытого электронного конкурса приглашение
 направляется, документация о закупке предоставляется в следующем
@@ -10068,14 +10068,14 @@ N
 действовать от имени заказчика, и размещает в единой информационной
 системе приглашение, которое должно содержать информацию,
 предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7769) -
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8805),
-[[12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8807) -
-[[19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8810)
+1 -
+10,
+12,
+13,
+15 -
+19
 и
-[[21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8810)
+21
 части 1 статьи 42 настоящего Федерального закона, с приложением
 документации о закупке;
 
@@ -10084,8 +10084,8 @@ N
 размещения, направляются оператору специализированной электронной
 площадки путем информационного взаимодействия специализированной
 электронной площадки с единой информационной системой с учетом
-требований, установленных в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8632)
+требований, установленных в соответствии с частью
+2
 статьи 24.1 настоящего Федерального закона;
 
 3\) не позднее одного рабочего дня, следующего за днем получения
@@ -10095,8 +10095,8 @@ N
 площадке участникам закупки, в отношении которых в реестр участников
 закупки, аккредитованных на специализированной электронной площадке,
 включены информация и документы, указанные в приглашении и
-предусмотренные [[пунктом
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806)
+предусмотренные пунктом
+12
 части 1 статьи 42 настоящего Федерального закона;
 
 4\) не позднее трех рабочих дней, следующих за датой направления в
@@ -10110,24 +10110,24 @@ N
 закупки запросы о предоставлении документации о закупке, а также
 следующие информацию и документы таких участников:
 
-а) предусмотренные [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+а) предусмотренные пунктом
+2
 части 6 статьи 43 настоящего Федерального закона, путем информационного
 взаимодействия специализированной электронной площадки с единой
 информационной системой с учетом требований, установленных в
-соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8632)
+соответствии с частью
+2
 статьи 24.1 настоящего Федерального закона;
 
-б) указанные в приглашении в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9213)
+б) указанные в приглашении в соответствии с пунктом
+1
 части 2 статьи 73 настоящего Федерального закона, предусмотренные
-[[пунктом
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806)
+пунктом
+12
 части 1 статьи 42 настоящего Федерального закона и включенные в реестр
 участников закупки, аккредитованных на специализированной электронной
-площадке в соответствии с [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8846)
+площадке в соответствии с пунктом
+4
 части 6 статьи 43 настоящего Федерального закона;
 
 6\) в течение двух рабочих дней, следующих за днем получения заказчиком
@@ -10135,8 +10135,8 @@ N
 
 а) комиссия по осуществлению закупок рассматривает такие информацию и
 документы в части соответствия их требованиям, указанным в приглашении и
-предусмотренным [[пунктом
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806)
+предусмотренным пунктом
+12
 части 1 статьи 42 настоящего Федерального закона, и принимает решение о
 предоставлении участнику закупки документации о закупке либо об отказе
 участнику закупки в предоставлении документации о закупке по основаниям,
@@ -10168,8 +10168,8 @@ N
 
 в) направляет протокол рассмотрения запросов о предоставлении
 документации о закупке в федеральный орган исполнительной власти,
-указанный в [[части
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9207)
+указанный в части
+2
 статьи 72 настоящего Федерального закона;
 
 г) размещает протокол рассмотрения запросов о предоставлении
@@ -10184,8 +10184,8 @@ N
 требованиям, установленным в приглашении;
 
 2\) несоответствия участника закупки требованиям, указанным в
-приглашении и предусмотренным [[пунктом
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806)
+приглашении и предусмотренным пунктом
+12
 части 1 статьи 42 настоящего Федерального закона;
 
 3\) выявления недостоверной информации, содержащейся в информации и
@@ -10209,8 +10209,8 @@ N
 документации о закупке;
 
 5\) информацию о признании определения поставщика (подрядчика,
-исполнителя) несостоявшимся в случаях, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+исполнителя) несостоявшимся в случаях, предусмотренных частью
+1
 статьи 77 настоящего Федерального закона.
 
 4\. Участник закупки, который получил приглашение и которому
@@ -10267,20 +10267,20 @@ N
 7\. При проведении закрытого электронного конкурса заявка на участие в
 закупке должна содержать информацию и документы, предусмотренные
 подпунктами
-[[\"м\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8914) -
-[[\"р\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8833)
+\"м\" -
+\"р\"
 пункта 1, пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823) -
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+2 -
+5
 части 1 статьи 43 настоящего Федерального закона, информацию и документы
-в соответствии с [[частью
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8790)
+в соответствии с частью
+4
 статьи 37 настоящего Федерального закона.
 
 8\. Не позднее одного часа со времени окончания срока подачи заявок на
 участие в закупке оператор специализированной электронной площадки в
-соответствии с [[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+соответствии с пунктом
+9
 части 6 статьи 43 настоящего Федерального закона направляет заказчику
 заявки на участие в закупке.
 
@@ -10298,8 +10298,8 @@ N
 
 б) осуществляют оценку заявок на участие в закупке, в отношении которых
 принято решение о признании соответствующими документации о закупке, по
-критериям оценки, установленным в соответствии со [[статьей
-32]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8714)
+критериям оценки, установленным в соответствии со статьей
+32
 настоящего Федерального закона;
 
 в) на основании результатов оценки, предусмотренной подпунктом \"б\"
@@ -10307,8 +10307,8 @@ N
 признанной соответствующей документации о закупке, порядковый номер в
 порядке уменьшения степени выгодности содержащихся в них условий
 исполнения контракта и с учетом положений нормативных правовых актов,
-принятых в соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136)
+принятых в соответствии со статьей
+14
 настоящего Федерального закона. Заявке на участие в закупке победителя
 определения поставщика (подрядчика, исполнителя) присваивается первый
 номер. В случае, если в нескольких заявках на участие в закупке
@@ -10337,55 +10337,55 @@ N
 1\) непредставления информации и документов, предусмотренных частью 7
 настоящей статьи (за исключением случаев, предусмотренных настоящим
 Федеральным законом), пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+2
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8846)
+4
 части 6 статьи 43 настоящего Федерального закона, несоответствия таких
 информации и документов требованиям, установленным в документации о
 закупке;
 
 2\) несоответствия участника закупки требованиям, установленным в
-документации о закупке в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8010)
+документации о закупке в соответствии с частью
+1
 статьи 31 настоящего Федерального закона, требованиям, установленным в
 документации о закупке в соответствии с частями
-[[1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706),
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+1.1,
+2
 и
-[[2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8086)
+2.1
 (при наличии таких требований) статьи 31 настоящего Федерального закона;
 
 3\) предусмотренных нормативными правовыми актами, принятыми в
-соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136)
+соответствии со статьей
+14
 настоящего Федерального закона (за исключением случаев непредставления
-информации и документов, предусмотренных [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8842)
+информации и документов, предусмотренных пунктом
+5
 части 1 статьи 43 настоящего Федерального закона);
 
-4\) непредставления информации и документов, предусмотренных [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8842)
+4\) непредставления информации и документов, предусмотренных пунктом
+5
 части 1 статьи 43 настоящего Федерального закона, если такие документы
 предусмотрены нормативными правовыми актами, принятыми в соответствии с
-[[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642)
+частью
+3
 статьи 14 настоящего Федерального закона (в случае установления в
-соответствии со [[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+соответствии со статьей
+14
 настоящего Федерального закона в документации о закупке запрета допуска
 товаров, происходящих из иностранных государств);
 
 5\) выявления отнесения участника закупки к организациям,
-предусмотренным [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=422085#l6)
+предусмотренным пунктом
+4
 статьи 2 Федерального закона от 4 июня 2018 года N 127-ФЗ \"О мерах
 воздействия (противодействия) на недружественные действия Соединенных
 Штатов Америки и иных иностранных государств\", в случае осуществления
 закупки работ, услуг, включенных в перечень, определенный Правительством
 Российской Федерации в соответствии с указанным пунктом;
 
-6\) предусмотренных [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8974)
+6\) предусмотренных частью
+6
 статьи 45 настоящего Федерального закона;
 
 7\) выявления недостоверной информации, содержащейся в заявке на участие
@@ -10396,9 +10396,9 @@ N
 
 1\) дату подведения итогов определения поставщика (подрядчика,
 исполнителя), информацию, указанную в подпунктах
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8827)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, и номера
 реестровых записей в едином реестре участников закупок в отношении
 участников закупок, подавших заявки на участие в закупке,
@@ -10413,8 +10413,8 @@ N
 
 3\) присвоенные заявкам на участие в закупке, признанным
 соответствующими документации о закупке, значения по критериям оценки,
-предусмотренным [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8102)
+предусмотренным частью
+1
 статьи 32 настоящего Федерального закона (в случае установления таких
 критериев в документации о закупке);
 
@@ -10423,9 +10423,9 @@ N
 
 5\) информацию о заключении контракта по цене, увеличенной в
 соответствии со статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8691)
+29
 настоящего Федерального закона;
 
 6\) информацию о решении каждого члена комиссии по осуществлению
@@ -10433,8 +10433,8 @@ N
 закупке, в отношении каждой заявки на участие в закупке;
 
 7\) информацию о признании определения поставщика (подрядчика,
-исполнителя) несостоявшимся в случаях, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+исполнителя) несостоявшимся в случаях, предусмотренных частью
+1
 статьи 77 настоящего Федерального закона.
 
 12\. Участник закупки, подавший заявку на участие в закупке, после
@@ -10455,8 +10455,8 @@ N
 и оценки заявки на участие в закупке.
 
 13\. Заключение контракта по результатам проведения закрытого
-электронного конкурса осуществляется в порядке, установленном [[статьей
-51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9073)
+электронного конкурса осуществляется в порядке, установленном статьей
+51
 настоящего Федерального закона. В случаях, предусмотренных статьей 51
 настоящего Федерального закона для формирования, размещения информации и
 документов на электронной площадке, в том числе с использованием единой
@@ -10467,23 +10467,23 @@ N
 размещаются на официальном сайте.
 
 14\. Если закрытый электронный конкурс признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+предусмотренных частью
+1
 статьи 77 настоящего Федерального закона, такой конкурс проводится с
 учетом особенностей, установленных частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9310)
+2
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9311)
+4
 статьи 77 настоящего Федерального закона.
 
 **Статья 76. Проведение закрытого электронного аукциона (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2579))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. Закрытый электронный аукцион проводится в порядке, установленном
 частями
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9262) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9276)
+1 -
+6
 статьи 75 настоящего Федерального закона и настоящей статьей.
 
 2\. Участник закупки, в отношении которого комиссией по осуществлению
@@ -10491,28 +10491,28 @@ N
 в соответствии с настоящим Федеральным законом подать заявку на участие
 в закупке, которая должна содержать информацию и документы,
 предусмотренные подпунктами
-[[\"м\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8915) -
-[[\"п\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8833)
+\"м\" -
+\"п\"
 пункта 1, пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8834)
+2
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8838)
+5
 части 1 статьи 43 настоящего Федерального закона.
 
 3\. Участники закупки, подавшие заявки на участие в закупке, вправе во
 время проведения процедуры подачи предложений о цене контракта либо о
 сумме цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона) принять участие в такой
 процедуре путем подачи ценовых предложений, предусматривающих снижение
 начальной (максимальной) цены контракта либо начальной суммы цен единиц
-товара, работы, услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+товара, работы, услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона). Такая процедура проводится
 через два часа с момента окончания срока подачи заявок на участие в
-закупке в порядке, установленном [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9150)
+закупке в порядке, установленном частью
+3
 статьи 49 настоящего Федерального закона.
 
 4\. Не позднее одного часа с момента завершения процедуры подачи ценовых
@@ -10520,20 +10520,20 @@ N
 
 1\) присваивает каждой заявке на участие в закупке порядковый номер в
 порядке возрастания цены контракта, суммы цен единиц товара, работы,
-услуги (в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l277)
+услуги (в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона), предложенных участником
 закупки, подавшим такую заявку (за исключением случая, предусмотренного
-[[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9047)
+пунктом
+9
 части 3 статьи 49 настоящего Федерального закона, при котором порядковые
 номера заявкам участников закупки, подавших ценовые предложения после
-подачи ценового предложения, предусмотренного абзацем первым [[пункта
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9047)
+подачи ценового предложения, предусмотренного абзацем первым пункта
+9
 части 3 статьи 49 настоящего Федерального закона, присваиваются в
 порядке убывания цены контракта, суммы цен единиц товара, работы, услуги
-(в случае, предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+(в случае, предусмотренном частью
+24
 статьи 22 настоящего Федерального закона). В случае, если несколькими
 участниками закупки поданы одинаковые ценовые предложения, меньший
 порядковый номер присваивается заявке на участие в закупке, поданной
@@ -10549,8 +10549,8 @@ N
 предложений;
 
 б) минимальное ценовое предложение либо максимальное ценовое предложение
-(в случае, предусмотренном [[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9047)
+(в случае, предусмотренном пунктом
+9
 части 3 статьи 49 настоящего Федерального закона), поданное каждым
 участником закупки, с указанием идентификационного номера заявки такого
 участника, времени подачи таких предложений, даты и времени подачи
@@ -10562,8 +10562,8 @@ N
 
 3\) направляет заказчику протокол, предусмотренный пунктом 2 настоящей
 части, поданные заявки на участие в закупке, а также предусмотренные
-[[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8844)
+пунктом
+2
 части 6 статьи 43 настоящего Федерального закона информацию и документы
 участников закупки, подавших такие заявки;
 
@@ -10586,8 +10586,8 @@ N
 принимают решение о признании заявки на участие в закупке
 соответствующей документации о закупке или об отклонении заявки на
 участие в закупке в случаях, предусмотренных пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9283) -
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9286)
+2 -
+7
 части 10 статьи 75 настоящего Федерального закона, а также в случае
 непредставления информации и документов, предусмотренных частью 2
 настоящей статьи, несоответствия таких информации и документов
@@ -10601,17 +10601,17 @@ N
 соответствующей документации о закупке, порядковый номер в порядке
 возрастания минимального ценового предложения участника закупки,
 подавшего такую заявку (за исключением случая, предусмотренного
-[[пунктом
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9047)
+пунктом
+9
 части 3 статьи 49 настоящего Федерального закона, при котором порядковые
 номера заявкам участников закупки, подавших ценовые предложения после
-подачи ценового предложения, предусмотренного абзацем первым [[пункта
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9047)
+подачи ценового предложения, предусмотренного абзацем первым пункта
+9
 части 3 статьи 49 настоящего Федерального закона, присваиваются в
 порядке убывания размера ценового предложения участника закупки), и с
 учетом положений нормативных правовых актов, принятых в соответствии со
-[[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132)
+статьей
+14
 настоящего Федерального закона. Заявке на участие в закупке победителя
 определения поставщика (подрядчика, исполнителя) присваивается первый
 номер;
@@ -10637,9 +10637,9 @@ N
 
 1\) дату подведения итогов определения поставщика (подрядчика,
 исполнителя), информацию, указанную в подпунктах
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8826)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, и номера
 реестровых записей в едином реестре участников закупок в отношении
 участников закупок, подавших заявки на участие в закупке,
@@ -10657,9 +10657,9 @@ N
 
 4\) информацию о заключении контракта по цене, увеличенной в
 соответствии со статьями
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372)
+28
 и
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8690)
+29
 настоящего Федерального закона;
 
 5\) информацию о решении каждого члена комиссии по осуществлению
@@ -10667,41 +10667,41 @@ N
 закупке, в отношении каждой заявки на участие в закупке;
 
 6\) информацию о признании определения поставщика (подрядчика,
-исполнителя) несостоявшимся в случаях, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+исполнителя) несостоявшимся в случаях, предусмотренных частью
+1
 статьи 77 настоящего Федерального закона.
 
 7\. Участник закупки вправе направить заказчику запрос о даче
 разъяснений результатов рассмотрения заявки этого участника закупки в
-порядке, предусмотренном [[частью
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9289)
+порядке, предусмотренном частью
+12
 статьи 75 настоящего Федерального закона.
 
 8\. Заключение контракта по результатам проведения закрытого
-электронного аукциона осуществляется в порядке, установленном [[частью
-13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9289)
+электронного аукциона осуществляется в порядке, установленном частью
+13
 статьи 75 настоящего Федерального закона.
 
 9\. Если закрытый электронный аукцион признан несостоявшимся в случаях,
-предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+предусмотренных частью
+1
 статьи 77 настоящего Федерального закона, такой аукцион проводится с
 учетом особенностей, установленных частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7100)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7100)
+4
 статьи 77 настоящего Федерального закона.
 
 **Статья 77. Признание закрытого конкурентного способа несостоявшимся.
-Последствия такого признания (в ред. Федерального закона [[от 02.07.2021
+Последствия такого признания (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2028))**
+360-ФЗ)**
 
 1\. Закрытый конкурентный способ признается несостоявшимся в случаях:
 
 1\) предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9201)
+1 -
+6
 части 1 статьи 52 настоящего Федерального закона. Положения указанных
 пунктов, касающиеся извещения об осуществлении закупки, применяются к
 документации о закупке;
@@ -10716,80 +10716,80 @@ N
 предоставлении документации о закупке.
 
 2\. В случаях, предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+2
 части 1 статьи 52 настоящего Федерального закона, закрытый конкурс,
 закрытый электронный конкурс проводятся в порядке, установленном
 настоящим Федеральным законом, с учетом следующих особенностей:
 
-1\) оценка, предусмотренная [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9327)
-пункта 1 части 10 статьи 73, [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9279)
+1\) оценка, предусмотренная подпунктом
+\"б\"
+пункта 1 части 10 статьи 73, подпунктом
+\"б\"
 пункта 1 части 9 статьи 75 настоящего Федерального закона, не
 осуществляется;
 
 2\) контракт с участником закупки, подавшим заявку на участие в закупке,
 соответствующую требованиям, установленным в документации о закупке,
-заключается в соответствии с [[пунктом
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9416)
+заключается в соответствии с пунктом
+24
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
 3\. Если закрытый аукцион, закрытый электронный аукцион признаны
 несостоявшимися в случаях, предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9098)
+2
 части 1 статьи 52 настоящего Федерального закона, контракт с участником
 закупки, подавшим заявку на участие в закупке, соответствующую
 требованиям, установленным в документации о закупке, заключается в
-соответствии с [[пунктом
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9406)
+соответствии с пунктом
+24
 части 1 статьи 93 настоящего Федерального закона в порядке,
 установленном настоящим Федеральным законом.
 
 ***Если в случаях, предусмотренных частью 4 статьи 77 данного документа
-(в редакции Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=463301#l0)),
+(в редакции Федерального закона от 02.07.2021 N
+360-ФЗ),
 заказчик осуществляет закупку у единственного поставщика (подрядчика,
 исполнителя) в соответствии с пунктами
-[[24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1653)
+24
 и
-[[25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7071)
-части 1 статьи 93 данного документа (в редакции Федерального закона [[от
+25
+части 1 статьи 93 данного документа (в редакции Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=463301#l0)),
+360-ФЗ),
 до 01.01.2025 контракт с участником закупки заключается без
 использования единой информационной системы в сфере закупок, электронной
-площадки, специализированной электронной площадки ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=463301#l2202)
+площадки, специализированной электронной площадки (пункт
+4
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 4\. Если закрытый конкурентный способ признан несостоявшимся в случаях,
 предусмотренных пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9106) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9113)
+3 -
+6
 части 1 статьи 52 настоящего Федерального закона, а также в случаях,
 предусмотренных пунктом 2 или 3 части 1 настоящей статьи, заказчик
 вправе осуществить новую закупку в соответствии с настоящим Федеральным
 законом либо осуществить закупку у единственного поставщика (подрядчика,
-исполнителя) в соответствии с [[пунктом
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9407)
+исполнителя) в соответствии с пунктом
+24
 части 1 статьи 93 настоящего Федерального закона.
 
-**Статьи 78. - 79. - Утратили силу. (в ред. Федерального закона [[от
+**Статьи 78. - 79. - Утратили силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2032))**
+360-ФЗ)**
 
-**Статьи 80 - 82. - Утратили силу. (в ред. Федерального закона [[от
+**Статьи 80 - 82. - Утратили силу. (в ред. Федерального закона от
 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121))**
+98-ФЗ)**
 
-**§ 3.1. - § 5. - Утратили силу. (в ред. Федерального закона [[от
+**§ 3.1. - § 5. - Утратили силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2032))**
+360-ФЗ)**
 
 **§ 6. Осуществление закупки у единственного поставщика (подрядчика,
 исполнителя)**
@@ -10802,11 +10802,11 @@ N
 
 1\) осуществление закупки товара, работы или услуги, которые относятся к
 сфере деятельности субъектов естественных монополий в соответствии с
-Федеральным законом [[от 17 августа 1995 года N
-147-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=402513#l0)
+Федеральным законом от 17 августа 1995 года N
+147-ФЗ
 \"О естественных монополиях\", а также услуг центрального депозитария;
-(в ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182))
+(в ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 2\) осуществление закупки товаров, работ, услуг у единственного
 поставщика (подрядчика, исполнителя), определенного указом или
@@ -10828,15 +10828,15 @@ N
 законом информации, формируемой и размещаемой при осуществлении этой
 закупки. Порядок подготовки проектов таких правовых актов и поручений и
 перечень документов, прилагаемых при подготовке указанных проектов,
-включая обоснование цены контракта, предусмотренное [[статьей
-22]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l236)
+включая обоснование цены контракта, предусмотренное статьей
+22
 настоящего Федерального закона, определяются нормативным правовым актом
 Президента Российской Федерации. Положения настоящего пункта не
 распространяются на случаи закупок товаров, работ, услуг, осуществляемых
-для муниципальных нужд; (в ред. Федеральных законов [[от 27.12.2018 N
-518-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=327092#l10),
-[[от 01.07.2021 N
-277-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395085#l24))
+для муниципальных нужд; (в ред. Федеральных законов от 27.12.2018 N
+518-ФЗ,
+от 01.07.2021 N
+277-ФЗ)
 
 3\) выполнение работы по мобилизационной подготовке в Российской
 Федерации;
@@ -10866,18 +10866,18 @@ N
 Осуществленные в соответствии с частью 12 настоящей статьи в электронной
 форме закупки товара не учитываются в составе годового объема закупок,
 которые заказчик вправе осуществить на основании настоящего пункта; (в
-ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182),
-[[от 28.12.2016 N
-500-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286459#l3),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l18))
+ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 28.12.2016 N
+500-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 24.04.2020 N
+124-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 28.04.2023 N
+154-ФЗ)
 
 5\) осуществление закупки товара, работы или услуги государственным или
 муниципальным учреждением культуры, уставными целями деятельности
@@ -10903,28 +10903,28 @@ N
 соответствии с частью 12 настоящей статьи в электронной форме закупки
 товара не учитываются в составе годового объема закупок, которые
 заказчик вправе осуществить на основании настоящего пункта; (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l182),
-[[от 22.02.2017 N
-17-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=289334#l11),
-[[от 29.07.2017 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297924#l0),
-[[от 30.10.2018 N
-393-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=323402#l0),
-[[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l6))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 04.06.2014 N
+140-ФЗ,
+от 22.02.2017 N
+17-ФЗ,
+от 29.07.2017 N
+231-ФЗ,
+от 30.10.2018 N
+393-ФЗ,
+от 01.05.2019 N
+70-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 28.04.2023 N
+154-ФЗ)
 
-5.1) пункт утратил силу. (в ред. Федерального закона [[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93))
+5.1) пункт утратил силу. (в ред. Федерального закона от 08.03.2022 N
+46-ФЗ)
 
-5.2) пункт утратил силу. (в ред. Федерального закона [[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93))
+5.2) пункт утратил силу. (в ред. Федерального закона от 08.03.2022 N
+46-ФЗ)
 
 6\) закупка работы или услуги, выполнение или оказание которых может
 осуществляться только органом исполнительной власти в соответствии с его
@@ -10933,13 +10933,13 @@ N
 которого принадлежит Российской Федерации, соответствующие полномочия
 которых устанавливаются федеральными законами, нормативными правовыми
 актами Президента Российской Федерации, нормативными правовыми актами
-Правительства Российской Федерации; (в ред. Федеральных законов [[от
+Правительства Российской Федерации; (в ред. Федеральных законов от
 08.06.2020 N
-180-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=363730#l0),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l2032),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+180-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 7\) заключение контракта на поставку российских вооружения и военной
 техники, которые не имеют российских аналогов и производство которых
@@ -10957,12 +10957,12 @@ N
 опасности, газоснабжению (за исключением услуг по реализации сжиженного
 газа), по подключению (присоединению) к сетям инженерно-технического
 обеспечения, по хранению и ввозу (вывозу) наркотических средств и
-психотропных веществ; (в ред. Федеральных законов [[от 31.12.2017 N
-503-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440054#l117),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2032),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+психотропных веществ; (в ред. Федеральных законов от 31.12.2017 N
+503-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 9\) осуществления закупок товаров, работ, услуг при необходимости
 оказания медицинской помощи в неотложной или экстренной форме либо
@@ -10976,10 +10976,10 @@ N
 аварии, обстоятельств непреодолимой силы, для предупреждения и (или)
 ликвидации чрезвычайной ситуации, для оказания гуманитарной помощи, если
 применение конкурентных способов, требующих затрат времени,
-нецелесообразно; (в ред. Федеральных законов [[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2033))
+нецелесообразно; (в ред. Федеральных законов от 01.04.2020 N
+98-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 10\) поставка культурных ценностей (в том числе музейных предметов и
 музейных коллекций, редких и ценных изданий, рукописей, архивных
@@ -10987,16 +10987,16 @@ N
 иное культурное значение), предназначенных для пополнения Музейного
 фонда Российской Федерации, Архивного фонда Российской Федерации,
 национального библиотечного фонда, кино-, фотофонда и аналогичных
-фондов; (в ред. Федерального закона [[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3))
+фондов; (в ред. Федерального закона от 01.05.2019 N
+70-ФЗ)
 
 11\) производство товара, выполнение работы, оказание услуги
 осуществляются учреждением и (или) предприятием уголовно-исполнительной
 системы, в том числе для нужд исключительно организаций, предприятий,
 учреждений и органов уголовно-исполнительной системы, в соответствии с
 перечнем товаров, работ, услуг, утвержденным Правительством Российской
-Федерации; (в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l4))
+Федерации; (в ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 12\) заключение учреждением, исполняющим наказания, контракта на
 поставку товара для государственных нужд при приобретении указанным
@@ -11015,8 +11015,8 @@ N
 фонограммы конкретных изготовителей для нужд заказчиков в случае, если
 единственному лицу принадлежат исключительные права или исключительные
 лицензии на такие произведения, исполнения, фонограммы; (в ред.
-Федерального закона [[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3))
+Федерального закона от 01.05.2019 N
+70-ФЗ)
 
 14\) закупка печатных изданий или электронных изданий (в том числе
 используемых в них программно-технических средств и средств защиты
@@ -11026,10 +11026,10 @@ N
 услуг по предоставлению доступа к таким электронным изданиям для
 обеспечения деятельности государственных и муниципальных образовательных
 организаций, государственных и муниципальных библиотек, государственных
-научных организаций; (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 30.04.2021 N
-117-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439571#l31))
+научных организаций; (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 30.04.2021 N
+117-ФЗ)
 
 15\) заключение контракта на посещение зоопарка, театра, кинотеатра,
 концерта, цирка, музея, выставки или спортивного мероприятия;
@@ -11061,10 +11061,10 @@ N
 театрального (концертного) реквизита, музыкальных инструментов,
 бутафории, грима, постижерских изделий, театральных кукол, необходимых
 для создания и (или) исполнения произведений указанными организациями;
-(в ред. Федеральных законов [[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3),
-[[от 30.04.2021 N
-117-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439571#l31))
+(в ред. Федеральных законов от 01.05.2019 N
+70-ФЗ,
+от 30.04.2021 N
+117-ФЗ)
 
 18\) заключение контракта на оказание услуг по реализации входных
 билетов и абонементов на посещение театрально-зрелищных,
@@ -11088,8 +11088,8 @@ N
 (гостиничное, транспортное обслуживание, эксплуатация компьютерного
 оборудования, оргтехники, звукотехнического оборудования (в том числе
 для обеспечения синхронного перевода), обеспечение питания); (в ред.
-Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 21\) заключение контрактов на поставки товара, выполнение работ,
 оказание услуг для обеспечения деятельности объектов государственной
@@ -11100,9 +11100,9 @@ N
 оборудования, оргтехники, звукотехнического оборудования (в том числе
 для обеспечения синхронного перевода), обеспечение
 санитарно-эпидемиологического благополучия, предоставление питания
-(включая безопасное питание); (в ред. Федерального закона [[от
+(включая безопасное питание); (в ред. Федерального закона от
 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+140-ФЗ)
 
 22\) заключение контракта управления многоквартирным домом на основании
 решения общего собрания собственников помещений в многоквартирном доме
@@ -11139,48 +11139,48 @@ N
 законодательством Российской Федерации, в общей площади здания, с лицом,
 заключившим в соответствии с законодательством Российской Федерации
 договор (контракт) на выполнение работ, оказание услуг, указанных в
-настоящем пункте; (в ред. Федеральных законов [[от 27.12.2019 N 449-ФЗ
+настоящем пункте; (в ред. Федеральных законов от 27.12.2019 N 449-ФЗ
 (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2033))
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
-24\) заключение контракта в соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9308)
+24\) заключение контракта в соответствии с пунктом
+2
 части 2, частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9400)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9310)
+4
 статьи 77 настоящего Федерального закона в случае признания определения
 поставщика (подрядчика, исполнителя) несостоявшимся в соответствии с
 настоящим Федеральным законом. При этом контракт заключается в
 соответствии с требованиями части 5 настоящей статьи; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2033))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-25\) заключение контракта в соответствии с [[пунктом
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9114)
-части 2, [[пунктом
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9110)
-части 3, [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9200)
+25\) заключение контракта в соответствии с пунктом
+6
+части 2, пунктом
+6
+части 3, пунктом
+2
 части 4, частями
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9101),
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9201)
+5,
+6
 и
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9116)
+8
 статьи 52 настоящего Федерального закона в случае признания определения
 поставщика (подрядчика, исполнителя) несостоявшимся в соответствии с
 настоящим Федеральным законом. При этом контракт заключается в
 соответствии с требованиями части 5 настоящей статьи; (в ред.
-Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2034),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
-25.1-25.3) пункты утратили силу. (в ред. Федерального закона [[от
+25.1-25.3) пункты утратили силу. (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 26\) заключение контракта на оказание услуг, связанных с направлением
 работника в служебную командировку, с участием в проведении фестивалей,
@@ -11190,11 +11190,11 @@ N
 спортивных мероприятиях. При этом к таким услугам относятся обеспечение
 проезда к месту служебной командировки, месту проведения указанных
 мероприятий и обратно, наем жилого помещения, транспортное обслуживание,
-обеспечение питания; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2034))
+обеспечение питания; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-27\) пункт утратил силу. (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+27\) пункт утратил силу. (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 28\) осуществление закупок лекарственных препаратов, которые
 предназначены для назначения пациенту при наличии медицинских показаний
@@ -11206,54 +11206,54 @@ N
 лекарственных препаратов не должен превышать объем таких препаратов,
 необходимый для указанного пациента в течение срока, необходимого для
 осуществления закупки лекарственных препаратов в соответствии с
-положениями [[подпункта
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8617)
+положениями подпункта
+\"г\"
 пункта 2 части 10 статьи 24 настоящего Федерального закона. Кроме того,
 при осуществлении закупки лекарственных препаратов в соответствии с
 положениями настоящего пункта предметом одного контракта не могут
 являться лекарственные препараты, предназначенные для назначения двум и
 более пациентам. Указанное решение врачебной комиссии должно размещаться
 одновременно с контрактом, заключенным в соответствии с настоящим
-пунктом, в реестре контрактов, предусмотренном [[статьей
-103]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1915)
+пунктом, в реестре контрактов, предусмотренном статьей
+103
 настоящего Федерального закона. При этом должно быть обеспечено
-предусмотренное Федеральным законом [[от 27 июля 2006 года N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447363#l0)
+предусмотренное Федеральным законом от 27 июля 2006 года N
+152-ФЗ
 \"О персональных данных\" обезличивание персональных данных; (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2034),
-[[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 08.03.2022 N
+46-ФЗ)
 
-28.1) пункт утратил силу. (в ред. Федерального закона [[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93))
+28.1) пункт утратил силу. (в ред. Федерального закона от 08.03.2022 N
+46-ФЗ)
 
 29\) заключение договора энергоснабжения или договора купли-продажи
 электрической энергии с гарантирующим поставщиком электрической энергии;
-(в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+(в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 30\) осуществление закупки товаров, работ, услуг для подготовки и
 проведения выборов, референдума, осуществления деятельности
 избирательной комиссии, комиссии референдума, за исключением случаев,
 предусмотренных пунктами
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l12),
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7809)
+6,
+7
 и
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7809)
+9
 части 2 статьи 1 настоящего Федерального закона. Перечень товаров,
 работ, услуг, закупки которых могут осуществляться в соответствии с
 настоящим пунктом, утверждается Правительством Российской Федерации по
 предложению Центральной избирательной комиссии Российской Федерации; (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2036))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-30.1) пункт утратил силу. (в ред. Федерального закона [[от 27.02.2020 N
-27-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440533#l62))
+30.1) пункт утратил силу. (в ред. Федерального закона от 27.02.2020 N
+27-ФЗ)
 
 31\) заключение контракта, предметом которого является приобретение для
 обеспечения федеральных нужд, нужд субъекта Российской Федерации,
@@ -11265,29 +11265,29 @@ N
 принятым в порядке, установленном соответственно Правительством
 Российской Федерации, высшим исполнительным органом государственной
 власти субъекта Российской Федерации, местной администрацией; (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 32\) аренда нежилого здания, строения, сооружения, нежилого помещения,
 земельного участка, а также аренда жилых помещений, находящихся на
 территории иностранного государства, заказчиками, осуществляющими
 деятельность на территории иностранного государства; (в ред. Федеральных
-законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+законов от 04.06.2014 N
+140-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 33\) заключение контракта на оказание преподавательских услуг, а также
 услуг экскурсовода (гида) физическими лицами; (в ред. Федерального
-закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+закона от 28.12.2013 N
+396-ФЗ)
 
 34\) заключение федеральным органом исполнительной власти контракта с
 иностранной организацией на лечение гражданина Российской Федерации за
 пределами территории Российской Федерации в соответствии с правилами,
 установленными Правительством Российской Федерации; (в ред. Федерального
-закона [[от 03.07.2016 N
-320-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403989#l2))
+закона от 03.07.2016 N
+320-ФЗ)
 
 35\) заключение организациями, осуществляющими образовательную
 деятельность и признанными в соответствии с законодательством об
@@ -11298,51 +11298,51 @@ N
 интеллектуальной деятельности, с обладателем исключительных прав на
 такие оборудование и программу для электронной вычислительной машины за
 счет средств, выделенных на развитие инновационной инфраструктуры в
-системе образования; (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l39))
+системе образования; (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 36\) заключение бюджетным учреждением, государственным, муниципальным
 унитарными предприятиями контракта, предметом которого является выдача
-независимой гарантии; (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l15),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2036))
+независимой гарантии; (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 03.07.2016 N
+321-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 37\) осуществление закупок изделий народных художественных промыслов
 признанного художественного достоинства, образцы которых
 зарегистрированы в порядке, установленном уполномоченным Правительством
 Российской Федерации федеральным органом исполнительной власти; (в ред.
-Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 38\) заключение органами исполнительной власти, органами местного
 самоуправления контрактов на приобретение жилых помещений,
 соответствующих условиям отнесения к стандартному жилью, установленным
 уполномоченным федеральным органом исполнительной власти, с юридическим
 лицом, заключившим в соответствии с Градостроительным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l0)
+кодексом
 Российской Федерации договор о комплексном развитии территории,
 предусматривающий строительство стандартного жилья, по цене и в сроки,
 которые определены указанным договором, предусмотрено заключение
 государственных и (или) муниципальных контрактов; (в ред. Федеральных
-законов [[от 21.07.2014 N
-224-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=286256#l140),
-[[от 31.12.2017 N
-506-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305913#l138),
-[[от 30.12.2020 N
-494-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380282#l213))
+законов от 21.07.2014 N
+224-ФЗ,
+от 31.12.2017 N
+506-ФЗ,
+от 30.12.2020 N
+494-ФЗ)
 
 39\) заключение органами исполнительной власти, органами местного
 самоуправления контрактов на приобретение жилых помещений,
 соответствующих условиям отнесения к стандартному жилью, установленным
 уполномоченным федеральным органом исполнительной власти, с лицом,
 заключившим в порядке и на условиях, которые предусмотрены Федеральным
-законом [[от 24 июля 2008 года N
-161-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=451620#l0)
+законом от 24 июля 2008 года N
+161-ФЗ
 \"О содействии развитию жилищного строительства, созданию объектов
 туристской инфраструктуры и иному развитию территорий\", договор
 безвозмездного пользования земельным участком для строительства
@@ -11359,33 +11359,33 @@ N
 объеме стандартного жилья и иное жилищное строительство, по цене и в
 сроки, которые определены любым из этих договоров, при условии, что им
 предусмотрено заключение государственных и (или) муниципальных
-контрактов; (в ред. Федеральных законов [[от 24.11.2014 N
-356-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306268#l654),
-[[от 08.03.2015 N
-48-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=266763#l508),
-[[от 31.12.2017 N
-506-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305913#l138),
-[[от 30.12.2020 N
-494-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380282#l213),
-[[от 14.02.2024 N
-17-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=465428#l95))
+контрактов; (в ред. Федеральных законов от 24.11.2014 N
+356-ФЗ,
+от 08.03.2015 N
+48-ФЗ,
+от 31.12.2017 N
+506-ФЗ,
+от 30.12.2020 N
+494-ФЗ,
+от 14.02.2024 N
+17-ФЗ)
 
 40\) осуществление закупок товаров, работ, услуг в целях обеспечения
 органов внешней разведки Российской Федерации средствами
 разведывательной деятельности. Перечень товаров, работ, услуг, закупки
 которых могут осуществляться в соответствии с настоящим пунктом,
 утверждается руководителем соответствующего органа внешней разведки
-Российской Федерации; (в ред. Федерального закона [[от 01.12.2014 N
-416-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=242727#l1))
+Российской Федерации; (в ред. Федерального закона от 01.12.2014 N
+416-ФЗ)
 
 41\) осуществление закупок товаров, работ, услуг в целях обеспечения
 органов федеральной службы безопасности средствами контрразведывательной
 деятельности и борьбы с терроризмом. Перечень товаров, работ, услуг,
 закупки которых могут осуществляться в соответствии с настоящим пунктом,
 утверждается руководителем федерального органа исполнительной власти в
-области обеспечения безопасности; (в ред. Федерального закона [[от
+области обеспечения безопасности; (в ред. Федерального закона от
 01.12.2014 N
-416-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=242727#l1))
+416-ФЗ)
 
 42\) заключение федеральным органом исполнительной власти,
 осуществляющим функции по формированию официальной статистической
@@ -11416,11 +11416,11 @@ N
 социальных, экономических, демографических, экологических и других
 общественных процессах в Российской Федерации, по согласованию с
 федеральным органом исполнительной власти по регулированию контрактной
-системы в сфере закупок; (в ред. Федерального закона [[от 29.07.2018 N
-272-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=317891#l108))
+системы в сфере закупок; (в ред. Федерального закона от 29.07.2018 N
+272-ФЗ)
 
-43\) пункт утратил силу. (в ред. Федерального закона [[от 31.12.2017 N
-503-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440054#l117))
+43\) пункт утратил силу. (в ред. Федерального закона от 31.12.2017 N
+503-ФЗ)
 
 44\) закупка государственными и муниципальными библиотеками,
 организациями, осуществляющими образовательную деятельность,
@@ -11430,8 +11430,8 @@ N
 зарубежных базах данных и специализированных базах данных международных
 индексов научного цитирования у операторов указанных баз данных,
 включенных в перечень, утверждаемый Правительством Российской Федерации;
-(в ред. Федерального закона [[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2))
+(в ред. Федерального закона от 13.07.2015 N
+227-ФЗ)
 
 45\) закупка государственными и муниципальными библиотеками,
 организациями, осуществляющими образовательную деятельность,
@@ -11443,9 +11443,9 @@ N
 библиотек, имеющих научную специализацию. При этом цена такого
 контракта, заключаемого с единственным поставщиком (подрядчиком,
 исполнителем), определяется в соответствии с порядком, установленным
-Правительством Российской Федерации; (в ред. Федерального закона [[от
+Правительством Российской Федерации; (в ред. Федерального закона от
 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2))
+227-ФЗ)
 
 46\) осуществление закупок товаров, работ, услуг за счет финансовых
 средств, выделенных на оперативно-разыскную деятельность. Перечень
@@ -11453,20 +11453,20 @@ N
 соответствии с настоящим пунктом, утверждается руководителем
 соответствующего федерального органа исполнительной власти,
 уполномоченного на осуществление оперативно-разыскной деятельности в
-соответствии с Федеральным законом [[от 12 августа 1995 года N
-144-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446813#l0)
+соответствии с Федеральным законом от 12 августа 1995 года N
+144-ФЗ
 \"Об оперативно-розыскной деятельности\"; (в ред. Федерального закона
-[[от 30.12.2015 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265193#l1))
+от 30.12.2015 N
+469-ФЗ)
 
 47\) осуществление закупки товара, производство которого создано или
 модернизировано и (или) освоено на территории Российской Федерации в
 соответствии со специальным инвестиционным контрактом, по регулируемым
-ценам и с учетом особенностей, предусмотренных [[статьей
-111.3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l0)
-настоящего Федерального закона; (в ред. Федерального закона [[от
+ценам и с учетом особенностей, предусмотренных статьей
+111.3
+настоящего Федерального закона; (в ред. Федерального закона от
 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+365-ФЗ)
 
 48\) осуществление закупки товара, производство которого создано,
 модернизировано, освоено в соответствии с контрактом со встречными
@@ -11475,8 +11475,8 @@ N
 имущества и движимого имущества, технологически связанных между собой),
 которое создано, реконструировано в соответствии с контрактом со
 встречными инвестиционными обязательствами, по регулируемым ценам и с
-учетом особенностей, предусмотренных [[статьей
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
+учетом особенностей, предусмотренных статьей
+111.4
 настоящего Федерального закона. Заключать контракт в соответствии с
 настоящим пунктом вправе только заказчики субъекта Российской Федерации,
 на основании акта высшего исполнительного органа государственной власти
@@ -11486,18 +11486,18 @@ N
 Федерации. При этом единственным поставщиком товара, единственным
 исполнителем услуги может быть только юридическое лицо, с которым
 заключен такой контракт со встречными инвестиционными обязательствами;
-(в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l64))
+(в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 49\) осуществление уполномоченным Правительством Российской Федерации
 федеральным органом исполнительной власти закупок работ по изготовлению
 акцизных марок для маркировки табачной продукции, ввозимой в Российскую
 Федерацию, по ценам (тарифам), установленным в соответствии с
-законодательством Российской Федерации; (в ред. Федеральных законов [[от
+законодательством Российской Федерации; (в ред. Федеральных законов от
 28.03.2017 N
-45-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=291047#l1),
-[[от 22.12.2020 N
-436-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=395977#l144))
+45-ФЗ,
+от 22.12.2020 N
+436-ФЗ)
 
 50\) осуществление закупки транспортных услуг и связанных с их
 обеспечением дополнительных услуг в случае необходимости выполнения
@@ -11509,22 +11509,22 @@ N
 соответствии с общепризнанными принципами и нормами международного права
 и международными договорами Российской Федерации в порядке,
 установленном Правительством Российской Федерации; (в ред. Федерального
-закона [[от 07.06.2017 N
-106-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=294923#l0))
+закона от 07.06.2017 N
+106-ФЗ)
 
 51\) осуществление закупок юридических услуг в целях обеспечения защиты
 интересов Российской Федерации в иностранных и международных судах и
 арбитражах, а также в органах иностранных государств; (в ред.
-Федерального закона [[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l0))
+Федерального закона от 26.07.2017 N
+198-ФЗ)
 
 52\) осуществление закупок товаров, работ, услуг органами
 государственной охраны в целях реализации мер по осуществлению
 государственной охраны. Перечень товаров, работ, услуг, закупки которых
 могут осуществляться в соответствии с настоящим пунктом, утверждается
 руководителем федерального органа исполнительной власти в области
-государственной охраны; (в ред. Федерального закона [[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l0))
+государственной охраны; (в ред. Федерального закона от 26.07.2017 N
+198-ФЗ)
 
 53\) заключение органами государственной власти Российской Федерации,
 органами государственной власти субъектов Российской Федерации, органами
@@ -11533,16 +11533,16 @@ N
 законодательством Российской Федерации кредитными рейтинговыми
 агентствами, а также иностранными юридическими лицами, осуществляющими
 рейтинговые действия за пределами территории Российской Федерации; (в
-ред. Федерального закона [[от 29.12.2017 N
-475-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305818#l8))
+ред. Федерального закона от 29.12.2017 N
+475-ФЗ)
 
 54\) осуществление закупки работ по модернизации информационных систем
 для информационно-правового обеспечения деятельности палат Федерального
 Собрания Российской Федерации и услуг по сопровождению таких систем; (в
-ред. Федеральных законов [[от 29.12.2017 N
-475-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305818#l8),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+ред. Федеральных законов от 29.12.2017 N
+475-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 55\) заключение контракта на оказание услуг по изготовлению бланков
 документов, удостоверяющих личность гражданина Российской Федерации на
@@ -11555,8 +11555,8 @@ N
 Федерации и дающих ему право на въезд (возвращение) в Российскую
 Федерацию, а также бланков документов для въезда в Российскую Федерацию
 и выезда из Российской Федерации иностранных граждан и лиц без
-гражданства; (в ред. Федерального закона [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71))
+гражданства; (в ред. Федерального закона от 27.12.2018 N
+502-ФЗ)
 
 56\) осуществление федеральным органом исполнительной власти,
 осуществляющим функции по выработке и реализации государственной
@@ -11571,22 +11571,22 @@ N
 противодействия терроризму. Перечни товаров, работ, услуг, закупки
 которых могут осуществляться в соответствии с настоящим пунктом,
 утверждаются руководителями таких федеральных органов исполнительной
-власти; (в ред. Федерального закона [[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l5))
+власти; (в ред. Федерального закона от 04.11.2022 N
+420-ФЗ)
 
 57\) осуществление закупки здания, строения, сооружения, нежилого
 помещения, земельного участка по результатам торгов, проведение которых
 является обязательным в соответствии с земельным законодательством,
 законодательством Российской Федерации об исполнительном производстве,
-Федеральным законом [[от 26 октября 2002 года N
-127-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=457939#l0)
-\"О несостоятельности (банкротстве)\"; (в ред. Федерального закона [[от
+Федеральным законом от 26 октября 2002 года N
+127-ФЗ
+\"О несостоятельности (банкротстве)\"; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2597))
+360-ФЗ)
 
 58\) закупка материальных ценностей, выпускаемых из государственного
-материального резерва; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2597))
+материального резерва; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 59\) осуществление закупок товаров, работ, услуг для обеспечения
 деятельности дипломатического представительства, консульского учреждения
@@ -11596,8 +11596,8 @@ N
 представительства и (или) представителя федерального органа
 исполнительной власти, осуществляющих функции, связанные с деятельностью
 этого органа за пределами Российской Федерации; (в ред. Федерального
-закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l3))
+закона от 25.12.2023 N
+624-ФЗ)
 
 60\) осуществление закупок спортивной экипировки, спортивного
 оборудования и инвентаря, спортивного снаряжения, необходимых для
@@ -11605,19 +11605,19 @@ N
 России, спортивных сборных команд Российской Федерации в международных
 спортивных соревнованиях на основании Единого календарного плана
 межрегиональных, всероссийских и международных физкультурных мероприятий
-и спортивных мероприятий; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2039))
+и спортивных мероприятий; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 61\) заключение контракта на оказание услуг по подготовке космонавтов,
 по организации и обеспечению запусков космических аппаратов и управлению
 ими в полете, по созданию (разработке, изготовлению и испытанию)
-космической техники; (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+космической техники; (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 62\) заключение контракта на оказание услуг по хранению материальных
 ценностей государственного материального резерва; (в ред. Федерального
-закона [[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l5))
+закона от 04.11.2022 N
+420-ФЗ)
 
 63\) аренда жилых помещений, в том числе находящихся на территории
 иностранного государства, федеральными органами исполнительной власти
@@ -11625,8 +11625,8 @@ N
 законом предусмотрена военная служба, либо уполномоченными ими органами
 или учреждениями для их предоставления военнослужащим и проживающим
 совместно с ними членам их семей в соответствии с законодательством
-Российской Федерации. (в ред. Федерального закона [[от 02.11.2023 N
-510-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458848#l7))
+Российской Федерации. (в ред. Федерального закона от 02.11.2023 N
+510-ФЗ)
 
 2\. При осуществлении закупки у единственного поставщика (подрядчика,
 исполнителя) в случаях, предусмотренных пунктами 6, 9, 34 и 50 части 1
@@ -11643,21 +11643,21 @@ N
 самоуправления городского округа, уполномоченные на осуществление
 контроля в сфере закупок. К этому уведомлению прилагается копия
 заключенного в соответствии с настоящим пунктом контракта с обоснованием
-его заключения. (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 07.06.2017 N
-106-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=294923#l5),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l129))
+его заключения. (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 07.06.2017 N
+106-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 13.06.2023 N
+228-ФЗ)
 
 3\. Извещение об осуществлении закупки у единственного поставщика
-(подрядчика, исполнителя) не требуется. (в ред. Федерального закона [[от
+(подрядчика, исполнителя) не требуется. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 4\. При осуществлении закупки у единственного поставщика (подрядчика,
 исполнителя) заказчик определяет цену контракта, заключаемого с
@@ -11666,140 +11666,140 @@ N
 пунктами 3, 6, 11, 12, 16, 18, 19, 22, 23, 30 - 35, 37 - 41, 46 и 49
 части 1 настоящей статьи, заказчик обосновывает такую цену в
 соответствии с настоящим Федеральным законом и включает в контракт
-обоснование цены контракта. (в ред. Федерального закона [[от 02.07.2021
+обоснование цены контракта. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2039))
+360-ФЗ)
 
 5\. Заключение контракта с единственным поставщиком (подрядчиком,
 исполнителем) в случае признания определения поставщика (подрядчика,
 исполнителя) несостоявшимся осуществляется в соответствии с пунктами 24
-и 25 части 1 настоящей статьи: (в ред. Федерального закона [[от
+и 25 части 1 настоящей статьи: (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 1\) на условиях, предусмотренных извещением об осуществлении закупки
 (если настоящим Федеральным законом предусмотрено извещение об
 осуществлении закупки), документацией о закупке (если настоящим
 Федеральным законом предусмотрена документация о закупке); (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 2\) по цене, не превышающей начальную (максимальную) цену контракта, а
 также цену контракта, предложенную участником закупки (если в
 соответствии с настоящим Федеральным законом заявка участника закупки
 содержит предложение о цене контракта и (или) предусмотрена подача
 участником закупки такого предложения), либо по цене за единицу товара,
-работы, услуги, рассчитанной в соответствии с [[подпунктом
-\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9174)
+работы, услуги, рассчитанной в соответствии с подпунктом
+\"в\"
 пункта 1 части 2 статьи 51 настоящего Федерального закона, и
 максимальному значению цены контракта (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7523)
+частью
+24
 статьи 22 настоящего Федерального закона); (в ред. Федеральных законов
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2040))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 3\) в порядке, установленном настоящим Федеральным законом для
 заключения контракта с победителем соответствующего способа определения
 поставщика (подрядчика, исполнителя), с учетом положений части 9
 настоящей статьи. При этом, если при проведении электронной процедуры,
-закрытой электронной процедуры закупка в соответствии с [[частью
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9115)
-статьи 52, [[частью
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9311)
+закрытой электронной процедуры закупка в соответствии с частью
+8
+статьи 52, частью
+4
 статьи 77 настоящего Федерального закона осуществляется у единственного
-поставщика (подрядчика, исполнителя): (в ред. Федерального закона [[от
+поставщика (подрядчика, исполнителя): (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2040))
+360-ФЗ)
 
 а) единственный поставщик (подрядчик, исполнитель) в случаях,
-предусмотренных [[статьей
-51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9073)
+предусмотренных статьей
+51
 настоящего Федерального закона для формирования, размещения информации и
 документов на электронной площадке, специализированной электронной
 площадке, формирует и размещает такие информацию и документы в единой
 информационной системе (если иное не предусмотрено в соответствии с
-настоящим Федеральным законом); (в ред. Федерального закона [[от
+настоящим Федеральным законом); (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2041))
+360-ФЗ)
 
-б) положения [[пункта
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9177)
-части 2, [[подпункта
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9179)
-пункта 2 части 3, [[части
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9096)
+б) положения пункта
+2
+части 2, подпункта
+\"б\"
+пункта 2 части 3, части
+7
 статьи 51 настоящего Федерального закона не применяются; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2041))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\) по согласованию с контрольным органом в сфере закупок в случае
 признания несостоявшимися конкурса или аукциона, если начальная
 (максимальная) цена контракта превышает предельный размер (предельные
 размеры) начальной (максимальной) цены контракта, который
 устанавливается Правительством Российской Федерации. (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2042))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 6\. При необходимости согласования заключения контракта с единственным
 поставщиком (подрядчиком, исполнителем) с контрольным органом в сфере
 закупок в соответствии с пунктом 4 части 5 настоящей статьи заказчик
 либо уполномоченный орган или уполномоченное учреждение, наделенные
-полномочиями в соответствии со [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+полномочиями в соответствии со статьей
+26
 настоящего Федерального закона, направляет в контрольный орган в сфере
 закупок обращение о согласовании заключения контракта с единственным
 поставщиком (подрядчиком, исполнителем) не позднее чем через пять
-рабочих дней с даты: (в ред. Федерального закона [[от 27.12.2019 N
+рабочих дней с даты: (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 1\) размещения в единой информационной системе протокола, содержащего
 информацию о признании определения поставщика (подрядчика, исполнителя)
 несостоявшимся (в случае, если такой протокол подлежит размещению в
 единой информационной системе в соответствии с настоящим Федеральным
-законом); (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+законом); (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 2\) подписания протокола, содержащего информацию о признании определения
 поставщика (подрядчика, исполнителя) несостоявшимся (в случае, если
 такой протокол не подлежит размещению в единой информационной системе в
 соответствии с настоящим Федеральным законом). (в ред. Федерального
-закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 7\. Обращение о согласовании заключения контракта с единственным
 поставщиком (подрядчиком, исполнителем) подлежит направлению: (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 1\) при осуществлении закупок для обеспечения федеральных нужд, а также
 при применении закрытых конкурентных способов - в федеральный орган
 исполнительной власти, уполномоченный на осуществление контроля в сфере
 закупок, контрольный орган в сфере государственного оборонного заказа;
-(в ред. Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2042))
+(в ред. Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 2\) при осуществлении закупок для обеспечения нужд субъекта Российской
 Федерации - в орган исполнительной власти субъекта Российской Федерации,
 уполномоченный на осуществление контроля в сфере закупок; (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 3\) при осуществлении закупок для обеспечения муниципальных нужд - в
 орган местного самоуправления муниципального района, орган местного
 самоуправления муниципального округа или орган местного самоуправления
 городского округа, уполномоченные на осуществление контроля в сфере
-закупок. (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l129))
+закупок. (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 13.06.2023 N
+228-ФЗ)
 
 8\. Контрольный орган в сфере закупок обязан рассмотреть обращение о
 согласовании заключения контракта с единственным поставщиком
@@ -11810,42 +11810,42 @@ N
 проверки контрольный орган в сфере закупок принимает решение о
 согласовании заключения контракта с единственным поставщиком
 (подрядчиком, исполнителем) либо об отказе в таком согласовании. (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l19))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 28.04.2023 N
+154-ФЗ)
 
 9\. При необходимости согласования с контрольным органом в сфере закупок
 заключения контракта с единственным поставщиком (подрядчиком,
 исполнителем) в соответствии с пунктом 4 части 5 настоящей статьи должны
-соблюдаться следующие требования: (в ред. Федерального закона [[от
+соблюдаться следующие требования: (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 1\) срок для подписания заказчиком проекта контракта подлежит исчислению
 со дня, следующего за днем получения заказчиком, или уполномоченным
 органом, или уполномоченным учреждением, направившими обращение,
 предусмотренное частью 6 настоящей статьи, решения о согласовании
 заключения контракта с единственным поставщиком (подрядчиком,
-исполнителем); (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ
+исполнителем); (в ред. Федерального закона от 27.12.2019 N 449-ФЗ
 (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 2\) контракт не может быть заключен до даты исполнения выданного в
-соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1884)
+соответствии с пунктом
+2
 части 22 статьи 99 настоящего Федерального закона предписания по
-результатам проведения внеплановой проверки в соответствии с [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7513)
+результатам проведения внеплановой проверки в соответствии с пунктом
+4
 части 15 статьи 99 настоящего Федерального закона. В случае, если таким
 предписанием предусмотрена необходимость внесения изменений в проект
 контракта, заказчик в соответствии с указанным предписанием вносит
 изменения в проект контракта и направляет его участнику закупки, с
 которым заключается контракт, в порядке, установленном для заключения
 контракта с победителем соответствующего способа определения поставщика
-(подрядчика, исполнителя); (в ред. Федерального закона [[от 27.12.2019 N
+(подрядчика, исполнителя); (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 3\) контракт заключается не ранее чем через десять дней со дня
 размещения в единой информационной системе или подписания
@@ -11854,9 +11854,9 @@ N
 уполномоченным органом, уполномоченным учреждением решения о
 согласовании заключения контракта с единственным поставщиком
 (подрядчиком, исполнителем). Заключение контракта до получения такого
-решения не допускается. (в ред. Федерального закона [[от 27.12.2019 N
+решения не допускается. (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 10\. В случае принятия контрольным органом в сфере закупок решения об
 отказе в согласовании заключения контракта с единственным поставщиком
@@ -11864,36 +11864,36 @@ N
 несостоявшимся. Заказчик вносит изменения в план-график закупок (при
 необходимости), осуществляет новую закупку в соответствии с настоящим
 Федеральным законом (при необходимости). (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 11\. Правительством Российской Федерации устанавливаются правила
 согласования контрольным органом в сфере закупок заключения контракта с
 единственным поставщиком (подрядчиком, исполнителем) в случае,
 предусмотренном пунктом 4 части 5 настоящей статьи, которые
-предусматривают, в частности: (в ред. Федерального закона [[от
+предусматривают, в частности: (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 1\) порядок направления обращения о согласовании заключения контракта с
 единственным поставщиком (подрядчиком, исполнителем), требования к
 составу, содержанию, форме такого обращения; (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 2\) порядок рассмотрения контрольным органом в сфере закупок обращения о
 согласовании заключения контракта с единственным поставщиком
 (подрядчиком, исполнителем), основания для принятия решения о
 согласовании заключения контракта с единственным поставщиком
 (подрядчиком, исполнителем) либо об отказе в таком согласовании; (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 3\) порядок направления решения о согласовании заключения контракта с
 единственным поставщиком (подрядчиком, исполнителем) либо об отказе в
-таком согласовании. (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ
+таком согласовании. (в ред. Федерального закона от 27.12.2019 N 449-ФЗ
 (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 12\. В случаях, предусмотренных пунктами 4 - 5.2 части 1 настоящей
 статьи, в электронной форме с использованием электронной площадки может
@@ -11908,10 +11908,10 @@ N
 части также - товар). Годовой объем закупок, осуществляемых в таком
 порядке, не должен превышать сто миллионов рублей. Закупка товара в
 соответствии с настоящей частью осуществляется в следующем порядке: (в
-ред. Федеральных законов [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l7),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l44))
+ред. Федеральных законов от 28.04.2023 N
+154-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 1\) в целях участия в проводимых на электронной площадке закупках,
 предусмотренных настоящей частью, участники закупки вправе сформировать
@@ -11919,41 +11919,41 @@ N
 разместить на такой электронной площадке предварительное предложение о
 поставке товаров (далее - предварительное предложение), содержащее в
 отношении каждого товара, предлагаемого таким участником закупки к
-поставкам: (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+поставкам: (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 а) наименование товара и его характеристики с использованием каталога
 товаров, работ, услуг для обеспечения государственных и муниципальных
-нужд; (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+нужд; (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
-б) товарный знак (при наличии); (в ред. Федерального закона [[от
+б) товарный знак (при наличии); (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 в) наименование страны происхождения товара; (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 г) документ (или его копия), подтверждающий страну происхождения товара
 (в случае, если такой документ в отношении соответствующего товара
 предусмотрен нормативными правовыми актами, принятыми в соответствии с
 частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6642)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7994)
+4
 статьи 14 настоящего Федерального закона). В случае отсутствия такого
 документа (или его копии) такой товар приравнивается к товару,
 происходящему из иностранного государства или группы иностранных
-государств; (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред.
+государств; (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред.
 от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 д) единица измерения товара по общероссийскому классификатору,
 используемому для количественной оценки технико-экономических и
-социальных показателей; (в ред. Федерального закона [[от 27.12.2019 N
+социальных показателей; (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 е) цена (цены) единицы товара с учетом стоимости доставки, налогов,
 сборов и иных обязательных платежей, предусмотренных подпунктами \"ж\" и
@@ -11963,10 +11963,10 @@ N
 (муниципальных) округа (округов) или городского (городских) округа
 (округов), в пределах территории (территорий) которого (которых)
 участник закупки предлагает товар к поставкам; (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l132))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 13.06.2023 N
+228-ФЗ)
 
 ж) минимальное и (или) максимальное количество товара, предлагаемое
 участником закупки к поставкам. При этом такое количество товара может
@@ -11975,11 +11975,11 @@ N
 (муниципальных) района (районов), муниципального (муниципальных) округа
 (округов) или городского (городских) округа (округов), в пределах
 территории (территорий) которого (которых) участник закупки предлагает
-товар к поставкам; (в ред. Федеральных законов [[от 27.12.2019 N 449-ФЗ
+товар к поставкам; (в ред. Федеральных законов от 27.12.2019 N 449-ФЗ
 (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l132))
+30.12.2020),
+от 13.06.2023 N
+228-ФЗ)
 
 з) наименование субъекта (субъектов) Российской Федерации,
 муниципального (муниципальных) района (районов), муниципального
@@ -11991,11 +11991,11 @@ N
 идентификации на всей территории Российской Федерации муниципальных
 образований и населенных пунктов, входящих в их состав, в пределах
 территории (территорий) которого (которых) участник закупки предлагает
-товар к поставкам; (в ред. Федеральных законов [[от 27.12.2019 N 449-ФЗ
+товар к поставкам; (в ред. Федеральных законов от 27.12.2019 N 449-ФЗ
 (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l134))
+30.12.2020),
+от 13.06.2023 N
+228-ФЗ)
 
 и) срок действия предварительного предложения, который не может
 составлять более одного месяца с даты его размещения на электронной
@@ -12003,17 +12003,17 @@ N
 предварительного предложения или отозвать его в любой момент до
 направления оператором электронной площадки заявки заказчику в
 соответствии с подпунктом \"в\" пункта 5 настоящей части; (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 к) информацию и документы, предусмотренные подпунктами
-[[\"н\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823) -
-[[\"п\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"н\" -
+\"п\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона; (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2042))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 л) минимальный (минимальные) срок (сроки) и (или) максимальный
 (максимальные) срок (сроки) поставки товара с учетом предусмотренных
@@ -12030,10 +12030,10 @@ N
 срока (сроков) означает согласие участника закупки со сроком поставки
 товара, предусмотренным в извещении об осуществлении закупки в
 соответствии с подпунктом \"в\" пункта 3 настоящей части; (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l134))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 13.06.2023 N
+228-ФЗ)
 
 2\) размещение предварительного предложения в соответствии с пунктом 1
 настоящей части означает согласие участника закупки на направление
@@ -12054,38 +12054,38 @@ N
 применяются к отношениям, связанным с участием в закупках, извещения об
 осуществлении которых размещены в единой информационной системе после
 размещения на электронной площадке таких изменений; (в ред. Федерального
-закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 3\) заказчик формирует с использованием единой информационной системы,
 подписывает усиленной электронной подписью и размещает в единой
 информационной системе извещение об осуществлении закупки, содержащее:
-(в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+(в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 а) адрес электронной площадки в информационно-телекоммуникационной сети
-\"Интернет\"; (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред.
+\"Интернет\"; (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред.
 от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 б) информацию, указанную в пунктах
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l571) -
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7561),
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8804),
-[[10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8804),
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8806),
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8897),
-[[17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8808),
-[[18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8810)
+1 -
+3,
+9,
+10,
+13,
+15,
+17,
+18
 и
-[[24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8812)
+24
 части 1 статьи 42 настоящего Федерального закона; (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2043),
-[[от 05.12.2022 N
-500-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=437449#l15))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ,
+от 05.12.2022 N
+500-ФЗ)
 
 в) наименование товара и его характеристики с использованием каталога
 товаров, работ, услуг для обеспечения государственных и муниципальных
@@ -12102,50 +12102,50 @@ N
 состав. Предусмотренный настоящим подпунктом срок поставки товара
 исчисляется календарными днями и указывается в извещении об
 осуществлении закупки в календарных днях; (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 г) информацию о возможности одностороннего отказа от исполнения
 контракта в соответствии с положениями частей
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1754) -
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7120)
+8 -
+23
 и
-[[25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1779)
+25
 статьи 95 настоящего Федерального закона; (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 д) требования, предъявляемые к участникам закупки и предусмотренные
 частями
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8010)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l433)
+2
 статьи 31 настоящего Федерального закона (при наличии); (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2043))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
-е) требование, устанавливаемое в соответствии с [[частью
-1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8085)
+е) требование, устанавливаемое в соответствии с частью
+1.1
 статьи 31 настоящего Федерального закона (при наличии); (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 4\) извещение об осуществлении закупки, предусмотренное пунктом 3
 настоящей части, должно содержать проект контракта, а также обоснование
 цены контракта у единственного поставщика. Внесение изменений в такое
-извещение не допускается; (в ред. Федеральных законов [[от 27.12.2019 N
+извещение не допускается; (в ред. Федеральных законов от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+30.12.2020),
+от 16.04.2022 N
+104-ФЗ)
 
 5\) в течение одного часа с момента размещения в единой информационной
 системе извещения об осуществлении закупки оператор электронной площадки
 с учетом положений пункта 8 настоящей части с использованием электронной
-площадки: (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+площадки: (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 а) определяет из числа всех предварительных предложений, размещенных в
 соответствии с пунктом 1 настоящей части, не более пяти заявок на
@@ -12158,9 +12158,9 @@ N
 соответствии с подпунктом \"г\" настоящего пункта количество товара в
 размере количества закупаемого товара, предусмотренного в извещении об
 осуществлении закупки в соответствии с подпунктом \"в\" пункта 3
-настоящей части; (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ
+настоящей части; (в ред. Федерального закона от 27.12.2019 N 449-ФЗ
 (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 б) присваивает каждой заявке на участие в закупке, предусмотренной
 подпунктом \"а\" настоящего пункта, идентификационный номер, порядковый
@@ -12174,29 +12174,29 @@ N
 предложение в отношении такого товара ранее других участников закупки. В
 случае, если в соответствии с подпунктом \"а\" настоящего пункта
 определена одна заявка на участие в закупке, такой заявке присваивается
-первый порядковый номер; (в ред. Федеральных законов [[от 27.12.2019 N
+первый порядковый номер; (в ред. Федеральных законов от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2043),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l9))
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 в) направляет заказчику заявки на участие в закупке (с указанием
 присвоенных в соответствии с подпунктом \"б\" настоящего пункта
 порядковых номеров), предусмотренные подпунктом \"а\" настоящего пункта
 и содержащие информацию и документы, предусмотренные подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843) -
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\" -
+\"е\"
 и
-[[\"к\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8830)
-пункта 1 настоящей части, [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8843)
+\"к\"
+пункта 1 настоящей части, пунктом
+2
 части 6 статьи 43 настоящего Федерального закона; (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2043))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 г) в случае указания участником закупки в предварительном предложении в
 соответствии с подпунктом \"ж\" пункта 1 настоящей части максимального
@@ -12206,14 +12206,14 @@ N
 настоящего пункта, в размере предусмотренного в извещении об
 осуществлении закупки в соответствии с подпунктом \"в\" пункта 3
 настоящей части количества закупаемого товара; (в ред. Федерального
-закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 6\) не позднее одного рабочего дня со дня, следующего за днем получения
 информации и документов, предусмотренных подпунктом \"в\" пункта 5
-настоящей части, заказчик: (в ред. Федерального закона [[от 27.12.2019 N
+настоящей части, заказчик: (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 а) принимает в отношении каждой заявки решение о соответствии заявки на
 участие в закупке требованиям, установленным в извещении об
@@ -12223,30 +12223,30 @@ N
 несоответствия таких информации и документов требованиям, установленным
 в извещении об осуществлении закупки, либо в случаях, предусмотренных
 пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9019),
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9134)
+3 -
+6,
+8
 части 12 статьи 48 настоящего Федерального закона; (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2602))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 б) на основании решений, предусмотренных подпунктом \"а\" настоящего
 пункта, присваивает каждой заявке на участие в закупке, которая не
 отклонена, порядковый номер в порядке возрастания цены за единицу
 товара, предусмотренной подпунктом \"е\" пункта 1 настоящей части, с
 учетом положений нормативных правовых актов, принятых в соответствии со
-[[статьей
-14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l136)
+статьей
+14
 настоящего Федерального закона. Первый порядковый номер присваивается
 заявке на участие в закупке, содержащей наименьшую цену за единицу
 товара, или являющейся единственной заявкой, которая не отклонена в
 соответствии с подпунктом \"а\" настоящего пункта; (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l9))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 28.06.2022 N
+231-ФЗ)
 
 в) формирует с использованием электронной площадки протокол подведения
 итогов определения поставщика, подписывает его усиленной электронной
@@ -12256,9 +12256,9 @@ N
 информационной системе и на электронной площадке, а также размещает в
 единой информационной системе (без размещения на официальном сайте)
 информацию, указанную в подпунктах
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8912)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона,
 идентификационные номера заявок и номера реестровых записей участников
 закупки, заявки которых направлены заказчику в соответствии с подпунктом
@@ -12270,22 +12270,22 @@ N
 участие в закупке, а также положения настоящего Федерального закона,
 извещения об осуществлении закупки, которым не соответствует такая
 заявка, а также информацию, предусмотренную подпунктом \"б\" настоящего
-пункта; (в ред. Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2602))
+пункта; (в ред. Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 7\) заключение контракта осуществляется с участником закупки, заявке
-которого присвоен первый номер, в порядке, установленном [[статьей
-51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9072)
+которого присвоен первый номер, в порядке, установленном статьей
+51
 настоящего Федерального закона, с учетом особенностей, предусмотренных
-[[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9069)
+частью
+6
 статьи 50 настоящего Федерального закона; (в ред. Федеральных законов
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2603))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 8\) в случае отсутствия заявок на участие в закупке, соответствующих
 требованиям, установленным в извещении об осуществлении закупки в
@@ -12293,16 +12293,16 @@ N
 оператор электронной площадки в срок, предусмотренный пунктом 5
 настоящей части, направляет заказчику уведомление об отсутствии заявок
 на участие в закупке, а также размещает такое уведомление в единой
-информационной системе; (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l9))
+информационной системе; (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 9\) в случае указания в соответствии с подпунктом \"ж\" пункта 1
 настоящей части участником закупки, заявка которого направлена заказчику
 в соответствии с подпунктом \"в\" пункта 5 настоящей части, в
 предварительном предложении максимального количества товара оператор
 электронной площадки не позднее одного часа с момента: (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 а) размещения в соответствии с подпунктом \"в\" пункта 6 настоящей части
 протокола подведения итогов определения поставщика прекращает
@@ -12310,8 +12310,8 @@ N
 подпунктом \"г\" пункта 5 настоящей части, участников закупки, за
 исключением участника закупки, с которым в соответствии с настоящим
 Федеральным законом заключается контракт; (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 б) заключения в соответствии с настоящим Федеральным законом контракта
 автоматически уменьшает указанное в предварительном предложении
@@ -12319,26 +12319,26 @@ N
 предусмотренное подпунктом \"ж\" пункта 1 настоящей части, на количество
 закупаемого товара, предусмотренного в извещении об осуществлении
 закупки в соответствии с подпунктом \"в\" пункта 3 настоящей части; (в
-ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
-в) размещения в соответствии с [[подпунктом
-\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9094)
+в) размещения в соответствии с подпунктом
+\"а\"
 пункта 2 части 6 статьи 51 настоящего Федерального закона протокола об
 уклонении участника закупки от заключения контракта или в соответствии с
-[[частью
-11]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8098)
+частью
+11
 статьи 31 настоящего Федерального закона протокола об отказе от
 заключения контракта прекращает блокирование количества товара,
 осуществленное в соответствии с подпунктом \"г\" пункта 5 настоящей
-части, такого участника закупки. (в ред. Федерального закона [[от
+части, такого участника закупки. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2603))
+360-ФЗ)
 
 ***Положения части 13 статьи 93 (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от 30.12.2020)) применяются с 01.01.2023
-([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l229)
+(пункт
+4
 статьи 2 Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
 30.12.2020)).***
 
@@ -12348,8 +12348,8 @@ N
 площадках, посредством информационного взаимодействия с единой
 информационной системой. Требования к такому информационному
 взаимодействию устанавливаются Правительством Российской Федерации. (в
-ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 **§ 7. Исполнение, изменение, расторжение контракта**
 
@@ -12366,24 +12366,24 @@ N
 контрактом, включая проведение в соответствии с настоящим Федеральным
 законом экспертизы поставленного товара, результатов выполненной работы,
 оказанной услуги, отдельных этапов исполнения контракта; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2605))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) оплату заказчиком поставщику (подрядчику, исполнителю) поставленного
 товара, выполненной работы (ее результатов), оказанной услуги, а также
-отдельных этапов исполнения контракта; (в ред. Федерального закона [[от
+отдельных этапов исполнения контракта; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2605))
+360-ФЗ)
 
 3\) взаимодействие заказчика с поставщиком (подрядчиком, исполнителем)
 при исполнении, изменении, расторжении контракта в соответствии со
-[[статьей
-95]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9496)
+статьей
+95
 настоящего Федерального закона, применении мер ответственности и
 совершении иных действий в случае нарушения поставщиком (подрядчиком,
 исполнителем) или заказчиком условий контракта. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2605))
+закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Поставщик (подрядчик, исполнитель) в соответствии с условиями
 контракта обязан своевременно предоставлять достоверную информацию о
@@ -12394,8 +12394,8 @@ N
 контрактом, результаты отдельного этапа исполнения контракта, при этом
 заказчик обязан обеспечить приемку поставленного товара, выполненной
 работы или оказанной услуги в соответствии с настоящей статьей. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2047))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\. Для проверки предоставленных поставщиком (подрядчиком, исполнителем)
 результатов, предусмотренных контрактом, в части их соответствия
@@ -12405,16 +12405,16 @@ N
 экспертные организации на основании контрактов, заключенных в
 соответствии с настоящим Федеральным законом.
 
-4\. Часть утратила силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+4\. Часть утратила силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 4.1. Правительство Российской Федерации вправе определить случаи
 обязательного проведения экспертами, экспертными организациями
 экспертизы предусмотренных контрактом поставленных товаров, выполненных
-работ, оказанных услуг. (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+работ, оказанных услуг. (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 5\. Для проведения экспертизы поставленного товара, выполненной работы
 или оказанной услуги эксперты, экспертные организации имеют право
@@ -12425,8 +12425,8 @@ N
 препятствующие приемке поставленного товара, выполненной работы или
 оказанной услуги, в заключении могут содержаться предложения об
 устранении данных нарушений, в том числе с указанием срока их
-устранения. (в ред. Федерального закона [[от 27.12.2018 N
-512-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=327111#l4))
+устранения. (в ред. Федерального закона от 27.12.2018 N
+512-ФЗ)
 
 6\. По решению заказчика для приемки поставленного товара, выполненной
 работы или оказанной услуги, результатов отдельного этапа исполнения
@@ -12448,8 +12448,8 @@ N
 приемочная комиссия должны учитывать отраженные в заключении по
 результатам указанной экспертизы предложения экспертов, экспертных
 организаций, привлеченных для ее проведения. (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2047))
+от 02.07.2021 N
+360-ФЗ)
 
 7.1. В случае установления заказчиком требования об обеспечении
 гарантийных обязательств оформление документа о приемке (за исключением
@@ -12457,9 +12457,9 @@ N
 работы (ее результатов), оказанной услуги осуществляется после
 предоставления поставщиком (подрядчиком, исполнителем) такого
 обеспечения в соответствии с настоящим Федеральным законом в порядке и в
-сроки, которые установлены контрактом. (в ред. Федерального закона [[от
+сроки, которые установлены контрактом. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 7.2. При исполнении контракта жизненного цикла оформление документа о
 приемке поставленного товара или выполненной работы (в том числе при
@@ -12471,8 +12471,8 @@ N
 последующего обслуживания, при необходимости эксплуатации в течение
 срока службы, ремонта и (или) утилизации поставленного товара или
 созданного в результате выполнения работы объекта капитального
-строительства или товара. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2048))
+строительства или товара. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 8\. Заказчик вправе не отказывать в приемке результатов отдельного этапа
 исполнения контракта либо поставленного товара, выполненной работы или
@@ -12482,22 +12482,22 @@ N
 товара, работы, услуги и устранено поставщиком (подрядчиком,
 исполнителем).
 
-9.-12. Части утратили силу. (в ред. Федерального закона [[от 01.05.2019
+9.-12. Части утратили силу. (в ред. Федерального закона от 01.05.2019
 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 ***Заказчики вправе применять положения части 13 статьи 94 (в редакции
 Федерального закона от 02.07.2021 N 360-ФЗ) при осуществлении закупок,
 извещения об осуществлении которых размещены в единой информационной
-системе в сфере закупок до 01.01.2022 ([[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2204)
+системе в сфере закупок до 01.01.2022 (пункт
+5
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 ***Информация и документы, предусмотренные частью 13 статьи 94 данного
 документа (в редакции Федерального закона от 02.07.2021 N 360-ФЗ), не
 размещаются на официальном сайте единой информационной системы в сфере
-закупок ([[подпункт
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2213)
+закупок (подпункт
+2
 пункта 9 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 13\. При исполнении контракта, заключенного по результатам проведения
@@ -12509,77 +12509,77 @@ N
 Российской Федерации, в сфере деятельности войск национальной гвардии
 Российской Федерации, подведомственными им государственными
 учреждениями, государственными унитарными предприятиями, в случае,
-предусмотренном [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8648)
+предусмотренном пунктом
+5
 части 11 статьи 24 настоящего Федерального закона): (в ред. Федеральных
-законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2049),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l9))
+законов от 02.07.2021 N
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 1\) поставщик (подрядчик, исполнитель) в срок, установленный в контракте
-в соответствии с [[подпунктом
-\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9680)
+в соответствии с подпунктом
+\"а\"
 пункта 1 части 2 статьи 51 настоящего Федерального закона, формирует с
 использованием единой информационной системы, подписывает усиленной
 электронной подписью лица, имеющего право действовать от имени
 поставщика (подрядчика, исполнителя), и размещает в единой
 информационной системе документ о приемке, который должен содержать: (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2049))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-а) включенные в контракт в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9075)
+а) включенные в контракт в соответствии с пунктом
+1
 части 2 статьи 51 настоящего Федерального закона идентификационный код
 закупки, наименование, место нахождения заказчика, наименование объекта
 закупки, место поставки товара, выполнения работы, оказания услуги,
 информацию о поставщике (подрядчике, исполнителе), предусмотренную
 подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823),
-[[\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"а\",
+\"г\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8823)
+\"е\"
 части 1 статьи 43 настоящего Федерального закона, единицу измерения
 поставленного товара (при осуществлении закупки товара, в том числе
 поставляемого заказчику при выполнении закупаемых работ, оказании
 закупаемых услуг), выполненной работы, оказанной услуги; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2049))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 б) наименование поставленного товара, выполненной работы, оказанной
-услуги; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2051))
+услуги; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 в) наименование страны происхождения поставленного товара (при
 осуществлении закупки товара, в том числе поставляемого заказчику при
 выполнении закупаемых работ, оказании закупаемых услуг); (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2051))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 г) информацию о количестве поставленного товара (при осуществлении
 закупки товара, в том числе поставляемого заказчику при выполнении
 закупаемых работ, оказании закупаемых услуг); (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2052))
+закона от 02.07.2021 N
+360-ФЗ)
 
 д) информацию об объеме выполненной работы, оказанной услуги; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2052))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 е) стоимость исполненных поставщиком (подрядчиком, исполнителем)
 обязательств, предусмотренных контрактом, с указанием цены за единицу
 поставленного товара (при осуществлении закупки товара, в том числе
 поставляемого заказчику при выполнении закупаемых работ, оказании
 закупаемых услуг), выполненной работы, оказанной услуги; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2052))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 ж) иную информацию с учетом требований, установленных в соответствии с
-[[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8588)
+частью
+3
 статьи 5 настоящего Федерального закона; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2052))
+от 02.07.2021 N
+360-ФЗ)
 
 2\) к документу о приемке, предусмотренному пунктом 1 настоящей части,
 могут прилагаться документы, которые считаются его неотъемлемой частью.
@@ -12587,8 +12587,8 @@ N
 документах, не соответствует информации, содержащейся в документе о
 приемке, приоритет имеет предусмотренная пунктом 1 настоящей части
 информация, содержащаяся в документе о приемке; (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2053))
+закона от 02.07.2021 N
+360-ФЗ)
 
 3\) документ о приемке, подписанный поставщиком (подрядчиком,
 исполнителем), не позднее одного часа с момента его размещения в единой
@@ -12598,35 +12598,35 @@ N
 подписанного поставщиком (подрядчиком, исполнителем), считается дата
 размещения в соответствии с настоящим пунктом такого документа в единой
 информационной системе в соответствии с часовой зоной, в которой
-расположен заказчик; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2054))
+расположен заказчик; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\) в срок, установленный контрактом, но не позднее двадцати рабочих
 дней, следующих за днем поступления документа о приемке в соответствии с
 пунктом 3 настоящей части, заказчик (за исключением случая создания
 приемочной комиссии в соответствии с частью 6 настоящей статьи)
 осуществляет одно из следующих действий: (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2054))
+от 02.07.2021 N
+360-ФЗ)
 
 а) подписывает усиленной электронной подписью лица, имеющего право
 действовать от имени заказчика, и размещает в единой информационной
-системе документ о приемке; (в ред. Федерального закона [[от 02.07.2021
+системе документ о приемке; (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2054))
+360-ФЗ)
 
 б) формирует с использованием единой информационной системы, подписывает
 усиленной электронной подписью лица, имеющего право действовать от имени
 заказчика, и размещает в единой информационной системе мотивированный
 отказ от подписания документа о приемке с указанием причин такого
-отказа; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2612))
+отказа; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\) в случае создания в соответствии с частью 6 настоящей статьи
 приемочной комиссии не позднее двадцати рабочих дней, следующих за днем
 поступления заказчику документа о приемке в соответствии с пунктом 3
-настоящей части: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2612))
+настоящей части: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 а) члены приемочной комиссии подписывают усиленными электронными
 подписями поступивший документ о приемке или формируют с использованием
@@ -12637,8 +12637,8 @@ N
 осуществлять подписание документа о приемке, составление мотивированного
 отказа от подписания документа о приемке, подписание такого отказа без
 использования усиленных электронных подписей и единой информационной
-системы; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2612))
+системы; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 б) после подписания членами приемочной комиссии в соответствии с
 подпунктом \"а\" настоящего пункта документа о приемке или
@@ -12650,8 +12650,8 @@ N
 \"а\" настоящего пункта не использовали усиленные электронные подписи и
 единую информационную систему, заказчик прилагает подписанные ими
 документы в форме электронных образов бумажных документов; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2612))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 6\) документ о приемке, мотивированный отказ от подписания документа о
 приемке не позднее одного часа с момента размещения в единой
@@ -12664,28 +12664,28 @@ N
 пунктом таких документа о приемке, мотивированного отказа в единой
 информационной системе в соответствии с часовой зоной, в которой
 расположен поставщик (подрядчик, исполнитель); (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2614))
+закона от 02.07.2021 N
+360-ФЗ)
 
 7\) в случае получения в соответствии с пунктом 6 настоящей части
 мотивированного отказа от подписания документа о приемке поставщик
 (подрядчик, исполнитель) вправе устранить причины, указанные в таком
 мотивированном отказе, и направить заказчику документ о приемке в
 порядке, предусмотренном настоящей частью; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2614))
+от 02.07.2021 N
+360-ФЗ)
 
 8\) датой приемки поставленного товара, выполненной работы, оказанной
 услуги считается дата размещения в единой информационной системе
 документа о приемке, подписанного заказчиком. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2614))
+закона от 02.07.2021 N
+360-ФЗ)
 
 ***Информация и документы, предусмотренные частью 14 статьи 94 данного
 документа (в редакции Федерального закона от 02.07.2021 N 360-ФЗ), не
 размещаются на официальном сайте единой информационной системы в сфере
-закупок ([[подпункт
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2213)
+закупок (подпункт
+2
 пункта 9 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 14\. Внесение исправлений в документ о приемке, оформленный в
@@ -12693,14 +12693,14 @@ N
 формирования, подписания усиленными электронными подписями лиц, имеющих
 право действовать от имени поставщика (подрядчика, исполнителя),
 заказчика, и размещения в единой информационной системе исправленного
-документа о приемке. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2061))
+документа о приемке. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 15\. В случаях, предусмотренных частью 5 статьи 103 настоящего
 Федерального закона, документы, указанные в частях 13 и 14 настоящей
 статьи, не размещаются на официальном сайте. (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2061))
+от 02.07.2021 N
+360-ФЗ)
 
 16\. В случае обмена документами при применении мер ответственности и
 совершении иных действий в связи с нарушением поставщиком (подрядчиком,
@@ -12713,8 +12713,8 @@ N
 обеспечения безопасности Российской Федерации, в сфере деятельности
 войск национальной гвардии Российской Федерации, подведомственными им
 государственными учреждениями, государственными унитарными
-предприятиями, в случае, предусмотренном [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8626)
+предприятиями, в случае, предусмотренном пунктом
+5
 части 11 статьи 24 настоящего Федерального закона), такой обмен
 осуществляется с использованием единой информационной системы путем
 направления электронных уведомлений. Такие уведомления формируются с
@@ -12722,10 +12722,10 @@ N
 электронной подписью лица, имеющего право действовать от имени
 заказчика, поставщика (подрядчика, исполнителя), и размещаются в единой
 информационной системе без размещения на официальном сайте. (в ред.
-Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2048),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l68))
+Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 **Статья 95. Изменение, расторжение контракта**
 
@@ -12733,14 +12733,14 @@ N
 допускается, за исключением их изменения по соглашению сторон в
 следующих случаях:
 
-1\) пункт утратил силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2063))
+1\) пункт утратил силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1.1) при снижении цены контракта без изменения предусмотренных
 контрактом количества товара, объема работы или услуги, качества
 поставляемого товара, выполняемой работы, оказываемой услуги и иных
-условий контракта; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2063))
+условий контракта; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1.2) если по предложению заказчика увеличиваются предусмотренные
 контрактом (за исключением контракта, предметом которого является
@@ -12763,10 +12763,10 @@ N
 единицы товара при уменьшении предусмотренного контрактом количества
 поставляемого товара должна определяться как частное от деления
 первоначальной цены контракта на предусмотренное в контракте количество
-такого товара; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2064),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+такого товара; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 1.3) при изменении объема и (или) видов выполняемых работ по контракту,
 предметом которого является выполнение работ по строительству,
@@ -12775,20 +12775,20 @@ N
 сохранению объектов культурного наследия (памятников истории и культуры)
 народов Российской Федерации, а также по контрактам, предусмотренным
 частями
-[[16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l490)
+16
 и
-[[16.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+16.1
 статьи 34 настоящего Федерального закона. При этом допускается изменение
 с учетом положений бюджетного законодательства Российской Федерации цены
 контракта не более чем на десять процентов цены контракта; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2064),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+Федерального закона от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 1.4) если Правительством Российской Федерации принято решение о введении
-специальных мер в сфере экономики, предусмотренное [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450197#l1015)
+специальных мер в сфере экономики, предусмотренное пунктом
+1
 статьи 26.1 Федерального закона от 31 мая 1996 года N 61-ФЗ \"Об
 обороне\", и предметом контракта является поставка товара, выполнение
 работы, оказание услуги по государственному оборонному заказу. По
@@ -12816,8 +12816,8 @@ N
 уменьшении предусмотренного контрактом количества поставляемого товара
 должна определяться как частное от деления первоначальной цены контракта
 на предусмотренное в контракте количество такого товара; (в ред.
-Федерального закона [[от 14.07.2022 N
-272-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=427552#l31))
+Федерального закона от 14.07.2022 N
+272-ФЗ)
 
 2\) если цена заключенного для обеспечения федеральных нужд на срок не
 менее чем три года контракта составляет либо превышает размер цены,
@@ -12843,11 +12843,11 @@ N
 
 5\) изменение в соответствии с законодательством Российской Федерации
 регулируемых цен (тарифов) на товары, работы, услуги; (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-6\) в случаях, предусмотренных [[пунктом
-6]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l12026)
+6\) в случаях, предусмотренных пунктом
+6
 статьи 161 Бюджетного кодекса Российской Федерации, при уменьшении ранее
 доведенных до государственного или муниципального заказчика как
 получателя бюджетных средств лимитов бюджетных обязательств. При этом
@@ -12860,19 +12860,19 @@ N
 гражданина Российской Федерации за пределами территории Российской
 Федерации цена контракта может быть изменена при увеличении или
 уменьшении по медицинским показаниям перечня услуг, связанных с лечением
-гражданина Российской Федерации; (в ред. Федеральных законов [[от
+гражданина Российской Федерации; (в ред. Федеральных законов от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2620))
+396-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 8\) если при исполнении заключенного на срок не менее одного года
-контракта, предусмотренного [[частью
-16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+контракта, предусмотренного частью
+16
 (при условии, что контракт жизненного цикла предусматривает
 проектирование, строительство, реконструкцию, капитальный ремонт объекта
-капитального строительства) и [[частью
-16.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+капитального строительства) и частью
+16.1
 статьи 34 настоящего Федерального закона, контракта, предметом которого
 является выполнение работ по строительству, реконструкции, капитальному
 ремонту, сносу объекта капитального строительства, геологическому
@@ -12893,18 +12893,18 @@ N
 срок не включается срок получения в соответствии с законодательством
 Российской Федерации положительного заключения экспертизы проектной
 документации в случае необходимости внесения в нее изменений; (в ред.
-Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2620),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 9\) если контракт, предусмотренный частью 16 (при условии, что контракт
 жизненного цикла предусматривает проектирование, строительство,
 реконструкцию, капитальный ремонт объекта капитального строительства) и
-[[частью
-16.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+частью
+16.1
 статьи 34 настоящего Федерального закона, контракт, предметом которого
 является выполнение работ по строительству, реконструкции, капитальному
 ремонту, сносу объекта капитального строительства, геологическому
@@ -12924,33 +12924,33 @@ N
 требований об уплате неустоек (штрафов, пеней), предъявленных заказчиком
 в соответствии с настоящим Федеральным законом, предоставления
 подрядчиком в соответствии с настоящим Федеральным законом обеспечения
-исполнения контракта; (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2068),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+исполнения контракта; (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 10\) в случае заключения контракта с единственным поставщиком
 (подрядчиком, исполнителем) в соответствии с пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1653),
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1661),
-[[22]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1675),
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1676),
-[[29]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1685),
-[[32]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1688),
-[[34]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1690),
-[[51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1707)
+1,
+8,
+22,
+23,
+29,
+32,
+34,
+51
 части 1 статьи 93 настоящего Федерального закона; (в ред. Федерального
-закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+закона от 01.05.2019 N
+71-ФЗ)
 
-11\) если при исполнении контракта, предусмотренного [[частью
-16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+11\) если при исполнении контракта, предусмотренного частью
+16
 (при условии, что контракт жизненного цикла предусматривает
 проектирование, строительство, реконструкцию, капитальный ремонт объекта
-капитального строительства) и [[частью
-16.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+капитального строительства) и частью
+16.1
 статьи 34 настоящего Федерального закона, сметная стоимость
 строительства, реконструкции, капитального ремонта, определенная по
 результатам проверки на предмет достоверности ее определения в ходе
@@ -12964,14 +12964,14 @@ N
 для федеральных нужд, нужд субъекта Российской Федерации, муниципальных
 нужд соответственно и при условии, что такое изменение существенных
 условий не приведет к увеличению цены контракта более чем на тридцать
-процентов; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2068))
+процентов; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 12\) если при исполнении контракта изменяется срок исполнения отдельного
 этапа (отдельных этапов) исполнения контракта в рамках срока исполнения
 контракта, предусмотренного при его заключении; (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2071))
+закона от 02.07.2021 N
+360-ФЗ)
 
 13\) если при исполнении заключенного на срок не менее одного года
 контракта, предметом которого является выполнение
@@ -12987,19 +12987,19 @@ N
 закупки для федеральных нужд, нужд субъекта Российской Федерации,
 муниципальных нужд соответственно и при условии, что такое изменение не
 приведет к увеличению срока исполнения контракта и (или) цены контракта
-более чем на тридцать процентов. (в ред. Федерального закона [[от
+более чем на тридцать процентов. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2071))
+360-ФЗ)
 
-1.1. Часть утратила силу. (в ред. Федерального закона [[от 29.12.2015 N
-390-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l15))
+1.1. Часть утратила силу. (в ред. Федерального закона от 29.12.2015 N
+390-ФЗ)
 
-1.2. В случае, если при исполнении контракта, предусмотренного [[частью
-16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+1.2. В случае, если при исполнении контракта, предусмотренного частью
+16
 (при условии, что контракт жизненного цикла предусматривает
 проектирование, строительство, реконструкцию, капитальный ремонт объекта
-капитального строительства) и [[частью
-16.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8763)
+капитального строительства) и частью
+16.1
 статьи 34 настоящего Федерального закона, цена такого контракта
 превышает сметную стоимость строительства, реконструкции, капитального
 ремонта объекта капитального строительства, определенную по результатам
@@ -13007,8 +13007,8 @@ N
 государственной экспертизы проектной документации, цена такого контракта
 должна быть уменьшена с учетом указанной сметной стоимости
 строительства, реконструкции, капитального ремонта объекта капитального
-строительства. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2073))
+строительства. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1.3. Предусмотренные частью 1 настоящей статьи изменения осуществляются
 при условии предоставления поставщиком (подрядчиком, исполнителем) в
@@ -13017,25 +13017,25 @@ N
 поставщика (подрядчика, исполнителя), не обеспеченных ранее
 предоставленным обеспечением исполнения контракта, и если при
 определении поставщика (подрядчика, исполнителя) требование обеспечения
-исполнения контракта установлено в соответствии со [[статьей
-96]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1781)
+исполнения контракта установлено в соответствии со статьей
+96
 настоящего Федерального закона. При этом: (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2074))
+от 02.07.2021 N
+360-ФЗ)
 
 1\) размер обеспечения может быть уменьшен в порядке и случаях,
 предусмотренных частями
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7980) -
-[[7.3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7987)
+7 -
+7.3
 статьи 96 настоящего Федерального закона; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2074))
+от 02.07.2021 N
+360-ФЗ)
 
 2\) обеспечение исполнения контракта может быть предоставлено путем
 внесения соответствующих изменений в условия ранее предоставленной
-заказчику независимой гарантии; (в ред. Федерального закона [[от
+заказчику независимой гарантии; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2074))
+360-ФЗ)
 
 3\) если обеспечение исполнения контракта осуществляется путем
 предоставления новой независимой гарантии, возврат заказчиком ранее
@@ -13044,8 +13044,8 @@ N
 отказавшимся от своих прав по ранее предоставленной независимой
 гарантии, обязательство гаранта перед заказчиком по ранее
 предоставленной независимой гарантии прекращается с момента выдачи новой
-независимой гарантии; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2076))
+независимой гарантии; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 4\) если при увеличении в соответствии с настоящей статьей цены
 контракта обеспечение исполнения контракта осуществляется путем внесения
@@ -13053,34 +13053,34 @@ N
 котором в соответствии с законодательством Российской Федерации
 учитываются операции со средствами, поступающими заказчику, денежные
 средства в размере, пропорциональном стоимости новых обязательств
-поставщика (подрядчика, исполнителя). (в ред. Федерального закона [[от
+поставщика (подрядчика, исполнителя). (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2076))
+360-ФЗ)
 
 1.4. В случае уменьшения в соответствии с настоящей статьей цены
 контракта заказчик возвращает поставщику (подрядчику, исполнителю)
 внесенные в качестве обеспечения исполнения контракта денежные средства
 в размере, пропорциональном размеру такого уменьшения цены контракта. (в
-ред. Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2076),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l4))
+ред. Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 1.5. В случае изменения срока исполнения контракта в соответствии с
-[[частью
-27]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l499)
+частью
+27
 статьи 34 настоящего Федерального закона по соглашению сторон
 устанавливается новый срок возврата заказчиком поставщику (подрядчику,
 исполнителю) денежных средств, внесенных в качестве обеспечения
-исполнения контракта. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2078))
+исполнения контракта. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1.6. Государственным или муниципальным заказчиком как получателем
 бюджетных средств предусмотренные частью 1 настоящей статьи изменения
 могут быть осуществлены в пределах доведенных в соответствии с бюджетным
 законодательством Российской Федерации лимитов бюджетных обязательств на
-срок исполнения контракта. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2078))
+срок исполнения контракта. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. В установленных пунктом 6 части 1 настоящей статьи случаях
 сокращение количества товара, объема работы или услуги при уменьшении
@@ -13100,8 +13100,8 @@ N
 первоочередном порядке обязательств, вытекающих из контракта на поставку
 товаров, необходимых для нормального жизнеобеспечения граждан, и (или)
 по которому поставщиком (подрядчиком, исполнителем) обязательства
-исполнены. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2079))
+исполнены. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. При исполнении контракта не допускается перемена поставщика
 (подрядчика, исполнителя), за исключением случая, если новый поставщик
@@ -13114,8 +13114,8 @@ N
 
 7\. При исполнении контракта (за исключением случаев, которые
 предусмотрены нормативными правовыми актами, принятыми в соответствии с
-[[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6641)
+частью
+6
 статьи 14 настоящего Федерального закона) по согласованию заказчика с
 поставщиком (подрядчиком, исполнителем) допускается поставка товара,
 выполнение работы или оказание услуги, качество, технические и
@@ -13124,8 +13124,8 @@ N
 техническими и функциональными характеристиками, указанными в контракте.
 В этом случае соответствующие изменения должны быть внесены заказчиком в
 реестр контрактов, заключенных заказчиком. (в ред. Федерального закона
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2))
+от 13.07.2015 N
+227-ФЗ)
 
 8\. Расторжение контракта допускается по соглашению сторон, по решению
 суда, в случае одностороннего отказа стороны контракта от исполнения
@@ -13145,35 +13145,35 @@ N
 порядке, установленном частью 12.2 статьи 95 данного документа (в
 редакции Федерального закона от 02.07.2021 N 360-ФЗ);***
 
-***б) не позднее дня направления решения (в соответствии с [[подпунктом
-\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2207)
+***б) не позднее дня направления решения (в соответствии с подпунктом
+\"а\"
 настоящего пункта 3 части 6 Федерального закона от 02.07.2021 N 360-ФЗ)
 размещает такое решение в единой информационной системе в сфере закупок
 по правилам, действовавшим до 01.01.2022;***
 
 ***в) в случае неполучения заказчиком подтверждения о вручении
 поставщику (подрядчику, исполнителю) заказного письма, направленного в
-соответствии с [[подпунктом
-\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2207)
+соответствии с подпунктом
+\"а\"
 настоящего пункта 3 части 6 Федерального закона от 02.07.2021 N 360-ФЗ,
 либо информации об отсутствии поставщика (подрядчика, исполнителя) по
 адресу, указанному в контракте, датой надлежащего уведомления поставщика
 (подрядчика, исполнителя) об одностороннем отказе от исполнения
 контракта считается день по истечении пятнадцати дней, считая с даты
 размещения в единой информационной системе в сфере закупок решения в
-соответствии с [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2208)
-пункта 3 части 6 Федерального закона от 02.07.2021 N 360-ФЗ ([[подпункт
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2205)
+соответствии с подпунктом
+\"б\"
+пункта 3 части 6 Федерального закона от 02.07.2021 N 360-ФЗ (подпункт
+3
 пункта 6 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 9\. Заказчик вправе принять решение об одностороннем отказе от
 исполнения контракта по основаниям, предусмотренным Гражданским
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодексом
 Российской Федерации для одностороннего отказа от исполнения отдельных
 видов обязательств, при условии, если это было предусмотрено контрактом.
-(в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+(в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 10\. Заказчик вправе провести экспертизу поставленного товара,
 выполненной работы, оказанной услуги с привлечением экспертов,
@@ -13189,24 +13189,24 @@ N
 подтверждены нарушения условий контракта, послужившие основанием для
 одностороннего отказа заказчика от исполнения контракта.
 
-12\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2632))
+12\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 12.1. В случае принятия заказчиком предусмотренного частью 9 настоящей
 статьи решения об одностороннем отказе от исполнения контракта,
 заключенного по результатам проведения электронных процедур, закрытых
-электронных процедур: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2632))
+электронных процедур: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) заказчик с использованием единой информационной системы формирует
 решение об одностороннем отказе от исполнения контракта, подписывает его
 усиленной электронной подписью лица, имеющего право действовать от имени
 заказчика, и размещает такое решение в единой информационной системе. В
-случаях, предусмотренных [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9568)
+случаях, предусмотренных частью
+5
 статьи 103 настоящего Федерального закона, такое решение не размещается
-на официальном сайте; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2081))
+на официальном сайте; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) решение об одностороннем отказе от исполнения контракта не позднее
 одного часа с момента его размещения в единой информационной системе в
@@ -13217,15 +13217,15 @@ N
 размещения в соответствии с настоящим пунктом такого решения в единой
 информационной системе в соответствии с часовой зоной, в которой
 расположен поставщик (подрядчик, исполнитель); (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2081))
+закона от 02.07.2021 N
+360-ФЗ)
 
 3\) поступление решения об одностороннем отказе от исполнения контракта
 в соответствии с пунктом 2 настоящей части считается надлежащим
 уведомлением поставщика (подрядчика, исполнителя) об одностороннем
-отказе от исполнения контракта. (в ред. Федерального закона [[от
+отказе от исполнения контракта. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2081))
+360-ФЗ)
 
 12.2. В случае принятия заказчиком предусмотренного частью 9 настоящей
 статьи решения об одностороннем отказе от исполнения контракта,
@@ -13245,19 +13245,19 @@ N
 указанному в контракте. Выполнение заказчиком требований настоящей части
 считается надлежащим уведомлением поставщика (подрядчика, исполнителя)
 об одностороннем отказе от исполнения контракта. Датой такого
-надлежащего уведомления считается: (в ред. Федеральных законов [[от
+надлежащего уведомления считается: (в ред. Федеральных законов от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2634),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l109))
+360-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 1\) дата, указанная лицом, имеющим право действовать от имени поставщика
 (подрядчика, исполнителя), в расписке о получении решения об
 одностороннем отказе от исполнения контракта (в случае передачи такого
 решения лицу, имеющему право действовать от имени поставщика
 (подрядчика, исполнителя), лично под расписку); (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2634))
+закона от 02.07.2021 N
+360-ФЗ)
 
 2\) дата получения заказчиком подтверждения о вручении поставщику
 (подрядчику, исполнителю) заказного письма, предусмотренного настоящей
@@ -13265,9 +13265,9 @@ N
 поставщика (подрядчика, исполнителя) по адресу, указанному в контракте,
 информации о возврате такого письма по истечении срока хранения (в
 случае направления решения об одностороннем отказе от исполнения
-контракта заказным письмом). (в ред. Федерального закона [[от 02.07.2021
+контракта заказным письмом). (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2634))
+360-ФЗ)
 
 13\. Решение заказчика об одностороннем отказе от исполнения контракта
 вступает в силу и контракт считается расторгнутым через десять дней с
@@ -13295,12 +13295,12 @@ N
 отказе от исполнения контракта, подписывает его усиленной электронной
 подписью лица, имеющего право действовать от имени заказчика, и
 размещает такое извещение в единой информационной системе. В случаях,
-предусмотренных [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1935)
+предусмотренных частью
+5
 статьи 103 настоящего Федерального закона, такое извещение не
-размещается на официальном сайте. (в ред. Федерального закона [[от
+размещается на официальном сайте. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2087))
+360-ФЗ)
 
 14.2. В случае отмены заказчиком в соответствии с настоящим Федеральным
 законом не вступившего в силу решения об одностороннем отказе от
@@ -13319,60 +13319,60 @@ N
 соблюдением требований законодательства Российской Федерации о
 государственной тайне по адресу поставщика (подрядчика, исполнителя),
 указанному в контракте, уведомление об отмене решения об одностороннем
-отказе от исполнения контракта. (в ред. Федеральных законов [[от
+отказе от исполнения контракта. (в ред. Федеральных законов от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2089),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l51))
+360-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 15\. Заказчик обязан принять решение об одностороннем отказе от
-исполнения контракта в случаях: (в ред. Федерального закона [[от
+исполнения контракта в случаях: (в ред. Федерального закона от
 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+365-ФЗ)
 
 1\) если в ходе исполнения контракта установлено, что: (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2091))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 а) поставщик (подрядчик, исполнитель) и (или) поставляемый товар
 перестали соответствовать установленным извещением об осуществлении
 закупки и (или) документацией о закупке (если настоящим Федеральным
 законом предусмотрена документация о закупке) требованиям к участникам
-закупки (за исключением требования, предусмотренного [[частью
-1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+закупки (за исключением требования, предусмотренного частью
+1.1
 (при наличии такого требования) статьи 31 настоящего Федерального
-закона) и (или) поставляемому товару; (в ред. Федерального закона [[от
+закона) и (или) поставляемому товару; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2091))
+360-ФЗ)
 
 б) при определении поставщика (подрядчика, исполнителя) поставщик
 (подрядчик, исполнитель) представил недостоверную информацию о своем
 соответствии и (или) соответствии поставляемого товара требованиям,
 указанным в подпункте \"а\" настоящего пункта, что позволило ему стать
 победителем определения поставщика (подрядчика, исполнителя); (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2091))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-2\) если в ходе исполнения заключенного в соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+2\) если в ходе исполнения заключенного в соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона контракта на поставку
 товара, производство которого создано или модернизировано и (или)
 освоено на территории Российской Федерации в соответствии со специальным
 инвестиционным контрактом, такой специальный инвестиционный контракт
 расторгнут. При этом расторжение контракта, заключенного в соответствии
-с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона, осуществляется в
-следующем порядке: (в ред. Федерального закона [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+следующем порядке: (в ред. Федерального закона от 03.07.2016 N
+365-ФЗ)
 
 а) сторона специального инвестиционного контракта, которая заключила
 такой контракт от имени Российской Федерации (Российской Федерации
 наряду с субъектом Российской Федерации и (или) муниципальным
 образованием), направляет в течение десяти рабочих дней со дня его
 расторжения уведомление об указанном расторжении заказчикам, заключившим
-в соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+в соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона контракты на поставку
 товара, обязательства по которым не исполнены на дату направления такого
 уведомления. Уведомление о расторжении специального инвестиционного
@@ -13380,100 +13380,100 @@ N
 уведомлением о вручении по адресам заказчиков, указанным в контрактах.
 Перечень соответствующих заказчиков определяется на основании
 информации, содержащейся в реестре контрактов, заключенных заказчиками;
-(в ред. Федерального закона [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+(в ред. Федерального закона от 03.07.2016 N
+365-ФЗ)
 
 б) заказчики не позднее трех рабочих дней с даты получения указанного в
 подпункте \"а\" настоящего пункта уведомления обязаны принять решение об
 одностороннем отказе от исполнения контракта, заключенного в
-соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона; (в ред. Федерального
-закона [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+закона от 03.07.2016 N
+365-ФЗ)
 
 в) расторжение контракта после принятия решения, указанного в подпункте
 \"б\" настоящего пункта, осуществляется в соответствии с общим порядком,
-предусмотренным настоящей статьей; (в ред. Федерального закона [[от
+предусмотренным настоящей статьей; (в ред. Федерального закона от
 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+365-ФЗ)
 
 3\) если в ходе исполнения контракта, заключенного в соответствии с
-[[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+пунктом
+48
 части 1 статьи 93 настоящего Федерального закона, расторгнут контракт со
 встречными инвестиционными обязательствами, заключенный в соответствии
-со [[статьей
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
+со статьей
+111.4
 настоящего Федерального закона. При этом расторжение контракта,
-заключенного в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+заключенного в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона, осуществляется в
-следующем порядке: (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l12))
+следующем порядке: (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 а) сторона контракта со встречными инвестиционными обязательствами,
 которая заключила такой контракт от имени субъекта Российской Федерации
-согласно [[статье
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
+согласно статье
+111.4
 настоящего Федерального закона, направляет в течение десяти рабочих дней
 со дня его расторжения уведомления об указанном расторжении заказчикам,
-заключившим в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+заключившим в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона контракты,
 обязательства по которым не исполнены на дату направления таких
 уведомлений. Уведомление о расторжении контракта со встречными
-инвестиционными обязательствами, заключенного согласно [[статье
-111.4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2112)
+инвестиционными обязательствами, заключенного согласно статье
+111.4
 настоящего Федерального закона, направляется заказчикам по почте
 заказными письмами с уведомлением о вручении по адресам заказчиков,
 указанным в контрактах. Перечень соответствующих заказчиков определяется
 на основании информации, содержащейся в реестре контрактов, заключенных
-заказчиками; (в ред. Федеральных законов [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l12))
+заказчиками; (в ред. Федеральных законов от 03.07.2016 N
+365-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 б) заказчики в течение трех рабочих дней с даты получения указанного в
 подпункте \"а\" настоящего пункта уведомления обязаны принять решение об
 одностороннем отказе от исполнения контракта, заключенного в
-соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702)
+соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона; (в ред. Федерального
-закона [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+закона от 03.07.2016 N
+365-ФЗ)
 
 в) расторжение контракта после принятия решения, указанного в подпункте
 \"б\" настоящего пункта, осуществляется в соответствии с общим порядком,
-предусмотренным настоящей статьей. (в ред. Федерального закона [[от
+предусмотренным настоящей статьей. (в ред. Федерального закона от
 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))
+365-ФЗ)
 
 16\. Заказчик не позднее двух рабочих дней, следующих за днем вступления
 в силу решения заказчика об одностороннем отказе от исполнения контракта
 в связи с неисполнением или ненадлежащим исполнением поставщиком
 (подрядчиком, исполнителем) обязательств, предусмотренных контрактом,
-направляет в соответствии с порядком, предусмотренным [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9581)
+направляет в соответствии с порядком, предусмотренным пунктом
+1
 части 10 статьи 104 настоящего Федерального закона, обращение о
 включении информации о поставщике (подрядчике, исполнителе) в реестр
 недобросовестных поставщиков (подрядчиков, исполнителей). (в ред.
-Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2639),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 17\. В случае расторжения контракта в связи с односторонним отказом
 заказчика от исполнения контракта заказчик вправе осуществить в
-соответствии с [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8622)
+соответствии с подпунктом
+\"б\"
 пункта 2 части 10 статьи 24 настоящего Федерального закона закупку
 товара, работы, услуги, поставка, выполнение, оказание которых являлись
-предметом расторгнутого контракта. (в ред. Федеральных законов [[от
+предметом расторгнутого контракта. (в ред. Федеральных законов от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2639))
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 17.1. В случае расторжения контракта по основаниям, предусмотренным
 частью 8 настоящей статьи, заказчик вправе заключить контракт с
@@ -13481,85 +13481,85 @@ N
 законом заключается контракт при уклонении от заключения контракта
 победителя определения поставщика (подрядчика, исполнителя) и при
 условии согласия такого участника закупки заключить контракт. Указанный
-контракт заключается с соблюдением условий, предусмотренных [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8737)
+контракт заключается с соблюдением условий, предусмотренных частью
+1
 статьи 34 настоящего Федерального закона с учетом положений части 18
 настоящей статьи, и после предоставления в соответствии с настоящим
 Федеральным законом участником закупки обеспечения исполнения контракта,
 если требование обеспечения исполнения контракта предусмотрено
 извещением об осуществлении закупки и (или) документацией о закупке. При
 этом при расторжении контракта (за исключением контракта, указанного в
-[[части
-9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l521)
+части
+9
 статьи 37 настоящего Федерального закона) в связи с односторонним
 отказом заказчика от исполнения контракта заключение контракта в
 соответствии с настоящей частью допускается в случае, если в связи с
-таким расторжением в соответствии с [[частью
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8550)
+таким расторжением в соответствии с частью
+7
 статьи 104 настоящего Федерального закона принято решение о включении
 информации о поставщике (подрядчике, исполнителе), с которым расторгнут
 контракт, в реестр недобросовестных поставщиков (подрядчиков,
 исполнителей) либо если по основаниям, установленным Правительством
-Российской Федерации в соответствии с [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8555)
+Российской Федерации в соответствии с пунктом
+2
 части 10 статьи 104 настоящего Федерального закона, принято решение об
 отказе во включении информации о поставщике (подрядчике, исполнителе), с
 которым расторгнут контракт, в реестр недобросовестных поставщиков
 (подрядчиков, исполнителей) в связи с установлением в данном решении
 факта, что надлежащее исполнение таким поставщиком (подрядчиком,
 исполнителем) условий контракта оказалось невозможным вследствие
-обстоятельств непреодолимой силы. (в ред. Федеральных законов [[от
+обстоятельств непреодолимой силы. (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2639),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l8))
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 28.04.2023 N
+154-ФЗ)
 
 17.2. Контракт в случае, предусмотренном частью 17.1 настоящей статьи,
 заключается в той же форме и в том же порядке, что и расторгнутый
-контракт. При этом: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2094))
+контракт. При этом: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) в случае расторжения контракта, заключенного по результатам
 проведения электронной процедуры, закрытой электронной процедуры: (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2094))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 а) контракт заключается в порядке, предусмотренном пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9075)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9075)
+2
 части 2, частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9684) -
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9685)
+3 -
+5
 статьи 51 настоящего Федерального закона; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2094))
+от 02.07.2021 N
+360-ФЗ)
 
 б) в случае, если участник закупки разместил на электронной площадке
-отказ от заключения контракта в соответствии с [[пунктом
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9085)
+отказ от заключения контракта в соответствии с пунктом
+3
 части 3 статьи 51 настоящего Федерального закона либо если таким
-участником закупки в срок, установленный [[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9178)
+участником закупки в срок, установленный частью
+3
 статьи 51 настоящего Федерального закона, не выполнены требования
-[[пункта
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9178)
+пункта
+3
 части 3 статьи 51 настоящего Федерального закона, заказчик вправе
 заключить в порядке, установленном пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9075)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9075)
+2
 части 2, частями
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9178) -
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9685)
+3 -
+5
 статьи 51 настоящего Федерального закона, контракт с участником закупки,
 заявке на участие в закупке которого в соответствии с настоящим
 Федеральным законом присвоен следующий порядковый номер и который не
 отозвал такую заявку в соответствии с настоящим Федеральным законом; (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2095))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) в случае расторжения контракта, заключенного по результатам
 проведения закрытого конкурса, закрытого аукциона, при осуществлении
@@ -13571,11 +13571,11 @@ N
 информационной системе, на официальном сайте при определении поставщика
 (подрядчика, исполнителя) и статьей 111.1 настоящего Федерального
 закона, контракт заключается в порядке, предусмотренном частью 14 статьи
-73 настоящего Федерального закона. (в ред. Федеральных законов [[от
+73 настоящего Федерального закона. (в ред. Федеральных законов от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2096),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l51))
+360-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 18\. Если до расторжения контракта поставщик (подрядчик, исполнитель)
 частично исполнил обязательства, предусмотренные контрактом, при
@@ -13586,40 +13586,40 @@ N
 в соответствии с частями 17 и 17.1 настоящей статьи, должна быть
 уменьшена пропорционально количеству поставленного товара, объему
 выполненной работы или оказанной услуги. (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2096))
+от 02.07.2021 N
+360-ФЗ)
 
 19\. Поставщик (подрядчик, исполнитель) вправе принять решение об
 одностороннем отказе от исполнения контракта по основаниям,
 предусмотренным Гражданским
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодексом
 Российской Федерации для одностороннего отказа от исполнения отдельных
 видов обязательств, если в контракте было предусмотрено право заказчика
 принять решение об одностороннем отказе от исполнения контракта. (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-20\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2644))
+20\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 20.1. В случае принятия поставщиком (подрядчиком, исполнителем)
 предусмотренного частью 19 настоящей статьи решения об одностороннем
 отказе от исполнения контракта, заключенного по результатам проведения
 электронных процедур, закрытых электронных процедур, такое решение
 направляется заказчику в следующем порядке: (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2644))
+от 02.07.2021 N
+360-ФЗ)
 
 1\) поставщик (подрядчик, исполнитель) с использованием единой
 информационной системы формирует решение об одностороннем отказе от
 исполнения контракта, подписывает его усиленной электронной подписью
 лица, имеющего право действовать от имени поставщика (подрядчика,
 исполнителя), и размещает такое решение в единой информационной системе.
-В случаях, предусмотренных [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8382)
+В случаях, предусмотренных частью
+5
 статьи 103 настоящего Федерального закона, такое решение не размещается
-на официальном сайте; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2645))
+на официальном сайте; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) решение об одностороннем отказе от исполнения контракта не позднее
 одного часа с момента его размещения в единой информационной системе в
@@ -13628,15 +13628,15 @@ N
 заказчику решения об одностороннем отказе от исполнения контракта
 считается дата размещения в соответствии с настоящим пунктом такого
 решения в единой информационной системе в соответствии с часовой зоной,
-в которой расположен заказчик; (в ред. Федерального закона [[от
+в которой расположен заказчик; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2645))
+360-ФЗ)
 
 3\) поступление решения об одностороннем отказе от исполнения контракта
 в соответствии с пунктом 2 настоящей части считается надлежащим
 уведомлением заказчика об одностороннем отказе от исполнения контракта.
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2645))
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 20.2. В случае принятия поставщиком (подрядчиком, исполнителем)
 предусмотренного частью 19 настоящей статьи решения об одностороннем
@@ -13655,17 +13655,17 @@ N
 поставщиком (подрядчиком, исполнителем) требований настоящей части
 считается надлежащим уведомлением заказчика об одностороннем отказе от
 исполнения контракта. Датой такого надлежащего уведомления считается: (в
-ред. Федеральных законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2647),
-[[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l51))
+ред. Федеральных законов от 02.07.2021 N
+360-ФЗ,
+от 25.12.2023 N
+624-ФЗ)
 
 1\) дата, указанная лицом, имеющим право действовать от имени заказчика,
 в расписке о получении решения об одностороннем отказе от исполнения
 контракта (в случае передачи такого решения лицу, имеющему право
 действовать от имени заказчика, лично под расписку); (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2647))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) дата получения поставщиком (подрядчиком, исполнителем) подтверждения
 о вручении заказчику заказного письма, предусмотренного настоящей
@@ -13673,9 +13673,9 @@ N
 информации об отсутствии заказчика по адресу, указанному в контракте,
 информации о возврате такого письма по истечении срока хранения (в
 случае направления решения об одностороннем отказе от исполнения
-контракта заказным письмом). (в ред. Федерального закона [[от 02.07.2021
+контракта заказным письмом). (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2103))
+360-ФЗ)
 
 21\. Решение поставщика (подрядчика, исполнителя) об одностороннем
 отказе от исполнения контракта вступает в силу и контракт считается
@@ -13700,23 +13700,23 @@ N
 отказе от исполнения контракта, подписывает его усиленной электронной
 подписью лица, имеющего право действовать от имени поставщика
 (подрядчика, исполнителя), и размещает такое извещение в единой
-информационной системе. В случаях, предусмотренных [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8382)
+информационной системе. В случаях, предусмотренных частью
+5
 статьи 103 настоящего Федерального закона, такое извещение не
-размещается на официальном сайте. (в ред. Федерального закона [[от
+размещается на официальном сайте. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2104))
+360-ФЗ)
 
 22.2. Заказчик не позднее двух рабочих дней, следующих за днем
 вступления в силу решения поставщика об одностороннем отказе от
 исполнения контракта, направляет в соответствии с порядком,
-предусмотренным [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8554)
+предусмотренным пунктом
+1
 части 10 статьи 104 настоящего Федерального закона, обращение о
 включении информации о поставщике (подрядчике, исполнителе) в реестр
 недобросовестных поставщиков (подрядчиков, исполнителей). (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 23\. При расторжении контракта в связи с односторонним отказом стороны
 контракта от исполнения контракта другая сторона контракта вправе
@@ -13724,18 +13724,18 @@ N
 непосредственно обусловленного обстоятельствами, являющимися основанием
 для принятия решения об одностороннем отказе от исполнения контракта.
 
-24\. Часть утратила силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+24\. Часть утратила силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 25\. Особенности порядка принятия сторонами контракта решения об
 одностороннем отказе от исполнения контракта при осуществлении закупки
 товара, работы, услуги по государственному оборонному заказу могут быть
-установлены Федеральным законом [[от 29 декабря 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+установлены Федеральным законом от 29 декабря 2012 года N
+275-ФЗ
 \"О государственном оборонном заказе\".
 
-26\. Часть утратила силу. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+26\. Часть утратила силу. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 **Статья 96. Обеспечение исполнения контракта**
 
@@ -13747,106 +13747,106 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l30)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+4
 статьи 5 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 1\. Заказчиком, за исключением случаев, предусмотренных частью 2
 настоящей статьи, в извещении об осуществлении закупки, документации о
 закупке, проекте контракта, приглашении должно быть установлено
 требование обеспечения исполнения контракта. (в ред. Федеральных законов
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2105))
+от 01.05.2019 N
+71-ФЗ,
+от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1.1. При осуществлении закупки, предусматривающей заключение контракта
 жизненного цикла, заказчик устанавливает в извещении об осуществлении
 закупки, в документации о закупке (в случае, если настоящим Федеральным
 законом предусмотрена документация о закупке), в проекте контракта, в
 приглашении требование обеспечения исполнения контракта раздельно в
-части: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2105))
+части: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) поставки товара или выполнения работы (в том числе при необходимости
 проектирования объекта капитального строительства, создания товара,
 который должен быть создан в результате выполнения работы); (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2651))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) последующего обслуживания, при необходимости эксплуатации в течение
 срока службы, ремонта и (или) утилизации поставленного товара или
 созданного в результате выполнения работы объекта капитального
-строительства или товара. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2651))
+строительства или товара. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Заказчик вправе установить в извещении об осуществлении закупки,
 проекте контракта требование обеспечения исполнения контракта при
 осуществлении закупок путем проведения электронного запроса котировок
-(за исключением случая, предусмотренного [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8620)
+(за исключением случая, предусмотренного подпунктом
+\"б\"
 пункта 2 части 10 статьи 24 настоящего Федерального закона), а также
 закупок, предусмотренных пунктами 1, 2 (если правовыми актами,
 предусмотренными указанным пунктом, не предусмотрена обязанность
 заказчика установить требование обеспечения исполнения контракта), 3 -
-[[11]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1663),
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1663) -
-[[15]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1668),
-[[17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1669),
-[[20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1673) -
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1676),
-[[26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1682),
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1684) -
-[[34]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1689),
-[[40]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1697) -
-[[42]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1697),
-[[44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1700),
-[[45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1701),
-[[46]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702),
-[[47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702) -
-[[48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+11,
+13 -
+15,
+17,
+20 -
+23,
+26,
+28 -
+34,
+40 -
+42,
+44,
+45,
+46,
+47 -
+48
 (если контрактами, заключаемыми в соответствии с пунктами
-[[47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7093) -
-[[48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1702),
+47 -
+48,
 не предусмотрена выплата аванса),
-[[51]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l0) -
-[[53]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1707),
-[[55]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7097) -
-[[59]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9429),
-[[61]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9422) -
-[[63]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l10101)
+51 -
+53,
+55 -
+59,
+61 -
+63
 части 1 статьи 93 настоящего Федерального закона. (в ред. Федеральных
-законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 01.12.2014 N
-416-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=242727#l3),
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2),
-[[от 30.12.2015 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265193#l2),
-[[от 02.06.2016 N
-167-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=274114#l0),
-[[от 03.07.2016 N
-320-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403989#l2),
-[[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2),
-[[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l3),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2651),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l8),
-[[от 02.11.2023 N
-510-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458848#l7))
+законов от 28.12.2013 N
+396-ФЗ,
+от 04.06.2014 N
+140-ФЗ,
+от 01.12.2014 N
+416-ФЗ,
+от 13.07.2015 N
+227-ФЗ,
+от 30.12.2015 N
+469-ФЗ,
+от 02.06.2016 N
+167-ФЗ,
+от 03.07.2016 N
+320-ФЗ,
+от 03.07.2016 N
+365-ФЗ,
+от 26.07.2017 N
+198-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ,
+от 02.11.2023 N
+510-ФЗ)
 
-2.1. Часть утратила силу. (в ред. Федерального закона [[от 29.12.2015 N
-390-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l15))
+2.1. Часть утратила силу. (в ред. Федерального закона от 29.12.2015 N
+390-ФЗ)
 
 ***Положения части 2.2 статьи 96 (в редакции Федерального закона от
 24.04.2020 N 124-ФЗ) по соглашению сторон контракта могут
@@ -13856,28 +13856,28 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l30)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+4
 статьи 5 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 2.2. Заказчик вправе установить в извещении об осуществлении закупки,
 документации о закупке, проекте контракта, приглашении требование
 обеспечения гарантийных обязательств в случае установления требований к
-таким обязательствам в соответствии с [[частью
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8733)
+таким обязательствам в соответствии с частью
+4
 статьи 33 настоящего Федерального закона. Размер обеспечения гарантийных
 обязательств не может превышать десять процентов от начальной
 (максимальной) цены контракта, от цены контракта, заключаемого с
 единственным поставщиком (подрядчиком, исполнителем). (в ред.
-Федеральных законов [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2651))
+Федеральных законов от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 3\. Исполнение контракта, гарантийные обязательства могут обеспечиваться
 предоставлением независимой гарантии, соответствующей требованиям
-[[статьи
-45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8889)
+статьи
+45
 настоящего Федерального закона, или внесением денежных средств на
 указанный заказчиком счет, на котором в соответствии с законодательством
 Российской Федерации учитываются операции со средствами, поступающими
@@ -13888,13 +13888,13 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 действия независимой гарантии должен превышать предусмотренный
 контрактом срок исполнения обязательств, которые должны быть обеспечены
 такой независимой гарантией, не менее чем на один месяц, в том числе в
-случае его изменения в соответствии со [[статьей
-95]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9496)
-настоящего Федерального закона. (в ред. Федеральных законов [[от
+случае его изменения в соответствии со статьей
+95
+настоящего Федерального закона. (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2653))
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. Контракт заключается после предоставления участником закупки, с
 которым заключается контракт, обеспечения исполнения контракта в
@@ -13902,8 +13902,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 заключения контракта жизненного цикла контракт заключается после
 предоставления таким участником закупки обеспечения исполнения контракта
 в части, предусмотренной пунктом 1 части 1.1 настоящей статьи. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2653))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. В случае непредоставления участником закупки, с которым заключается
 контракт, обеспечения исполнения контракта в срок, установленный для
@@ -13918,8 +13918,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l29)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+5
 статьи 4 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 6\. В случае установления заказчиком в соответствии с настоящей статьей
@@ -13929,21 +13929,21 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 контракта, приглашении в размере от одной второй процента до тридцати
 процентов начальной (максимальной) цены контракта, за исключением
 случаев, предусмотренных частями 6.1 - 6.2-1 настоящей статьи. При этом,
-если: (в ред. Федеральных законов [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2653))
+если: (в ред. Федеральных законов от 24.04.2020 N
+124-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1\) контрактом предусмотрена выплата аванса, размер обеспечения
 исполнения контракта устанавливается не менее чем в размере аванса, за
 исключением случая, предусмотренного пунктом 3 настоящей части; (в ред.
-Федерального закона [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+Федерального закона от 24.04.2020 N
+124-ФЗ)
 
 2\) аванс превышает тридцать процентов начальной (максимальной) цены
 контракта, размер обеспечения исполнения контракта устанавливается в
-размере аванса; (в ред. Федерального закона [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+размере аванса; (в ред. Федерального закона от 24.04.2020 N
+124-ФЗ)
 
 3\) в соответствии с законодательством Российской Федерации расчеты по
 контракту в части выплаты аванса подлежат казначейскому сопровождению,
@@ -13951,11 +13951,11 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 начальной (максимальной) цены контракта (от цены контракта в случае,
 предусмотренном частью 6.2 настоящей статьи при заключении контракта по
 результатам определения поставщиков (подрядчиков, исполнителей) в
-соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l378)
+соответствии с пунктом
+1
 части 1 статьи 30 настоящего Федерального закона), уменьшенной на размер
-такого аванса. (в ред. Федерального закона [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+такого аванса. (в ред. Федерального закона от 24.04.2020 N
+124-ФЗ)
 
 ***Положения части 6.1 статьи 96 (в редакции Федерального закона от
 24.04.2020 N 124-ФЗ) по соглашению сторон контракта могут
@@ -13965,8 +13965,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l29)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+5
 статьи 4 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 6.1. Если в соответствии с законодательством Российской Федерации
@@ -13977,11 +13977,11 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 процентов от начальной (максимальной) цены контракта (от цены контракта
 в случае, предусмотренном частью 6.2 настоящей статьи при заключении
 контракта по результатам определения поставщика (подрядчика,
-исполнителя) в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l378)
+исполнителя) в соответствии с пунктом
+1
 части 1 статьи 30 настоящего Федерального закона). (в ред. Федерального
-закона [[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+закона от 24.04.2020 N
+124-ФЗ)
 
 ***Положения части 6.2 статьи 96 (в редакции Федерального закона от
 24.04.2020 N 124-ФЗ) по соглашению сторон контракта могут
@@ -13991,25 +13991,25 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l29)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+5
 статьи 4 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 6.2. Если контракт заключается по результатам определения поставщика
-(подрядчика, исполнителя) в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l378)
+(подрядчика, исполнителя) в соответствии с пунктом
+1
 части 1 статьи 30 настоящего Федерального закона и заказчиком
 установлено требование обеспечения исполнения контракта, размер такого
 обеспечения устанавливается в соответствии с частями 6 и 6.1 настоящей
 статьи от цены контракта, по которой в соответствии с настоящим
 Федеральным законом заключается контракт. (в ред. Федерального закона
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+от 24.04.2020 N
+124-ФЗ)
 
 6.2-1. В случае заключения контракта жизненного цикла при установлении
 заказчиком требования обеспечения исполнения контракта: (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2110))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) размер обеспечения исполнения контракта в части, предусмотренной
 пунктом 1 части 1.1 настоящей статьи, устанавливается в соответствии с
@@ -14019,9 +14019,9 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 заключается контракт жизненного цикла, в проекте контракта, в
 приглашении от стоимости товара или работы (в том числе при
 необходимости стоимости работ по подготовке проектной документации,
-стоимости работ по созданию товара); (в ред. Федерального закона [[от
+стоимости работ по созданию товара); (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2110))
+360-ФЗ)
 
 2\) размер обеспечения исполнения контракта в части, предусмотренной
 пунктом 2 части 1.1 настоящей статьи, устанавливается в соответствии с
@@ -14033,8 +14033,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 обслуживания, при необходимости эксплуатации в течение срока службы,
 ремонта и (или) утилизации поставленного товара или созданного в
 результате выполнения работы объекта капитального строительства или
-товара. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2110))
+товара. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 ***Положения части 6.3 статьи 96 (в редакции Федерального закона от
 24.04.2020 N 124-ФЗ) по соглашению сторон контракта могут
@@ -14044,8 +14044,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l29)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+5
 статьи 4 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 6.3. В случае, если предложенные в заявке участника закупки цена, сумма
@@ -14053,11 +14053,11 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 процентов по отношению к начальной (максимальной) цене контракта,
 начальной сумме цен единиц товара, работы, услуги, участник закупки, с
 которым заключается контракт, предоставляет обеспечение исполнения
-контракта с учетом положений [[статьи
-37]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l512)
-настоящего Федерального закона. (в ред. Федерального закона [[от
+контракта с учетом положений статьи
+37
+настоящего Федерального закона. (в ред. Федерального закона от
 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+124-ФЗ)
 
 7\. В ходе исполнения контракта поставщик (подрядчик, исполнитель)
 вправе изменить способ обеспечения исполнения контракта и (или)
@@ -14068,10 +14068,10 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 вправе изменить способ обеспечения гарантийных обязательств и (или)
 предоставить заказчику взамен ранее предоставленного обеспечения
 гарантийных обязательств новое обеспечение гарантийных обязательств. (в
-ред. Федеральных законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+ред. Федеральных законов от 27.12.2018 N
+502-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 ***Положения части 7.1 статьи 96 (в редакции Федерального закона от
 27.12.2018 N 502-ФЗ) по соглашению сторон контракта могут
@@ -14080,24 +14080,24 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 определения поставщика (подрядчика, исполнителя), извещения об
 осуществлении закупок по которым размещены в единой информационной
 системе в сфере закупок либо приглашения принять участие в закупках по
-которым направлены до 01.07.2019 ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l88)
+которым направлены до 01.07.2019 (пункт
+4
 статьи 2 Федерального закона от 27.12.2018 N 502-ФЗ).***
 
 7.1. В случае, если контрактом предусмотрены отдельные этапы его
 исполнения и установлено требование обеспечения исполнения контракта, в
 ходе исполнения данного контракта размер этого обеспечения подлежит
 уменьшению в порядке и случаях, которые предусмотрены частями 7.2 и 7.3
-настоящей статьи. (в ред. Федерального закона [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71))
+настоящей статьи. (в ред. Федерального закона от 27.12.2018 N
+502-ФЗ)
 
 7.2. Размер обеспечения исполнения контракта уменьшается посредством
 направления заказчиком информации об исполнении поставщиком
 (подрядчиком, исполнителем) обязательств по поставке товара, выполнению
 работы (ее результатов), оказанию услуги или об исполнении им отдельного
 этапа исполнения контракта и стоимости исполненных обязательств для
-включения в соответствующий реестр контрактов, предусмотренный [[статьей
-103]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1913)
+включения в соответствующий реестр контрактов, предусмотренный статьей
+103
 настоящего Федерального закона. Уменьшение размера обеспечения
 исполнения контракта производится пропорционально стоимости исполненных
 обязательств, приемка и оплата которых осуществлены в порядке и сроки,
@@ -14110,16 +14110,16 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 если обеспечение исполнения контракта осуществляется путем внесения
 денежных средств на счет, указанный заказчиком, по заявлению поставщика
 (подрядчика, исполнителя) ему возвращаются заказчиком в установленный в
-соответствии с [[частью
-27]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l477)
+соответствии с частью
+27
 статьи 34 настоящего Федерального закона контрактом срок денежные
 средства в сумме, на которую уменьшен размер обеспечения исполнения
 контракта, рассчитанный заказчиком на основании информации об исполнении
 контракта, размещенной в соответствующем реестре контрактов. (в ред.
-Федеральных законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2112))
+Федеральных законов от 27.12.2018 N
+502-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 ***Положения части 7.3 статьи 96 (в редакции Федерального закона от
 24.04.2020 N 124-ФЗ) по соглашению сторон контракта могут
@@ -14129,8 +14129,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 поставщика (подрядчика, исполнителя), извещения об осуществлении закупок
 по которым размещены в единой информационной системе в сфере закупок
 либо приглашения принять участие в закупках по которым направлены до дня
-вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ ([[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l29)
+вступления в силу Федерального закона от 24.04.2020 N 124-ФЗ (пункт
+5
 статьи 4 Федерального закона от 24.04.2020 N 124-ФЗ).***
 
 7.3. Предусмотренное частями 7 и 7.1 настоящей статьи уменьшение размера
@@ -14147,50 +14147,50 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 не допускается в случаях, определенных Правительством Российской
 Федерации в целях обеспечения обороноспособности и безопасности
 государства, защиты здоровья, прав и законных интересов граждан
-Российской Федерации. (в ред. Федеральных законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 24.04.2020 N
-124-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=360417#l6))
+Российской Федерации. (в ред. Федеральных законов от 27.12.2018 N
+502-ФЗ,
+от 24.04.2020 N
+124-ФЗ)
 
 8\. Положения настоящего Федерального закона об обеспечении исполнения
 контракта, включая положения о предоставлении такого обеспечения с
-учетом положений [[статьи
-37]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l512)
+учетом положений статьи
+37
 настоящего Федерального закона, об обеспечении гарантийных обязательств
-не применяются в случае: (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121))
+не применяются в случае: (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 01.04.2020 N
+98-ФЗ)
 
 1\) заключения контракта с участником закупки, который является казенным
-учреждением; (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+учреждением; (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 31.12.2017 N
+504-ФЗ)
 
 2\) осуществления закупки услуги по предоставлению кредита; (в ред.
-Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 3\) заключения бюджетным учреждением, государственным, муниципальным
 унитарными предприятиями контракта, предметом которого является выдача
-независимой гарантии. (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l34),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2112))
+независимой гарантии. (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 03.07.2016 N
+321-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 8.1. Участник закупки, с которым заключается контракт по результатам
 определения поставщика (подрядчика, исполнителя) в соответствии с
-[[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l378)
+пунктом
+1
 части 1 статьи 30 настоящего Федерального закона, освобождается от
 предоставления обеспечения исполнения контракта, в том числе с учетом
-положений [[статьи
-37]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8777)
+положений статьи
+37
 настоящего Федерального закона, от обеспечения гарантийных обязательств
 в случае предоставления таким участником закупки информации,
 содержащейся в реестре контрактов, заключенных заказчиками, и
@@ -14202,25 +14202,25 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 законом для предоставления обеспечения исполнения контракта. При этом
 сумма цен таких контрактов должна составлять не менее начальной
 (максимальной) цены контракта, указанной в извещении об осуществлении
-закупки и документации о закупке. (в ред. Федеральных законов [[от
+закупки и документации о закупке. (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2112))
+71-ФЗ,
+от 01.04.2020 N
+98-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
-9\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2112))
+9\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 10\. Особенности предусмотренного настоящей статьей обеспечения
 исполнения контракта в сфере государственного оборонного заказа могут
-быть установлены Федеральным законом [[от 29 декабря 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+быть установлены Федеральным законом от 29 декабря 2012 года N
+275-ФЗ
 \"О государственном оборонном заказе\".
 
-11\. Часть утратила силу. (в ред. Федерального закона [[от 29.12.2015 N
-390-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265108#l15))
+11\. Часть утратила силу. (в ред. Федерального закона от 29.12.2015 N
+390-ФЗ)
 
 **Глава 4. МОНИТОРИНГ ЗАКУПОК И АУДИТ В СФЕРЕ ЗАКУПОК**
 
@@ -14229,12 +14229,12 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 1\. Мониторинг закупок представляет собой систему наблюдений в сфере
 закупок, осуществляемых на постоянной основе посредством сбора,
 обобщения, систематизации и оценки информации об осуществлении закупок,
-в том числе реализации планов-графиков. (в ред. Федерального закона [[от
+в том числе реализации планов-графиков. (в ред. Федерального закона от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
-2\. Часть утратила силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+2\. Часть утратила силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 3\. Мониторинг закупок осуществляется с использованием единой
 информационной системы и на основе содержащейся в ней информации.
@@ -14243,8 +14243,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 нужд обеспечивается федеральным органом исполнительной власти по
 регулированию контрактной системы в сфере закупок в порядке,
 установленном Правительством Российской Федерации. (в ред. Федерального
-закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+закона от 04.06.2014 N
+140-ФЗ)
 
 5\. Результаты мониторинга закупок по итогам каждого года оформляются в
 виде сводного аналитического отчета, который представляется федеральным
@@ -14259,8 +14259,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 государственных и муниципальных нужд, а также определяются меры по
 совершенствованию законодательства Российской Федерации и иных
 нормативных правовых актов о контрактной системе в сфере закупок. (в
-ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 7\. Сводный аналитический отчет подлежит размещению в единой
 информационной системе.
@@ -14271,17 +14271,17 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 Федерации по регулированию контрактной системы в сфере закупок, органами
 местного самоуправления может осуществляться мониторинг закупок для
 обеспечения соответственно нужд субъектов Российской Федерации и
-муниципальных нужд. (в ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+муниципальных нужд. (в ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 9\. Порядок использования единой информационной системы для целей
 мониторинга закупок устанавливается с учетом порядка функционирования
-единой информационной системы, установленного в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6769)
+единой информационной системы, установленного в соответствии с частью
+2
 статьи 4 настоящего Федерального закона.
 
-10\. Часть утратила силу. (в ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+10\. Часть утратила силу. (в ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
 **Статья 98. Аудит в сфере закупок**
 
@@ -14296,8 +14296,8 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 2\. Органы, указанные в части 1 настоящей статьи (далее - органы аудита
 в сфере закупок), в пределах своих полномочий осуществляют анализ и
 оценку результатов закупок, достижения целей осуществления закупок. (в
-ред. Федерального закона [[от 27.06.2019 N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404334#l1))
+ред. Федерального закона от 27.06.2019 N
+152-ФЗ)
 
 3\. Для достижения целей, указанных в части 2 настоящей статьи, органы
 аудита в сфере закупок осуществляют экспертно-аналитическую,
@@ -14331,53 +14331,53 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 муниципального района, органы местного самоуправления муниципального
 округа, органы местного самоуправления городского округа, уполномоченные
 на осуществление контроля в сфере закупок; (в ред. Федерального закона
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l137))
+от 13.06.2023 N
+228-ФЗ)
 
 2\) федеральный орган исполнительной власти, осуществляющий
 правоприменительные функции по казначейскому обслуживанию исполнения
 бюджетов бюджетной системы Российской Федерации, федеральный орган
 исполнительной власти, определенный Правительством Российской Федерации
-в соответствии с [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l91)
+в соответствии с частью
+6
 статьи 4 настоящего Федерального закона, финансовые органы субъектов
 Российской Федерации и муниципальных образований, органы управления
-государственными внебюджетными фондами; (в ред. Федеральных законов [[от
+государственными внебюджетными фондами; (в ред. Федеральных законов от
 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l66))
+71-ФЗ,
+от 24.02.2021 N
+20-ФЗ)
 
 3\) органы внутреннего государственного (муниципального) финансового
 контроля, определенные в соответствии с Бюджетным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодексом
 Российской Федерации.
 
 1.1. Не допускается возлагать на органы контроля, указанные в части 1
-настоящей статьи, полномочия, предусмотренные [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8678)
+настоящей статьи, полномочия, предусмотренные статьей
+26
 настоящего Федерального закона, за исключением органов контроля,
 осуществляющих такие полномочия в соответствии с частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l349),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l352)
+2,
+5
 указанной статьи, а также органов местного самоуправления муниципального
 района, муниципального округа или городского округа, уполномоченных на
-осуществление контроля в сфере закупок. (в ред. Федеральных законов [[от
+осуществление контроля в сфере закупок. (в ред. Федеральных законов от
 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l2),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l137))
+50-ФЗ,
+от 13.06.2023 N
+228-ФЗ)
 
 1.2. В случае возложения на органы контроля, указанные в части 1
 настоящей статьи, полномочий в соответствии с частями
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l349),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l352)
+2,
+5
 статьи 26 настоящего Федерального закона либо возложения на орган
 местного самоуправления муниципального района, орган местного
 самоуправления муниципального округа или орган местного самоуправления
 городского округа, уполномоченные на осуществление контроля в сфере
-закупок, полномочий, предусмотренных [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+закупок, полномочий, предусмотренных статьей
+26
 настоящего Федерального закона, не допускается возложение на одно
 должностное лицо такого органа обязанностей по осуществлению полномочий
 на планирование закупок, определение поставщиков (подрядчиков,
@@ -14385,10 +14385,10 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 исполнение, в том числе на приемку поставленных товаров, выполненных
 работ (их результатов), оказанных услуг, обеспечение их оплаты, и
 обязанностей по осуществлению контроля в отношении таких закупок. (в
-ред. Федеральных законов [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l2),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l139))
+ред. Федеральных законов от 01.04.2019 N
+50-ФЗ,
+от 13.06.2023 N
+228-ФЗ)
 
 2\. Контроль в сфере закупок органами контроля, указанными в пункте 1
 части 1 настоящей статьи, осуществляется в отношении заказчиков,
@@ -14401,49 +14401,49 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 организациями действий, предусмотренных настоящим Федеральным законом
 (далее - субъекты контроля), в соответствии с порядком, установленным
 Правительством Российской Федерации. Такой порядок предусматривает, в
-частности: (в ред. Федеральных законов [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2112))
+частности: (в ред. Федеральных законов от 01.04.2019 N
+50-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1\) порядок организации, предмет, форму, сроки, периодичность проведения
 проверок, порядок оформления результатов таких проверок. (в ред.
-Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 При этом при организации и осуществлении проверок учитывается отнесение
 субъекта контроля к определенной категории риска с учетом оценки
 вероятности несоблюдения соответствующих требований, установленных
 законодательством Российской Федерации и иными нормативными правовыми
 актами о контрактной системе в сфере закупок; (в ред. Федерального
-закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+закона от 01.04.2019 N
+50-ФЗ)
 
 2\) критерии отнесения субъекта контроля к определенной категории риска;
-(в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+(в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 3\) порядок, сроки направления и исполнения предписаний контрольных
-органов в сфере закупок; (в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+органов в сфере закупок; (в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 4\) перечень должностных лиц, уполномоченных на проведение проверок, их
-права, обязанности и ответственность; (в ред. Федерального закона [[от
+права, обязанности и ответственность; (в ред. Федерального закона от
 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+50-ФЗ)
 
 5\) порядок действий контрольных органов в сфере закупок, их должностных
 лиц при неисполнении субъектами контроля предписаний таких органов
 контроля, а также при получении информации о совершении субъектами
 контроля действий (бездействия), содержащих признаки административного
 правонарушения или уголовного преступления; (в ред. Федерального закона
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+от 01.04.2019 N
+50-ФЗ)
 
 6\) порядок использования единой информационной системы, а также ведения
 документооборота в единой информационной системе при осуществлении
-контроля. (в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l4))
+контроля. (в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 3\. Контроль в сфере закупок, за исключением контроля, предусмотренного
 частями 5, 8 и 10 настоящей статьи, с учетом части 4 настоящей статьи
@@ -14457,10 +14457,10 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 организаций) при осуществлении закупок для обеспечения федеральных нужд,
 в отношении операторов электронных площадок, операторов
 специализированных электронных площадок; (в ред. Федеральных законов
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2113))
+от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 б) внеплановых проверок в отношении субъектов контроля;
 
@@ -14471,15 +14471,15 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 а) плановых проверок в отношении субъектов контроля (за исключением
 банков, государственной корпорации \"ВЭБ.РФ\", региональных гарантийных
 организаций) при осуществлении закупок для обеспечения нужд субъекта
-Российской Федерации; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2114))
+Российской Федерации; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 б) внеплановых проверок в отношении субъектов контроля при осуществлении
 закупок для обеспечения нужд субъекта Российской Федерации и
 муниципальных нужд муниципальных образований, находящихся на территории
-субъекта Российской Федерации; (в ред. Федерального закона [[от
+субъекта Российской Федерации; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2114))
+360-ФЗ)
 
 3\) органом местного самоуправления муниципального района,
 муниципального округа или городского округа, уполномоченным на
@@ -14488,10 +14488,10 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 корпорации \"ВЭБ.РФ\", региональных гарантийных организаций) и
 внеплановых проверок в отношении субъектов контроля при осуществлении
 закупок для обеспечения муниципальных нужд. (в ред. Федеральных законов
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2116),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l139))
+от 02.07.2021 N
+360-ФЗ,
+от 13.06.2023 N
+228-ФЗ)
 
 3.1. На основании соглашений между субъектами Российской Федерации и
 находящимися на их территориях муниципальными образованиями органы
@@ -14500,68 +14500,68 @@ N 124-ФЗ, либо контракта, заключенного по резу�
 органов местного самоуправления муниципального района, органов местного
 самоуправления муниципального округа, органов местного самоуправления
 городского округа, уполномоченных на осуществление контроля в сфере
-закупок. (в ред. Федеральных законов [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l7),
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l141))
+закупок. (в ред. Федеральных законов от 01.04.2019 N
+50-ФЗ,
+от 13.06.2023 N
+228-ФЗ)
 
 4\. Контроль в отношении операторов электронных площадок, операторов
 специализированных электронных площадок осуществляется федеральным
 органом исполнительной власти, уполномоченным на осуществление контроля
 в сфере закупок, контрольным органом в сфере государственного оборонного
-заказа. (в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l7))
+заказа. (в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 5\. Федеральный орган исполнительной власти, осуществляющий
 правоприменительные функции по казначейскому обслуживанию исполнения
 бюджетов бюджетной системы Российской Федерации, финансовые органы
 субъектов Российской Федерации и муниципальных образований, органы
 управления государственными внебюджетными фондами осуществляют контроль
-за: (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l66))
+за: (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 24.02.2021 N
+20-ФЗ)
 
 1\) непревышением объема финансового обеспечения, включенного в
 планы-графики, над объемом финансового обеспечения для осуществления
 закупок, утвержденным и доведенным до заказчика; (в ред. Федерального
-закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+закона от 01.05.2019 N
+71-ФЗ)
 
 2\) соответствием информации об идентификационных кодах закупок и
 непревышением объема финансового обеспечения для осуществления данных
 закупок, содержащихся в предусмотренных настоящим Федеральным законом
 информации и документах, не подлежащих в соответствии с настоящим
 Федеральным законом формированию и размещению в единой информационной
-системе в сфере закупок. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+системе в сфере закупок. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 5.1. Федеральный орган исполнительной власти, определенный
-Правительством Российской Федерации в соответствии с [[частью
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l90)
+Правительством Российской Федерации в соответствии с частью
+6
 статьи 4 настоящего Федерального закона, осуществляет с использованием
 единой информационной системы в сфере закупок контроль за соответствием
 информации об идентификационных кодах закупок и непревышением объема
 финансового обеспечения для осуществления данных закупок, содержащихся
-в: (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+в: (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 1\) извещениях об осуществлении закупок, информации, содержащейся в
-планах-графиках; (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+планах-графиках; (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 2\) протоколах определения поставщиков (подрядчиков, исполнителей),
 информации, содержащейся в извещениях об осуществлении закупок; (в ред.
-Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 3\) условиях проектов контрактов, направляемых в соответствии с
 настоящим Федеральным законом с использованием единой информационной
 системы участникам закупок, с которыми заключаются контракты,
 информации, содержащейся в протоколах определения поставщиков
-(подрядчиков, исполнителей). (в ред. Федерального закона [[от 01.05.2019
+(подрядчиков, исполнителей). (в ред. Федерального закона от 01.05.2019
 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+71-ФЗ)
 
 6\. Порядок осуществления контроля, предусмотренного частями 5 и 5.1
 настоящей статьи, в том числе порядок действий органов контроля при
@@ -14569,10 +14569,10 @@ N
 Правительством Российской Федерации. В таком порядке Правительством
 Российской Федерации в дополнение к указанной в частях 5 и 5.1 настоящей
 статьи информации могут определяться иные информация и документы,
-подлежащие контролю. (в ред. Федеральных законов [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2116))
+подлежащие контролю. (в ред. Федеральных законов от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 7\. На основании соглашений с органами управления государственными
 внебюджетными фондами, высшими исполнительными органами государственной
@@ -14584,52 +14584,52 @@ N
 федеральному органу исполнительной власти, осуществляющему
 правоприменительные функции по казначейскому обслуживанию исполнения
 бюджетов бюджетной системы Российской Федерации. (в ред. Федерального
-закона [[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l66))
+закона от 24.02.2021 N
+20-ФЗ)
 
 8\. Органы внутреннего государственного (муниципального) финансового
 контроля осуществляют контроль (за исключением контроля,
 предусмотренного частью 10 настоящей статьи) в отношении: (в ред.
-Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067))
+Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-1\) пункт утратил силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l118))
+1\) пункт утратил силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
 2\) соблюдения правил нормирования в сфере закупок, установленных в
-соответствии со [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192)
-настоящего Федерального закона; (в ред. Федеральных законов [[от
+соответствии со статьей
+19
+настоящего Федерального закона; (в ред. Федеральных законов от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+396-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 3\) определения и обоснования начальной (максимальной) цены контракта,
 цены контракта, заключаемого с единственным поставщиком (подрядчиком,
 исполнителем), начальной цены единицы товара, работы, услуги, начальной
 суммы цен единиц товара, работы, услуги; (в ред. Федеральных законов
-[[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1067),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l20),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+от 28.12.2013 N
+396-ФЗ,
+от 01.04.2019 N
+50-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
-4\) пункт утратил силу. (в ред. Федерального закона [[от 27.12.2019 N
+4\) пункт утратил силу. (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 5\) соблюдения предусмотренных настоящим Федеральным законом требований
 к исполнению, изменению контракта, а также соблюдения условий контракта,
 в том числе в части соответствия поставленного товара, выполненной
 работы (ее результата) или оказанной услуги условиям контракта; (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
-6\) пункт утратил силу. (в ред. Федерального закона [[от 27.12.2019 N
+6\) пункт утратил силу. (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 7\) соответствия использования поставленного товара, выполненной работы
 (ее результата) или оказанной услуги целям осуществления закупки.
@@ -14642,11 +14642,11 @@ N
 Российской Федерации в отношении расходов, связанных с осуществлением
 закупок, достоверности учета таких расходов и отчетности в соответствии
 с настоящим Федеральным законом, Бюджетным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458966#l0)
+кодексом
 Российской Федерации и принимаемыми в соответствии с ними нормативными
-правовыми актами Российской Федерации: (в ред. Федерального закона [[от
+правовыми актами Российской Федерации: (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 1\) федеральным органом исполнительной власти, осуществляющим функции по
 контролю и надзору в финансово-бюджетной сфере, в отношении закупок для
@@ -14654,23 +14654,23 @@ N
 субъектов Российской Федерации, муниципальных нужд, финансовое
 обеспечение которых частично или полностью осуществляется за счет
 субсидий, субвенций, иных межбюджетных трансфертов, имеющих целевое
-назначение, из федерального бюджета; (в ред. Федеральных законов [[от
+назначение, из федерального бюджета; (в ред. Федеральных законов от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+396-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 2\) органом государственного финансового контроля, являющимся органом
 (должностными лицами) исполнительной власти субъекта Российской
 Федерации, в отношении закупок для обеспечения нужд субъекта Российской
-Федерации; (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+Федерации; (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 3\) органом муниципального финансового контроля, являющимся органом
 (должностными лицами) местной администрации, в отношении закупок для
-обеспечения муниципальных нужд. (в ред. Федерального закона [[от
+обеспечения муниципальных нужд. (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+396-ФЗ)
 
 10\. Контрольный орган в сфере государственного оборонного заказа
 осуществляет контроль в сфере закупок, за исключением контроля,
@@ -14682,53 +14682,53 @@ N
 не относятся к государственному оборонному заказу и сведения о которых
 составляют государственную тайну, и осуществляет в установленной сфере
 контроль в соответствии с настоящим Федеральным законом в отношении: (в
-ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 1\) соблюдения требований к обоснованию и обоснованности закупок; (в
-ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-2\) нормирования в сфере закупок, предусмотренного [[статьей
-19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192)
-настоящего Федерального закона; (в ред. Федерального закона [[от
+2\) нормирования в сфере закупок, предусмотренного статьей
+19
+настоящего Федерального закона; (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+396-ФЗ)
 
 3\) определения и обоснования начальной (максимальной) цены контракта,
 цены контракта, заключаемого с единственным поставщиком (подрядчиком,
 исполнителем), начальной цены единицы товара, работы, услуги, начальной
 суммы цен единиц товара, работы, услуги; (в ред. Федеральных законов
-[[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+от 28.12.2013 N
+396-ФЗ,
+от 01.05.2019 N
+71-ФЗ)
 
 4\) применения заказчиком мер ответственности и совершения иных действий
 в случае нарушения поставщиком (подрядчиком, исполнителем) условий
-контракта; (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+контракта; (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 5\) соответствия поставленного товара, выполненной работы (ее
-результата) или оказанной услуги; (в ред. Федерального закона [[от
+результата) или оказанной услуги; (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+396-ФЗ)
 
 6\) своевременности, полноты и достоверности отражения в документах
 учета поставленного товара, выполненной работы (ее результата) или
-оказанной услуги; (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+оказанной услуги; (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
 7\) соответствия использования поставленного товара, выполненной работы
 (ее результата) или оказанной услуги целям осуществления закупки. (в
-ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-11-11.1. Части утратили силу. (в ред. Федерального закона [[от
+11-11.1. Части утратили силу. (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 11.2. Федеральный орган исполнительной власти, осуществляющий функции по
 контролю и надзору в финансово-бюджетной сфере, проводит проверки
@@ -14739,17 +14739,17 @@ N
 установленным федеральным органом исполнительной власти, осуществляющим
 функции по выработке государственной политики и нормативно-правовому
 регулированию в сфере бюджетной, налоговой, страховой, валютной,
-банковской деятельности. (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+банковской деятельности. (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 12\. При проведении плановых и внеплановых проверок не подлежат контролю
 результаты оценки заявок участников закупок в соответствии с критериями,
 установленными пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l436)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l437)
+4
 части 1 статьи 32 настоящего Федерального закона. Такие результаты могут
 быть обжалованы участниками закупок в судебном порядке.
 
@@ -14759,8 +14759,8 @@ N
 уполномоченного учреждения, оператора электронной площадки, оператора
 специализированной электронной площадки плановые проверки проводятся
 контрольным органом в сфере закупок не чаще чем один раз в шесть
-месяцев. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+месяцев. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
 14\. Плановые проверки проводятся в отношении каждой специализированной
 организации, комиссии по осуществлению закупки, за исключением указанной
@@ -14773,63 +14773,63 @@ N
 
 1\) получение обращения участника закупки с жалобой на действия
 (бездействие) субъектов контроля. Рассмотрение такой жалобы
-осуществляется в порядке, установленном [[главой
-6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8557)
+осуществляется в порядке, установленном главой
+6
 настоящего Федерального закона, за исключением случая обжалования
 действий (бездействия), предусмотренного частью 15.1 настоящей статьи. В
 случае, если внеплановая проверка проводится на основании жалобы
 участника закупки, по результатам проведения указанной проверки и
 рассмотрения такой жалобы принимается единое решение; (в ред.
-Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l20),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2116))
+Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.04.2019 N
+50-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\) получение информации о признаках нарушения законодательства
 Российской Федерации и иных нормативных правовых актов о контрактной
-системе в сфере закупок, в том числе: (в ред. Федерального закона [[от
+системе в сфере закупок, в том числе: (в ред. Федерального закона от
 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l20))
+50-ФЗ)
 
 а) заявления, сообщения физического лица, юридического лица либо
 осуществляющих общественный контроль общественного объединения или
 объединения юридических лиц, в которых указывается на наличие признаков
 нарушения законодательства Российской Федерации и иных нормативных
 правовых актов о контрактной системе в сфере закупок; (в ред.
-Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l20))
+Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 б) обнаружение контрольным органом в сфере закупок признаков нарушения
 законодательства Российской Федерации и иных нормативных правовых актов
-о контрактной системе в сфере закупок; (в ред. Федерального закона [[от
+о контрактной системе в сфере закупок; (в ред. Федерального закона от
 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l20))
+50-ФЗ)
 
 в) сообщение средства массовой информации, в котором указывается на
 наличие признаков нарушения законодательства Российской Федерации и иных
 нормативных правовых актов о контрактной системе в сфере закупок; (в
-ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l20))
+ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 3\) истечение срока исполнения ранее выданного в соответствии с пунктом
 2 части 22 настоящей статьи предписания; (в ред. Федеральных законов
-[[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l22))
+от 28.12.2013 N
+396-ФЗ,
+от 01.04.2019 N
+50-ФЗ)
 
 4\) получение обращения о согласовании заключения контракта с
 единственным поставщиком (подрядчиком, исполнителем); (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 5\) получение обращения о включении информации об участнике закупки или
 о поставщике (подрядчике, исполнителе) в реестр недобросовестных
 поставщиков (подрядчиков, исполнителей). (в ред. Федерального закона
-[[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35))
+от 30.12.2020 N
+539-ФЗ)
 
 15.1. Обращение с жалобой на действия (бездействие) лиц, указанных в
 пункте 1 части 15 настоящей статьи, и информация, указывающая на наличие
@@ -14837,19 +14837,19 @@ N
 нормативных правовых актов о контрактной системе в сфере закупок
 положениями документации о закупке, извещения о запросе котировок,
 поступившие от физического лица, которое не соответствует требованиям
-[[пункта
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l397)
+пункта
+1
 части 1 статьи 31 настоящего Федерального закона в отношении объекта
 этой закупки и права и законные интересы которого не нарушены такими
 действиями (бездействием), положениями этих документации, извещения,
 рассматриваются контрольным органом в сфере закупок в соответствии с
-Федеральным законом [[от 2 мая 2006 года N
-59-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455574#l0)
+Федеральным законом от 2 мая 2006 года N
+59-ФЗ
 \"О порядке рассмотрения обращений граждан Российской Федерации\". (в
-ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l22))
+ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 01.04.2019 N
+50-ФЗ)
 
 16\. Внеплановая проверка по основанию, предусмотренному пунктом 3 части
 15 настоящей статьи, проводится контрольным органом в сфере закупок,
@@ -14865,8 +14865,8 @@ N
 органа исполнительной власти, органа исполнительной власти субъекта
 Российской Федерации, которые приняты по результатам проведения
 внеплановых проверок одной и той же закупки. (в ред. Федерального закона
-[[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l142))
+от 13.06.2023 N
+228-ФЗ)
 
 18\. Решение уполномоченного на осуществление контроля в сфере закупок
 органа исполнительной власти субъекта Российской Федерации, которое
@@ -14896,8 +14896,8 @@ N
 же закупкой решения в отношении одних и тех же действий (бездействия)
 субъектов контроля, выполняется решение, принятое федеральным органом
 исполнительной власти, уполномоченным на осуществление контроля в сфере
-закупок. (в ред. Федерального закона [[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l142))
+закупок. (в ред. Федерального закона от 13.06.2023 N
+228-ФЗ)
 
 20\. При принятии решения по результатам проведения внеплановой проверки
 органом исполнительной власти субъекта Российской Федерации,
@@ -14918,8 +14918,8 @@ N
 одних и тех же действий (бездействия) субъектов контроля, выполняется
 решение, принятое органом исполнительной власти субъекта Российской
 Федерации, уполномоченным на осуществление контроля в сфере закупок. (в
-ред. Федерального закона [[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l142))
+ред. Федерального закона от 13.06.2023 N
+228-ФЗ)
 
 21\. Информация о проведении контрольными органами в сфере закупок и
 органами внутреннего государственного (муниципального) финансового
@@ -14930,20 +14930,20 @@ N
 реестра, включающий в себя, в частности, перечень размещаемых документов
 и информации, сроки размещения таких документов и информации в данном
 реестре утверждаются Правительством Российской Федерации. (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 22\. При выявлении в результате проведения контрольным органом в сфере
 закупок плановых и внеплановых проверок, а также в результате
 рассмотрения жалобы на действия (бездействие) субъектов контроля
 нарушений законодательства Российской Федерации и иных нормативных
 правовых актов о контрактной системе в сфере закупок контрольный орган в
-сфере закупок вправе: (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2118))
+сфере закупок вправе: (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 1\) составлять протоколы об административных правонарушениях, связанных
 с нарушениями законодательства Российской Федерации и иных нормативных
@@ -14959,7 +14959,7 @@ N
 
 3\) обращаться в суд, арбитражный суд с исками о признании
 осуществленных закупок недействительными в соответствии с Гражданским
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455647#l0)
+кодексом
 Российской Федерации.
 
 23\. Предписание об устранении нарушения законодательства Российской
@@ -14969,33 +14969,33 @@ N
 совершить лицо, получившее такое предписание, для устранения указанного
 нарушения. Контракт не может быть заключен до даты исполнения
 предписания, представления, предусмотренных настоящей статьей. (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 24\. В течение трех рабочих дней с даты выдачи предписания,
 представления соответствующий орган контроля обязан разместить такие
 предписание, представление в единой информационной системе. (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l22),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2118))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 01.04.2019 N
+50-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 25\. В случае поступления информации о неисполнении выданного в
 соответствии с пунктом 2 части 22 настоящей статьи предписания
 соответствующий орган контроля вправе применить к не исполнившему такого
 предписания лицу меры ответственности в соответствии с законодательством
-Российской Федерации. (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l22),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Российской Федерации. (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 01.04.2019 N
+50-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 26\. При проведении плановых и внеплановых проверок должностные лица
 контрольного органа в сфере закупок в соответствии с их полномочиями
@@ -15014,14 +15014,14 @@ N
 документы и информация, размещенные на официальном сайте, не
 соответствуют документам и информации, составленным при осуществлении
 закупки, приоритет имеют документы и информация, размещенные на
-официальном сайте. (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2119))
+официальном сайте. (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
-27\. Часть утратила силу. (в ред. Федерального закона [[от 27.12.2019 N
+27\. Часть утратила силу. (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 27.1. Должностные лица федерального органа исполнительной власти,
 осуществляющего функции по контролю и надзору в финансово-бюджетной
@@ -15031,10 +15031,10 @@ N
 финансового контроля, являющимися органами (должностными лицами)
 исполнительной власти субъектов Российской Федерации (местных
 администраций), осуществлены мероприятия по контролю в соответствии с
-частью 8 настоящей статьи. (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+частью 8 настоящей статьи. (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 04.06.2014 N
+140-ФЗ)
 
 28\. Субъекты контроля обязаны представлять в контрольный орган в сфере
 закупок и органы внутреннего государственного (муниципального)
@@ -15049,40 +15049,40 @@ N
 органы контроля обязаны передать в правоохранительные органы информацию
 о таком факте и (или) документы, подтверждающие такой факт, в течение
 трех рабочих дней с даты выявления такого факта. (в ред. Федерального
-закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+закона от 28.12.2013 N
+396-ФЗ)
 
 30\. Полученные органами контроля при осуществлении своих полномочий
 сведения, составляющие государственную тайну, и иная информация, доступ
 к которой ограничен в соответствии с федеральными законами, не подлежат
 разглашению, за исключением случаев, предусмотренных федеральными
-законами. (в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l22))
+законами. (в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 31\. Особенности осуществления предусмотренного частью 10 настоящей
 статьи контроля в сфере государственного оборонного заказа могут быть
-установлены Федеральным законом [[от 29 декабря 2012 года N
-275-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=446017#l0)
+установлены Федеральным законом от 29 декабря 2012 года N
+275-ФЗ
 \"О государственном оборонном заказе\".
 
 32\. Оценка эффективности деятельности органов контроля, указанных в
 части 1 настоящей статьи, осуществляется в порядке, установленном
 Правительством Российской Федерации. Такой порядок предусматривает, в
-частности: (в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l12))
+частности: (в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 1\) показатели контрольно-надзорной деятельности; (в ред. Федерального
-закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l12))
+закона от 01.04.2019 N
+50-ФЗ)
 
 2\) механизм сбора информации о деятельности указанных органов контроля;
-(в ред. Федерального закона [[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l12))
+(в ред. Федерального закона от 01.04.2019 N
+50-ФЗ)
 
 3\) порядок анализа показателей контрольно-надзорной деятельности и
 применения результатов указанного анализа. (в ред. Федерального закона
-[[от 01.04.2019 N
-50-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=332613#l12))
+от 01.04.2019 N
+50-ФЗ)
 
 **Статья 100. Ведомственный контроль в сфере закупок**
 
@@ -15095,8 +15095,8 @@ N
 заказчиков в порядке, установленном соответственно Правительством
 Российской Федерации, высшим исполнительным органом государственной
 власти субъекта Российской Федерации, местной администрацией. (в ред.
-Федерального закона [[от 13.07.2015 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231))
+Федерального закона от 13.07.2015 N
+216-ФЗ)
 
 **Статья 101. Контроль в сфере закупок, осуществляемый заказчиком**
 
@@ -15104,8 +15104,8 @@ N
 (подрядчиком, исполнителем) условий контракта в соответствии с
 законодательством Российской Федерации.
 
-2\. Заказчик обязан осуществлять контроль за предусмотренным [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l391)
+2\. Заказчик обязан осуществлять контроль за предусмотренным частью
+5
 статьи 30 настоящего Федерального закона привлечением поставщиком
 (подрядчиком, исполнителем) к исполнению контракта субподрядчиков,
 соисполнителей из числа субъектов малого предпринимательства и социально
@@ -15178,37 +15178,37 @@ N
 контрактов, заключенных заказчиками (далее - реестр контрактов). В
 реестр контрактов не включается информация о контрактах, заключенных в
 соответствии с пунктами
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1655)
+4
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1655)
-(за исключением контрактов, заключенных в соответствии с [[частью
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8464)
+5
+(за исключением контрактов, заключенных в соответствии с частью
+12
 статьи 93 настоящего Федерального закона), пунктами
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7067),
-[[42]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1697),
-[[44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1699)
-и [[пунктом
-46]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1701)
+23,
+42,
+44
+и пунктом
+46
 (в части контрактов, заключаемых с физическими лицами) части 1 статьи 93
-настоящего Федерального закона. (в ред. Федеральных законов [[от
+настоящего Федерального закона. (в ред. Федеральных законов от
 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2),
-[[от 30.12.2015 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265193#l3),
-[[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l3),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3),
-[[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l66),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2119))
+498-ФЗ,
+от 13.07.2015 N
+227-ФЗ,
+от 30.12.2015 N
+469-ФЗ,
+от 26.07.2017 N
+198-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 24.02.2021 N
+20-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\. В реестр контрактов включаются следующие информация и документы: (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2119))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) наименование заказчика;
 
@@ -15226,8 +15226,8 @@ N
 контракта) и срок исполнения контракта (отдельного этапа исполнения
 контракта), цена единицы товара, работы или услуги, наименование страны
 происхождения или информация о производителе товара в отношении
-исполненного контракта; (в ред. Федерального закона [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71))
+исполненного контракта; (в ред. Федерального закона от 27.12.2018 N
+502-ФЗ)
 
 7\) наименование, место нахождения (для юридического лица), фамилия,
 имя, отчество (при наличии), место жительства (для физического лица),
@@ -15244,18 +15244,18 @@ N
 Архивного фонда Российской Федерации, национального библиотечного фонда,
 кино-, фотофондов и аналогичных фондов, о физическом лице, с которым
 заключен контракт в соответствии с пунктами
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1665)
+13
 и
-[[17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1669)
+17
 части 1 статьи 93 настоящего Федерального закона; (в ред. Федеральных
-законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-70-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403988#l3),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+законов от 28.12.2013 N
+396-ФЗ,
+от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+70-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 8\) информация об изменении контракта с указанием условий контракта,
 которые были изменены;
@@ -15264,8 +15264,8 @@ N
 настоящим Федеральным законом по результатам проведения электронных
 процедур, закрытых электронных процедур, копия заключенного контракта,
 подписанная усиленной электронной подписью заказчика; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2120))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 10\) информация об исполнении контракта (отдельного этапа исполнения
 контракта), в том числе информация о стоимости исполненных обязательств
@@ -15278,12 +15278,12 @@ N
 исполнения контракта) (в случае привлечения заказчиком для проведения
 экспертизы отдельного этапа исполнения контракта, поставленного товара,
 выполненной работы или оказанной услуги экспертов, экспертных
-организаций); (в ред. Федеральных законов [[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2120))
+организаций); (в ред. Федеральных законов от 27.12.2018 N
+502-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 11\) информация о расторжении контракта с указанием оснований его
 расторжения;
@@ -15292,35 +15292,35 @@ N
 
 13\) информация о приемке поставленного товара, выполненной работы (ее
 результатов), оказанной услуги, отдельных этапов исполнения контракта с
-приложением документа о приемке; (в ред. Федерального закона [[от
+приложением документа о приемке; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2121))
+360-ФЗ)
 
-14\) решение врачебной комиссии, предусмотренное [[подпунктом
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8621)
-пункта 2 части 10 статьи 24, [[подпунктом
-\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l10118)
-пункта 1 части 1 статьи 33 и [[пунктом
-28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1683)
+14\) решение врачебной комиссии, предусмотренное подпунктом
+\"г\"
+пункта 2 части 10 статьи 24, подпунктом
+\"г\"
+пункта 1 части 1 статьи 33 и пунктом
+28
 части 1 статьи 93 настоящего Федерального закона, с обеспечением
 предусмотренного законодательством Российской Федерации в области
 персональных данных обезличивания персональных данных; (в ред.
-Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 31.12.2017 N
+504-ФЗ)
 
 15\) иные информация и документы, определенные порядком ведения реестра
-контрактов. (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+контрактов. (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-***Положения части 3 статьи 103 (в редакции Федерального закона [[от
+***Положения части 3 статьи 103 (в редакции Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l0)),
+360-ФЗ),
 касающиеся направления контракта с использованием ЕИС, не применяются в
 отношении закупок, извещения (приглашения) о которых размещены
-(направлены) с 01.01.2022 до 01.04.2024 ([[часть
-11]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435357#l2216)
+(направлены) с 01.01.2022 до 01.04.2024 (часть
+11
 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 3\. В течение пяти рабочих дней с даты заключения контракта заказчик
@@ -15350,18 +15350,18 @@ N
 соответствии с частью 6 настоящей статьи, не позднее трех рабочих дней
 со дня, следующего за днем подписания таких контракта, соглашений,
 вступления в силу решения, в день подписания документа о приемке. (в
-ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 27.12.2018 N
-502-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403772#l71),
-[[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l66),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2121),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l8))
+ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 27.12.2018 N
+502-ФЗ,
+от 24.02.2021 N
+20-ФЗ,
+от 02.07.2021 N
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ,
+от 04.11.2022 N
+420-ФЗ)
 
 4\. Федеральный орган исполнительной власти, осуществляющий
 правоприменительные функции по казначейскому обслуживанию исполнения
@@ -15381,63 +15381,63 @@ N
 позднее одного рабочего дня с момента ее направления в соответствии с
 настоящей статьей. В случае несоответствия информации и документов
 указанным требованиям такие информация и документы не подлежат
-размещению в реестре контрактов. (в ред. Федеральных законов [[от
+размещению в реестре контрактов. (в ред. Федеральных законов от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2123),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+360-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 5\. Информация и документы, содержащиеся в реестре контрактов,
 размещаются на официальном сайте, за исключением осуществления закупок:
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2123))
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) в случаях, предусмотренных пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8624),
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8624),
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8625),
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8625)
+2,
+3,
+4,
+6
 и
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8625)
-части 11, [[частью
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8627)
+7
+части 11, частью
+12
 статьи 24, пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9414),
-[[7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7946),
-[[20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1672),
-[[21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1673),
-[[24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9408),
-[[26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7079),
-[[30]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1685),
-[[40]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8378),
-[[41]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1696),
-[[45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7092),
-[[50]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1705) -
-[[52]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1707),
-[[56]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7465),
-[[59]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9420),
-[[61]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9422) -
-[[63]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l10101)
+3,
+7,
+20,
+21,
+24,
+26,
+30,
+40,
+41,
+45,
+50 -
+52,
+56,
+59,
+61 -
+63
 части 1 статьи 93 настоящего Федерального закона; (в ред. Федеральных
-законов [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2123),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l8),
-[[от 02.11.2023 N
-510-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=458848#l7))
+законов от 02.07.2021 N
+360-ФЗ,
+от 04.11.2022 N
+420-ФЗ,
+от 02.11.2023 N
+510-ФЗ)
 
-2\) заказчиками, предусмотренными [[пунктом
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8648)
+2\) заказчиками, предусмотренными пунктом
+5
 части 11 статьи 24 настоящего Федерального закона; (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2124))
+закона от 02.07.2021 N
+360-ФЗ)
 
-3\) в отношении которых в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7187)
+3\) в отношении которых в соответствии с частью
+1
 статьи 111 настоящего Федерального закона определены особенности,
 предусматривающие неразмещение информации и документов на официальном
-сайте. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2124))
+сайте. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 6\. Порядок ведения реестра контрактов устанавливается Правительством
 Российской Федерации.
@@ -15447,38 +15447,38 @@ N
 ведения которого устанавливается Правительством Российской Федерации.
 Указанная информация не подлежит опубликованию в средствах массовой
 информации и размещению в информационно-телекоммуникационной сети
-\"Интернет\". (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2124))
+\"Интернет\". (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 8\. Контракты, информация о которых не включена в реестр контрактов, не
 подлежат оплате, за исключением договоров, заключенных в соответствии с
 пунктами
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1655),
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7056),
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1675),
-[[42]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1697),
-[[44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1699)
-и [[пунктом
-46]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7093)
+4,
+5,
+23,
+42,
+44
+и пунктом
+46
 (в части контрактов, заключаемых с физическими лицами) части 1 статьи 93
-настоящего Федерального закона. (в ред. Федеральных законов [[от
+настоящего Федерального закона. (в ред. Федеральных законов от
 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 13.07.2015 N
-227-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404337#l2),
-[[от 30.12.2015 N
-469-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=265193#l3),
-[[от 26.07.2017 N
-198-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297790#l3),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2667))
+498-ФЗ,
+от 13.07.2015 N
+227-ФЗ,
+от 30.12.2015 N
+469-ФЗ,
+от 26.07.2017 N
+198-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 9\. Данные, содержащиеся в информации и документах, предусмотренных
 пунктами 10 и 13 части 2 настоящей статьи, подлежат регистрации в
 регистрах бухгалтерского учета после включения таких информации и
 документов в реестр контрактов в соответствии с настоящей статьей. (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2667))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 104. Реестр недобросовестных поставщиков (подрядчиков,
 исполнителей)**
@@ -15488,23 +15488,23 @@ N
 осуществляется в единой информационной системе путем размещения в ней
 федеральным органом исполнительной власти, уполномоченным на
 осуществление контроля в сфере закупок, информации, предусмотренной
-настоящей статьей. (в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2667))
+настоящей статьей. (в ред. Федерального закона от 30.12.2020 N
+539-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 2\. В реестр недобросовестных поставщиков включается информация об
 участниках закупок, уклонившихся от заключения контрактов, а также о
 поставщиках (подрядчиках, исполнителях), не исполнивших или ненадлежащим
 образом исполнивших обязательства, предусмотренные контрактами. (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 3\. В реестр недобросовестных поставщиков включается следующая
 информация об участниках закупок, поставщиках (подрядчиках,
 исполнителях), указанных в части 2 настоящей статьи: (в ред.
-Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35))
+Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 1\) полное и сокращенное (при наличии) наименования юридического лица, в
 том числе иностранного юридического лица (если участником закупки,
@@ -15518,8 +15518,8 @@ N
 налогоплательщика или для иностранного лица в соответствии с
 законодательством соответствующего иностранного государства аналог
 идентификационного номера налогоплательщика; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2127))
+от 02.07.2021 N
+360-ФЗ)
 
 2\) фамилии, имена, отчества (при наличии), идентификационные номера
 налогоплательщика (аналог идентификационного номера налогоплательщика в
@@ -15534,17 +15534,17 @@ N
 номер налогоплательщика (аналог идентификационного номера
 налогоплательщика в соответствии с законодательством соответствующего
 иностранного государства для иностранного лица); (в ред. Федерального
-закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35))
+закона от 30.12.2020 N
+539-ФЗ)
 
 3\) наименования, фамилии, имена, отчества (при наличии),
 идентификационные номера налогоплательщика (аналог идентификационного
 номера налогоплательщика в соответствии с законодательством
 соответствующего иностранного государства для иностранного лица), за
 исключением наименования и идентификационного номера налогоплательщика
-публично-правового образования: (в ред. Федерального закона [[от
+публично-правового образования: (в ред. Федерального закона от
 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35))
+539-ФЗ)
 
 а) участников (членов) корпоративного юридического лица, способных
 оказывать влияние на деятельность этого юридического лица - участника
@@ -15555,55 +15555,55 @@ N
 двадцатью пятью процентами акций (долей, паев) корпоративного
 юридического лица. Лицо признается аффилированным в соответствии с
 требованиями антимонопольного законодательства Российской Федерации; (в
-ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35))
+ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 б) учредителей унитарного юридического лица; (в ред. Федерального закона
-[[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l35))
+от 30.12.2020 N
+539-ФЗ)
 
 4\) номер реестровой записи в едином реестре участников закупок (при
 проведении электронных процедур, закрытых электронных процедур); (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2127))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\) идентификационный код закупки. Информация, предусмотренная настоящим
 пунктом, не размещается на официальном сайте; (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2670))
+закона от 02.07.2021 N
+360-ФЗ)
 
-6\) пункт утратил силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2670))
+6\) пункт утратил силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 7\) дата внесения указанной информации в реестр недобросовестных
 поставщиков.
 
 4\. Заказчик либо уполномоченный орган или уполномоченное учреждение,
-наделенные полномочиями в соответствии со [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+наделенные полномочиями в соответствии со статьей
+26
 настоящего Федерального закона, направляет в федеральный орган
 исполнительной власти, уполномоченный на осуществление контроля в сфере
 закупок, обращение о включении информации об участнике закупки или о
 поставщике (подрядчике, исполнителе) в реестр недобросовестных
-поставщиков в срок, предусмотренный [[подпунктом
-\"б\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9187)
-пункта 2 части 6 статьи 51, [[подпунктом
-\"в\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9341)
+поставщиков в срок, предусмотренный подпунктом
+\"б\"
+пункта 2 части 6 статьи 51, подпунктом
+\"в\"
 пункта 4 части 14 статьи 73, частями
-[[16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1771)
+16
 и
-[[22.2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9540)
+22.2
 статьи 95 настоящего Федерального закона, или не позднее двух рабочих
 дней, следующих за днем поступления заказчику решения суда о расторжении
 контракта в связи с существенным нарушением поставщиком (подрядчиком,
-исполнителем) условий контракта. (в ред. Федеральных законов [[от
+исполнителем) условий контракта. (в ред. Федеральных законов от
 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l11),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+539-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
-5-6. утратили силу. (в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l11))
+5-6. утратили силу. (в ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 7\. В течение пяти рабочих дней с даты поступления обращения, указанного
 в части 4 настоящей статьи, федеральный орган исполнительной власти,
@@ -15622,10 +15622,10 @@ N
 реестр недобросовестных поставщиков информации о лицах, указанных в
 части 2 настоящей статьи, такая информация включается в этот реестр не
 позднее трех рабочих дней с даты принятия данного решения. (в ред.
-Федеральных законов [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федеральных законов от 30.12.2020 N
+539-ФЗ,
+от 16.04.2022 N
+104-ФЗ)
 
 8\. Информация, содержащаяся в реестре недобросовестных поставщиков,
 размещается в единой информационной системе и должна быть доступна для
@@ -15638,43 +15638,43 @@ N
 информацию в указанном реестре в соответствии с требованиями части 7
 настоящей статьи, либо до истечения этого срока в случае получения
 федеральным органом исполнительной власти, уполномоченным на
-осуществление контроля в сфере закупок: (в ред. Федерального закона [[от
+осуществление контроля в сфере закупок: (в ред. Федерального закона от
 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+539-ФЗ)
 
-1\) решения суда о: (в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+1\) решения суда о: (в ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 а) признании недействительным решения федерального органа исполнительной
 власти, уполномоченного на осуществление контроля в сфере закупок, о
 включении информации об участнике закупки, поставщике (подрядчике,
 исполнителе) в реестр недобросовестных поставщиков; (в ред. Федерального
-закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+закона от 30.12.2020 N
+539-ФЗ)
 
 б) признании одностороннего отказа заказчика от исполнения контракта
-незаконным или недействительным; (в ред. Федерального закона [[от
+незаконным или недействительным; (в ред. Федерального закона от
 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+539-ФЗ)
 
 2\) информации, подтверждающей невозможность влияния лиц, указанных в
 пунктах 2 и 3 части 3 настоящей статьи, на деятельность участника
 закупки, поставщика (подрядчика, исполнителя), по состоянию на день
 признания участника закупки уклонившимся от заключения контракта или на
-день расторжения контракта. (в ред. Федерального закона [[от 30.12.2020
+день расторжения контракта. (в ред. Федерального закона от 30.12.2020
 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+539-ФЗ)
 
 10\. Правительством Российской Федерации устанавливается порядок ведения
 реестра недобросовестных поставщиков, который предусматривает, в
-частности: (в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+частности: (в ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 1\) порядок направления обращения о включении информации об участнике
 закупки или о поставщике (подрядчике, исполнителе) в реестр
 недобросовестных поставщиков, требования к составу, содержанию, форме
-такого обращения; (в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+такого обращения; (в ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 2\) порядок рассмотрения федеральным органом исполнительной власти,
 уполномоченным на осуществление контроля в сфере закупок, обращения о
@@ -15687,37 +15687,37 @@ N
 (подрядчике, исполнителе) в реестр недобросовестных поставщиков, если
 надлежащее исполнение поставщиком (подрядчиком, исполнителем) условий
 контракта оказалось невозможным вследствие обстоятельств непреодолимой
-силы; (в ред. Федеральных законов [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l9))
+силы; (в ред. Федеральных законов от 30.12.2020 N
+539-ФЗ,
+от 28.04.2023 N
+154-ФЗ)
 
 3\) порядок направления решения о включении информации об участнике
 закупки, о поставщике (подрядчике, исполнителе) в реестр
 недобросовестных поставщиков либо решения об отказе в таком включении;
-(в ред. Федерального закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+(в ред. Федерального закона от 30.12.2020 N
+539-ФЗ)
 
 4\) порядок исключения информации, предусмотренной частью 3 настоящей
 статьи, из реестра недобросовестных поставщиков. (в ред. Федерального
-закона [[от 30.12.2020 N
-539-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380039#l12))
+закона от 30.12.2020 N
+539-ФЗ)
 
 11\. Включение в реестр недобросовестных поставщиков информации об
 участнике закупки, о поставщике (подрядчике, исполнителе), содержащаяся
 в реестре недобросовестных поставщиков информация, неисполнение
 действий, предусмотренных частью 9 настоящей статьи, могут быть
 обжалованы заинтересованным лицом в судебном порядке. (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 **Глава 6. ОБЖАЛОВАНИЕ ДЕЙСТВИЙ (БЕЗДЕЙСТВИЯ) СУБЪЕКТОВ КОНТРОЛЯ (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2670))**
+Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 **Статья 105. Порядок подачи жалобы на действия (бездействие) субъектов
-контроля (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2129))**
+контроля (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)**
 
 1\. При проведении конкурентных способов, при осуществлении закупки,
 осуществляемой в соответствии с частью 12 статьи 93 настоящего
@@ -15729,8 +15729,8 @@ N
 закупки. При этом обжалование действий (бездействия) субъекта
 (субъектов) контроля в порядке, установленном настоящей главой, не
 является препятствием для обжалования таких действий (бездействия) в
-судебном порядке. (в ред. Федерального закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l54))
+судебном порядке. (в ред. Федерального закона от 25.12.2023 N
+624-ФЗ)
 
 2\. Подача участником закупки жалобы на действия (бездействие) субъекта
 (субъектов) контроля (далее также - жалоба) в контрольный орган в сфере
@@ -15766,8 +15766,8 @@ N
 заявки на участие в закупке, при размещении на электронной площадке
 предварительного предложения, может быть подана не позднее пяти дней со
 дня совершения обжалуемых действий (бездействия); (в ред. Федерального
-закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+закона от 16.04.2022 N
+104-ФЗ)
 
 4\) жалоба на действия (бездействие) субъекта (субъектов) контроля,
 совершенные при заключении контракта после размещения в единой
@@ -15776,8 +15776,8 @@ N
 проведении закрытого конкурса, закрытого аукциона), может быть подана
 участником закупки, с которым заключается контракт, или участником
 закупки, признанным уклонившимся от заключения контракта, не позднее
-даты заключения контракта; (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+даты заключения контракта; (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 5\) подача одной жалобы на действия (бездействие) субъекта (субъектов)
 контроля, совершенные при осуществлении нескольких закупок, не
@@ -15811,8 +15811,8 @@ N
 предусмотренные частью 3 настоящей статьи, исключительно с
 использованием единой информационной системы путем формирования и
 размещения в этой системе следующей информации: (в ред. Федерального
-закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l50))
+закона от 16.04.2022 N
+104-ФЗ)
 
 1\) наименование контрольного органа в сфере закупок, предусмотренного
 частью 3 настоящей статьи, в который подается жалоба на действия
@@ -15830,9 +15830,9 @@ N
 электронной площадке предварительного предложения. Указание нескольких
 идентификационных кодов закупки (за исключением кодов закупок,
 предусмотренных статьями
-[[25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9660)
+25
 и
-[[26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+26
 настоящего Федерального закона) не допускается;
 
 4\) наименование субъекта (субъектов) контроля, действия которого
@@ -15843,37 +15843,37 @@ N
 
 6\) номер реестровой записи в реестре контрактов, заключенных
 заказчиками, или в реестре договоров, заключенных заказчиками,
-предусмотренных Федеральным законом [[от 18 июля 2011 года N
-223-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455403#l0)
+предусмотренных Федеральным законом от 18 июля 2011 года N
+223-ФЗ
 \"О закупках товаров, работ, услуг отдельными видами юридических
-лиц\", - в отношении контракта или договора, предусмотренных [[частью
-2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8707)
+лиц\", - в отношении контракта или договора, предусмотренных частью
+2.1
 статьи 31 настоящего Федерального закона, стоимость и срок исполненных
 обязательств по которым соответствуют требованиям указанной части (в
-случае установления требований в соответствии с [[частью
-2.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8707)
+случае установления требований в соответствии с частью
+2.1
 статьи 31 настоящего Федерального закона) и информация об исполнении
 которых в соответствии с настоящим Федеральным законом размещена в
 единой информационной системе.
 
 ***Информация в соответствии с частью 5 статьи 105 (в редакции
 Федерального закона от 02.07.2021 N 360-ФЗ) не размещается в реестре,
-предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1881)
+предусмотренном частью
+21
 статьи 99, в случаях, предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9615) -
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9615)
+1 -
+3
 части 5 статьи 105 (в редакции Федерального закона от 02.07.2021 N
-360-ФЗ), а также в случае несоответствия требованиям [[пункта
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2200)
-статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ ([[подпункт
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2216)
+360-ФЗ), а также в случае несоответствия требованиям пункта
+1
+статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ (подпункт
+2
 пункта 10 статьи 8 Федерального закона от 02.07.2021 N 360-ФЗ).***
 
 5\. Информация, предусмотренная частью 4 настоящей статьи, автоматически
 размещается с использованием единой информационной системы в реестре,
-предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7135)
+предусмотренном частью
+21
 статьи 99 настоящего Федерального закона, за исключением случаев:
 
 1\) если участник закупки не зарегистрирован в единой информационной
@@ -15888,15 +15888,15 @@ N
 о членах коллегиального исполнительного органа, лице, исполняющем
 функции единоличного исполнительного органа участника закупки -
 юридического лица, при условии установления заказчиком требования,
-предусмотренного [[частью
-1.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8706)
+предусмотренного частью
+1.1
 статьи 31 настоящего Федерального закона.
 
 6\. Участник закупки вправе отозвать с использованием единой
 информационной системы поданную им жалобу до даты ее рассмотрения по
 существу контрольным органом в сфере закупок путем формирования и
-размещения в реестре, предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7135)
+размещения в реестре, предусмотренном частью
+21
 статьи 99 настоящего Федерального закона, информации об отзыве жалобы,
 которая размещается в таком реестре автоматически. В этом случае жалоба
 контрольным органом в сфере закупок по существу не рассматривается. При
@@ -15910,22 +15910,22 @@ N
 действовать от имени участника закупки. Такая информация считается
 направленной, а жалоба считается отозванной с момента размещения
 соответствующей информации в соответствии с настоящей статьей в реестре,
-предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7135)
+предусмотренном частью
+21
 статьи 99 настоящего Федерального закона.
 
 8\. Не позднее двух рабочих дней со дня, следующего за днем размещения в
 соответствии с частью 5 настоящей статьи информации, предусмотренной
-частью 4 настоящей статьи, в реестре, предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7135)
+частью 4 настоящей статьи, в реестре, предусмотренном частью
+21
 статьи 99 настоящего Федерального закона, контрольный орган в сфере
 закупок размещает (за исключением случая, предусмотренного частью 6
 настоящей статьи) в таком реестре информацию:
 
 1\) о принятии жалобы к рассмотрению по существу с указанием даты,
 времени и места ее рассмотрения, о возможности использования систем
-видео-конференц-связи в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1988)
+видео-конференц-связи в соответствии с частью
+2
 статьи 106 настоящего Федерального закона;
 
 2\) об отказе (с обоснованием такого отказа) в принятии жалобы к
@@ -15937,8 +15937,8 @@ N
 контроля принято решение суда или контрольного органа в сфере закупок.
 
 9\. Не позднее трех часов с момента размещения в реестре,
-предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7135)
+предусмотренном частью
+21
 статьи 99 настоящего Федерального закона, информации, предусмотренной
 частью 8 настоящей статьи, участнику закупки, подавшему жалобу, субъекту
 (субъектам) контроля, действия (бездействие) которого (которых)
@@ -15947,16 +15947,16 @@ N
 1\) уведомление о размещении в таком реестре информации о принятии
 жалобы к рассмотрению по существу с указанием даты, времени и места ее
 рассмотрения, о возможности использования систем видео-конференц-связи в
-соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1988)
+соответствии с частью
+2
 статьи 106 настоящего Федерального закона (в случае размещения
 информации в соответствии с пунктом 1 части 8 настоящей статьи). В
 случае обжалования действий (бездействия) контрактной службы,
 контрактного управляющего, комиссии по осуществлению закупок, членов
 этой комиссии такое уведомление направляется заказчику, уполномоченному
 органу или уполномоченному учреждению, наделенным полномочиями в
-соответствии со [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+соответствии со статьей
+26
 настоящего Федерального закона. Уведомление, предусмотренное настоящим
 пунктом, считается надлежащим уведомлением участника закупки, подавшего
 жалобу, субъекта (субъектов) контроля, действия (бездействие) которого
@@ -15970,22 +15970,22 @@ N
 контрактной службы, контрактного управляющего, комиссии по осуществлению
 закупок, членов этой комиссии такое уведомление направляется заказчику,
 уполномоченному органу или уполномоченному учреждению, наделенным
-полномочиями в соответствии со [[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+полномочиями в соответствии со статьей
+26
 настоящего Федерального закона.
 
 10\. При проведении закрытого конкурса, закрытого аукциона, при
 осуществлении закупок, предусмотренных статьей 111 (в случае определения
-в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7187)
+в соответствии с частью
+1
 статьи 111 настоящего Федерального закона особенностей,
 предусматривающих неразмещение информации и документов в единой
 информационной системе, на официальном сайте при определении поставщика
-(подрядчика, исполнителя) и [[статьей
-111.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2056)
-настоящего Федерального закона: (в ред. Федерального закона [[от
+(подрядчика, исполнителя) и статьей
+111.1
+настоящего Федерального закона: (в ред. Федерального закона от
 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l50))
+104-ФЗ)
 
 1\) жалоба подается в письменной форме в контрольный орган в сфере
 закупок без использования единой информационной системы в сфере закупок.
@@ -15997,9 +15997,9 @@ N
 2\) жалоба должна содержать информацию, предусмотренную частью 4
 настоящей статьи, информацию о подающем жалобу участнике закупки,
 предусмотренную подпунктами
-[[\"г\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8911)
+\"г\"
 и
-[[\"е\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8827)
+\"е\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона, почтовый
 адрес субъекта (почтовые адреса субъектов) контроля, действия которого
 (которых) обжалуются, и должна быть подписана лицом, имеющим право
@@ -16007,9 +16007,9 @@ N
 приглашение (в случае подачи жалобы при проведении закрытого конкурса,
 закрытого аукциона), а также доверенность или иной подтверждающий
 полномочия на подписание жалобы документ (в случае подачи жалобы
-представителем участника закупки); (в ред. Федерального закона [[от
+представителем участника закупки); (в ред. Федерального закона от
 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l58))
+624-ФЗ)
 
 3\) не позднее двух рабочих дней со дня, следующего за днем поступления
 жалобы, контрольный орган в сфере закупок направляет участнику закупки,
@@ -16038,8 +16038,8 @@ N
 рассматривается. Участник закупки не вправе повторно подать жалобу на те
 же действия (бездействие) субъекта (субъектов) контроля, совершенные при
 осуществлении закупки, в отношении которой поданная жалоба отозвана. (в
-ред. Федерального закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l58))
+ред. Федерального закона от 25.12.2023 N
+624-ФЗ)
 
 **Статья 106. Рассмотрение жалобы по существу**
 
@@ -16049,8 +16049,8 @@ N
 рассмотрении лично или через своих представителей. При этом возражение
 на жалобу направляется в контрольный орган в сфере закупок не позднее
 рабочего дня, предшествующего дню рассмотрения жалобы по существу. (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2152))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Лица, имеющие право действовать от имени участника закупки,
 подавшего жалобу, от имени субъекта (субъектов) контроля, действия
@@ -16058,8 +16058,8 @@ N
 рассмотрении жалобы по существу, в том числе с использованием систем
 видео-конференц-связи при наличии в контрольном органе в сфере закупок
 технической возможности осуществления видео-конференц-связи. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2152))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\. Контрольный орган в сфере закупок обязан рассмотреть жалобу по
 существу и возражение на жалобу в течение пяти рабочих дней с даты
@@ -16069,10 +16069,10 @@ N
 При этом контрольный орган в сфере закупок вправе направлять запросы о
 предоставлении информации и документов, необходимых для рассмотрения
 жалобы, в том числе запросить у субъектов контроля указанные информацию
-и документы. (в ред. Федеральных законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2152))
+и документы. (в ред. Федеральных законов от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 4\. Не допускается запрашивать у лица, подавшего жалобу, информацию и
 документы, которые находятся в распоряжении государственных органов (в
@@ -16086,8 +16086,8 @@ N
 жалобы по существу информацию и документы, подтверждающие обоснованность
 доводов жалобы. В день рассмотрения жалобы по существу участник закупки,
 подавший жалобу, вправе ее отозвать непосредственно при рассмотрении. (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2690))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\. Субъекты контроля, действия (бездействие) которых обжалуются,
 обязаны представить на рассмотрение жалобы по существу документацию о
@@ -16098,10 +16098,10 @@ N
 составленные в ходе определения поставщика (подрядчика, исполнителя) или
 аккредитации участника закупки на электронной площадке,
 специализированной электронной площадке. (в ред. Федеральных законов
-[[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2690))
+от 31.12.2017 N
+504-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
 5.1. Представление информации и документов, предусмотренных частью 5
 настоящей статьи, не требуется в случае их размещения в соответствии с
@@ -16112,18 +16112,18 @@ N
 исполнителя) или аккредитации участника закупки на электронной площадке,
 специализированной электронной площадке, приоритет имеют информация и
 документы, размещенные на официальном сайте. (в ред. Федерального закона
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+от 01.05.2019 N
+71-ФЗ)
 
 6\. Рассмотрение жалобы не осуществляется в отношении результатов оценки
 заявок на участие в конкурсе в соответствии с указанными в пунктах
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l436)
+3
 и
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l436)
+4
 части 1 статьи 32 настоящего Федерального закона критериями оценки этих
-заявок, окончательных предложений. (в ред. Федерального закона [[от
+заявок, окончательных предложений. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2155))
+360-ФЗ)
 
 7\. Контрольный орган в сфере закупок вправе приостановить определение
 поставщика (подрядчика, исполнителя) в части заключения контракта
@@ -16137,71 +16137,71 @@ N
 решения о приостановлении определения поставщика (подрядчика,
 исполнителя) осуществляется контрольным органом в сфере закупок с
 использованием единой информационной системы в сфере закупок при
-размещении информации в соответствии с [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9635)
+размещении информации в соответствии с пунктом
+1
 части 8 статьи 105 настоящего Федерального закона. В случае принятия
 решения о приостановлении определения поставщика (подрядчика,
 исполнителя) контракт не может быть заключен до рассмотрения жалобы по
 существу. При этом срок, установленный для заключения контракта,
 подлежит продлению на срок рассмотрения жалобы по существу. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2155))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 8\. По результатам рассмотрения жалобы по существу контрольный орган в
 сфере закупок принимает решение о признании жалобы обоснованной или
 необоснованной, о совершении (при необходимости) действий,
 предусмотренных пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7138)
+1
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7138)
+3
 части 22 статьи 99 настоящего Федерального закона, и выдает (при
 необходимости) предписание об устранении допущенных нарушений,
-предусмотренное [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7367)
+предусмотренное пунктом
+2
 части 22 статьи 99 настоящего Федерального закона. Не позднее трех
 рабочих дней с даты принятия решения, выдачи предписания контрольный
-орган в сфере закупок: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2693))
+орган в сфере закупок: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) размещает (за исключением случаев проведения закрытых конкурентных
 способов, осуществления закупок, предусмотренных статьей 111 (в случае
-определения в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2054)
+определения в соответствии с частью
+1
 статьи 111 настоящего Федерального закона особенностей,
 предусматривающих неразмещение информации и документов в единой
 информационной системе, на официальном сайте при определении поставщика
-(подрядчика, исполнителя) и [[статьей
-111.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2055)
+(подрядчика, исполнителя) и статьей
+111.1
 настоящего Федерального закона) решение, принятое по результатам
 рассмотрения жалобы по существу, предписание об устранении допущенных
-нарушений (в случае его выдачи) в реестре, предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7136)
+нарушений (в случае его выдачи) в реестре, предусмотренном частью
+21
 статьи 99 настоящего Федерального закона, а также направляет копию таких
 решения, предписания лицам, направившим в соответствии с настоящей
-статьей возражение на жалобу; (в ред. Федерального закона [[от
+статьей возражение на жалобу; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2693))
+360-ФЗ)
 
 2\) направляет (при проведении закрытых конкурентных способов, при
 осуществлении закупок, предусмотренных статьей 111 (в случае определения
-в соответствии с [[частью
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2054)
+в соответствии с частью
+1
 статьи 111 настоящего Федерального закона особенностей,
 предусматривающих неразмещение информации и документов в единой
 информационной системе, на официальном сайте при определении поставщика
-(подрядчика, исполнителя) и [[статьей
-111.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l2055)
+(подрядчика, исполнителя) и статьей
+111.1
 настоящего Федерального закона) копию решения, принятого по результатам
 рассмотрения жалобы по существу, предписания об устранении допущенных
 нарушений (в случае его выдачи) участнику закупки, подавшему жалобу,
 субъекту (субъектам) контроля, действия (бездействие) которого (которых)
 обжалуются, лицам, направившим в соответствии с настоящей статьей
-возражение на жалобу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2160))
+возражение на жалобу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 8.1. Не позднее трех часов с момента размещения в реестре,
-предусмотренном [[частью
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7136)
+предусмотренном частью
+21
 статьи 99 настоящего Федерального закона, информации, предусмотренной
 пунктом 1 части 8 настоящей статьи, участнику закупки, подавшему жалобу,
 субъекту (субъектам) контроля, действия (бездействие) которого (которых)
@@ -16213,14 +16213,14 @@ N
 комиссии по осуществлению закупок, членов этой комиссии такое
 уведомление направляется заказчику, уполномоченному органу или
 уполномоченному учреждению, наделенным полномочиями в соответствии со
-[[статьей
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8679)
+статьей
+26
 настоящего Федерального закона. Уведомление, предусмотренное настоящей
 частью, считается надлежащим уведомлением участника закупки, подавшего
 жалобу, субъекта (субъектов) контроля, действия (бездействие) которого
 (которых) обжалуются, о результатах рассмотрения жалобы по существу. (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2160))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 9\. Решение, принятое по результатам рассмотрения жалобы по существу,
 может быть обжаловано в судебном порядке в течение трех месяцев с даты
@@ -16242,8 +16242,8 @@ N
 те же действия (бездействие) субъектов контроля, выполняется решение,
 принятое органом исполнительной власти субъекта Российской Федерации,
 уполномоченным на осуществление контроля в сфере закупок. (в ред.
-Федерального закона [[от 13.06.2023 N
-228-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=450482#l145))
+Федерального закона от 13.06.2023 N
+228-ФЗ)
 
 **Статья 107. Ответственность за нарушение законодательства Российской
 Федерации и иных нормативных правовых актов о контрактной системе в
@@ -16262,9 +16262,9 @@ N
 законодательством Российской Федерации, а также обязаны возместить
 убытки, причиненные лицам в результате неправомерных действий
 (бездействия), в том числе по разглашению информации, полученной в ходе
-проведения электронных процедур. (в ред. Федерального закона [[от
+проведения электронных процедур. (в ред. Федерального закона от
 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+504-ФЗ)
 
 **Глава 7. ОСОБЕННОСТИ ОСУЩЕСТВЛЕНИЯ ОТДЕЛЬНЫХ ВИДОВ ЗАКУПОК**
 
@@ -16283,8 +16283,8 @@ N
 совершение исполнителем действий, направленных на энергосбережение и
 повышение энергетической эффективности использования указанных
 энергетических ресурсов (далее - энергосервисный контракт). (в ред.
-Федерального закона [[от 28.03.2017 N
-36-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=291038#l0))
+Федерального закона от 28.03.2017 N
+36-ФЗ)
 
 2\. Энергосервисный контракт заключается отдельно от контрактов на
 поставки товаров, выполнение работ, оказание услуг, относящихся к сфере
@@ -16311,8 +16311,8 @@ N
 каждого вида товаров, работ, услуг с указанием количества таких товаров,
 работ, услуг и стоимости единицы каждого товара, каждой работы, каждой
 услуги, а также одно из следующих условий: (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2163))
+от 02.07.2021 N
+360-ФЗ)
 
 1\) фиксированный размер экономии в денежном выражении соответствующих
 расходов заказчика на поставки энергетических ресурсов, максимальный
@@ -16338,9 +16338,9 @@ N
 извещении об осуществлении закупки, документации о закупке (в случае,
 если настоящим Федеральным законом предусмотрена документация о закупке)
 вправе указать предельный размер возможных расходов заказчика в связи с
-исполнением энергосервисного контракта. (в ред. Федерального закона [[от
+исполнением энергосервисного контракта. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2163))
+360-ФЗ)
 
 6\. При заключении энергосервисного контракта путем проведения конкурса
 или запроса котировок заказчик, уполномоченный орган, уполномоченное
@@ -16348,9 +16348,9 @@ N
 документации о закупке (в случае, если настоящим Федеральным законом
 предусмотрена документация о закупке) на необходимость включения в
 заявку на участие в конкурсе или заявку на участие в запросе котировок
-одного из следующих предложений: (в ред. Федерального закона [[от
+одного из следующих предложений: (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2163))
+360-ФЗ)
 
 1\) предложение о цене контракта или в случае, предусмотренном пунктом 1
 части 3 настоящей статьи, о проценте экономии;
@@ -16375,8 +16375,8 @@ N
 пунктами 1 - 3 части 6 настоящей статьи, в зависимости от условий,
 предусмотренных извещением об осуществлении закупки, документацией о
 закупке (в случае, если настоящим Федеральным законом предусмотрена
-документация о закупке). (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2164))
+документация о закупке). (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 8\. В случаях, предусмотренных пунктами 2 и 3 части 6 настоящей статьи,
 победителем запроса котировок признается лицо, сделавшее предложение о
@@ -16394,17 +16394,17 @@ N
 по энергосервисному контракту. При этом рассмотрение и оценка заявок на
 участие в конкурсе в соответствии с таким критерием, как предложение о
 сумме, осуществляются в порядке, установленном Правительством Российской
-Федерации в соответствии с [[частью
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l455)
+Федерации в соответствии с частью
+8
 статьи 32 настоящего Федерального закона в отношении такого критерия,
 как цена контракта, с учетом особенностей, установленных настоящей
-статьей. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2164))
+статьей. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 10\. При заключении энергосервисного контракта путем аукциона такой
 аукцион проводится путем снижения одного из следующих показателей: (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2165))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) цена энергосервисного контракта или в случае, предусмотренном
 пунктом 1 части 3 настоящей статьи, процент экономии;
@@ -16425,8 +16425,8 @@ N
 
 11\. В случаях, предусмотренных пунктами 2 и 3 части 10 настоящей
 статьи, победителем аукциона признается лицо, сделавшее предложение о
-наиболее низкой сумме. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2165))
+наиболее низкой сумме. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 12\. В случае, предусмотренном пунктом 3 части 10 настоящей статьи, при
 заключении энергосервисного контракта победитель аукциона или участник
@@ -16438,8 +16438,8 @@ N
 законом предусмотрена документация о закупке) минимального процента
 такой экономии и максимального процента такой экономии, а также
 предложения о сумме этого победителя или этого участника. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2165))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 13\. Энергосервисный контракт заключается по цене, которая определяется
 в виде:
@@ -16469,9 +16469,9 @@ N
 расходов, а также стоимости единицы каждого товара, каждой работы или
 каждой услуги, указанных в извещении об осуществлении закупки,
 документации о закупке (в случае, если настоящим Федеральным законом
-предусмотрена документация о закупке). (в ред. Федерального закона [[от
+предусмотрена документация о закупке). (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2166))
+360-ФЗ)
 
 15\. При заключении энергосервисного контракта в этом контракте также
 указывается в случае, предусмотренном пунктами 1 и 3 части 3 настоящей
@@ -16484,9 +16484,9 @@ N
 
 16\. Размер обеспечения исполнения энергосервисного контракта
 определяется заказчиком от одной второй процента до тридцати процентов
-одной из следующих величин: (в ред. Федерального закона [[от 02.07.2021
+одной из следующих величин: (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2166))
+360-ФЗ)
 
 1\) максимальный процент фиксированного размера экономии в денежном
 выражении соответствующих расходов заказчика на поставки энергетических
@@ -16502,8 +16502,8 @@ N
 выражении соответствующих расходов заказчика на поставки энергетических
 ресурсов, который может быть уплачен исполнителю по энергосервисному
 контракту, в случае, указанном в пункте 3 части 3 настоящей статьи. (в
-ред. Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+ред. Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 17\. Обязательством исполнителя, предусмотренным энергосервисным
 контрактом, является обеспечение предусмотренной контрактом экономии в
@@ -16529,9 +16529,9 @@ N
 (цены лота) (в том числе период, за который учитываются расходы
 заказчика на поставки энергетических ресурсов).
 
-**Статья 109. - Утратила силу. (в ред. Федерального закона [[от
+**Статья 109. - Утратила силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2166))**
+360-ФЗ)**
 
 **Статья 110. Особенности заключения государственных контрактов при
 осуществлении закупок товаров, работ, услуг, включаемых в
@@ -16544,8 +16544,8 @@ N
 исполнители) независимо от их организационно-правовых форм и форм
 собственности не вправе отказаться от заключения контракта. При этом
 цена такого контракта на поставку товара, выполнение работы или оказание
-услуги должна быть определена в соответствии со [[статьей
-22]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l236)
+услуги должна быть определена в соответствии со статьей
+22
 настоящего Федерального закона.
 
 2\. Поставщики, занимающие доминирующее положение на товарном рынке, а
@@ -16558,8 +16558,8 @@ N
 являются создание произведения архитектуры, градостроительства или
 садово-паркового искусства и (или) разработка на его основе проектной
 документации объектов капитального строительства (в ред. Федерального
-закона [[от 03.07.2016 N
-314-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276177#l110))**
+закона от 03.07.2016 N
+314-ФЗ)**
 
 1\. Контракт, предметом которого являются создание произведения
 архитектуры, градостроительства или садово-паркового искусства и (или)
@@ -16586,17 +16586,17 @@ N
 документации, указанной в пункте 2 части 1 настоящей статьи,
 предоставление ему права заключать контракт на разработку такой
 проектной документации без использования конкурентных способов. (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2166))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 **Статья 110.2. Особенности заключения и исполнения контракта, предметом
 которого является подготовка проектной документации и (или) выполнение
 инженерных изысканий, и контрактов, предметом которых являются
 строительство, реконструкция объектов капитального строительства (в ред.
-Федеральных законов [[от 03.07.2016 N
-314-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276177#l110),
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))**
+Федеральных законов от 03.07.2016 N
+314-ФЗ,
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))**
 
 1\. Контракт, предметом которого являются подготовка проектной
 документации и (или) выполнение инженерных изысканий, должен содержать
@@ -16604,17 +16604,17 @@ N
 по указанному контракту исключительные права на результаты таких работ
 принадлежат Российской Федерации, субъекту Российской Федерации,
 муниципальному образованию, от имени которых выступает государственный
-или муниципальный заказчик. (в ред. Федерального закона [[от 27.12.2019
+или муниципальный заказчик. (в ред. Федерального закона от 27.12.2019
 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 2\. Правительство Российской Федерации вправе установить виды и объем
 работ по строительству, реконструкции объектов капитального
 строительства, которые подрядчик обязан выполнить самостоятельно без
 привлечения других лиц, за исключением дочерних обществ такого
 подрядчика, к исполнению своих обязательств по контракту. (в ред.
-Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 3\. Результатом выполненной работы по контракту, предметом которого
 являются подготовка проектной документации и (или) выполнение инженерных
@@ -16622,16 +16622,16 @@ N 449-ФЗ (ред. от
 градостроительной деятельности, являются проектная документация и (или)
 документ, содержащий результаты инженерных изысканий. В случае, если в
 соответствии с Градостроительным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l0)
+кодексом
 Российской Федерации проведение экспертизы проектной документации и
 (или) результатов инженерных изысканий является обязательным, проектная
 документация и (или) документ, содержащий результаты инженерных
 изысканий, признаются результатом выполненных проектных и (или)
 изыскательских работ по такому контракту при наличии положительного
 заключения экспертизы проектной документации и (или) результатов
-инженерных изысканий. (в ред. Федерального закона [[от 27.12.2019 N
+инженерных изысканий. (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l3))
+30.12.2020))
 
 4\. Результатом выполненной работы по контракту, предметом которого
 являются строительство, реконструкция объекта капитального
@@ -16641,11 +16641,11 @@ N 449-ФЗ (ред. от
 построенного и (или) реконструированного объекта капитального
 строительства требованиям проектной документации и заключение
 федерального государственного экологического надзора в случаях,
-предусмотренных [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l6373)
+предусмотренных частью
+5
 статьи 54 Градостроительного кодекса Российской Федерации. (в ред.
-Федерального закона [[от 11.06.2021 N
-170-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454973#l2725))
+Федерального закона от 11.06.2021 N
+170-ФЗ)
 
 5\. Контракт, предметом которого являются строительство и (или)
 реконструкция объектов капитального строительства, должен содержать
@@ -16659,8 +16659,8 @@ N 449-ФЗ (ред. от
 такими контрактами. При этом выполнение работ по таким контрактам
 осуществляется в соответствии с графиком выполнения
 строительно-монтажных работ, являющимся обязательным приложением к таким
-контрактам. (в ред. Федерального закона [[от 27.06.2019 N
-151-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=416487#l474))
+контрактам. (в ред. Федерального закона от 27.06.2019 N
+151-ФЗ)
 
 6.1. Оплата выполненных работ осуществляется в пределах цены контрактов,
 предметом которых являются строительство, реконструкция объектов
@@ -16671,43 +16671,43 @@ N 449-ФЗ (ред. от
 При этом составление сметы такого контракта осуществляется в пределах
 цены контракта без использования предусмотренных проектной документацией
 в соответствии с Градостроительным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l0)
+кодексом
 Российской Федерации сметных нормативов, сведения о которых включены в
 федеральный реестр сметных нормативов, и сметных цен строительных
-ресурсов. (в ред. Федерального закона [[от 27.06.2019 N
-151-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=416487#l474))
+ресурсов. (в ред. Федерального закона от 27.06.2019 N
+151-ФЗ)
 
 7\. Методики составления сметы контракта, графика оплаты выполненных по
 контракту работ, графика выполнения строительно-монтажных работ
 утверждаются уполномоченным Правительством Российской Федерации
 федеральным органом исполнительной власти. (в ред. Федерального закона
-[[от 27.06.2019 N
-151-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=416487#l474))
+от 27.06.2019 N
+151-ФЗ)
 
 8\. Заказчик в течение десяти рабочих дней с даты приемки объекта
 капитального строительства и представления подрядчиком имеющихся у него
 документов, необходимых в соответствии с Градостроительным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l0)
+кодексом
 Российской Федерации для получения заключения органа государственного
 строительного надзора о соответствии построенного и (или)
 реконструированного объекта капитального строительства требованиям
 проектной документации и заключения федерального государственного
-экологического надзора в случаях, предусмотренных [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l6373)
+экологического надзора в случаях, предусмотренных частью
+5
 статьи 54 Градостроительного кодекса Российской Федерации, направляет
 представленные документы в органы, уполномоченные в соответствии с
 законодательством Российской Федерации на выдачу указанных заключений.
 Заказчик в течение десяти рабочих дней с даты получения соответствующего
 заключения (заключений) и представления подрядчиком имеющихся у него
 документов, необходимых в соответствии с Градостроительным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l0)
+кодексом
 Российской Федерации для получения разрешения на ввод объекта в
 эксплуатацию, направляет документы в органы, уполномоченные в
 соответствии с Градостроительным
-[[кодексом]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454633#l0)
+кодексом
 Российской Федерации на выдачу разрешения на ввод объекта в
-эксплуатацию. (в ред. Федерального закона [[от 11.06.2021 N
-170-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454973#l2725))
+эксплуатацию. (в ред. Федерального закона от 11.06.2021 N
+170-ФЗ)
 
 **Статья 111. Особенности осуществления закупок в соответствии с
 решением Правительства Российской Федерации**
@@ -16715,8 +16715,8 @@ N 449-ФЗ (ред. от
 1\. Правительство Российской Федерации вправе определить особенности
 осуществления конкретной закупки, в том числе установить способ
 определения поставщика (подрядчика, исполнителя), не предусмотренный
-[[статьей
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l283)
+статьей
+24
 настоящего Федерального закона, а также в целях создания для Российской
 Федерации дополнительных технологических и экономических преимуществ (в
 том числе встречных обязательств) вправе определить дополнительные
@@ -16731,55 +16731,55 @@ N 449-ФЗ (ред. от
 **Статья 111.1. Особенности планирования и осуществления закупок на
 территории иностранного государства для обеспечения деятельности
 заказчиков, осуществляющих деятельность на территории иностранного
-государства (в ред. Федерального закона [[от 26.07.2017 N
-211-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=297776#l0))**
+государства (в ред. Федерального закона от 26.07.2017 N
+211-ФЗ)**
 
 1\. Заказчики, осуществляющие деятельность на территории иностранного
 государства, осуществляют закупки на территории иностранного государства
 в порядке, установленном настоящим Федеральным законом для проведения
 закрытого конкурса, закрытого аукциона, с учетом следующих особенностей:
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2166))
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 1\) информация и документы, предусмотренные настоящим Федеральным
 законом, в единой информационной системе не размещаются; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2167))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-2\) согласования, предусмотренные [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9207)
-статьи 72 и [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9425)
+2\) согласования, предусмотренные частью
+2
+статьи 72 и пунктом
+4
 части 5 статьи 93 настоящего Федерального закона, и контроль,
 предусмотренный частями
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7511)
+5
 и
-[[5.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7901)
+5.1
 статьи 99 настоящего Федерального закона, не осуществляются; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2702))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 3\) приглашение направляется не менее чем трем участникам закупок. Такое
-приглашение должно содержать информацию, предусмотренную [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9207)
+приглашение должно содержать информацию, предусмотренную частью
+2
 статьи 73 настоящего Федерального закона, информацию о возможности
 подачи заявки на участие в закупке с использованием любых средств связи
 и доставки, в том числе в письменной форме в запечатанном конверте, не
 позволяющем просматривать содержание такой заявки до окончания срока
 подачи заявок на участие в закупке, а также информацию о применении
 особенностей, предусмотренных настоящей частью; (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2702))
+закона от 02.07.2021 N
+360-ФЗ)
 
 4\) заявка на участие в закупке не может быть отклонена в случаях ее
-несоответствия требованиям [[части
-7]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8932)
+несоответствия требованиям части
+7
 статьи 43 настоящего Федерального закона или непредставления декларации,
-предусмотренной [[подпунктом
-\"о\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8833)
+предусмотренной подпунктом
+\"о\"
 пункта 1 части 1 статьи 43 настоящего Федерального закона; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2702))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 5\) контракт по результатам закрытого конкурса, закрытого аукциона
 заключается не позднее чем через двадцать дней со дня, следующего за
@@ -16788,139 +16788,139 @@ N 449-ФЗ (ред. от
 законодательством иностранного государства, на территории которого
 заказчик осуществляет закупку, а при отсутствии такого
 законодательства - в соответствии с традициями делового оборота такой
-страны; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2169))
+страны; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-6\) заказчик вправе: (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2169))
+6\) заказчик вправе: (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 а) не руководствоваться положениями статей
-[[14]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l132),
-[[23]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8002),
-[[28]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l372) -
-[[30.1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8702),
-[[34]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8736) -
-[[37]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8770),
-[[41]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l556),
-[[44]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8862),
-[[45]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8890),
-[[103]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1914)
+14,
+23,
+28 -
+30.1,
+34 -
+37,
+41,
+44,
+45,
+103
 и
-[[104]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9581)
-настоящего Федерального закона; (в ред. Федерального закона [[от
+104
+настоящего Федерального закона; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2169))
+360-ФЗ)
 
 б) установить требование к участникам закупки о соответствии
 требованиям, установленным в соответствии с законодательством Российской
 Федерации и (или) законодательством иностранного государства, на
 территории которого заказчик осуществляет закупку, к лицам,
 осуществляющим поставку товара, выполнение работы, оказание услуги,
-являющихся объектом закупки; (в ред. Федерального закона [[от 02.07.2021
+являющихся объектом закупки; (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2169))
+360-ФЗ)
 
 в) включить в проект контракта условия с учетом требований
 законодательства иностранного государства, на территории которого
-заказчик осуществляет закупку; (в ред. Федерального закона [[от
+заказчик осуществляет закупку; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2171))
+360-ФЗ)
 
 г) установить требование обеспечения исполнения контракта в случаях,
 предусмотренных настоящим Федеральным законом или законодательством
 иностранного государства, на территории которого осуществляется закупка,
 либо в определенных законодательством иностранного государства случаях
-не устанавливать такое требование; (в ред. Федерального закона [[от
+не устанавливать такое требование; (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2171))
+360-ФЗ)
 
 д) не разрабатывать и не утверждать документацию о закупке. В этом
 случае информация и документы, предусмотренные подпунктами
-[[\"а\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1280) -
-[[\"д\"]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9313)
+\"а\" -
+\"д\"
 пункта 1 части 1 статьи 72 настоящего Федерального закона, включаются с
 учетом особенностей, предусмотренных настоящей частью, в состав
-приглашения; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2171))
+приглашения; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 е) не проводить процедуру подачи предложений о цене контракта либо о
 сумме цен единиц товара, работы, услуги (в случае, предусмотренном
-[[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+частью
+24
 статьи 22 настоящего Федерального закона) при проведении закрытого
-аукциона; (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2171))
+аукциона; (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 7\) в случае непроведения заказчиком в соответствии с подпунктом \"е\"
 пункта 6 настоящей части процедуры подачи предложений о цене контракта
 либо о сумме цен единиц товара, работы, услуги (в случае,
-предусмотренном [[частью
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6677)
+предусмотренном частью
+24
 статьи 22 настоящего Федерального закона): (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2172))
+от 02.07.2021 N
+360-ФЗ)
 
 а) заявка на участие в закупке должна содержать информацию,
-предусмотренную [[пунктом
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
-или [[пунктом
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8837)
+предусмотренную пунктом
+3
+или пунктом
+4
 части 1 статьи 43 настоящего Федерального закона; (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2172))
+закона от 02.07.2021 N
+360-ФЗ)
 
 б) протокол рассмотрения заявок на участие в закупке не формируется,
-действия, предусмотренные [[пунктом
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9346)
+действия, предусмотренные пунктом
+2
 части 2 статьи 74 настоящего Федерального закона, не осуществляются; (в
-ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2172))
+ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 в) не позднее даты подведения итогов определения поставщика (подрядчика,
 исполнителя), установленной в приглашении, осуществляются действия,
-предусмотренные [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9346)
-части 2, [[частью
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9255)
+предусмотренные пунктом
+1
+части 2, частью
+5
 статьи 74 настоящего Федерального закона; (в ред. Федерального закона
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2173))
+от 02.07.2021 N
+360-ФЗ)
 
 г) протокол подведения итогов определения поставщика (подрядчика,
 исполнителя) должен содержать информацию, предусмотренную пунктами
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9247)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9247)
+2
 части 3, пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9259) -
-[[6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9258)
+3 -
+6
 части 6 статьи 74 настоящего Федерального закона. (в ред. Федерального
-закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2173))
+закона от 02.07.2021 N
+360-ФЗ)
 
 2\. Правительство Российской Федерации вправе определить:
 
 1\) особенности планирования закупок заказчиками, осуществляющими
 деятельность на территории иностранного государства; (в ред.
-Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2173))
+Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 2\) конкретных заказчиков, осуществляющих свою деятельность на
 территориях иностранных государств, в отношении которых могут быть
 установлены отдельные особенности планирования и осуществления закупок.
 
-3\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2173))
+3\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 ***Действие положений статьи 111.2 распространяется также на контракты,
 заключенные до дня вступления в силу Федерального закона от 13.07.2015 N
-226-ФЗ ([[пункт
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=255548#l2)
+226-ФЗ (пункт
+2
 статьи 2 Федерального закона от 13.07.2015 N 226-ФЗ).***
 
 **Статья 111.2. Особенности исполнения контракта на оказание услуги по
-предоставлению кредита (в ред. Федерального закона [[от 13.07.2015 N
-226-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=255548#l0))**
+предоставлению кредита (в ред. Федерального закона от 13.07.2015 N
+226-ФЗ)**
 
 Если иное не предусмотрено контрактом на оказание услуги по
 предоставлению кредита, право требования к заказчику по такому контракту
@@ -16933,8 +16933,8 @@ N
 **Статья 111.3. Особенности осуществления закупки товара, производство
 которого создается или модернизируется и (или) осваивается на территории
 Российской Федерации в соответствии со специальным инвестиционным
-контрактом (в ред. Федерального закона [[от 03.07.2016 N
-365-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403994#l2))**
+контрактом (в ред. Федерального закона от 03.07.2016 N
+365-ФЗ)**
 
 1\. Правительство Российской Федерации вправе определить актом, принятым
 с учетом требований части 2 настоящей статьи, сторону - инвестора
@@ -16942,8 +16942,8 @@ N
 стороной-инвестором иное лицо, осуществляющие создание или модернизацию
 и (или) освоение производства товара на территории Российской Федерации
 в соответствии со специальным инвестиционным контрактом, заключенным на
-основании Федерального закона [[от 31 декабря 2014 года N
-488-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456274#l0)
+основании Федерального закона от 31 декабря 2014 года N
+488-ФЗ
 \"О промышленной политике в Российской Федерации\" (далее в целях
 настоящей статьи - производитель товара), единственным поставщиком
 указанного товара, информация о котором включается в реестр единственных
@@ -16952,8 +16952,8 @@ N
 использованием имущества (недвижимого имущества или недвижимого
 имущества и движимого имущества, технологически связанных между собой),
 которое создается, реконструируется, при одновременном исполнении
-следующих условий: (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l69))
+следующих условий: (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 1\) специальный инвестиционный контракт заключен Российской Федерацией
 (Российской Федерацией наряду с субъектом Российской Федерации и (или)
@@ -16964,12 +16964,12 @@ N
 товара на территории Российской Федерации превышает три миллиарда
 рублей, а в случае заключения специального инвестиционного контракта с
 производителем товара, включенным в сводный реестр организаций
-оборонно-промышленного комплекса, формируемый в соответствии с [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456274#l199)
+оборонно-промышленного комплекса, формируемый в соответствии с частью
+2
 статьи 21 Федерального закона от 31 декабря 2014 года N 488-ФЗ \"О
 промышленной политике в Российской Федерации\", - семьсот пятьдесят
-миллионов рублей; (в ред. Федерального закона [[от 27.06.2019 N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404334#l1))
+миллионов рублей; (в ред. Федерального закона от 27.06.2019 N
+152-ФЗ)
 
 3\) производство товара на территории Российской Федерации будет
 осуществляться российским юридическим лицом;
@@ -16983,8 +16983,8 @@ N
 которые применяются в случае принятия указанного в настоящей части акта
 Правительства Российской Федерации и предусматривают:
 
-а) право производителя товара заключать в соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+а) право производителя товара заключать в соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона контракты на поставку
 товара. При этом совокупное количество товара каждого наименования,
 поставку которого производитель товара осуществляет в соответствии с
@@ -16994,8 +16994,8 @@ N
 подпунктом ограничение не распространяется на случаи заключения
 специального инвестиционного контракта с производителем товара,
 включенным в реестр организаций, указанный в пункте 2 части 1 настоящей
-статьи; (в ред. Федерального закона [[от 27.06.2019 N
-152-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404334#l1))
+статьи; (в ред. Федерального закона от 27.06.2019 N
+152-ФЗ)
 
 б) ответственность производителя товара за превышение указанного в
 подпункте \"а\" настоящего пункта совокупного количества товара в виде
@@ -17022,20 +17022,20 @@ N
 единственных исполнителей услуги, оказываемой с использованием имущества
 (недвижимого имущества или недвижимого имущества и движимого имущества,
 технологически связанных между собой), которое создается,
-реконструируется; (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l14))
+реконструируется; (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 3\) наименование товара, производство которого создается или
 модернизируется и (или) осваивается на территории Российской Федерации в
 соответствии со специальным инвестиционным контрактом и заключение
 контракта на поставку которого может осуществляться в соответствии с
-[[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+пунктом
+47
 части 1 статьи 93 настоящего Федерального закона;
 
 4\) федеральный орган исполнительной власти, устанавливающий для целей
-осуществления закупок в соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+осуществления закупок в соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона:
 
 а) порядок определения предельной цены единицы товара, производство
@@ -17054,8 +17054,8 @@ N
 единственных исполнителей услуги, оказываемой с использованием имущества
 (недвижимого имущества или недвижимого имущества и движимого имущества,
 технологически связанных между собой), которое создается,
-реконструируется; (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l15))
+реконструируется; (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 2\) определяет федеральный орган исполнительной власти, уполномоченный
 на ведение реестра единственных поставщиков товара, производство
@@ -17063,8 +17063,8 @@ N
 исполнителей услуги, оказываемой с использованием имущества (недвижимого
 имущества или недвижимого имущества и движимого имущества,
 технологически связанных между собой), которое создается,
-реконструируется; (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l15))
+реконструируется; (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 3\) устанавливает порядок подготовки акта Правительства Российской
 Федерации, предусмотренного частью 1 настоящей статьи;
@@ -17085,8 +17085,8 @@ N
 следующие решения:
 
 1\) о дате начала срока, в течение которого заказчики вправе заключать
-контракты с производителем товара на основании [[пункта
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l0)
+контракты с производителем товара на основании пункта
+47
 части 1 статьи 93 настоящего Федерального закона на поставку товара,
 производство которого создано или модернизировано и (или) освоено на
 территории Российской Федерации в соответствии со специальным
@@ -17094,8 +17094,8 @@ N
 в пункте 4 части 1 настоящей статьи;
 
 2\) о продлении на один год срока осуществления закупок товара в
-соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона после окончания срока
 действия соответствующего специального инвестиционного контракта, если в
 течение не менее чем одного календарного года производитель товара
@@ -17114,8 +17114,8 @@ N
 (недвижимого имущества или недвижимого имущества и движимого имущества,
 технологически связанных между собой), которое создается,
 реконструируется, в том числе следующих информации и документов: (в ред.
-Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l16))
+Федерального закона от 28.06.2022 N
+231-ФЗ)
 
 1\) наименование, фирменное наименование (при наличии), место
 нахождения, почтовый адрес и номер контактного телефона единственного
@@ -17130,8 +17130,8 @@ N
 3\) срок действия специального инвестиционного контракта;
 
 4\) планируемый период, в течение которого заказчик вправе заключать на
-основании [[пункта
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l0)
+основании пункта
+47
 части 1 статьи 93 настоящего Федерального закона контракт на поставку
 товара, определенный согласно соответствующему специальному
 инвестиционному контракту с учетом планируемого срока выполнения
@@ -17145,8 +17145,8 @@ N
 определенного в соответствии с пунктом 4 части 2 настоящей статьи;
 
 7\) фактический период, в течение которого заказчик вправе заключать в
-соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона контракт на поставку
 товара. Такой период начинается с даты, которая определяется в
 соответствии с пунктом 1 части 4 настоящей статьи, и завершается датой
@@ -17163,8 +17163,8 @@ N
 
 10\) информация о расторжении специального инвестиционного контракта.
 
-6\. Контракт с единственным поставщиком в соответствии с [[пунктом
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+6\. Контракт с единственным поставщиком в соответствии с пунктом
+47
 части 1 статьи 93 настоящего Федерального закона на поставку товара,
 производство которого создано или модернизировано и (или) освоено на
 территории Российской Федерации в соответствии со специальным
@@ -17201,8 +17201,8 @@ N
 7\. Правительство Российской Федерации вправе определить в соответствии
 с настоящей статьей нескольких производителей однородных либо идентичных
 товаров, с которыми заказчики вправе заключать контракты на основании
-[[пункта
-47]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l0)
+пункта
+47
 части 1 статьи 93 настоящего Федерального закона.
 
 ***При осуществлении в соответствии со статьей 111.4 (в редакции
@@ -17219,8 +17219,8 @@ N
 обеспечения государственных и муниципальных нужд в 2022 и 2023 годах:***
 
 ***1) актом высшего исполнительного органа государственной власти
-субъекта Российской Федерации, предусмотренным [[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7192)
+субъекта Российской Федерации, предусмотренным пунктом
+1
 части 1 статьи 111.4 (в редакции Федерального закона от 28.06.2022 N
 231-ФЗ), соглашением между субъектами Российской Федерации,
 предусмотренным пунктом 1 части 4 статьи 1114 (в редакции Федерального
@@ -17229,19 +17229,19 @@ N
 оказание которых поставщик (исполнитель), с которым заключен контракт со
 встречными инвестиционными обязательствами, вправе осуществить в течение
 одного календарного года при исполнении контрактов, заключенных в
-соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+соответствии с пунктом
+48
 части 1 статьи 93 (в редакции Федерального закона от 28.06.2022 N
 231-ФЗ);***
 
 ***2) в контракт со встречными инвестиционными обязательствами не
-включаются условия, определенные в соответствии с [[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9941)
+включаются условия, определенные в соответствии с пунктом
+8
 части 2 статьи 111.4 (в редакции Федерального закона от 28.06.2022 N
 231-ФЗ), а также условия, предусмотренные пунктами
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9947)
+4
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9948)
+5
 части 3 статьи 111.4 (в редакции Федерального закона от 28.06.2022 N
 231-ФЗ), если требования к максимальному количеству товара и (или)
 максимальному объему услуги не определены в соответствии с пунктом 1
@@ -17255,14 +17255,14 @@ N
 реконструкцию имущества (недвижимого имущества или недвижимого имущества
 и движимого имущества, технологически связанных между собой),
 используемого для оказания услуги, может составлять сто и более
-миллионов рублей ([[часть
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l52)
+миллионов рублей (часть
+3
 статьи 4 Федерального закона от 28.06.2022 N 231-ФЗ).***
 
 **Статья 111.4. Особенности осуществления закупки, по результатам
 которой заключается контракт со встречными инвестиционными
-обязательствами (в ред. Федерального закона [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l17))**
+обязательствами (в ред. Федерального закона от 28.06.2022 N
+231-ФЗ)**
 
 1\. Заказчик вправе осуществить в соответствии с настоящим Федеральным
 законом закупку, по результатам которой заключается контракт со
@@ -17281,8 +17281,8 @@ N
 4\) товар, производство которого создано, модернизировано, освоено,
 должен соответствовать критериям подтверждения производства промышленной
 продукции на территории Российской Федерации, установленным в
-соответствии с Федеральным законом [[от 31 декабря 2014 года N
-488-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456274#l0)
+соответствии с Федеральным законом от 31 декабря 2014 года N
+488-ФЗ
 \"О промышленной политике в Российской Федерации\".
 
 2\. Актом высшего исполнительного органа государственной власти субъекта
@@ -17341,8 +17341,8 @@ N
 поставку и (или) оказание которых участник закупки, с которым
 заключается контракт со встречными инвестиционными обязательствами,
 вправе осуществить в течение одного календарного года при исполнении
-контрактов, заключенных в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+контрактов, заключенных в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона. Максимальное
 количество товара и (или) максимальный объем услуги не должны превышать
 тридцать процентов количества такого товара и (или) объема такой услуги,
@@ -17362,14 +17362,14 @@ N
 реконструировано, порядку определения цены контракта, заключаемого с
 поставщиком (исполнителем), с которым заключен контракт со встречными
 инвестиционными обязательствами, для целей осуществления закупок в
-соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона;
 
 10\) орган исполнительной власти субъекта Российской Федерации,
 устанавливающий для целей осуществления закупок в соответствии с
-[[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+пунктом
+48
 части 1 статьи 93 настоящего Федерального закона:
 
 а) порядок определения предельной цены единицы товара, производство
@@ -17394,8 +17394,8 @@ N
 2\) о соответствии товара, производство которого создано,
 модернизировано, освоено, критериям подтверждения производства
 промышленной продукции на территории Российской Федерации, установленным
-в соответствии с Федеральным законом [[от 31 декабря 2014 года N
-488-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=456274#l0)
+в соответствии с Федеральным законом от 31 декабря 2014 года N
+488-ФЗ
 \"О промышленной политике в Российской Федерации\";
 
 3\) о поставке товара, производство которого создано, модернизировано,
@@ -17403,8 +17403,8 @@ N
 (недвижимого имущества или недвижимого имущества и движимого имущества,
 технологически связанных между собой), которое создано,
 реконструировано, при исполнении контракта, заключенного в соответствии
-с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона, по цене, не
 превышающей предельной цены, определенной в порядке, установленном в
 соответствии с подпунктом \"а\" пункта 10 части 2 настоящей статьи;
@@ -17416,8 +17416,8 @@ N
 случае определения максимального количества товара и (или) максимального
 объема услуги, поставку и (или) оказание которых поставщик (исполнитель)
 вправе осуществить в течение одного календарного года при исполнении
-контрактов, заключенных в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+контрактов, заключенных в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона);
 
 5\) об обязанности поставщика (исполнителя) формировать, подписывать
@@ -17432,15 +17432,15 @@ N
 года, а также о количестве такого товара и (или) об объеме такой услуги,
 соответственно поставленного и (или) оказанной в течение одного
 календарного года при исполнении контрактов, заключенных этим
-поставщиком (исполнителем) в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7094)
+поставщиком (исполнителем) в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона.
 
 4\. Закупка, предусмотренная настоящей статьей, может осуществляться для
 обеспечения нужд двух и более субъектов Российской Федерации путем
 проведения совместного электронного конкурса в соответствии с
-положениями [[статьи
-25]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8670)
+положениями статьи
+25
 настоящего Федерального закона с учетом особенностей, предусмотренных
 настоящей статьей, и на основании:
 
@@ -17457,8 +17457,8 @@ N
 Российской Федерации определяются максимальное количество товара и (или)
 максимальный объем услуги, поставку и (или) оказание которых поставщик
 (исполнитель) вправе осуществить в течение одного календарного года при
-исполнении контрактов, заключенных в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+исполнении контрактов, заключенных в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона. Количество товара и
 (или) объем услуги в совокупности для всех субъектов Российской
 Федерации, являющихся стороной указанного соглашения, не должны
@@ -17468,14 +17468,14 @@ N
 инвестиций, предусмотренный пунктом 5 части 2 настоящей статьи,
 превышает один миллиард рублей, может быть определен один субъект
 Российской Федерации, в отношении которого закупки, осуществляемые в
-соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона его заказчиками, а
 также заказчиками муниципальных образований, находящихся на его
 территории, не учитываются в составе таких количества товара и (или)
 объема услуги, поставка и (или) оказание которых осуществляется при
-исполнении контрактов, заключенных в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+исполнении контрактов, заключенных в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона;
 
 б) права, обязанности и ответственность сторон соглашения, порядок
@@ -17519,16 +17519,16 @@ N
 предназначенного для оказания услуги;
 
 6\) планируемый период, в течение которого заказчик вправе заключить
-контракт в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+контракт в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона. Такой период
 начинается с даты окончания срока, определенного в соответствии с
 пунктом 4 части 2 настоящей статьи, и завершается датой окончания срока
 действия контракта со встречными инвестиционными обязательствами;
 
 7\) фактический период, в течение которого заказчик вправе заключить
-контракт в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+контракт в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона. Такой период
 начинается с даты выполнения поставщиком (исполнителем), с которым
 заключен контракт со встречными инвестиционными обязательствами,
@@ -17550,8 +17550,8 @@ N
 10\) информацию о расторжении контракта со встречными инвестиционными
 обязательствами.
 
-6\. Контракт в соответствии с [[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+6\. Контракт в соответствии с пунктом
+48
 части 1 статьи 93 настоящего Федерального закона заключается с учетом
 следующих особенностей:
 
@@ -17584,8 +17584,8 @@ N
 
 2\) требования к устанавливаемому органом исполнительной власти субъекта
 Российской Федерации для целей осуществления закупок в соответствии с
-[[пунктом
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+пунктом
+48
 части 1 статьи 93 настоящего Федерального закона порядку определения:
 
 а) предельной цены единицы товара, производство которого создано,
@@ -17600,8 +17600,8 @@ N
 8\. В соответствии с настоящей статьей может быть заключено несколько
 контрактов со встречными инвестиционными обязательствами в отношении
 однородных либо идентичных товаров и (или) услуг, закупку которых
-заказчики вправе осуществлять на основании [[пункта
-48]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1703)
+заказчики вправе осуществлять на основании пункта
+48
 части 1 статьи 93 настоящего Федерального закона.
 
 **Глава 8. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ**
@@ -17625,54 +17625,54 @@ N
 заключенные до дня вступления в силу настоящего Федерального закона,
 сохраняют свою силу.
 
-2.-3. Части утратили силу. (в ред. Федерального закона [[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2))
+2.-3. Части утратили силу. (в ред. Федерального закона от 01.05.2019 N
+71-ФЗ)
 
-4.-5.1. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+4.-5.1. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
-5.2. Часть утратила силу. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+5.2. Часть утратила силу. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
-5.3.-5.4. Части утратили силу. (в ред. Федерального закона [[от
+5.3.-5.4. Части утратили силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
 5.5. С 1 июля 2018 года участники закупок применяют квалифицированные
 сертификаты ключей проверки электронных подписей для целей настоящего
-Федерального закона. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+Федерального закона. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
-6.\--9. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+6.\--9. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
-10\. Часть утратила силу. (в ред. Федерального закона [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441))
+10\. Часть утратила силу. (в ред. Федерального закона от 31.12.2017 N
+504-ФЗ)
 
-10.1. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+10.1. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 11\. Государственная корпорация по атомной энергии \"Росатом\",
 Государственная корпорация по космической деятельности \"Роскосмос\"
 вправе создавать информационную систему в сфере закупок, интегрированную
-с единой информационной системой в соответствии с требованиями [[части
-10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l95)
+с единой информационной системой в соответствии с требованиями части
+10
 статьи 4 настоящего Федерального закона. Порядок функционирования и
 использования такой информационной системы устанавливается
 соответственно актом Государственной корпорации по атомной энергии
 \"Росатом\" или актом Государственной корпорации по космической
-деятельности \"Роскосмос\". (в ред. Федерального закона [[от 13.07.2015
+деятельности \"Роскосмос\". (в ред. Федерального закона от 13.07.2015
 N
-216-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439690#l231))
+216-ФЗ)
 
-12.-21. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+12.-21. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
-22\. Реестр контрактов, предусмотренный [[статьей
-103]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1915)
+22\. Реестр контрактов, предусмотренный статьей
+103
 настоящего Федерального закона, ведется со дня вступления в силу
 настоящего Федерального закона федеральным органом исполнительной
 власти, осуществляющим правоприменительные функции по казначейскому
@@ -17680,19 +17680,19 @@ N
 на основе реестра контрактов, сформированного в порядке, действовавшем
 до дня вступления в силу настоящего Федерального закона. При этом для
 подтверждения добросовестности участников закупок в соответствии с
-[[частью
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6754)
+частью
+3
 статьи 37 настоящего Федерального закона могут использоваться сведения,
 включенные в реестр контрактов до дня вступления в силу настоящего
-Федерального закона. (в ред. Федерального закона [[от 24.02.2021 N
-20-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=440075#l66))
+Федерального закона. (в ред. Федерального закона от 24.02.2021 N
+20-ФЗ)
 
-23.-25. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+23.-25. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
-26\. Часть утратила силу. (в ред. Федерального закона [[от 03.07.2016 N
-321-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=276312#l16))
+26\. Часть утратила силу. (в ред. Федерального закона от 03.07.2016 N
+321-ФЗ)
 
 27\. Правовые акты Президента Российской Федерации, Правительства
 Российской Федерации об определении единственного поставщика
@@ -17701,107 +17701,107 @@ N
 принятые до дня вступления в силу настоящего Федерального закона,
 действуют в отношении указанных в таких правовых актах мероприятий до их
 исполнения, если иное не установлено Президентом Российской Федерации,
-Правительством Российской Федерации. (в ред. Федерального закона [[от
+Правительством Российской Федерации. (в ред. Федерального закона от
 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+396-ФЗ)
 
-28.-31. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+28.-31. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
 32\. С 1 января 2017 года положения настоящего Федерального закона
 применяются к отношениям, связанным с осуществлением закупок товаров,
 работ, услуг для обеспечения государственных нужд Республики Крым и
 города федерального значения Севастополя, а также к отношениям,
 связанным с обеспечением мониторинга, аудита и контроля в сфере
-указанных закупок. (в ред. Федеральных законов [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 13.07.2015 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305858#l27),
-[[от 05.04.2016 N
-96-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306265#l8))
+указанных закупок. (в ред. Федеральных законов от 31.12.2014 N
+498-ФЗ,
+от 13.07.2015 N
+249-ФЗ,
+от 05.04.2016 N
+96-ФЗ)
 
-33\. Часть утратила силу. (в ред. Федерального закона [[от 04.04.2020 N
-107-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=358631#l8))
+33\. Часть утратила силу. (в ред. Федерального закона от 04.04.2020 N
+107-ФЗ)
 
 34\. С 1 января 2017 года положения настоящего Федерального закона
 применяются к отношениям, связанным с осуществлением закупок товаров,
 работ, услуг для обеспечения муниципальных нужд муниципальных
 образований Республики Крым и города федерального значения Севастополя,
 а также к отношениям, связанным с обеспечением мониторинга, аудита и
-контроля в сфере указанных закупок. (в ред. Федеральных законов [[от
+контроля в сфере указанных закупок. (в ред. Федеральных законов от
 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1),
-[[от 05.04.2016 N
-96-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=306265#l8))
+498-ФЗ,
+от 05.04.2016 N
+96-ФЗ)
 
-35-36. Части утратили силу. (в ред. Федерального закона [[от 04.04.2020
+35-36. Части утратили силу. (в ред. Федерального закона от 04.04.2020
 N
-107-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=358631#l8))
+107-ФЗ)
 
-37-38. Части утратили силу. (в ред. Федерального закона [[от 29.12.2017
+37-38. Части утратили силу. (в ред. Федерального закона от 29.12.2017
 N
-475-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=305818#l8))
+475-ФЗ)
 
-39\. Часть утратила силу. (в ред. Федерального закона [[от 04.04.2020 N
-107-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=358631#l8))
+39\. Часть утратила силу. (в ред. Федерального закона от 04.04.2020 N
+107-ФЗ)
 
-40.-42. Части утратили силу. (в ред. Федерального закона [[от 02.07.2021
+40.-42. Части утратили силу. (в ред. Федерального закона от 02.07.2021
 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
 42.1. Начисленные поставщику (подрядчику, исполнителю), но не списанные
 заказчиком суммы неустоек (штрафов, пеней) в связи с неисполнением или
 ненадлежащим исполнением в 2015, 2016, 2020 и 2021 годах обязательств,
 предусмотренных контрактом, подлежат списанию в случаях и порядке,
 которые установлены Правительством Российской Федерации. (в ред.
-Федеральных законов [[от 23.04.2018 N
-108-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=311704#l0),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121),
-[[от 30.12.2021 N
-476-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411230#l99))
+Федеральных законов от 23.04.2018 N
+108-ФЗ,
+от 01.04.2020 N
+98-ФЗ,
+от 30.12.2021 N
+476-ФЗ)
 
-42.2.-52. Части утратили силу. (в ред. Федерального закона [[от
+42.2.-52. Части утратили силу. (в ред. Федерального закона от
 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+360-ФЗ)
 
-53\. Государственная информационная система, указанная в [[части
-13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l103)
+53\. Государственная информационная система, указанная в части
+13
 статьи 4 настоящего Федерального закона, фиксирует в соответствии с
 частями
-[[13]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l101)
+13
 и 14 статьи 4 настоящего Федерального закона действия, бездействие
 участников контрактной системы в сфере закупок, поэтапно в соответствии
 с порядками, установленными Правительством Российской Федерации в
 соответствии с пунктами
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l107)
+2
 и
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l109)
+3
 части 14 статьи 4 настоящего Федерального закона. (в ред. Федеральных
-законов [[от 31.12.2017 N
-504-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404646#l441),
-[[от 01.05.2019 N
-71-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404612#l2),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+законов от 31.12.2017 N
+504-ФЗ,
+от 01.05.2019 N
+71-ФЗ,
+от 02.07.2021 N
+360-ФЗ)
 
-54\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+54\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
-55\. Часть утратила силу. (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+55\. Часть утратила силу. (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 56\. До 1 января 2025 года предметом контракта может быть одновременно
 подготовка проектной документации и (или) выполнение инженерных
 изысканий, выполнение работ по строительству, реконструкции и (или)
 капитальному ремонту объекта капитального строительства. (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l2),
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l9))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 16.04.2022 N
+104-ФЗ,
+от 28.04.2023 N
+154-ФЗ)
 
 57\. В случае, если проектной документацией объекта капитального
 строительства предусмотрено оборудование, необходимое для обеспечения
@@ -17810,18 +17810,18 @@ N
 выполнением инженерных изысканий, выполнением работ по строительству,
 реконструкции и (или) капитальному ремонту объекта капитального
 строительства может являться поставка данного оборудования. (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l99),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 01.04.2020 N
+98-ФЗ)
 
 58\. В целях заключения контракта, указанного в части 56 настоящей
 статьи, заказчик вправе осуществить закупку путем проведения
 электронного аукциона или электронного конкурса. (в ред. Федеральных
-законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l99),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2185))
+законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 59\. Порядок определения начальной (максимальной) цены контракта,
 указанного в части 56 настоящей статьи, цены такого контракта,
@@ -17835,62 +17835,62 @@ N
 определения и обоснования начальной (максимальной) цены такого
 контракта, цены такого контракта, заключаемого с единственным
 поставщиком (подрядчиком, исполнителем), не применяется проектно-сметный
-метод. (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l99))
+метод. (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 60\. При исполнении контракта, указанного в части 56 настоящей статьи, с
 учетом особенностей, предусмотренных частями 61 - 63 настоящей статьи:
-(в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l101))
+(в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 1\) к условиям такого контракта, предусматривающим подготовку проектной
 документации и (или) выполнение инженерных изысканий, применяются
 положения настоящего Федерального закона о контракте, предметом которого
 является подготовка проектной документации и (или) выполнение инженерных
-изысканий; (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l101))
+изысканий; (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 2\) к условиям такого контракта, предусматривающим выполнение работ по
 строительству, реконструкции объекта капитального строительства,
 применяются положения настоящего Федерального закона о контракте,
 предметом которого являются строительство, реконструкция, капитальный
 ремонт объектов капитального строительства. (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l101))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 61\. Контракт, указанный в части 56 настоящей статьи, должен содержать
-раздельно: (в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l102))
+раздельно: (в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 1\) стоимость работ по подготовке проектной документации и (или)
-выполнению инженерных изысканий; (в ред. Федерального закона [[от
+выполнению инженерных изысканий; (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l102))
+30.12.2020))
 
 2\) стоимость работ по строительству, реконструкции и (или) капитальному
 ремонту объекта капитального строительства; (в ред. Федерального закона
-[[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l102))
+от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 3\) стоимость поставки предусмотренного проектной документацией объекта
 капитального строительства оборудования, необходимого для обеспечения
 эксплуатации такого объекта капитального строительства, в случае, если
 поставка данного оборудования предусмотрена контрактом. (в ред.
-Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l102),
-[[от 01.04.2020 N
-98-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411972#l121))
+Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 01.04.2020 N
+98-ФЗ)
 
 61.1. В контракт, указанный в части 56 настоящей статьи, могут быть
-включены следующие условия: (в ред. Федерального закона [[от 28.04.2023
+включены следующие условия: (в ред. Федерального закона от 28.04.2023
 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l10))
+154-ФЗ)
 
 1\) о размере аванса в отношении этапов исполнения контракта,
 предусматривающих выполнение работ по подготовке проектной документации
 и (или) выполнению инженерных изысканий, равном нулю; (в ред.
-Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l10))
+Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 2\) о размере аванса в отношении этапов исполнения контракта,
 предусматривающих выполнение работ по подготовке проектной документации
@@ -17901,18 +17901,18 @@ N
 предусмотрена контрактом), в размере меньшем, чем в отношении этапов
 исполнения контракта, предусматривающих выполнение работ по
 строительству, реконструкции и (или) капитальному ремонту объекта
-капитального строительства. (в ред. Федерального закона [[от 28.04.2023
+капитального строительства. (в ред. Федерального закона от 28.04.2023
 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l10))
+154-ФЗ)
 
 62\. Изменение существенных условий контракта, указанного в части 56
 настоящей статьи, при его исполнении допускается: (в ред. Федерального
-закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l103))
+закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
-1\) по соглашению сторон: (в ред. Федерального закона [[от 27.12.2019 N
+1\) по соглашению сторон: (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l103))
+30.12.2020))
 
 а) если при исполнении контракта сметная стоимость строительства,
 реконструкции, капитального ремонта, определенная по результатам
@@ -17927,43 +17927,43 @@ N
 федеральных нужд, нужд субъекта Российской Федерации, муниципальных нужд
 соответственно и при условии, что такое изменение существенных условий
 не приведет к увеличению цены контракта более чем на тридцать процентов;
-(в ред. Федерального закона [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l103))
+(в ред. Федерального закона от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020))
 
 б) при выполнении работ по строительству, реконструкции и (или)
 капитальному ремонту объекта капитального строительства в целях
-изменения цены контракта в случаях, предусмотренных [[пунктом
-1.3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9455)
-и [[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1746)
+изменения цены контракта в случаях, предусмотренных пунктом
+1.3
+и пунктом
+8
 части 1 статьи 95 настоящего Федерального закона, в части изменения
 предусмотренной контрактом стоимости работ по строительству,
 реконструкции и (или) капитальному ремонту объекта капитального
 строительства. При этом изменение цены контракта в соответствии с
-[[пунктом
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1746)
+пунктом
+8
 части 1 статьи 95 настоящего Федерального закона осуществляется при
 условии соблюдения требований, предусмотренных указанным пунктом; (в
-ред. Федеральных законов [[от 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l103),
-[[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2186))
+ред. Федеральных законов от 27.12.2019 N 449-ФЗ (ред. от
+30.12.2020),
+от 02.07.2021 N
+360-ФЗ)
 
 в) при выполнении работ по строительству, реконструкции и (или)
 капитальному ремонту объекта капитального строительства в целях
 увеличения сроков исполнения контракта в случаях, предусмотренных
 пунктами
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1746)
+8
 и
-[[9]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1746)
+9
 части 1 статьи 95 настоящего Федерального закона, в части увеличения
 предусмотренных контрактом сроков строительства, реконструкции и (или)
 капитального ремонта объекта капитального строительства. При этом
 указанное увеличение сроков осуществляется при условии соблюдения
 требований, предусмотренных пунктами 8 и 9 части 1 статьи 95 настоящего
-Федерального закона; (в ред. Федерального закона [[от 27.12.2019 N
+Федерального закона; (в ред. Федерального закона от 27.12.2019 N
 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l106))
+30.12.2020))
 
 2\) в случае, если при исполнении указанного контракта цена такого
 контракта превышает сметную стоимость строительства, реконструкции,
@@ -17972,9 +17972,9 @@ N
 проведения государственной экспертизы проектной документации, цена
 такого контракта должна быть уменьшена с учетом указанной сметной
 стоимости строительства, реконструкции, капитального ремонта объекта
-капитального строительства. (в ред. Федерального закона [[от 27.12.2019
+капитального строительства. (в ред. Федерального закона от 27.12.2019
 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l106))
+30.12.2020))
 
 63\. Результатом выполненной работы по контракту, предметом которого
 являются одновременно подготовка проектной документации и (или)
@@ -17982,9 +17982,9 @@ N 449-ФЗ (ред. от
 реконструкции объектов капитального строительства, является здание или
 сооружение, в отношении которых в соответствии с законодательством
 Российской Федерации о градостроительной деятельности получено
-разрешение на ввод их в эксплуатацию. (в ред. Федерального закона [[от
+разрешение на ввод их в эксплуатацию. (в ред. Федерального закона от
 27.12.2019 N 449-ФЗ (ред. от
-30.12.2020)]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411528#l106))
+30.12.2020))
 
 63.1. До 1 января 2025 года в случае, если проектной документацией
 объекта капитального строительства предусмотрено оборудование,
@@ -17992,24 +17992,24 @@ N 449-ФЗ (ред. от
 контракта наряду с выполнением работ по строительству, реконструкции и
 (или) капитальному ремонту объекта капитального строительства может
 являться поставка данного оборудования. В контракте должны быть указаны
-раздельно: (в ред. Федеральных законов [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97),
-[[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l24))
+раздельно: (в ред. Федеральных законов от 16.04.2022 N
+104-ФЗ,
+от 28.04.2023 N
+154-ФЗ)
 
 1\) стоимость работ по строительству, реконструкции и (или) капитальному
 ремонту объекта капитального строительства; (в ред. Федерального закона
-[[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+от 16.04.2022 N
+104-ФЗ)
 
 2\) стоимость поставки предусмотренного проектной документацией объекта
 капитального строительства оборудования, необходимого для обеспечения
 эксплуатации такого объекта капитального строительства. (в ред.
-Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+Федерального закона от 16.04.2022 N
+104-ФЗ)
 
-64\. Часть утратила силу. (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+64\. Часть утратила силу. (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 64.1. До 31 декабря 2024 года заказчик вправе не устанавливать
 требование обеспечения исполнения контракта, обеспечения гарантийных
@@ -18018,34 +18018,34 @@ N 449-ФЗ (ред. от
 предусмотрена документация о закупке), проекте контракта. Положения
 настоящей части не применяются, если контрактом предусмотрена выплата
 аванса и при этом расчеты в части аванса не подлежат казначейскому
-сопровождению. (в ред. Федеральных законов [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l30),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+сопровождению. (в ред. Федеральных законов от 16.04.2022 N
+104-ФЗ,
+от 04.11.2022 N
+420-ФЗ,
+от 25.12.2023 N
+625-ФЗ)
 
-65\. Часть утратила силу. (в ред. Федерального закона [[от 16.04.2022 N
-104-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426855#l97))
+65\. Часть утратила силу. (в ред. Федерального закона от 16.04.2022 N
+104-ФЗ)
 
 65.1. По соглашению сторон допускается изменение существенных условий
 контракта, заключенного до 1 января 2025 года, если при исполнении
 такого контракта возникли независящие от сторон контракта
 обстоятельства, влекущие невозможность его исполнения. Предусмотренное
 настоящей частью изменение осуществляется с соблюдением положений частей
-[[1.3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9467) -
-[[1.6]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9512)
+1.3 -
+1.6
 статьи 95 настоящего Федерального закона на основании решения
 Правительства Российской Федерации, высшего исполнительного органа
 государственной власти субъекта Российской Федерации, местной
 администрации при осуществлении закупки для федеральных нужд, нужд
 субъекта Российской Федерации, муниципальных нужд соответственно. (в
-ред. Федеральных законов [[от 08.03.2022 N
-46-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=454983#l93),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l30),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+ред. Федеральных законов от 08.03.2022 N
+46-ФЗ,
+от 04.11.2022 N
+420-ФЗ,
+от 25.12.2023 N
+625-ФЗ)
 
 65.2. До 31 декабря 2024 года по соглашению сторон допускается изменение
 существенных условий контракта, предметом которого является поставка
@@ -18070,30 +18070,30 @@ N 449-ФЗ (ред. от
 материалов должна определяться как частное от деления первоначальной
 цены контракта на предусмотренное в контракте количество лекарственных
 препаратов, медицинских изделий, расходных материалов. (в ред.
-Федеральных законов [[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l47),
-[[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l30),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+Федеральных законов от 28.06.2022 N
+231-ФЗ,
+от 04.11.2022 N
+420-ФЗ,
+от 25.12.2023 N
+625-ФЗ)
 
 65.3. До 31 декабря 2024 года по соглашению сторон допускается изменение
 существенных условий контракта, заключенного с единственным поставщиком
 (подрядчиком, исполнителем) в соответствии с пунктами
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1653),
-[[40]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8378),
-[[41]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8378),
-[[46]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1701),
-[[52]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9919),
-[[56]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1710),
-[[59]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9420)
+3,
+40,
+41,
+46,
+52,
+56,
+59
 и
-[[62]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9422)
+62
 части 1 статьи 93 настоящего Федерального закона. (в ред. Федеральных
-законов [[от 04.11.2022 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l30),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+законов от 04.11.2022 N
+420-ФЗ,
+от 25.12.2023 N
+625-ФЗ)
 
 66\. До 31 декабря 2024 года заказчики, уполномоченные органы,
 уполномоченные учреждения вправе осуществлять закупки оборудования и
@@ -18121,8 +18121,8 @@ N 449-ФЗ (ред. от
 обеспечения государственных нужд Республики Крым и города федерального
 значения Севастополя в порядке, установленном настоящим Федеральным
 законом, или осуществлять выбор способа определения поставщика
-(подрядчика, исполнителя), предусмотренного [[статьей
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l283)
+(подрядчика, исполнителя), предусмотренного статьей
+24
 настоящего Федерального закона, в порядке, который согласован с
 уполномоченным Правительством Российской Федерации федеральным органом
 исполнительной власти и установлен нормативными правовыми актами
@@ -18132,14 +18132,14 @@ N 449-ФЗ (ред. от
 (подрядчика, исполнителя) в соответствии с порядком, установленным
 нормативными правовыми актами соответственно Республики Крым и города
 федерального значения Севастополя, подлежат казначейскому сопровождению
-в установленном порядке. (в ред. Федеральных законов [[от 04.04.2020 N
-107-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=358631#l8),
-[[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l12),
-[[от 30.12.2020 N
-501-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380019#l17),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l99))
+в установленном порядке. (в ред. Федеральных законов от 04.04.2020 N
+107-ФЗ,
+от 31.07.2020 N
+249-ФЗ,
+от 30.12.2020 N
+501-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
 67\. До 31 декабря 2024 года заказчики, уполномоченные органы,
 уполномоченные учреждения вправе осуществлять закупки оборудования и
@@ -18168,8 +18168,8 @@ N 449-ФЗ (ред. от
 и города федерального значения Севастополя в порядке, установленном
 настоящим Федеральным законом, или осуществлять выбор способа
 определения поставщика (подрядчика, исполнителя), предусмотренного
-[[статьей
-24]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l283)
+статьей
+24
 настоящего Федерального закона, в порядке, который согласован с
 уполномоченным Правительством Российской Федерации федеральным органом
 исполнительной власти и установлен нормативными правовыми актами
@@ -18179,34 +18179,34 @@ N 449-ФЗ (ред. от
 (подрядчика, исполнителя) в соответствии с порядком, установленным
 нормативными правовыми актами соответственно Республики Крым и города
 федерального значения Севастополя, подлежат казначейскому сопровождению
-в установленном порядке. (в ред. Федеральных законов [[от 31.07.2020 N
-249-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=367431#l12),
-[[от 30.12.2020 N
-501-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=380019#l17),
-[[от 28.06.2022 N
-231-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=426143#l50))
+в установленном порядке. (в ред. Федеральных законов от 31.07.2020 N
+249-ФЗ,
+от 30.12.2020 N
+501-ФЗ,
+от 28.06.2022 N
+231-ФЗ)
 
-68\. Часть утратила силу. (в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2186))
+68\. Часть утратила силу. (в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 69\. Положения настоящего Федерального закона, касающиеся объектов
 культурного наследия (памятников истории и культуры) народов Российской
 Федерации, также применяются к выявленному объекту культурного наследия.
-(в ред. Федерального закона [[от 02.07.2021 N
-360-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=420441#l2716))
+(в ред. Федерального закона от 02.07.2021 N
+360-ФЗ)
 
 70\. В случаях и порядке, которые установлены Правительством Российской
-Федерации, в 2021 - 2023 годах положения [[пункта
-8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1746)
+Федерации, в 2021 - 2023 годах положения пункта
+8
 части 1 статьи 95 настоящего Федерального закона также применяются к
 контрактам, которые заключены на срок менее одного года и предметом
 которых является выполнение работ по строительству, реконструкции,
 капитальному ремонту, сносу объекта капитального строительства,
 проведению работ по сохранению объектов культурного наследия. (в ред.
-Федеральных законов [[от 30.12.2021 N
-476-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411230#l99),
-[[от 19.12.2022 N
-519-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=438450#l113))
+Федеральных законов от 30.12.2021 N
+476-ФЗ,
+от 19.12.2022 N
+519-ФЗ)
 
 71\. Установить, что в 2022, 2023 и 2024 годах при определении
 заказчиками из числа федеральных органов исполнительной власти или
@@ -18216,10 +18216,10 @@ N 449-ФЗ (ред. от
 объема закупок, предусмотренного частью 1 статьи 30 настоящего
 Федерального закона, в расчет совокупного годового объема закупок не
 включаются закупки лекарственных препаратов для медицинского применения
-и медицинских изделий. (в ред. Федеральных законов [[от 26.03.2022 N
-64-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=417950#l9),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+и медицинских изделий. (в ред. Федеральных законов от 26.03.2022 N
+64-ФЗ,
+от 25.12.2023 N
+625-ФЗ)
 
 72\. Установить, что до 31 декабря 2024 года на предусмотренные пунктом
 56 части 1 статьи 93 настоящего Федерального закона федеральные органы
@@ -18231,34 +18231,34 @@ N 449-ФЗ (ред. от
 Федерации, при осуществлении закупок в соответствии с пунктом 4 части 1
 статьи 93 настоящего Федерального закона не распространяются ограничения
 в части предельного размера годового объема таких закупок, составляющего
-пятьдесят миллионов рублей. (в ред. Федеральных законов [[от 04.11.2022
+пятьдесят миллионов рублей. (в ред. Федеральных законов от 04.11.2022
 N
-420-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=435184#l30),
-[[от 25.12.2023 N
-625-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462479#l29))
+420-ФЗ,
+от 25.12.2023 N
+625-ФЗ)
 
 73\. Правительство Российской Федерации вправе устанавливать особенности
 планирования и осуществления в 2023 - 2025 годах закупок для обеспечения
 государственных нужд Донецкой Народной Республики, Луганской Народной
 Республики, Запорожской области, Херсонской области и муниципальных нужд
 муниципальных образований, находящихся на их территориях. (в ред.
-Федерального закона [[от 28.12.2022 N
-563-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=439051#l17))
+Федерального закона от 28.12.2022 N
+563-ФЗ)
 
 74\. До 31 декабря 2024 года настоящий Федеральный закон не применяется
 к отношениям, связанным с закупкой товаров, работ, услуг избирательными
 комиссиями, находящимися на территориях Донецкой Народной Республики,
 Луганской Народной Республики, Запорожской области и Херсонской области.
-(в ред. Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l24))
+(в ред. Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 75\. Установить, что до 31 декабря 2026 года не действуют установленные
-[[пунктом
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8618)
+пунктом
+1
 части 10 статьи 24 настоящего Федерального закона ограничения размера
 годового объема закупок, осуществляемых путем проведения электронного
-запроса котировок. (в ред. Федерального закона [[от 28.04.2023 N
-154-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=447746#l24))
+запроса котировок. (в ред. Федерального закона от 28.04.2023 N
+154-ФЗ)
 
 76\. Установить, что до 30 июня 2024 года включительно органы
 исполнительной власти субъекта Российской Федерации, государственные
@@ -18274,19 +18274,19 @@ N
 на такое предприятие возложены полномочия по поставке таких товаров,
 оказанию таких услуг, выполнению таких работ для нужд этих заказчиков.
 При осуществлении такой закупки заказчик в порядке и срок, которые
-предусмотрены [[частью
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1711)
+предусмотрены частью
+2
 статьи 93 настоящего Федерального закона, направляет в соответствующий
 контрольный орган в сфере закупок уведомление о такой закупке. Извещение
 об осуществлении такой закупки не требуется. При осуществлении такой
 закупки заказчик определяет и обосновывает цену контракта в соответствии
 с настоящим Федеральным законом и включает в контракт обоснование цены
-контракта. (в ред. Федерального закона [[от 04.08.2023 N
-444-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=453395#l11))
+контракта. (в ред. Федерального закона от 04.08.2023 N
+444-ФЗ)
 
-77\. До признания в соответствии с Федеральным законом [[от 6 апреля
+77\. До признания в соответствии с Федеральным законом от 6 апреля
 2011 года N
-63-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=455153#l0)
+63-ФЗ
 \"Об электронной подписи\" электронных подписей, созданных в
 соответствии с нормами права иностранного государства, международными
 стандартами, соответствующими признакам усиленной электронной подписи в
@@ -18294,13 +18294,13 @@ N
 зарегистрированным на территории такого иностранного государства,
 квалифицированного сертификата ключа проверки электронной подписи,
 полученного в аккредитованном удостоверяющем центре: (в ред.
-Федерального закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l58))
+Федерального закона от 25.12.2023 N
+624-ФЗ)
 
 ***Положения пункта 1 части 77 статьи 112 в части, касающейся соглашения
 об изменении условий контракта и соглашения о расторжении контракта,
-применяются с 01.01.2025 ([[пункт
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l88)
+применяются с 01.01.2025 (пункт
+4
 статьи 5 Федерального закона от 25.12.2023 N 624-ФЗ).***
 
 1\) при исполнении контракта, заключенного с таким участником закупки,
@@ -18313,49 +18313,49 @@ N
 о расторжении контракта, решения об одностороннем отказе от исполнения
 контракта, извещения об отмене такого решения без использования
 усиленных электронных подписей и единой информационной системы; (в ред.
-Федерального закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l58))
+Федерального закона от 25.12.2023 N
+624-ФЗ)
 
 2\) при подаче жалобы, отзыве жалобы, рассмотрении жалобы применяются
-положения [[части
-10]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9602)
-статьи 105 (за исключением положения [[пункта
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l9603)
-указанной части, касающегося приложения к жалобе приглашения) и [[пункта
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l7165)
+положения части
+10
+статьи 105 (за исключением положения пункта
+2
+указанной части, касающегося приложения к жалобе приглашения) и пункта
+2
 части 8 статьи 106 настоящего Федерального закона. (в ред. Федерального
-закона [[от 25.12.2023 N
-624-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=462478#l58))
+закона от 25.12.2023 N
+624-ФЗ)
 
 **Статья 113. Признание утратившими силу отдельных законодательных актов
 (положений законодательных актов) Российской Федерации**
 
 Признать утратившими силу:
 
-1\) Федеральный закон [[от 21 июля 2005 года N
-94-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=206125#l0)
+1\) Федеральный закон от 21 июля 2005 года N
+94-ФЗ
 \"О размещении заказов на поставки товаров, выполнение работ, оказание
 услуг для государственных и муниципальных нужд\" (Собрание
 законодательства Российской Федерации, 2005, N 30, ст. 3105);
 
-2\) Федеральный закон [[от 31 декабря 2005 года N
-207-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=88041#l0)
+2\) Федеральный закон от 31 декабря 2005 года N
+207-ФЗ
 \"О внесении изменений в Федеральный закон \"О размещении заказов на
 поставки товаров, выполнение работ, оказание услуг для государственных и
 муниципальных нужд\" (Собрание законодательства Российской Федерации,
 2006, N 1, ст. 18);
 
-3\) Федеральный закон [[от 27 июля 2006 года N
-142-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=95794#l0)
+3\) Федеральный закон от 27 июля 2006 года N
+142-ФЗ
 \"О внесении изменений в Федеральный закон \"О размещении заказов на
 поставки товаров, выполнение работ, оказание услуг для государственных и
 муниципальных нужд\" (Собрание законодательства Российской Федерации,
 2006, N 31, ст. 3441);
 
-4\) [[статью
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=123758#l2)
-и [[часть
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=123758#l288)
+4\) статью
+1
+и часть
+3
 статьи 4 Федерального закона от 20 апреля 2007 года N 53-ФЗ \"О внесении
 изменений в Федеральный закон \"О размещении заказов на поставки
 товаров, выполнение работ, оказание услуг для государственных и
@@ -18364,9 +18364,9 @@ N
 ст. 1929; N 31, ст. 4015);
 
 5\) статьи
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=126596#l0)
+1
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=126596#l273)
+5
 Федерального закона от 24 июля 2007 года N 218-ФЗ \"О внесении изменений
 в Федеральный закон \"О размещении заказов на поставки товаров,
 выполнение работ, оказание услуг для государственных и муниципальных
@@ -18374,18 +18374,18 @@ N
 законодательства Российской Федерации, 2007, N 31, ст. 4015);
 
 6\) статьи
-[[58]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=205977#l588)
+58
 и
-[[59]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=205977#l594)
+59
 Федерального закона от 8 ноября 2007 года N 257-ФЗ \"Об автомобильных
 дорогах и о дорожной деятельности в Российской Федерации и о внесении
 изменений в отдельные законодательные акты Российской Федерации\"
 (Собрание законодательства Российской Федерации, 2007, N 46, ст. 5553);
 
 7\) статьи
-[[115]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=206524#l475)
+115
 и
-[[126]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=206524#l513)
+126
 Федерального закона от 23 июля 2008 года N 160-ФЗ \"О внесении изменений
 в отдельные законодательные акты Российской Федерации в связи с
 совершенствованием осуществления полномочий Правительства Российской
@@ -18393,19 +18393,19 @@ N
 ст. 3616);
 
 8\) статьи
-[[4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=208353#l154)
+4
 и
-[[5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=208353#l178)
+5
 Федерального закона от 1 декабря 2008 года N 225-ФЗ \"О внесении
 изменений в Федеральный закон \"О Фонде содействия реформированию
 жилищно-коммунального хозяйства\" и отдельные законодательные акты
 Российской Федерации\" (Собрание законодательства Российской Федерации,
 2008, N 49, ст. 5723);
 
-9\) [[статью
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=135785#l2)
-и [[пункт
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=135785#l128)
+9\) статью
+1
+и пункт
+1
 статьи 4 Федерального закона от 30 декабря 2008 года N 308-ФЗ \"О
 внесении изменений в Федеральный закон \"О размещении заказов на
 поставки товаров, выполнение работ, оказание услуг для государственных и
@@ -18413,19 +18413,19 @@ N
 Федерации\" (Собрание законодательства Российской Федерации, 2009, N 1,
 ст. 16);
 
-10\) Федеральный закон [[от 28 апреля 2009 года N
-68-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=135103#l0)
+10\) Федеральный закон от 28 апреля 2009 года N
+68-ФЗ
 \"О внесении изменений в статью 55 Федерального закона \"О размещении
 заказов на поставки товаров, выполнение работ, оказание услуг для
 государственных и муниципальных нужд\" (Собрание законодательства
 Российской Федерации, 2009, N 18, ст. 2148);
 
-11\) [[статьи
-24]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=176394#l334),
-[[пункт
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=176394#l832)
-статьи 27 и [[часть
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=176394#l845)
+11\) статьи
+24,
+пункт
+1
+статьи 27 и часть
+4
 статьи 30 Федерального закона от 8 мая 2009 года N 93-ФЗ \"Об
 организации проведения встречи глав государств и правительств стран -
 участников форума \"Азиатско-тихоокеанское экономическое
@@ -18435,10 +18435,10 @@ N
 Федерации\" (Собрание законодательства Российской Федерации, 2009, N 19,
 ст. 2283);
 
-12\) [[статью
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=138071#l6)
-и [[часть
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=138071#l19)
+12\) статью
+2
+и часть
+5
 статьи 3 Федерального закона от 1 июля 2009 года N 144-ФЗ \"О внесении
 изменений в статью 20 Федерального закона \"О Фонде содействия
 реформированию жилищно-коммунального хозяйства\" и статью 65
@@ -18447,52 +18447,52 @@ N
 нужд\" (Собрание законодательства Российской Федерации, 2009, N 27, ст.
 3267);
 
-13\) [[статью
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=147964#l1)
+13\) статью
+1
 Федерального закона от 17 июля 2009 года N 155-ФЗ \"О внесении изменений
 в отдельные законодательные акты Российской Федерации\" (Собрание
 законодательства Российской Федерации, 2009, N 29, ст. 3592);
 
-14\) [[статью
-7]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=146909#l122)
+14\) статью
+7
 Федерального закона от 17 июля 2009 года N 164-ФЗ \"О внесении изменений
 в Федеральный закон \"О защите конкуренции\" и отдельные законодательные
 акты Российской Федерации\" (Собрание законодательства Российской
 Федерации, 2009, N 29, ст. 3601);
 
-15\) [[статью
-44]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=208349#l683)
+15\) статью
+44
 Федерального закона от 23 ноября 2009 года N 261-ФЗ \"Об
 энергосбережении и о повышении энергетической эффективности и о внесении
 изменений в отдельные законодательные акты Российской Федерации\"
 (Собрание законодательства Российской Федерации, 2009, N 48, ст. 5711);
 
-16\) [[статью
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=155585#l9)
+16\) статью
+3
 Федерального закона от 25 ноября 2009 года N 273-ФЗ \"О внесении
 изменений в статью 3.2 Федерального закона \"О введении в действие
 Градостроительного кодекса Российской Федерации\" и отдельные
 законодательные акты Российской Федерации\" (Собрание законодательства
 Российской Федерации, 2009, N 48, ст. 5723);
 
-17\) [[статью
-4]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=208351#l50)
+17\) статью
+4
 Федерального закона от 17 декабря 2009 года N 316-ФЗ \"О внесении
 изменений в Федеральный закон \"О Фонде содействия реформированию
 жилищно-коммунального хозяйства\" и отдельные законодательные акты
 Российской Федерации\" (Собрание законодательства Российской Федерации,
 2009, N 51, ст. 6153);
 
-18\) [[статью
-10]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=190214#l99)
+18\) статью
+10
 Федерального закона от 27 декабря 2009 года N 365-ФЗ \"О внесении
 изменений в отдельные законодательные акты Российской Федерации в связи
 с совершенствованием деятельности органов государственной власти
 субъектов Российской Федерации и органов местного самоуправления\"
 (Собрание законодательства Российской Федерации, 2009, N 52, ст. 6441);
 
-19\) [[статью
-2]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=154932#l5)
+19\) статью
+2
 Федерального закона от 5 мая 2010 года N 78-ФЗ \"О внесении изменений в
 статью 7 Федерального закона \"О внесении изменений в Федеральный закон
 \"О Фонде содействия реформированию жилищно-коммунального хозяйства\" и
@@ -18502,36 +18502,36 @@ N
 нужд\" (Собрание законодательства Российской Федерации, 2010, N 19, ст.
 2286);
 
-20\) [[статью
-21]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=206465#l445),
-[[пункт
-1]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=206465#l660)
-статьи 25 и [[статью
-29]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=206465#l692)
+20\) статью
+21,
+пункт
+1
+статьи 25 и статью
+29
 Федерального закона от 8 мая 2010 года N 83-ФЗ \"О внесении изменений в
 отдельные законодательные акты Российской Федерации в связи с
 совершенствованием правового положения государственных (муниципальных)
 учреждений\" (Собрание законодательства Российской Федерации, 2010, N
 19, ст. 2291);
 
-21\) [[статью
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=188919#l164)
+21\) статью
+5
 Федерального закона от 27 июля 2010 года N 240-ФЗ \"О внесении изменений
 в Градостроительный кодекс Российской Федерации и отдельные
 законодательные акты Российской Федерации\" (Собрание законодательства
 Российской Федерации, 2010, N 31, ст. 4209);
 
-22\) Федеральный закон [[от 3 ноября 2010 года N
-290-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=166682#l0)
+22\) Федеральный закон от 3 ноября 2010 года N
+290-ФЗ
 \"О внесении изменений в Федеральный закон \"О размещении заказов на
 поставки товаров, выполнение работ, оказание услуг для государственных и
 муниципальных нужд\" (Собрание законодательства Российской Федерации,
 2010, N 45, ст. 5755);
 
-23\) [[статью
-5]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=176204#l48)
-и [[часть
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=176204#l93)
+23\) статью
+5
+и часть
+3
 статьи 7 Федерального закона от 5 апреля 2011 года N 56-ФЗ \"О внесении
 изменений в Федеральный закон \"Об организации проведения встречи глав
 государств и правительств стран - участников форума
@@ -18542,57 +18542,57 @@ N
 акты Российской Федерации\" (Собрание законодательства Российской
 Федерации, 2011, N 15, ст. 2029);
 
-24\) Федеральный закон [[от 21 апреля 2011 года N
-79-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=177236#l0)
+24\) Федеральный закон от 21 апреля 2011 года N
+79-ФЗ
 \"О внесении изменений в Федеральный закон \"О размещении заказов на
 поставки товаров, выполнение работ, оказание услуг для государственных и
 муниципальных нужд\" (Собрание законодательства Российской Федерации,
 2011, N 17, ст. 2320);
 
-25\) [[статью
-46]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=191547#l1404)
+25\) статью
+46
 Федерального закона от 1 июля 2011 года N 169-ФЗ \"О внесении изменений
 в отдельные законодательные акты Российской Федерации\" (Собрание
 законодательства Российской Федерации, 2011, N 27, ст. 3880);
 
-26\) [[статью
-33]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=198164#l151)
+26\) статью
+33
 Федерального закона от 11 июля 2011 года N 200-ФЗ \"О внесении изменений
 в отдельные законодательные акты Российской Федерации в связи с
 принятием Федерального закона \"Об информации, информационных
 технологиях и о защите информации\" (Собрание законодательства
 Российской Федерации, 2011, N 29, ст. 4291);
 
-27\) [[статью
-7]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=190048#l16)
+27\) статью
+7
 Федерального закона от 21 ноября 2011 года N 326-ФЗ \"О внесении
 изменений в отдельные законодательные акты Российской Федерации в связи
 с принятием Федерального закона \"О бесплатной юридической помощи в
 Российской Федерации\" (Собрание законодательства Российской Федерации,
 2011, N 48, ст. 6727);
 
-28\) Федеральный закон [[от 7 декабря 2011 года N
-418-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=191059#l0)
+28\) Федеральный закон от 7 декабря 2011 года N
+418-ФЗ
 \"О внесении изменений в статьи 31.1 и 55 Федерального закона \"О
 размещении заказов на поставки товаров, выполнение работ, оказание услуг
 для государственных и муниципальных нужд\" (Собрание законодательства
 Российской Федерации, 2011, N 50, ст. 7360);
 
-29\) Федеральный закон [[от 20 июля 2012 года N
-122-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=201615#l40)
+29\) Федеральный закон от 20 июля 2012 года N
+122-ФЗ
 \"О внесении изменений в Федеральный закон \"О размещении заказов на
 поставки товаров, выполнение работ, оказание услуг для государственных и
 муниципальных нужд\" (Собрание законодательства Российской Федерации,
 2012, N 30, ст. 4173);
 
-30\) [[часть
-3]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=205031#l11)
+30\) часть
+3
 статьи 4 Федерального закона от 16 октября 2012 года N 174-ФЗ \"О Фонде
 перспективных исследований\" (Собрание законодательства Российской
 Федерации, 2012, N 43, ст. 5787);
 
-31\) [[статью
-7]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=208266#l20)
+31\) статью
+7
 Федерального закона от 30 декабря 2012 года N 318-ФЗ \"О внесении
 изменений в Градостроительный кодекс Российской Федерации и отдельные
 законодательные акты Российской Федерации\" (Собрание законодательства
@@ -18604,82 +18604,82 @@ N
 исключением положений, для которых настоящей статьей установлены иные
 сроки вступления их в силу.
 
-1.1. [[Пункт
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8975)
+1.1. Пункт
+1
 части 6, части
-[[8]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8977)
+8
 и
-[[11]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8982)
+11
 статьи 45 настоящего Федерального закона вступают в силу с 31 марта 2014
-года. (в ред. Федерального закона [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117))
+года. (в ред. Федерального закона от 28.12.2013 N
+396-ФЗ)
 
-1.2. [[Часть
-26]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l500)
-статьи 34, [[статья
-35]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l505)
+1.2. Часть
+26
+статьи 34, статья
+35
 настоящего Федерального закона вступают в силу с 1 июля 2014 года. (в
-ред. Федерального закона [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186))
+ред. Федерального закона от 04.06.2014 N
+140-ФЗ)
 
-2\. [[Пункт
-16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l88)
+2\. Пункт
+16
 части 3 статьи 4, статьи
-[[16]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6650),
-[[17]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l159),
-[[18]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l183),
-[[19]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l192),
-части 1 - 10, 12 - 15 [[статьи
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8610),
+16,
+17,
+18,
+19,
+части 1 - 10, 12 - 15 статьи
+21,
 части
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l278)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l279)
-статьи 23, пункт 1.1 [[части
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l10095)
-статьи 25, [[часть
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l352)
+2
+статьи 23, пункт 1.1 части
+2
+статьи 25, часть
+5
 статьи 26, пункты
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l533)
+1
 и
-[[2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l534)
+2
 части 4 статьи 38 настоящего Федерального закона вступают в силу с 1
-января 2016 года. (в ред. Федеральных законов [[от 04.06.2014 N
-140-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=403990#l186),
-[[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+января 2016 года. (в ред. Федеральных законов от 04.06.2014 N
+140-ФЗ,
+от 31.12.2014 N
+498-ФЗ)
 
-3\. [[Пункт
-2]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l60)
+3\. Пункт
+2
 части 1, пункты
-[[1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l71) -
-[[3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l73)
-части 3 статьи 4, [[статья
-20]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l6664),
-часть 11 [[статьи
-21]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8610),
-[[часть
-4]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l281)
-статьи 23, [[пункт
-3]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8816)
-статьи 42, [[часть
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1800)
-статьи 97, [[часть
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1831),
-[[пункт
-1]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1842)
-части 8 статьи 99, [[пункт
-12]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l1929)
-части 2 статьи 103, [[пункт
-5]{.underline}](https://normativ.kontur.ru/document?moduleId=1&documentId=467127#l8359)
+1 -
+3
+части 3 статьи 4, статья
+20,
+часть 11 статьи
+21,
+часть
+4
+статьи 23, пункт
+3
+статьи 42, часть
+1
+статьи 97, часть
+5,
+пункт
+1
+части 8 статьи 99, пункт
+12
+части 2 статьи 103, пункт
+5
 части 3 статьи 104 настоящего Федерального закона вступают в силу с 1
-января 2017 года. (в ред. Федеральных законов [[от 28.12.2013 N
-396-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=411681#l1117),
-[[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l1))
+января 2017 года. (в ред. Федеральных законов от 28.12.2013 N
+396-ФЗ,
+от 31.12.2014 N
+498-ФЗ)
 
-4\. Часть утратила силу. (в ред. Федерального закона [[от 31.12.2014 N
-498-ФЗ]{.underline}](https://normativ.kontur.ru/document?moduleid=1&documentid=404335#l30))
+4\. Часть утратила силу. (в ред. Федерального закона от 31.12.2014 N
+498-ФЗ)
 
 *Президент*
 
