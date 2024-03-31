@@ -22,6 +22,7 @@ loader = DirectoryLoader(DATA_PATH)
 
 def main_generate_data_store():
     CHROMA_PATH = "ml/all_data/chroma"
+    CHROMA_PATH_LINKS = "ml/all_data/chroma_links"
     DATA_PATH = "ml/all_data/data_md"
     embedding_function = SentenceTransformerEmbeddings(
         model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
@@ -67,24 +68,3 @@ def save_to_chroma(chunks: list[Document]):
     db = Chroma.from_documents(chunks, embedding_function, persist_directory=CHROMA_PATH)
     db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
-
-
-def convert_to_chroma_embeddings(json_file):
-    chroma_db = Chroma(persist_directory="CHROMA_PATH_LINKS")
-
-    embedding_function = SentenceTransformerEmbeddings(
-        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-    )
-
-    with open(json_file, 'r') as file:
-        data = json.load(file)
-        for line in data:
-            embedding = embedding_function.encode(line)
-            # Save the embedding with the metadata to the Chroma database
-            chroma_db.
-
-    print("All embeddings saved to Chroma database.")
-
-
-# Usage example
-convert_to_chroma_embeddings('ml/all_data/data_prev/links_parsed.json')

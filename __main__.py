@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
-import multiprocessing
 import time
 from joblib import Parallel, delayed
+import json
 from json import loads
 from ml.database_preparation import main_generate_data_store
 from ml.summary_thingies import generate_overall_summary, ask_llama, ask_yandex
 from ml.database_querying import query_from_chrome
+from fuzzywuzzy import process
+from fuzzywuzzy import fuzz
+from Levenshtein import ratio
 
 
 def remove_duplicates(input_list):
@@ -13,7 +16,32 @@ def remove_duplicates(input_list):
     return ['' if s in input_set else s for s in input_list]
 
 
-input_text = "Сколько дней составляет срок оплаты по контрактам с электронным актированием?"
+def find_most_similar_element(json_data, input_string):
+    most_similar_element = None
+    highest_similarity = 0
+    for part in json_data:
+        element = part['name']
+        saved_part = None
+        fuzzy_similarity = process.extractOne(input_string, element['name'])[1]
+        levenshtein_similarity = ratio(input_string, element['name'])
+        overall_similarity = (fuzzy_similarity + levenshtein_similarity) / 2
+        if overall_similarity > highest_similarity:
+            highest_similarity = overall_similarity
+            most_similar_element = element
+            saved_part = part
+    return saved_part
+
+
+def check_strings_for_similarity(strings):
+    json_file_path = "ml/all_data/data_prev/links_parsed.json"
+    with open(json_file_path, 'r') as json_file:
+        json_data = json.load(json_file)
+    strings_arr = strings.split('\n')
+    for string in strings_arr:
+        find_most_similar_element(json_data, string)
+
+
+input_text = "Что такое совокупный годовой объем закупок?"
 
 prompt_llama_variants = '''
 "'system_prompt': Ты юридический консультант, который хочет быть максимально точным и полезным. Предложи два варианта  перефразирования запроса пользователя на русском языке. Они не должны быть искажены по смыслу, но должны быть максимально отличными по лексикону. ПИШИ В КАНЦЕЛЯРСКОМ СТИЛЕ, опираясь на "Федеральный закон nо закупках товаров, работ, услуг отдельными видами юридических лиц. СТРОГИЙ ФОРМАТ  ОТВЕТА: ["<Вариант1>", "<Вариант2>"]
@@ -73,12 +101,14 @@ def main_parallel():
     print(f"\n\n\n---\n\n\nOverall time: {time.time() - start_time}\n\n\n---\n\n\n")
 
 
-def main_almost_linear(): # Вводные данные: строка с запросом пользователя. Вывод: строка с ответом бота
+def main_almost_linear():  # Вводные данные: строка с запросом пользователя. Вывод: строка с ответом бота
     # start_time = time.time()
     result_interpretate = ask_yandex(input_text, prompt_yandex_interpretate)
+    time.sleep(1)
     result_variants = ask_yandex(input_text, prompt_yandex_variants)
     print(result_variants)
-    result_variant_1, result_variant_2 = loads(result_variants.replace('«', '"').replace('»', '"'))
+    try: result_variant_1, result_variant_2 = loads(result_variants.replace('«', '"').replace('»', '"'))
+    except Exception as e: result_variant_1 = result_variants; result_variant_2 = ''
 
     # print(f"\n\n\n---\n\n\nVariants + interpretate time: {time.time() - start_time}\n\n\n---\n\n\n")
 
@@ -103,7 +133,8 @@ def main_almost_linear(): # Вводные данные: строка с зап�
 
     # print(f"\n\n\n---\n\n\nFinal time: {time.time() - start_time}\n\n\n---\n\n\n")
 
-    print(final_answer) # ОТВЕТ СЕРВЕРА
+
+    print(final_answer)  # ОТВЕТ СЕРВЕРА
 
     # print(f"\n\n\n---\n\n\nOverall time: {time.time() - start_time}\n\n\n---\n\n\n")
 
