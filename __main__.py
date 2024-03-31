@@ -9,11 +9,31 @@ from ml.database_querying import query_from_chrome
 from fuzzywuzzy import process
 from fuzzywuzzy import fuzz
 from Levenshtein import ratio
+from flask import Flask, request, jsonify
+import time
+
+app = Flask(__name__)
+
+input_text = ""
+
+
+@app.route("/process_text", methods=['POST'])
+def process_test():
+    print(request.json.get('input_text'))
+    input_text = request.json.get('input_text')
+
+    time.sleep(1)
+
+    answer = main_almost_linear(input_text)
+
+    return jsonify({"status": answer})
 
 
 def remove_duplicates(input_list):
     input_set = set(input_list)
     return ['' if s in input_set else s for s in input_list]
+
+
 def find_most_similar_element(json_data, input_string):
     most_similar_element = None
     highest_similarity = 0
@@ -27,6 +47,8 @@ def find_most_similar_element(json_data, input_string):
             most_similar_element = element
             saved_part = [part, overall_similarity]
     return saved_part
+
+
 def check_strings_for_similarity(strings):
     json_file_path = "ml/all_data/data_prev/links_parsed.json"
     result = []
@@ -38,7 +60,8 @@ def check_strings_for_similarity(strings):
         result.append(result_find)
     return result
 
-input_text = "Что такое совокупный годовой объем закупок?"
+
+# input_text = "Что такое совокупный годовой объем закупок?"
 
 prompt_llama_variants = '''
 "'system_prompt': Ты юридический консультант, который хочет быть максимально точным и полезным. Предложи два варианта  перефразирования запроса пользователя на русском языке. Они не должны быть искажены по смыслу, но должны быть максимально отличными по лексикону. ПИШИ В КАНЦЕЛЯРСКОМ СТИЛЕ, опираясь на "Федеральный закон nо закупках товаров, работ, услуг отдельными видами юридических лиц. СТРОГИЙ ФОРМАТ  ОТВЕТА: ["<Вариант1>", "<Вариант2>"]
@@ -98,14 +121,16 @@ def main_parallel():
     print(f"\n\n\n---\n\n\nOverall time: {time.time() - start_time}\n\n\n---\n\n\n")
 
 
-def main_almost_linear():  # Вводные данные: строка с запросом пользователя. Вывод: строка с ответом бота
+def main_almost_linear(input_text):  # Вводные данные: строка с запросом пользователя. Вывод: строка с ответом бота
     # start_time = time.time()
     result_interpretate = ask_yandex(input_text, prompt_yandex_interpretate)
     time.sleep(1)
     result_variants = ask_yandex(input_text, prompt_yandex_variants)
     # print(result_variants)
-    try: result_variant_1, result_variant_2 = loads(result_variants.replace('«', '"').replace('»', '"'))
-    except Exception as e: result_variant_1 = result_variants; result_variant_2 = ''
+    try:
+        result_variant_1, result_variant_2 = loads(result_variants.replace('«', '"').replace('»', '"'))
+    except Exception as e:
+        result_variant_1 = result_variants; result_variant_2 = ''
 
     # print(f"\n\n\n---\n\n\nVariants + interpretate time: {time.time() - start_time}\n\n\n---\n\n\n")
 
@@ -137,15 +162,13 @@ def main_almost_linear():  # Вводные данные: строка с зап
         if arr is not None:
             final_answer += f"{arr[0]['name']} — ({arr[0]['url']})\n"
 
-
-
     print(final_answer)  # ОТВЕТ СЕРВЕРА
 
-    # print(check_strings_for_similarity(legals_context))
-    # print(f"\n\n\n---\n\n\nOverall time: {time.time() - start_time}\n\n\n---\n\n\n")
+    return final_answer
 
 
 if __name__ == "__main__":
-    main_generate_data_store()
+    app.run(port=5000)
+    # main_generate_data_store()
     # main_parallel()
     # main_almost_linear()
