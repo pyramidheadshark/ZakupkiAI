@@ -16,7 +16,8 @@ def parse_page(url, headers):
 
         data = {
             'question': question,
-            'text': text
+            'text': text,
+            'link': url
         }
         return data
 

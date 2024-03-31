@@ -146,6 +146,6 @@ def main_almost_linear():  # Вводные данные: строка с зап
 
 
 if __name__ == "__main__":
-    # main_generate_data_store()
+    main_generate_data_store()
     # main_parallel()
-    main_almost_linear()
+    # main_almost_linear()
