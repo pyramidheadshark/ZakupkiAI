@@ -9,8 +9,18 @@ function MsgInfo({msg}: Props) {
   return (
     <span className='MsgInfo'>
       <div className="text">
-        {msg.msg}
-      </div>
+        {msg.msg.split(/\b(https?:\/\/\S+)/gi).map((part, index) => {
+          if (part.match(/\bhttps?:\/\/\S+/gi)) {
+            return (
+              <a href={part} key={index} target="_blank" rel="noopener noreferrer">
+                {part}
+              </a>
+            );
+          }
+          console.log(part)
+          return part;
+        })}
+      </div>  
       <div className='status'>
         <div className="time">
           {msg.time}
