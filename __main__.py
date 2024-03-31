@@ -14,32 +14,29 @@ from Levenshtein import ratio
 def remove_duplicates(input_list):
     input_set = set(input_list)
     return ['' if s in input_set else s for s in input_list]
-
-
 def find_most_similar_element(json_data, input_string):
     most_similar_element = None
     highest_similarity = 0
+    saved_part = None
     for part in json_data:
         element = part['name']
-        saved_part = None
-        fuzzy_similarity = process.extractOne(input_string, element['name'])[1]
-        levenshtein_similarity = ratio(input_string, element['name'])
-        overall_similarity = (fuzzy_similarity + levenshtein_similarity) / 2
+        levenshtein_similarity = ratio(input_string, element)
+        overall_similarity = levenshtein_similarity / 2
         if overall_similarity > highest_similarity:
             highest_similarity = overall_similarity
             most_similar_element = element
-            saved_part = part
+            saved_part = [part, overall_similarity]
     return saved_part
-
-
 def check_strings_for_similarity(strings):
     json_file_path = "ml/all_data/data_prev/links_parsed.json"
-    with open(json_file_path, 'r') as json_file:
+    result = []
+    with open(json_file_path, 'r', encoding='utf-8') as json_file:
         json_data = json.load(json_file)
     strings_arr = strings.split('\n')
     for string in strings_arr:
-        find_most_similar_element(json_data, string)
-
+        result_find = find_most_similar_element(json_data, string)
+        result.append(result_find)
+    return result
 
 input_text = "Что такое совокупный годовой объем закупок?"
 
@@ -106,7 +103,7 @@ def main_almost_linear():  # Вводные данные: строка с зап
     result_interpretate = ask_yandex(input_text, prompt_yandex_interpretate)
     time.sleep(1)
     result_variants = ask_yandex(input_text, prompt_yandex_variants)
-    print(result_variants)
+    # print(result_variants)
     try: result_variant_1, result_variant_2 = loads(result_variants.replace('«', '"').replace('»', '"'))
     except Exception as e: result_variant_1 = result_variants; result_variant_2 = ''
 
@@ -125,17 +122,26 @@ def main_almost_linear():  # Вводные данные: строка с зап
     # print(f"\n\n\n---\n\n\nPre-final time: {time.time() - start_time}\n\n\n---\n\n\n")
 
     legals_context = ask_yandex(yagpt_answer, prompt_yandex_legals)
-
+    # print(legals_context)
     # print(f"\n\n\n---\n\n\nLegals time: {time.time() - start_time}\n\n\n---\n\n\n")
 
-    legals_context = '\nПРАВОВЫЕ АКТЫ: ' + legals_context
+    # legals_context = '\nПРАВОВЫЕ АКТЫ: ' + legals_context
     final_answer = ask_yandex(yagpt_answer + legals_context, prompt_yandex_final)
 
     # print(f"\n\n\n---\n\n\nFinal time: {time.time() - start_time}\n\n\n---\n\n\n")
 
+    final_answer += f'\n\nИспользованные источники:\n'
+
+    legal_links = ''
+    for arr in check_strings_for_similarity(legals_context):
+        if arr is not None:
+            final_answer += f"{arr[0]['name']} — ({arr[0]['url']})\n"
+
+
 
     print(final_answer)  # ОТВЕТ СЕРВЕРА
 
+    # print(check_strings_for_similarity(legals_context))
     # print(f"\n\n\n---\n\n\nOverall time: {time.time() - start_time}\n\n\n---\n\n\n")
 
 
