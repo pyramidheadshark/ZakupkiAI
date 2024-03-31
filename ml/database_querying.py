@@ -16,6 +16,7 @@ def query_from_chrome(query_text: str):
     if len(results) > 1:
         second_most_relevant = results[1][0].page_content
     else: second_most_relevant = ''
-    answer = most_relevant + '\n\n' + second_most_relevant
+    answer = most_relevant
+              #+ '\n\n' + second_most_relevant)
 
     return answer
