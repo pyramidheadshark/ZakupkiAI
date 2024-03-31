@@ -10,8 +10,8 @@ function Messages() {
   return (
     <div id="Messages">
         {msgs.map((msg, i) => msg.who === "me" 
-            ? <MyMessage key={i} msg={msg}/> 
-            : <BotMessage key={i} msg={msg}/>
+            ? <MyMessage key={msg.who+msg.time+i} msg={msg}/> 
+            : <BotMessage key={msg.who+msg.time+i} msg={msg}/>
         )}
     </div>
   )

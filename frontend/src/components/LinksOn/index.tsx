@@ -5,24 +5,16 @@ import More from './More'
 function LinksOn() {
   const links = [
     {
-      name: "Как работает КТРУ",
-      href: "https://fz.ru/"
-    },
-    {
-      name: "Как чат-бот  связан с закупками",
-      href: "https://fz.ru/"
-    },
-    {
-      name: "Как работает КТРУ",
-      href: "https://fz.ru/"
-    },
-    {
-      name: "Что такое федеральные закупки",
-      href: "https://fz.ru/"
+      name: "Как работает КТРУ"
     },
     {
       name: "Как чат-бот связан с закупками",
-      href: "https://fz.ru/"
+    },
+    {
+      name: "Что такое федеральные закупки"
+    },
+    {
+      name: "Как чат-бот связан с закупками"
     }
   ]
   return (
@@ -33,7 +25,9 @@ function LinksOn() {
               <div>44-ФЗ</div>
               <div>223-ФЗ</div>
             </div>
-            {links.map((link, i) => <Link key={i} href={link.href}>{link.name}</Link>)}     
+            {links.map((link, i) => 
+                <Link key={i}>{link.name}</Link>)
+            }     
         </div>
         <More />
     </div>
