@@ -1,6 +1,7 @@
 beautifulsoup4==4.12.3
 langchain==0.1.13
 langchain-community==0.0.29
+openai==1.14.3
 Requests==2.31.0
 scikit-learn==1.4.1.post1
 toml==0.10.2
