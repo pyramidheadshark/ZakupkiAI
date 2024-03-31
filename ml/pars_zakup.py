@@ -4,6 +4,7 @@ import json
 from urllib.parse import urljoin
 import time
 
+
 def parse_page(url, headers):
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -27,7 +28,8 @@ def parse_page(url, headers):
 def crawl_website(start_url, headers):
     page_number = 1
     while True:
-        url = f"{start_url}?&page={page_number}&pageSize=10"
+        url = "{start_url}?&page=" + str(page_number) + "&pageSize=10"
+        print(url)
         try:
             response = requests.get(url, headers=headers, timeout=10)  # Add a timeout of 10 seconds
         except requests.Timeout:
@@ -47,11 +49,14 @@ def crawl_website(start_url, headers):
                     f.write('\n')
                     time.sleep(0.01)
 
-        next_button = soup.find('a', class_='paginator-button-next')
+        next_button = soup.find('a', class_="paginator-button paginator-button-next")
+        print(next_button)
         if next_button:
             page_number += 1
         else:
             break
+
+
 
 if __name__ == '__main__':
     start_url = 'https://zakupki.gov.ru/epz/main/public/qa/view.html?&&page=1&pageSize=50'
@@ -63,3 +68,4 @@ if __name__ == '__main__':
         'Pragma': 'no-cache',
     }
     crawl_website(start_url, headers)
+    print('Parsing completed.')
