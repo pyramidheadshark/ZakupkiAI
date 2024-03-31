@@ -24,7 +24,7 @@ function InputMessage() {
         }, 
         federalLaw: federalLaw.value
       }))
-     dispatch(fetchPush(federalLaw.value));
+     dispatch(fetchPush({text: inputText, federalLaw: federalLaw.value}));
   }
 
   return (

@@ -3,13 +3,13 @@ import store from "..";
 import { Msg } from "../../Interfaces/Msg";
 import { textPush } from "../../http/API";
 
-export const fetchPush = createAsyncThunk<string, string>(
-  "chat/fetchPush",
-  async function (federalLaw: string) {
-    const response = await textPush("", federalLaw);
-    return response;
-  }
-);
+export const fetchPush = createAsyncThunk<
+  { text: string; federalLaw: string },
+  { text: string; federalLaw: string }
+>("chat/fetchPush", async function (arg: { text: string; federalLaw: string }) {
+  const response = await textPush(arg.text, arg.federalLaw);
+  return { text: response, federalLaw: arg.federalLaw };
+});
 // type Gets = Msg && "";
 const inputsStateSlice = createSlice({
   name: "inputsStateSlice",
@@ -36,7 +36,7 @@ const inputsStateSlice = createSlice({
 
       state.msgs.push({
         who: "bot",
-        msg: action.payload,
+        msg: action.payload.text,
         time,
         status: "read",
       });
