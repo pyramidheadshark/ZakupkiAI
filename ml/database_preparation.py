@@ -4,13 +4,15 @@ from langchain.schema import Document
 from langchain.vectorstores.chroma import Chroma
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 import os
+import json
 import shutil
 
-# CHROMA_PATH = "ml/all_data/chroma"
-# DATA_PATH = "ml/all_data/data_md"
+CHROMA_PATH = "ml/all_data/chroma"
+CHROMA_PATH_LINKS = "ml/all_data/chroma_links"
+DATA_PATH = "ml/all_data/data_md"
 
-CHROMA_PATH = "all_data/chroma"
-DATA_PATH = "all_data/data_md"
+# CHROMA_PATH = "all_data/chroma" # not for main
+# DATA_PATH = "all_data/data_md" # not for main
 
 embedding_function = SentenceTransformerEmbeddings(
     model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
@@ -18,8 +20,16 @@ embedding_function = SentenceTransformerEmbeddings(
 loader = DirectoryLoader(DATA_PATH)
 
 
-def main():
+def main_generate_data_store():
+    CHROMA_PATH = "ml/all_data/chroma"
+    CHROMA_PATH_LINKS = "ml/all_data/chroma_links"
+    DATA_PATH = "ml/all_data/data_md"
+    embedding_function = SentenceTransformerEmbeddings(
+        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    )
+    loader = DirectoryLoader(DATA_PATH)
     generate_data_store()
+    print("Done")
 
 
 def generate_data_store():
@@ -36,8 +46,8 @@ def load_documents():
 
 def split_text(documents: list[Document]):
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=500,
+        chunk_size=712,
+        chunk_overlap=356,
         length_function=len,
         add_start_index=True,
     )
@@ -58,7 +68,3 @@ def save_to_chroma(chunks: list[Document]):
     db = Chroma.from_documents(chunks, embedding_function, persist_directory=CHROMA_PATH)
     db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
-
-
-if __name__ == "__main__":
-    main()

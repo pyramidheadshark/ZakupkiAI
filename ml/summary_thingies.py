@@ -1,8 +1,34 @@
 import re
 import toml
 import time
+import asyncio
+import json
+import requests
 import concurrent.futures
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoModelForCausalLM
+
+from openai import OpenAI
+
+
+def ask_llama(input_text,
+              prompt="'system_prompt': ОТВЕЧАЙ ТОЛЬКО НА РУССКОМ ЯЗЫКЕ. Представь, что ты юридический консультант, который не говорит лишней информации и точно опирается на правовую документацию. ПОЛЬЗОВАТЕЛЬ ХОЧЕТ ВИДЕТЬ, НА КАКИЕ СТАТЬИ ПРАВОВЫХ АКТОВ ТЫ ОПИРАЕШЬСЯ. НЕ ПОЗВОЛЯЙ СЕБЕ ДОБАВЛЯТЬ ЛИШНЮЮ ИНФОРМАЦИЮ.",
+              doc_context=""):
+    client = OpenAI(
+        base_url="https://integrate.api.nvidia.com/v1",
+        api_key="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"
+    )
+
+    completion = client.chat.completions.create(
+        model="meta/llama2-70b",
+        messages=[{"role": "user",
+                   "content": prompt + '\nЗапрос пользователя: ' + input_text + '\nКонтекст документа: ' + doc_context}],
+        temperature=0.25,
+        top_p=1,
+        max_tokens=1024,
+        stream=False
+    )
+
+    return completion.choices[0].message.content
 
 
 def read_toml_base(file_path):
@@ -52,7 +78,8 @@ def generate_part_summary(input_text, prompt, max_new_tokens=300, temperature=0.
     model = AutoModelForCausalLM.from_pretrained(model_name)
 
     input_ids = \
-        tokenizer([WHITESPACE_HANDLER(input_text), WHITESPACE_HANDLER(prompt)], return_tensors="pt", padding=True)[
+        tokenizer([WHITESPACE_HANDLER("Контекст:" + input_text), WHITESPACE_HANDLER("Промпт:" + prompt)],
+                  return_tensors="pt", padding=True)[
             "input_ids"]
 
     output_ids = model.generate(
@@ -71,31 +98,35 @@ def generate_part_summary(input_text, prompt, max_new_tokens=300, temperature=0.
     return summary
 
 
-def parallel_executions(input_text, prompt):
-    with concurrent.futures.ProcessPoolExecutor() as executor:
-        overall_summary_future = executor.submit(generate_overall_summary, input_text)
-    part_summary_future = executor.submit(generate_part_summary, input_text, prompt)
+def ask_yandex(input_text='Тестовый запрос', prompt='Это тестовый запрос'):
+    folder_id = 'b1ghp7ek9a8v0c3e2qs0'
+    gpt_api_key = 'AQVNyVa4CuEs9kZxUHwzyL8fUS_SihhIDni1kZti'
+    yandex_gpt_api_url = 'https://llm.api.cloud.yandex.net/foundationModels/v1/completion'
 
-    summary_part = part_summary_future.result()
-    summary_overall = overall_summary_future.result()
-
-    print(summary_part, summary_overall, sep="\n\n\n")
-
-
-# Usage separately
-"""
-input_text = "Your input text here"
-prompt = "Your prompt here"
-summary_part = generate_part_summary(input_text, prompt, max_new_tokens=200, temperature=0.7, top_p=0.8,
-                                     repetition_penalty=1.5, do_sample=False, top_k=100, num_beams=4)
-summary_overall = generate_overall_summary(input_text)
-print(summary_part, summary_overall, sep="\n\n\n")
-"""
-
-# Usage in parallel
-input_text = "Your input text here"
-prompt = "Your prompt here"
-start_time = time.time()
-parallel_executions(input_text, prompt)
-elapsed_time = time.time() - start_time
-print(f'\nElapsed time: {elapsed_time} seconds')
+    messages = [
+        {
+            "role": "system",
+            "text": prompt
+        },
+        {
+            "role": "user",
+            "text": input_text
+        }
+    ]
+    response = requests.post(
+        yandex_gpt_api_url,
+        headers={
+            "Authorization": f"Api-Key {gpt_api_key}",
+            "x-folder-id": folder_id
+        },
+        json={
+            "modelUri": f"gpt://{folder_id}/yandexgpt/latest",
+            "completionOptions": {
+                "stream": False,
+                "temperature": 0.6
+            },
+            "messages": messages
+        },
+    )
+    response = response.json()
+    return response['result']['alternatives'][0]['message']['text']
