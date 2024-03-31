@@ -4,9 +4,11 @@ from langchain.schema import Document
 from langchain.vectorstores.chroma import Chroma
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 import os
+import json
 import shutil
 
 CHROMA_PATH = "ml/all_data/chroma"
+CHROMA_PATH_LINKS = "ml/all_data/chroma_links"
 DATA_PATH = "ml/all_data/data_md"
 
 # CHROMA_PATH = "all_data/chroma" # not for main
@@ -67,5 +69,22 @@ def save_to_chroma(chunks: list[Document]):
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
 
 
-if __name__ == "__main__":
-    main()
+def convert_to_chroma_embeddings(json_file):
+    chroma_db = Chroma(persist_directory="CHROMA_PATH_LINKS")
+
+    embedding_function = SentenceTransformerEmbeddings(
+        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    )
+
+    with open(json_file, 'r') as file:
+        data = json.load(file)
+        for line in data:
+            embedding = embedding_function.encode(line)
+            # Save the embedding with the metadata to the Chroma database
+            chroma_db.
+
+    print("All embeddings saved to Chroma database.")
+
+
+# Usage example
+convert_to_chroma_embeddings('ml/all_data/data_prev/links_parsed.json')

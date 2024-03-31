@@ -130,11 +130,3 @@ def ask_yandex(input_text='Тестовый запрос', prompt='Это тес
     )
     response = response.json()
     return response['result']['alternatives'][0]['message']['text']
-
-'''
-a = ask_yandex()
-b = ask_yandex()
-c = ask_yandex()
-
-print(a, b, c)
-'''

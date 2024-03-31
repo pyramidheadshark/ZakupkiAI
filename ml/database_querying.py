@@ -1,7 +1,7 @@
 from langchain_community.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain_community.vectorstores.chroma import Chroma
 
-from ml.database_preparation import CHROMA_PATH
+from ml.database_preparation import CHROMA_PATH, CHROMA_PATH_LINKS
 
 
 def query_from_chrome(query_text: str):
