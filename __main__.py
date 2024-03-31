@@ -160,7 +160,7 @@ def main_almost_linear(input_text):  # Вводные данные: строка
     legal_links = ''
     for arr in check_strings_for_similarity(legals_context):
         if arr is not None:
-            final_answer += f"{arr[0]['name']} — ({arr[0]['url']})\n"
+            final_answer += f"{arr[0]['name']} — ({arr[0]['url']} )\n"
 
     print(final_answer)  # ОТВЕТ СЕРВЕРА
 
