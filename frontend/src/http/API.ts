@@ -1,6 +1,9 @@
 import { $host } from ".";
 
-export const textPush = async (text: string): Promise<string> => {
-  const response = await $host.post("path/to/", { text });
+export const textPush = async (
+  text: string,
+  federalLaw: string
+): Promise<string> => {
+  const response = await $host.post("/bot", { text, federalLaw });
   return response.data;
 };

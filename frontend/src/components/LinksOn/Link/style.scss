@@ -1,17 +1,18 @@
 .Link{
-    color: white;
-
     cursor: pointer;
     background-color: #ffffff2c;
     border-radius: 8px;
+
     margin: 10px;
     padding: 20px;
 
     width: 100%;
 
-    &:hover{
-        color: white;
-    }
+    color: white;
+
+    // &:hover{
+    //     color: white;
+    // }
 
     text-decoration: none;
 }
