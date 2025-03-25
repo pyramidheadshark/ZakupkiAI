@@ -8,10 +8,10 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-python = "3.11.*"
+python = "3.9.*"
 
 [pypi-dependencies]
-numpy = ">=2.2.4, <3"
+numpy = ">=2.0.2, <3"
 pandas = ">=2.2.3, <3"
 seaborn = ">=0.13.2, <0.14"
 scikit-learn = ">=1.6.1, <2"
@@ -19,3 +19,14 @@ torch = ">=2.6.0, <3"
 nltk = ">=3.9.1, <4"
 optuna = ">=4.2.1, <5"
 optuna-dashboard = ">=0.17.0, <0.18"
+langchain = ">=0.3.21, <0.4"
+langchain-community = ">=0.3.20, <0.4"
+streamlit = ">=1.44.0, <2"
+duckduckgo-search = ">=7.5.4, <8"
+beautifulsoup4 = ">=4.13.3, <5"
+html2text = ">=2024.2.26, <2025"
+faiss-cpu = ">=1.10.0, <2"
+sentence-transformers = ">=3.4.1, <4"
+dotenv = ">=0.9.9, <0.10"
+tiktoken = ">=0.9.0, <0.10"
+lxml = ">=5.3.1, <6"

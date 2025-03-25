@@ -228,3 +228,7 @@ $RECYCLE.BIN/
 # pixi environments
 .pixi
 *.egg-info
+
+# Models
+!/src/models/gguf_models/*
+!/src/models/gguf_models/.gitkeep
