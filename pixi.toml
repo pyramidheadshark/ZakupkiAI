@@ -1,0 +1,21 @@
+[project]
+authors = ["pyramidheadshark <pyramidheadshark@gmail.com>"]
+channels = ["conda-forge"]
+name = "ZakupkiAI"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+
+[pypi-dependencies]
+numpy = ">=2.2.4, <3"
+pandas = ">=2.2.3, <3"
+seaborn = ">=0.13.2, <0.14"
+scikit-learn = ">=1.6.1, <2"
+torch = ">=2.6.0, <3"
+nltk = ">=3.9.1, <4"
+optuna = ">=4.2.1, <5"
+optuna-dashboard = ">=0.17.0, <0.18"
