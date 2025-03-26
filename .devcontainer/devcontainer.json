@@ -1,0 +1,31 @@
+{
+    "name": "ZakupkiAI Dev (Pixi)",
+
+    "dockerComposeFile": "docker-compose.yml",
+  
+    "service": "app",
+  
+    "workspaceFolder": "/workspace",
+  
+    "forwardPorts": [8501], // Порт Streamlit
+  
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-python.python",
+          "ms-python.vscode-pylance",
+          "ms-python.debugpy",
+          "ms-toolsai.jupyter",
+          "charliermarsh.ruff",
+          "njpwerner.autodocstring"
+        ]
+      }
+    },
+  
+    "remoteUser": "vscode",
+  
+    // Если вы используете GPU, раскомментируйте эту строку
+    "runArgs": ["--gpus=all"]
+  
+    // "postCreateCommand": "mkdir -p models/gguf_models && cd models/gguf_models && curl -L -O <URL_к_модели_GGUF> && cd ../.."
+  }
