@@ -3,11 +3,10 @@ version: '3.8'
 services:
   app:
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
     volumes:
       - ..:/workspace:cached
-      - pixi_cache:/home/vscode/.pixi/envs
     ports:
       - "8501:8501"
 
@@ -25,6 +24,3 @@ services:
 
     stdin_open: true
     tty: true
-
-  volumes:
-    pixi_cache:

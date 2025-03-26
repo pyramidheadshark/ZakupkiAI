@@ -2,10 +2,11 @@
 authors = ["pyramidheadshark <pyramidheadshark@gmail.com>"]
 channels = ["conda-forge"]
 name = "ZakupkiAI"
-platforms = ["win-64"]
+platforms = ["linux-64"]
 version = "0.1.0"
 
 [tasks]
+start = "streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0"
 
 [dependencies]
 python = "3.9.*"

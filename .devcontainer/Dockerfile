@@ -20,11 +20,9 @@ ENV PATH="/root/.pixi/bin:${PATH}"
 
 WORKDIR /workspace
 
-COPY ../pixi.toml ./pixi.toml
+COPY pixi.toml ./pixi.toml
 
-COPY ../pixi.lock* ./pixi.lock
-
-RUN pixi install --frozen || pixi install
+RUN pixi install
 
 ARG USERNAME=vscode
 ARG USER_UID=1000
@@ -44,9 +42,10 @@ ENV PATH="/home/${USERNAME}/.pixi/bin:${PATH}"
 
 USER $USERNAME
 
-COPY --chown=$USERNAME:$USER_GID .. /workspace
+# COPY --chown=$USERNAME:$USER_GID .. /workspace
 
 EXPOSE 8501
 
 # Используем задачу 'start' из pixi.toml
-CMD ["pixi", "run", "start"]
+# CMD ["pixi", "run", "start"]
+CMD ["sleep", "infinity"]
