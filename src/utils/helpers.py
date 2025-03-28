@@ -1,28 +1,67 @@
-from typing import List
 import logging
+import sys
+from typing import List, Optional
+from urllib.parse import urlparse
 
-logging.basicConfig(level=logging.INFO)
+
 logger = logging.getLogger(__name__)
 
+
 def load_verified_sources(filepath: str) -> List[str]:
-    """Загружает список доверенных доменов/URL из файла."""
-    domains = []
+    """
+    Загружает список доверенных доменов из файла.
+    Извлекает только доменное имя (например, 'consultant.ru') и убирает 'www.'.
+    """
+    domains: List[str] = []
+    logger.debug(f"HELPERS: Загрузка доверенных источников из: {filepath}")
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
+
             sources = [line.strip() for line in f if line.strip() and not line.startswith('#')]
 
         for source in sources:
             try:
-                domain = source.split('//')[-1].split('/')[0].split(':')[0].lower()
-                if domain and domain not in domains:
+
+                parsed_uri = urlparse(source)
+                domain = parsed_uri.netloc.split(':')[0].lower()
+
+
+                if not domain and '.' in source and '/' not in source:
+                    domain = source.lower().split(':')[0]
+
+
+                if domain.startswith('www.'):
+                    domain = domain[4:]
+
+
+                if domain and '.' in domain and domain not in domains:
                     domains.append(domain)
+                    logger.debug(f"HELPERS: Добавлен доверенный домен: {domain}")
+
             except Exception:
-                logger.warning(f"Не удалось извлечь домен из источника: {source}", exc_info=False)
-        logger.info(f"Загружено {len(domains)} доверенных доменов из {filepath}")
+                logger.warning(f"HELPERS: Не удалось извлечь домен из источника: {source}", exc_info=False)
+
+        logger.info(f"HELPERS: Загружено {len(domains)} уникальных доверенных доменов из {filepath}")
+        if not domains:
+            logger.warning("HELPERS: Список доверенных доменов пуст!")
         return domains
     except FileNotFoundError:
-        logger.warning(f"Файл доверенных источников не найден: {filepath}. Поиск НЕ будет ограничен.")
+        logger.error(f"HELPERS: Файл доверенных источников не найден: {filepath}")
         return []
     except Exception as e:
-        logger.error(f"Ошибка при загрузке доверенных источников из {filepath}", exc_info=True)
+        logger.error(f"HELPERS: Ошибка при загрузке доверенных источников из {filepath}", exc_info=True)
         return []
+
+def get_domain_from_url(url: str) -> Optional[str]:
+    """Извлекает доменное имя из URL и убирает 'www.'."""
+    if not url or not isinstance(url, str):
+        return None
+    try:
+        domain = urlparse(url).netloc.split(':')[0].lower()
+        if domain.startswith('www.'):
+            domain = domain[4:]
+
+        return domain if '.' in domain else None
+    except Exception as e:
+        logger.warning(f"HELPERS: Не удалось извлечь домен из URL '{url}': {e}")
+        return None
