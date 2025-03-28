@@ -230,5 +230,5 @@ $RECYCLE.BIN/
 *.egg-info
 
 # Models
-/src/models/gguf_models/*
-!/src/models/gguf_models/.gitkeep
+/models/gguf_models/*
+!/models/gguf_models/.gitkeep
